@@ -135,6 +135,11 @@ function createDropdown(arrayOfChecklists){
     }
 }
 
+/**
+* This method takes an array of strings and creates a list
+* based on these. This is used to populate the webpage with a chosen checklist
+@param {Array} arrayOfItems - takes an array of strings as input.
+*/
 function createListItem(arrayOfItems){
   console.log("Creating List items");
   document.getElementById("recordsList").innerHTML="";
@@ -166,6 +171,11 @@ function createListItem(arrayOfItems){
 console.log("Done creating List items");
 }
 
+/**
+* This function add OnClick events to checkboxes and list fields.
+This ensures that data is sent to the server upon each click.
+@param {Integer} i - the number of the current list item and checkbox to get OnClick event listeners.
+*/
 function setListItemOnClicks(i){
   document.getElementById('checkbox_' + i).onclick = function(event){
     addEvent(event);
