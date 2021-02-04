@@ -136,6 +136,11 @@ function createDropdown(arrayOfChecklists){
     }
 }
 
+/**
+* This method takes an array of strings and creates a list
+* based on these. This is used to populate the webpage with a chosen checklist
+@param {Array} arrayOfItems - takes an array of strings as input.
+*/
 function createListItem(arrayOfItems){
   console.log("Creating List items");
   document.getElementById("recordsList").innerHTML="";
@@ -167,6 +172,11 @@ function createListItem(arrayOfItems){
 console.log("Done creating List items");
 }
 
+/**
+* This function add OnClick events to checkboxes and list fields.
+This ensures that data is sent to the server upon each click.
+@param {Integer} i - the number of the current list item and checkbox to get OnClick event listeners.
+*/
 function setListItemOnClicks(i){
   document.getElementById('checkbox_' + i).onclick = function(event){
     addEvent(event);
@@ -184,6 +194,10 @@ function setListItemOnClicks(i){
 }
 
 
+/**
+* This function gets the current time, creates a string of date and time of day, and returns that string.
+@returns {String} - Returns a string containing the current time in the format YYYY-MM-DD_HH-MM-SS.
+*/
 function currentTime(){
   var today = new Date();
   var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
@@ -193,6 +207,11 @@ function currentTime(){
   return dateTime;
 }
 
+/**
+* This function takes a generated event and adds it to the events-array.
+* If this array is empty, a header is first created, containing the current time, current user and current checklist.
+@param {String} event - takes an event as input. This event contains the item the user has clicked.
+*/
 function addEvent(event){
   if(events.length == 0){
     events.push([currentTime(), "__" + currentUser, "__" + currentChecklist]);
@@ -207,7 +226,7 @@ function addEvent(event){
 }
 
 /**
-* This method sends a POST request to the server, with attached event data.
+* This function sends a POST request to the server, with attached event data.
 @param {Array} eventData - takes an array of event data as input
 @returns {Integer} - returns the server response. 200 means OK, everything worked out.
 */
@@ -216,15 +235,6 @@ async function saveChoices(eventData){
     //console.log(response);
     console.log("data sent");
     return response.status;
-}
-
-function createCSV(data){
-  let csvContent = "data:text/csv;charset=utf-8,";
-  data.forEach(function(rowArray) {
-      let row = rowArray.join(",");
-      csvContent += row + "\r\n";
-  });
-  return csvContent;
 }
 
 module.exports = {splitSections, splitItems, saveChoices};

@@ -2,7 +2,8 @@
     "source": {
         "includePattern": ".+\\.js(doc|x)?$",   // Only process file ending in .js, .jsdoc or .jsx
         "include": ["."],                       // Check all folders.
-        "exclude": ["node_modules"]             // Be gone, node_modules.
+        "exclude": ["node_modules", "express/bundle.js"]// Be gone, node_modules.
+
     },
     "recurseDepth": 2,                         // Only go 10 levels deep.
     "opts": {

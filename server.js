@@ -7,6 +7,9 @@ const express = require('express');
 const path = require('path');
 const formidable = require('formidable');
 var fs = require('fs');
+var ip = require("ip");
+
+
 
 const options = {
   key: fs.readFileSync('key.pem'),
@@ -56,12 +59,17 @@ app.use('/', function(req, res){
 const server = https.createServer(options, app);
 const port = 8443;
 server.listen(port, '0.0.0.0', function() {
-    console.debug('Listening to port:  ' + port);
+    console.debug ( '\nYour website can be found at: https://' + ip.address() + ':' + port);
+    console.debug('\nListening to port:  ' + port);
 });
 
 //console.debug('Server listening on port' + port);
 
-
+/**
+* This function takes an array of data and generates a string representation of a csv file.
+@param {Array} data - takes an array of data for generating the csv string.
+@returns {String} - returns a csvContent string.
+*/
 function createCSV(data){
   data.shift(); //Remove first line as this is the title
   let csvContent = "Time,User,Checklist,Event, checked\n"
@@ -70,6 +78,10 @@ function createCSV(data){
   return csvContent;
 }
 
+/**
+* This function gets the current time, creates a string of date and time of day, and returns that string.
+@returns {String} - Returns a string containing the current time in the format YYYY-MM-DD_HH-MM-SS.
+*/
 function currentTime(){
   var today = new Date();
   var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
