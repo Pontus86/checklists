@@ -27,7 +27,7 @@
     <section>
         <article>
             <pre class="prettyprint source linenums"><code>/**
-*@module index.js
+*@module index
 */
 
 let checklists = "checklists/";
@@ -38,11 +38,12 @@ var events = [];
 
 
 /**
-* Summary. reads index file and creates navigation-dropdown on page load.
-* Description. This code gets executed when the document content is loaded.
+* This code gets executed when the document content is loaded.
+* Calls the functions readTextFile() and readIndex() to load the dropdown menu and the first checklist.
 */
 function run(){
-    readTextFile(checklists + "adrenalin.txt");
+    createListFromTextFile(checklists + "adrenalin.txt");
+
     document.getElementById("title").innerText = currentChecklist;
     document.getElementById("currentUser").innerHTML = "RS-ID: " + currentUser;
     readIndex(checklists + index);
@@ -62,7 +63,7 @@ document.addEventListener('DOMContentLoaded', run);
 * createListItems() is then invoked to create DOM elements for each section.
 @param {String} file - takes a file-path as input.
 */
-function readTextFile(file)
+function createListFromTextFile(file)
 {
     var rawFile = new XMLHttpRequest();
     rawFile.onreadystatechange = function ()
@@ -72,14 +73,7 @@ function readTextFile(file)
             if(rawFile.status === 200 || rawFile.status == 0)
             {
                 var allText = rawFile.responseText;
-                //alert(allText);
-                var stringText = allText.toString();
-                //console.log(rawFile);
-                //console.log(stringText.type);
-                //document.getElementById('test').innerHTML = stringText;
-                var sections = splitSections(allText);
-
-                createListItem(sections);
+                createListItem(splitSections(allText));
             }
         }
     }
@@ -142,16 +136,6 @@ function replaceNewLine(input){
 }
 
 /**
-* This method splits an input-string based on a divider parameter.
-@param {String} input - takes a string as input.
-@param {String} divider - The divider string to split the input string by.
-@returns {String} - Returns an array of strings after the split operation.
-*/
-function splitRows(input, divider){
-  return input.split(divider);
-}
-
-/**
 * This method takes an array of strings and creates a dropdown menu containing links
 * based on these. This is used to create links to the different checklists.
 @param {Array} arrayOfChecklists - takes an array of strings as input.
@@ -174,11 +158,16 @@ function createDropdown(arrayOfChecklists){
         document.getElementById("itemText").innerHTML = "";
         document.getElementById("cardTitle").innerHTML = "";
         currentChecklist = event.target.text;
-        readTextFile(checklists + event.target.text + ".txt");
+        createListFromTextFile(checklists + event.target.text + ".txt");
       }
     }
 }
 
+/**
+* This method takes an array of strings and creates a list
+* based on these. This is used to populate the webpage with a chosen checklist
+@param {Array} arrayOfItems - takes an array of strings as input.
+*/
 function createListItem(arrayOfItems){
   console.log("Creating List items");
   document.getElementById("recordsList").innerHTML="";
@@ -210,23 +199,32 @@ function createListItem(arrayOfItems){
 console.log("Done creating List items");
 }
 
+/**
+* This function add OnClick events to checkboxes and list fields.
+This ensures that data is sent to the server upon each click.
+@param {Integer} i - the number of the current list item and checkbox to get OnClick event listeners.
+*/
 function setListItemOnClicks(i){
   document.getElementById('checkbox_' + i).onclick = function(event){
     addEvent(event);
     console.log(event.target.outerHTML);
-    saveChoices();
+    saveChoices(events);
   }
   document.getElementById('list_field_' + i).onclick = function(event){
     if(event.target.text != null){
       document.getElementById("cardTitle").innerHTML = event.target.text;
       addEvent(event);
-      saveChoices();
+      saveChoices(events);
       document.getElementById("itemText").innerHTML = replaceNewLine(event.target.value);
     }
   }
 }
 
 
+/**
+* This function gets the current time, creates a string of date and time of day, and returns that string.
+@returns {String} - Returns a string containing the current time in the format YYYY-MM-DD_HH-MM-SS.
+*/
 function currentTime(){
   var today = new Date();
   var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
@@ -236,6 +234,11 @@ function currentTime(){
   return dateTime;
 }
 
+/**
+* This function takes a generated event and adds it to the events-array.
+* If this array is empty, a header is first created, containing the current time, current user and current checklist.
+@param {String} event - takes an event as input. This event contains the item the user has clicked.
+*/
 function addEvent(event){
   if(events.length == 0){
     events.push([currentTime(), "__" + currentUser, "__" + currentChecklist]);
@@ -249,43 +252,19 @@ function addEvent(event){
 
 }
 
-function saveChoices(){
-    /*console.log("Clicked");
-    let csv = createCSV(events);
-
-
-    let csvContent = "data:text/csv;charset=utf-8,"
-    + events.map(e => e.join(",")).join("\n");
-    var encodedUri = encodeURI(csvContent);
-    var link = document.createElement("a");
-    link.setAttribute("href", encodedUri);
-    link.setAttribute("download", "my_data.csv");
-    document.body.appendChild(link); // Required for FF
-
-    link.click(); // This will download the data file named "my_data.csv".
-
-
-    console.log(document.getElementById("file"));
-    console.log(document.getElementById("file").files);
-    //document.getElementById("file").files = csvContent;
-    let formData = new FormData();
-    console.log(events.toString());
-    formData.append("csv", csvContent);
-    */
-    fetch('/upload', {method: "POST", body: JSON.stringify({array : events})});
-    //events = [];
+/**
+* This function sends a POST request to the server, with attached event data.
+@param {Array} eventData - takes an array of event data as input
+@returns {Integer} - returns the server response. 200 means OK, everything worked out.
+*/
+async function saveChoices(eventData){
+    var response = await fetch('/upload', {method: "POST", body: JSON.stringify({array : eventData})});
+    //console.log(response);
     console.log("data sent");
-
+    return response.status;
 }
 
-function createCSV(data){
-  let csvContent = "data:text/csv;charset=utf-8,";
-  data.forEach(function(rowArray) {
-      let row = rowArray.join(",");
-      csvContent += row + "\r\n";
-  });
-  return csvContent;
-}
+module.exports = {splitSections, splitItems, saveChoices};
 </code></pre>
         </article>
     </section>
@@ -296,13 +275,13 @@ function createCSV(data){
 </div>
 
 <nav>
-    <h2><a href="index.html">Home</a></h2><h3>Modules</h3><ul><li><a href="index.module_js.html">js</a></li></ul>
+    <h2><a href="index.html">Home</a></h2><h3>Modules</h3><ul><li><a href="module-index.html">index</a></li><li><a href="module-rsa.html">rsa</a></li></ul>
 </nav>
 
 <br class="clear">
 
 <footer>
-    Documentation generated by <a href="https://github.com/jsdoc/jsdoc">JSDoc 3.6.6</a> on Mon Feb 01 2021 14:46:26 GMT+0100 (centraleuropeisk normaltid)
+    Documentation generated by <a href="https://github.com/jsdoc/jsdoc">JSDoc 3.6.6</a> on Thu Feb 04 2021 08:50:04 GMT+0100 (centraleuropeisk normaltid)
 </footer>
 
 <script> prettyPrint(); </script>

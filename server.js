@@ -58,8 +58,20 @@ app.use('/', function(req, res){
 });
 const server = https.createServer(options, app);
 const port = 8443;
+
+server.on('error', function(err) {
+    if(err.code === 'EADDRINUSE')
+         console.log("\nServer failed to start. \n"
+                      + "Port " + port + " is already in use on this address."
+                      + "\nMake sure you have not already started this server in another terminal.\n"
+                      + "Other issues could be that other programs, such as skype, \nare listening on the same port.");
+    else
+         console.log(err);
+    process.exit(1);
+});
+
 server.listen(port, '0.0.0.0', function() {
-    console.debug ( '\nYour website can be found at: https://' + ip.address() + ':' + port);
+    console.debug ('\nYour website can be found at: https://' + ip.address() + ':' + port);
     console.debug('\nListening to port:  ' + port);
 });
 
