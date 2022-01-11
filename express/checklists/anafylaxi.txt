@@ -1,12 +1,13 @@
 Title/1. Adrenalin intramuscular
 Text/
-Indication:
-all patients
+Indikation:alla patienter
 
-Adrenalin 1 mg/ml (location) 0.5 ml
-intramuscular anterolateral thigh
+Kontraindikationer:  inga
 
-Can repeat every 5 min
+Adrenalin 1 mg/ml 0,5 ml IM anterolateralt I låret
+Kan upprepas var 5:e min
+
+
 
 Title/2. Supine or lateral decubitus?
 Text/

@@ -1,4 +1,3 @@
-adrenalin
-test
-astma
-Seizure
+anafylaxi
+astmaanfall
+kol exacerbation
