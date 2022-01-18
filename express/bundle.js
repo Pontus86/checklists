@@ -4,6 +4,10 @@
 */
 
 let checklists = "checklists/";
+let diagnoses = "03_diagnos";
+let problem = "01_problem";
+let ingrepp = "02_ingrepp";
+let fakta = "04_fakta";
 let index = "index.txt";
 var currentUser = 177575;
 var currentChecklist = "adrenalin";
@@ -26,6 +30,10 @@ function run(){
         document.getElementById('inputUser').value = "";
         document.getElementById('currentUser').innerHTML = "RS-ID: " + currentUser;
       }
+
+    document.getElementById('problemButton').onclick = function(){
+      showMenu();
+    }
 
 }
 document.addEventListener('DOMContentLoaded', run);
@@ -236,6 +244,27 @@ async function saveChoices(eventData){
     console.log("data sent");
     return response.status;
 }
+
+
+function homeButton(){
+  document.getElementById("homePage").style.display = "block";
+  document.getElementById("menuPage").style.display = "none";
+  document.getElementById("checklist").style.display = "none";
+}
+
+function showMenu(){
+  document.getElementById("homePage").style.display = "none";
+  document.getElementById("menuPage").style.display = "block";
+  document.getElementById("checklist").style.display = "none";
+}
+
+function showChecklist(){
+  document.getElementById("homePage").style.display = "none";
+  document.getElementById("menuPage").style.display = "none";
+  document.getElementById("checklist").style.display = "block";
+}
+
+
 
 module.exports = {splitSections, splitItems, saveChoices};
 
