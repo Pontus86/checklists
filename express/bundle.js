@@ -4,14 +4,17 @@
 */
 
 let checklists = "checklists/";
-let diagnoses = "03_diagnos";
-let problem = "01_problem";
-let ingrepp = "02_ingrepp";
-let fakta = "04_fakta";
+let diagnoses = "03_diagnos/";
+let problem = "01_problem/";
+let ingrepp = "02_ingrepp/";
+let fakta = "04_fakta/";
 let index = "index.txt";
 var currentUser = 177575;
-var currentChecklist = "adrenalin";
+var currentChecklist = "anafylaxi";
 var events = [];
+var problemList = "";
+
+var menuTexts = [];
 
 
 /**
@@ -19,7 +22,12 @@ var events = [];
 * Calls the functions readTextFile() and readIndex() to load the dropdown menu and the first checklist.
 */
 function run(){
-    createListFromTextFile(checklists + "adrenalin.txt");
+    createListFromTextFile(checklists + "anafylaxi.txt");
+    createListItem(splitSections(allText));
+
+    readIndexMenu();
+
+    problemList = createListFromTextFile(checklists + "anafylaxi.txt");
 
     document.getElementById("title").innerText = currentChecklist;
     document.getElementById("currentUser").innerHTML = "RS-ID: " + currentUser;
@@ -46,6 +54,7 @@ document.addEventListener('DOMContentLoaded', run);
 */
 function createListFromTextFile(file)
 {
+    var allText = "Title/testing";
     var rawFile = new XMLHttpRequest();
     rawFile.onreadystatechange = function ()
     {
@@ -53,13 +62,16 @@ function createListFromTextFile(file)
         {
             if(rawFile.status === 200 || rawFile.status == 0)
             {
-                var allText = rawFile.responseText;
-                createListItem(splitSections(allText));
+                allText = rawFile.responseText;
+                //return allText;
+                  createListItem(splitSections(allText));
+
             }
         }
     }
     rawFile.open("GET", file, true);
     rawFile.send(null);
+    return allText;
 }
 
 /**
@@ -68,7 +80,7 @@ function createListFromTextFile(file)
 * createDropdown() is then called, to instantiate the dropdown elements of the checklists in the navbar.
 @param {String} file - takes a file-path as input.
 */
-function readIndex(file)
+function readIndex(file, dropdown = true)
 {
     var rawFile = new XMLHttpRequest();
     rawFile.onreadystatechange = function ()
@@ -79,6 +91,7 @@ function readIndex(file)
             {
                 var allText = rawFile.responseText;
                 createDropdown(allText.split(/\n/ig));
+
             }
         }
     }
@@ -262,6 +275,79 @@ function showChecklist(){
   document.getElementById("homePage").style.display = "none";
   document.getElementById("menuPage").style.display = "none";
   document.getElementById("checklist").style.display = "block";
+}
+
+
+/**
+* This method takes an array of strings and creates a list
+* based on these. This is used to populate the webpage with a chosen menulist
+@param {Array} arrayOfItems - takes an array of strings as input.
+*/
+function createMenuItem(arrayOfItems){
+  console.log("Creating Menu items");
+  document.getElementById("menuList").innerHTML="";
+  var ul = document.getElementById("menuList");
+
+  for(i=0; i < arrayOfItems.length; i++){
+    var content = arrayOfItems[i].split("/");
+    var li = document.createElement("a");
+
+    li.id = "list_field_" + i;
+    li.className = "list-group-item list-group-item-action floatcontainer";
+    li.href = "#";
+    li.style.transform = "translate(40px, 0px)"
+    li.innerText = content[0];
+    li.value = content[1];
+
+    ul.appendChild(li);
+    setListItemOnClicks(i);
+    document.getElementById('list_field_' + i).onclick = function(event){
+      if(event.target.text != null){
+
+      }
+    }
+  }
+console.log("Done creating List items");
+}
+
+/**
+* This method makes a 'GET' http request to the server, asking for the index file.
+* The server returns the text contained in that file.
+* createDropdown() is then called, to instantiate the dropdown elements of the checklists in the navbar.
+@param {String} file - takes a file-path as input.
+*/
+function readIndexMenu()
+{
+  let menus = [problem, ingrepp, diagnoses, fakta];
+
+  for(var i = 0; i < menus.length; i++){
+      var file = checklists + menus[i] + index;
+      var rawFile = new XMLHttpRequest();
+      rawFile.onreadystatechange = function ()
+      {
+          if(rawFile.readyState === 4)
+          {
+              if(rawFile.status === 200 || rawFile.status == 0)
+              {
+                  menuTexts.push(rawFile.responseText);
+                  console.log(menuTexts);
+              }
+          }
+      }
+      rawFile.open("GET", file, true);
+      rawFile.send(null);
+    }
+
+}
+
+
+/**
+* This method splits an input-string into sections by "Text/"
+@param {String} input - takes a string as input.
+@returns {Array} - Returns an array of strings after the split operation.
+*/
+function splitItems(input){
+  return input.split("Text/");
 }
 
 

@@ -74,6 +74,17 @@ server.listen(port, '0.0.0.0', function() {
     console.debug ('\nYour website can be found at: https://' + ip.address() + ':' + port);
     console.debug('\nListening to port:  ' + port);
 });
+try {
+  const open = require('open');
+  open('https://'+ ip.address() + ':' + port);
+}
+catch (error){
+  //if(error)
+  if(error.name == "ReferenceError"){
+    console.log("To automatically open the website, please install open by typing 'npm install open' in your terminal")
+  }
+  //console.log("Node migt")
+}
 
 //console.debug('Server listening on port' + port);
 
