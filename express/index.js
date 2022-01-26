@@ -3,9 +3,9 @@
 */
 
 let checklists = "checklists/";
-let diagnoses = "03_diagnos/";
 let problem = "01_problem/";
 let ingrepp = "02_ingrepp/";
+let diagnoses = "03_diagnos/";
 let fakta = "04_fakta/";
 let index = "index.txt";
 var currentUser = 177575;
@@ -22,9 +22,7 @@ var menuTexts = [];
 */
 function run(){
     createListFromTextFile(checklists + "anafylaxi.txt");
-    createListItem(splitSections(allText));
-
-    readIndexMenu();
+    //createListItem(splitSections(allText));
 
     problemList = createListFromTextFile(checklists + "anafylaxi.txt");
 
@@ -39,7 +37,20 @@ function run(){
       }
 
     document.getElementById('problemButton').onclick = function(){
-      showMenu();
+      var menuIndexNumber = 0
+      showMenu(menuIndexNumber);
+    }
+    document.getElementById('ingreppButton').onclick = function(){
+      var menuIndexNumber = 1
+      showMenu(menuIndexNumber);
+    }
+    document.getElementById('diagnosButton').onclick = function(){
+      var menuIndexNumber = 2
+      showMenu(menuIndexNumber);
+    }
+    document.getElementById('faktaButton').onclick = function(){
+      var menuIndexNumber = 3
+      showMenu(menuIndexNumber);
     }
 
 }
@@ -152,6 +163,7 @@ function createDropdown(arrayOfChecklists){
         document.getElementById("cardTitle").innerHTML = "";
         currentChecklist = event.target.text;
         createListFromTextFile(checklists + event.target.text + ".txt");
+        showChecklist();
       }
     }
 }
@@ -264,10 +276,12 @@ function homeButton(){
   document.getElementById("checklist").style.display = "none";
 }
 
-function showMenu(){
+function showMenu(menuIndexNumber){
   document.getElementById("homePage").style.display = "none";
   document.getElementById("menuPage").style.display = "block";
   document.getElementById("checklist").style.display = "none";
+  console.log("show menu")
+  readIndexMenu(menuIndexNumber)
 }
 
 function showChecklist(){
@@ -278,35 +292,37 @@ function showChecklist(){
 
 
 /**
-* This method takes an array of strings and creates a list
-* based on these. This is used to populate the webpage with a chosen menulist
-@param {Array} arrayOfItems - takes an array of strings as input.
+* This method takes an array of strings and creates a dropdown menu containing links
+* based on these. This is used to create links to the different checklists.
+@param {Array} arrayOfChecklists - takes an array of strings as input.
 */
-function createMenuItem(arrayOfItems){
-  console.log("Creating Menu items");
-  document.getElementById("menuList").innerHTML="";
+function createMenuList(menuIndexNumber, arrayOfChecklists){
+  let menuTitles = ["Problem", "Ingrepp", "Diagnoser", "Fakta"];
+
   var ul = document.getElementById("menuList");
-
-  for(i=0; i < arrayOfItems.length; i++){
-    var content = arrayOfItems[i].split("/");
-    var li = document.createElement("a");
-
-    li.id = "list_field_" + i;
-    li.className = "list-group-item list-group-item-action floatcontainer";
-    li.href = "#";
-    li.style.transform = "translate(40px, 0px)"
-    li.innerText = content[0];
-    li.value = content[1];
-
-    ul.appendChild(li);
-    setListItemOnClicks(i);
-    document.getElementById('list_field_' + i).onclick = function(event){
-      if(event.target.text != null){
+  document.getElementById("menuList").innerHTML="";
+  document.getElementById("menuTitle").innerText = menuTitles[menuIndexNumber];
+    for(i=0; i < arrayOfChecklists.length; i++){
+      var li = document.createElement("a");
+      li.className = "menu-item";
+      li.setAttribute("id", "menu_field_" + i);
+      //li.setAttribute("value", content[1]);
+      li.value = arrayOfChecklists[i];
+      //console.log(li.value);
+      li.setAttribute('href', "#");
+      li.innerText = arrayOfChecklists[i];
+      ul.appendChild(li);
+      document.getElementById('menu_field_' + i).onclick = function(event){
+        //alert(event.target.text);
+        showChecklist();
+        document.getElementById("title").innerText = event.target.text;
+        document.getElementById("itemText").innerHTML = "";
+        document.getElementById("cardTitle").innerHTML = "";
+        currentChecklist = event.target.text;
+        createListFromTextFile(checklists + event.target.text + ".txt");
 
       }
     }
-  }
-console.log("Done creating List items");
 }
 
 /**
@@ -315,12 +331,11 @@ console.log("Done creating List items");
 * createDropdown() is then called, to instantiate the dropdown elements of the checklists in the navbar.
 @param {String} file - takes a file-path as input.
 */
-function readIndexMenu()
+function readIndexMenu(menuIndexNumber)
 {
   let menus = [problem, ingrepp, diagnoses, fakta];
 
-  for(var i = 0; i < menus.length; i++){
-      var file = checklists + menus[i] + index;
+      var file = checklists + menus[menuIndexNumber] + index;
       var rawFile = new XMLHttpRequest();
       rawFile.onreadystatechange = function ()
       {
@@ -329,25 +344,16 @@ function readIndexMenu()
               if(rawFile.status === 200 || rawFile.status == 0)
               {
                   menuTexts.push(rawFile.responseText);
-                  console.log(menuTexts);
+                  console.log(rawFile.responseText);
+                  createMenuList(menuIndexNumber, rawFile.responseText.split(/\n/ig));
               }
           }
       }
       rawFile.open("GET", file, true);
       rawFile.send(null);
-    }
 
 }
 
-
-/**
-* This method splits an input-string into sections by "Text/"
-@param {String} input - takes a string as input.
-@returns {Array} - Returns an array of strings after the split operation.
-*/
-function splitItems(input){
-  return input.split("Text/");
-}
 
 
 
