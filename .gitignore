@@ -1,5 +1,5 @@
 # Don't track content of these folders
 docs/
-# express/database/
+express/database/
 
 signing.txt
