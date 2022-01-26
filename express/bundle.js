@@ -22,6 +22,7 @@ var menuTexts = [];
 * Calls the functions readTextFile() and readIndex() to load the dropdown menu and the first checklist.
 */
 function run(){
+    homeButton()
     createListFromTextFile(checklists + "anafylaxi.txt");
     //createListItem(splitSections(allText));
 
