@@ -175,9 +175,13 @@ function createDropdown(arrayOfChecklists){
 @param {Array} arrayOfItems - takes an array of strings as input.
 */
 function createListItem(arrayOfItems){
+  document.getElementById("ifNoImage").style.display = "none";
+  document.getElementById("ifImage").style.display = "none";
+
   console.log("Creating List items");
   document.getElementById("recordsList").innerHTML="";
   var ul = document.getElementById("recordsList");
+
 
   for(i=0; i < arrayOfItems.length; i++){
     var content = splitItems(arrayOfItems[i]);
@@ -191,6 +195,7 @@ function createListItem(arrayOfItems){
     checkbox.style.transform = "translate(-40px,-21px)";
     checkbox.value = "checkbox";
 
+
     li.id = "list_field_" + i;
     li.className = "list-group-item list-group-item-action floatcontainer";
     li.href = "#";
@@ -198,10 +203,36 @@ function createListItem(arrayOfItems){
     li.innerText = content[0];
     li.value = content[1];
 
+
+
     li.appendChild(checkbox);
     ul.appendChild(li);
+
     setListItemOnClicks(i);
   }
+
+
+  if(arrayOfItems.toString().includes("I/")){
+    image_source = arrayOfItems.toString()
+    image_source = image_source.substring(image_source.search("I/") + 2)
+    image_path = "./checklists/02_ingrepp/" + image_source
+    console.log(image_source)
+    console.log(image_path)
+    document.getElementById("recordsList").innerHTML="";
+    document.getElementById("ifImage").style.display = "block";
+    var elem = document.createElement("img");
+
+    //elem.src = './checklists/02_ingrepp/Coniotomi Exemple JPEG.jpg';
+    elem.src = image_path;
+    elem.setAttribute("height", "768");
+    elem.setAttribute("width", "1024");
+    elem.setAttribute("alt", "Image not loaded");
+    document.getElementById("ifImage").appendChild(elem);
+  }
+  else{
+    document.getElementById("ifNoImage").style.display = "block";
+  }
+
 console.log("Done creating List items");
 }
 
@@ -289,6 +320,8 @@ function showChecklist(){
   document.getElementById("homePage").style.display = "none";
   document.getElementById("menuPage").style.display = "none";
   document.getElementById("checklist").style.display = "block";
+  document.getElementById("recordsList").innerHTML="";
+  document.getElementById("ifImage").innerHTML="";
 }
 
 
