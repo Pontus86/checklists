@@ -71,8 +71,9 @@ server.on('error', function(err) {
 });
 
 server.listen(port, '0.0.0.0', function() {
-    console.debug ('\nYour website can be found at: https://' + ip.address() + ':' + port);
+    console.debug('\nYour website can be found at: https://' + ip.address() + ':' + port);
     console.debug('\nListening to port:  ' + port);
+    
 });
 try {
   const open = require('open');
