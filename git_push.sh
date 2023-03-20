@@ -20,7 +20,7 @@ if [[ $msg != '' ]]; then
       $SHELL
     else
       echo -e '\nPushing to remote'
-      $ git push origin master
+      git push origin master
       Username: Pontus86
 
 
