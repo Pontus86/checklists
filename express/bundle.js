@@ -16,7 +16,6 @@ var problemList = "";
 
 var menuTexts = [];
 
-
 /**
 * This code gets executed when the document content is loaded.
 * Calls the functions readTextFile() and readIndex() to load the dropdown menu and the first checklist.

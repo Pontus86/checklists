@@ -2,29 +2,34 @@
 *@module server
 */
 
+
 const https = require('https');
 const express = require('express');
 const path = require('path');
 const formidable = require('formidable');
 var fs = require('fs');
 var ip = require("ip");
+const RSA = require('./RSA.js');
 
 
+async function main(){
 
 const options = {
-  key: fs.readFileSync('key.pem'),
-  cert: fs.readFileSync('cert.pem')
+  key: fs.readFileSync('../checklist-keys/serverkey.pem'),
+  cert: fs.readFileSync('../checklist-keys/servercert.pem')
 };
 
+const publicKey = await RSA.loadPublicKey();
+const privateKey = await RSA.loadPrivateKey();
+
 const app = express();
-//app.use(express.json());
 app.use(express.json({
   type: ['application/json', 'text/plain']
 }))
 app.use(express.static("express"));
 
 //Send index html data
-app.use('/', function(req, res){
+app.use('/', async function(req, res){
   console.debug('Request:');
   console.debug('URL: ' + req.url);
   console.debug('Method: ' + req.method);
@@ -33,12 +38,33 @@ app.use('/', function(req, res){
   if(req.url == '/upload'){
     //console.debug(req);
     var name = req.body.array[0].toString();
-    var newpath = __dirname + "/express/database/" + name + ".csv"
+    var newpath = __dirname + "/express/database/" + name + ".csv";
+
+    //console.log(element.toString())
+    for(let i = 0; i < req.body.array.length; i++){
+      
+      var fileName = "./express/database/binaries/" + name + ".bin";
+      const dataToEncrypt = req.body.array[i].toString();
+      //Needs to overwrite the file on first loop.
+      var encryptedData = await RSA.encryptData(dataToEncrypt, publicKey, fileName, true)
+      if( i == 0){
+        var encryptedData = await RSA.encryptData(dataToEncrypt, publicKey, fileName, false);
+      }
+      
+      console.log(encryptedData.toString('base64'));
+      var decryptedData = await RSA.decryptData(privateKey, fileName);
+      await console.log('Decrypted data:', decryptedData);
+    }
+    
+    req.body.array.forEach(async (element) => {
+      
+    });
     csv = createCSV(req.body.array);
     fs.writeFile(newpath, csv, function(err){
       if(err) return console.log(err);
       console.log("File saved");
     });
+
   }
   if (req.url == '/fileupload') {
     var form = new formidable.IncomingForm();
@@ -80,11 +106,10 @@ try {
   open('https://'+ ip.address() + ':' + port);
 }
 catch (error){
-  //if(error)
   if(error.name == "ReferenceError"){
     console.log("To automatically open the website, please install open by typing 'npm install open' in your terminal")
   }
-  //console.log("Node migt")
+}
 }
 
 //console.debug('Server listening on port' + port);
@@ -114,3 +139,5 @@ function currentTime(){
 
   return dateTime;
 }
+
+main();
