@@ -59,6 +59,11 @@ To run tests:
 3. Run:
       npm run test
 
+To get automatic login on git:
+1. get access token from github
+2. run make_config.sh
+3. enter your username and access token. Remember that the username is case-sensitive.
+
 To add changes to the remote git repository:
 1. use [git status] to view unstaged files.
 2. add files to the stage by using git add filename. To add all files, use:
@@ -76,3 +81,4 @@ To add jq for json parsing:
 1. download the js executable
 2. Open bash
 2. run:  jq=~/pathToYourFolder/jq-win64.exe
+

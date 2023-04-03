@@ -21,6 +21,9 @@ if [[ $msg != '' ]]; then
     else
       echo -e '\nPushing to remote'
       git push origin master
+      Username: Pontus86
+
+
       $SHELL
     fi
 

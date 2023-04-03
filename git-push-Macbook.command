@@ -1,5 +1,5 @@
 #!/bin/sh
-echo -e "Preparing push to git\n"
+echo -e "Preparing push to git \n"
 
 #read -p 'Write your commit message here' msg
 
