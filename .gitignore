@@ -1,4 +1,4 @@
 # Don't track content of these folders
 docs/
-
+**/.DS_Store
 signing.txt
