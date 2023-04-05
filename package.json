@@ -9,13 +9,15 @@
   },
   "dependencies": {
     "-": "^0.0.1",
+    "browserify": "^17.0.0",
     "express": "^4.17.1",
     "formidable": "^1.2.2",
     "g": "^2.0.1",
     "ip": "^1.1.5",
     "jsdoc": "^4.0.2",
     "open": "^9.1.0",
-    "uniq": "^1.0.1"
+    "uniq": "^1.0.1",
+    "forever": "^4.0.0"
   },
   "devDependencies": {
     "jest": "^26.6.3"

@@ -82,3 +82,17 @@ To add jq for json parsing:
 2. Open bash
 2. run:  jq=~/pathToYourFolder/jq-win64.exe
 
+ 
+To run forever:
+1. install forever
+      sudo npm install forever -g
+2.a start the server with output logs
+      forever server.js
+2.b start the server in the background
+      forever start server.js
+2.c flag -w
+      monitors changes to the server.js file and restarts server
+3. check list of forever processes
+      forever list
+4. stop a forever process
+      forever stop server.js

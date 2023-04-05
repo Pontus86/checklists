@@ -26,6 +26,7 @@ if [ $num != ':0' ]; then
   fi
 else
   echo -e '\n\nAll tests passed, starting server'
-  node server.js
+  #node server.js
+  forever -w server.js
   $SHELL
 fi

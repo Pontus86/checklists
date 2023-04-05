@@ -51,9 +51,9 @@ app.use('/', async function(req, res){
         var encryptedData = await RSA.encryptData(dataToEncrypt, publicKey, fileName, false);
       }
       
-      console.log(encryptedData.toString('base64'));
+      // console.log(encryptedData.toString('base64'));
       var decryptedData = await RSA.decryptData(privateKey, fileName);
-      await console.log('Decrypted data:', decryptedData);
+      // await console.log('Decrypted data:', decryptedData);
     }
     
     req.body.array.forEach(async (element) => {

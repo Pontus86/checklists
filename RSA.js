@@ -84,15 +84,15 @@ async function main() {
     
     // Encrypt the data with the public key
     const encryptedData = await encryptData(dataToEncrypt, publicKey, fileName);
-    await console.log('Encrypted data:', encryptedData.toString('base64'));
-    await console.log("");
+    // await console.log('Encrypted data:', encryptedData.toString('base64'));
+    // await console.log("");
 
     // Encrypt the data with the public key again
     await encryptData(dataToEncrypt, publicKey, fileName);
     
     // Decrypt the data with the private key
     const decryptedData = await decryptData(privateKey, fileName);
-    await console.log('Decrypted data:', decryptedData);
+    // await console.log('Decrypted data:', decryptedData);
   } catch (err) {
     console.error(err);
   }
