@@ -42,3 +42,33 @@ to get your local folder use:
     pwd
 then copy all files in the keys folder using:
     scp -r local/checklist-keys pi@raspberrypi.local:/home/pi/yourfolder/
+
+
+//Using forever
+    If forever is not working on your raspberry pi, you might need to use this:
+        1. sudo whereis forever
+        2. pwd in checklists directory
+        3. (cd checklists-directory; forever-directory start -w server.js)
+
+        NB:
+        To kill the process running a server on port 8443 run the following:
+            sudo ss -lptn 'sport = :8443'
+            kill -9 <The pid of the process holding port 8443>
+
+
+
+//Installing jupyter notebook on your raspberry pi
+    sudo su -
+    apt-get update
+    apt-get install python3-matplotlib
+    apt-get install python3-scipy
+    pip3 install --upgrade pip
+    reboot
+    sudo pip3 install jupyter
+
+//File editing for non-technical users
+    0. You need to have jupyter notebook installed on your raspberry pi.
+    1. ssh pi@raspberrypi.local -NL 1234:127.0.0.1:1234
+    2. jupyter notebook --no-browser --port=1234
+    3. Copy link into local web browser
+    A shellscript should be created to automate this

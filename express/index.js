@@ -148,7 +148,7 @@ function createDropdown(arrayOfChecklists){
   var ul = document.getElementById("dropdown");
     for(i=0; i < arrayOfChecklists.length; i++){
       var li = document.createElement("a");
-      li.className = "dropdown-item";
+      li.className = "dropdown-item checklist-dropdown-item";
       li.setAttribute("id", "dropdown_field_" + i);
       //li.setAttribute("value", content[1]);
       li.value = arrayOfChecklists[i];
@@ -180,6 +180,7 @@ function createListItem(arrayOfItems){
   console.log("Creating List items");
   document.getElementById("recordsList").innerHTML="";
   var ul = document.getElementById("recordsList");
+  ul.className = "list-group list-group-flush checklist-list";
 
 
   for(i=0; i < arrayOfItems.length; i++){
@@ -188,7 +189,7 @@ function createListItem(arrayOfItems){
     var li = document.createElement("a");
 
     checkbox.id = "checkbox_" + i;
-    checkbox.className = "form-check-input";
+    checkbox.className = "form-check-input checklist-checkbox";
     checkbox.type = "checkbox";
     checkbox.style.cssFloat = "right";
     checkbox.style.transform = "translate(-40px,-21px)";
@@ -196,7 +197,7 @@ function createListItem(arrayOfItems){
 
 
     li.id = "list_field_" + i;
-    li.className = "list-group-item list-group-item-action floatcontainer";
+    li.className = "list-group-item list-group-item-action floatcontainer checklist-item";
     li.href = "#";
     li.style.transform = "translate(40px, 0px)"
     li.innerText = content[0];
@@ -337,7 +338,7 @@ function createMenuList(menuIndexNumber, arrayOfChecklists){
   document.getElementById("menuTitle").innerText = menuTitles[menuIndexNumber];
     for(i=0; i < arrayOfChecklists.length; i++){
       var li = document.createElement("a");
-      li.className = "menu-item";
+      li.className = "menu-item checklist-menu-item";
       li.setAttribute("id", "menu_field_" + i);
       //li.setAttribute("value", content[1]);
       li.value = arrayOfChecklists[i];

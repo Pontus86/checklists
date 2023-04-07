@@ -1,5 +1,111 @@
-a:link, a:visited,  a:hover, a:active
+/*
+This is the main stylesheet used in this project.
+To change items with the same class, use .className,
+To change items based on unique item ID, use #itemID,
+To change specific elements, reference the element, eg h1
+
+Classes and unique IDs must be stated in the elements you wish to put the effect on.
+
+These are the most common effects you'd want to try:
+
+background-color: #f2f2f2;
+color: #333;                        This is the color of the text
+
+font-family: Arial, sans-serif;
+font-size: 16px;
+text-align: center;
+
+border: 1px solid #ccc;
+padding: 10px;
+margin: 10px;
+
+box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+
+opacity: 0.8;
+transition: all 0.3s ease-in-out;
+overflow: scroll;                   This controls what happens to text that doesn't fit
+
+
+a:hover {
+  color: #ff6600;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+To override other effects, and Bootstrap effects, use the !important statement.
+
+Below are some examples.
+*/
+
+#changeThisToYourID
+{
+    color: #177617;
+    font-size: 16px;
+}
+
+.changeThisToYourClass
+{
+    color: #c7da1a!important;
+}
+
+/*We can change the position of items by tweaking the pixels as shown below*/
+.positioningExample {
+    position: absolute;
+    top: 20px;
+    left: 50px;
+    right: 20px;
+    bottom: 10px;
+  }
+
+
+
+/* Here begins styles used by the index.html file*/
+
+a:link, a:visited, a:active
 {
     color: #000000;
     text-decoration: none;
 }
+
+/*This section removes the blue color and underline when hovering over links*/
+a:hover
+{
+    color: #000000!important;
+    text-decoration: none!important;
+}
+
+
+
+/*These classes are used by the checklists created on request
+These are referenced by the index.js file. 
+If more are added, you need to rerun the launch.sh script to bundle the js file again.*/
+
+.checklist-dropdown-item
+{
+
+}
+
+.checklist-menu-item
+{
+    
+}
+
+.checklist-list
+{
+
+}
+
+.checklist-item
+{
+
+}
+
+/*If you make changes to checklist items, you need to realign the checkboxes
+Uncomment the code below and try different pixel values*/
+.checklist-checkbox
+{
+    /*position: absolute;
+    top: 50px;*/
+}
+
