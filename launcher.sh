@@ -27,6 +27,7 @@ if [ $num != ':0' ]; then
 else
   echo -e '\n\nAll tests passed, starting server'
   #node server.js
-  forever -w server.js
+  #forever -o ../logs/out.log -e ../logs/err.log -w server.js
+  pm2 start pm2-process.json --watch
   $SHELL
 fi
