@@ -72,3 +72,8 @@ then copy all files in the keys folder using:
     2. jupyter notebook --no-browser --port=1234
     3. Copy link into local web browser
     A shellscript should be created to automate this
+
+//Too many watchers
+    You need to modify the following file
+    vi /proc/sys/fs/inotify/max_user_watches
+    Update value to: 524288

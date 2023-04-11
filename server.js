@@ -52,7 +52,7 @@ app.use('/', async function(req, res){
       }
       
       // console.log(encryptedData.toString('base64'));
-      var decryptedData = await RSA.decryptData(privateKey, fileName);
+      //var decryptedData = await RSA.decryptData(privateKey, fileName);
       // await console.log('Decrypted data:', decryptedData);
     }
     
