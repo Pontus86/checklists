@@ -1,0 +1,46 @@
+Title/1. Consider DDx
+Text/
+• Sinus tachycardia:  < (220-age), upright P in II
+• Atrial flutter: usually around 150 bpm, 2:1 conduction
+• Ectopic atrial tachycardia: neg P in II, PR short or long
+• AVNRT
+• AVRT orthodromic: delta wave when in sinus
+
+
+
+Title/2. Lewis Lead?  Esophageal EKG?
+Text/
+• Right arm electrode on 2nd ICS right sternal border
+• Left arm electrode on 4th ICS right sternal border
+• Increase amplitude to 20 mm/mV
+• Record EKG, look for the P wave in lead I
+
+Alternative:  esophageal EKG
+
+
+
+Title/3. Modified Valsalva?
+Text/
+Indication: can terminate AVNRT / AVRT
+
+• Patient in semi-recumbent position
+• Patient blows into a 20 ml syringe to push back plunger
+• Immediately after the strain, patient laid flat and legs raised to 45° for 15 sec
+
+Children: rubber glove filled with ice-cold water on bridge of nose
+
+
+
+Title/4. Adenosine?
+Text/
+• Use the defibrillator to print-out changes in rhythm
+• Adenosine 5 mg IV PUSH (100 ug/kg) followed by normal saline bolus
+• If no response:  Adenosine 10 mg (200 ug/kg) followed by Adenosine 15 mg (300 ug/kg)
+
+
+
+Title/5. Amiodarone?
+Text/
+Indication: paroxysmal SVT uncontrolled by adenosine or vagal manoeuvres
+
+• Amiodarone 300 mg in glucose 50 mg/ml 100 ml over 10-60 min IV

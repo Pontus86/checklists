@@ -1,0 +1,125 @@
+Title/1. Syrgas?
+Text/
+Vid frånvaro av KOL:
+
+• SpO2 < 90%: syrgas 10 L/min via mask med reservoar
+• SpO2 90-95%: syrgas 3 L/min via grimma
+
+
+
+Title/2. Ringer
+Text/
+• Ringer 1000 ml IV över 30 min vid utebliven lungödem
+
+
+
+Title/3. Push Dose Pressor?
+Text/
+Blodtryck < 60 mm Hg
+
+• Hämta 10 ml spruta
+• Hämta Adrenalin 0,1 mg/ml
+• Dra upp 1 ml adrenalin
+• Späd med 9 ml NaCl (lösningen blir 10 mikrog/ml)
+• Ge 2 ml (20 mikrog) IV; upprepa vb
+
+
+
+Title/4. Noradrenalin-infusion?
+Text/
+Blodtryck kvarstår < 60 mm Hg trots Ringer bolus
+
+• Hämta 50 ml spruta
+• Dra upp Noradrenalin 1 mg/ml 2 ml
+• Dra upp 48 ml NaCl (lösningen blir 40 mikrog/ml)
+• Ge bolus 10 mikron
+• Börja med 0,1 mikrog/kg/min
+
+
+
+Title/5. Odlingar
+Text/
+Hos alla:
+• Blododlingar x 2
+• KAD + urinodling + urinsticka
+
+Överväg:
+• Nasofarynxodling
+• Odling från PICC-line, sår
+• Misstänkt nekrotiserande fasciit: spruta 3 ml NaCl IM, aspirera, Strep Antigen
+• Urin Pneumokockantigen, Legionella Antigen
+
+
+
+
+Title/6. Blodprov
+Text/
+• Diff
+
+• Trombocyter
+
+• PK + aPTT
+
+• Leverprov + amylas
+
+• CK + myoglobin
+
+
+
+Title/7. Antibiotika
+Text/
+Svår sepsis:
+• Piperacillin-Tazobaktam 4 g eller Meronem 2 g IV
+
+Nekrotiserande fasciit/ toxic shock:
+• Tillägg av Dalacin 600 mg IV
+
+Bakteriell meningit:
+• Meronem 2 g IV
+
+Övriga sammanhang:
+• Cefotaxim 1 g IV
+
+
+
+Title/8. Cortikosteroider?
+Text/
+Om patienten tar Prednisolon dagligen:
+
+• Hydrocortisone (Solu-Cortef®) 100 mg IV
+• Dubblera daglig cortikosteroid om temp 38-39ºC
+• Tripplera daglig cortikosteroid om temp > 39ºC
+
+
+
+Title/9. Source Control
+Text/
+Överväg:
+• empyem
+• tarmperforation, tarmischemi
+• avstängd pyelit, kolangit
+• necrotizerande fasciit (inkl Fourniers gangrän)
+• böld, septisk artrit
+• tampong
+
+Överväg
+• ultraljud
+• CT
+
+
+
+Title/10. Blodtransfusion
+Text/
+Om Hb < 70-80 g/L
+
+
+
+Title/11. Inläggning IVA
+Text/
+• SpO2 < 90 % trots O2 15L/min via mask med reservoar
+
+• Andningsfrekvens > 30/min trots 15 L/min O2 via mask med reservoar
+
+• Blodtryck < 80 mm Hg trots Ringer + noradrenalin-infusion
+
+• Stigande laktat

@@ -77,3 +77,10 @@ then copy all files in the keys folder using:
     You need to modify the following file
     vi /proc/sys/fs/inotify/max_user_watches
     Update value to: 524288
+
+
+//To use PM2
+    npm install pm2 -g
+    pm2 start server.js
+    pm2 list
+    pm2 delete server.js

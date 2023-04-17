@@ -1,81 +1,125 @@
-Title/1. Adrenalin intramuscular
+Title/1. Adrenalin intramuskulärt (IM)
 Text/
-Indikation:alla patienter
+• Adrenalin 1 mg/ml 0,5 ml IM anterolateralt I låret
 
-Kontraindikationer:  inga
-
-Adrenalin 1 mg/ml 0,5 ml IM anterolateralt I låret
-Kan upprepas var 5:e min
+• Kan upprepas var 5:e min
 
 
 
-Title/2. Supine or lateral decubitus?
+Title/2. Utlösande faktor?
 Text/
-Indication: low blood pressure/feeling faint
-(prevents severe hypotension)
+• Avbryt infusion av läkemedel/blodprodukt, ta bort utlösande ämne
 
-Contraindication: if the patient wants to
-remain upright due to shortness of breath
 
-Supine
-Lateral decubitus if nausea
-Left lateral decubitus if advanced pregnancy
 
-Title/3. Oxygen
+Title/3. Planläge/Sidoläge?
 Text/
-Indication: all patients
+Indikation: lågt blodtryck/presynkop
 
-Oxygen ? 10 L/min via mask with reservoir
+Kontraindikation: patienten vill vara sittande
 
-Title/4. Ringer?
+• Planläge
+
+• Sidoläge vid illamående
+
+• Vänstersidoläge om höggravid
+
+
+
+Title/4. Syrgas
 Text/
-Indication: low blood pressure
+• Syrgas ≥ 10 L/min via mask med reservoar
 
-Ringer (location) 1000 ml IV bolus
 
-Title/5. Ventoline?
+
+Title/5. Övreluftvägs åtgärder?
 Text/
-Indication: bronchospasm/ronchi
+Indikation: stridor, tungsvullnad
 
-Risk: hypokalemia
+• Luftvägslarm, kalla narkos ( ) eller ÖNH ( )
 
-Ventoline (Salbutamol, Airomir) (location)
-2 mg/ml 2.5 ml (1 ampule) nebulised
-(can be given with patient in lateral decubitus)
+• Adrenalin 1 mg/ml 5 ml nebuliserad
 
-Title/6. Adrenalin intravenous?
+• Övreluftvägs hinder (länk)
+
+
+
+Title/6. Ventoline?
 Text/
-Indication: severe symptoms despite adrenalin IM
+Indikation: bronchospasm/ronchi
 
-Risk: arrhythmia (EKG monitoring)
+Risk: hypokalemi
 
-Take a 10 ml syringe
-Draw up 1 ml of Adrenalin 0.1 mg/ml (location)
-Dilute with 9 ml NaCl
-Give 5 ml of the solution (50 microg) IV over 1 min
-Repeat after 3 min as needed
+• Ventoline 2 mg/ml 2,5 ml (1 ampul) nebuliserad (kan ges till patient i sidoläge)
 
-Title/7. Glucagon intravenous?
+
+
+Title/7. Ringers acetat?
 Text/
-Indication: severe symptoms unresponsive to adrenalin (e.g. use of beta-blocker)
+Indikation: lågt blodtryck/takykard
 
-Risk: vomiting
+• Ringers acetat 1000 ml (20 ml/kg) IV bolus
 
-Glucagon 1 mg/ml (location)
-Inject the fluid into the vial and mixed with the powder
-Draw up the solution using a separate syringe
-Inject the solution (1 ml) IV over 1 min
-Repeat as needed
 
-Title/8. Tavegyl?
+
+Title/8. Adrenalin intravenöst (IV)?
 Text/
-Indication: itch/hives
+Indikation: svåra symtom trots adrenalin IM
 
-Tavegyl (Klemastin) (location)
-1 mg/ml 2 ml IV
+Risk: arytmi (EKG monitorering)
 
-Title/9. Betapred
+• Ta fram Adrenalin 0,1 mg/ml (ampull på 10 ml)
+• Ta fram en 10 ml spruta
+• Dra upp 1 ml av Adrenalin 0.1 mg/ml
+• Späd med 9 ml NaCl (ger en lösning på 10 microg/ml)
+• Ge 2 ml (20 microg) IV bolus.
+• Upprepad var 2:a min vid behov
+
+
+
+Title/9. Glucagon intravenöst (IV)?
 Text/
-Indication: all patients
+Indikation: svåra symtom, svarar ej till adrenalin (pga beta-blockerare?)
 
-Betapred 4 mg/ml (location) 2 ml IV
+Risk: kräkning
+
+• Ta fram Glucagon 1 mg/ml
+• Spruta vätskan in i flaskan för att lösa upp pulvern
+• Dra upp lösningen MED EN VANLIG 2 ml SPRUTA
+• Injicera vätskan (1 ml) IV över 1 min
+• Upprepa vid behov. Hos vuxna kan man ge upp till 5 mg
+
+
+
+Title/10. Atropin?
+Text/
+Indikation: paradoxal bradykardi
+
+• Atropin 0,5 mg/ml 2ml IV.
+
+• Upprepa vid behov.  Hos vuxna kan man ge upp till 3 mg
+
+
+
+Title/11. Tavegyl?
+Text/
+Indikation: klåda/nässelutslag
+
+• Tavegyl 1 mg/ml 2 ml IV
+
+
+
+Title/12. Betapred
+Text/
+• Betapred 4 mg/ml 2 ml IV
+
+
+
+Title/13. Observation
+Text/
+• Om patienten fått adrenalin IM:  4 timmars observation sedan administration
+
+• Vid svåra symtom:  10 timmars observation
+
+
+

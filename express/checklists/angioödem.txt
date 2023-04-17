@@ -1,77 +1,40 @@
-Title/1. Åtgärd 1
+Title/1. Adrenalin IM?
 Text/
-Indikation: indikation
+Indikation: laryngeal swelling and airway obstruction. Adrenalin does not work as well in bradykinin-mediated as opposed to histamine-medicated angioedema
 
-Kontraindikation:  kontraindikation eller risk
-
-Läkemedel styrka dos route tid
+Adrenalin 1 mg/ml 0.5 ml IM (0.15 mg or 10 µg/kg in children). The dose may be repeated every 10-15 minutes if necessary
 
 
 
-Title/2. Åtgärd 2
+Title/2. ENT and/or Anesthesia?
 Text/
-Indikation: indikation
-
-Kontraindikation:  kontraindikation eller risk
-
-Läkemedel styrka dos route tid
+Indikation: call ENT and/or anesthesia in the setting of threatened upper airway
 
 
 
-Title/3. Åtgärd 3
+Title/3. Selective Bradykinin B2 Receptor Antagonist (Icatibant)?
 Text/
-Indikation: indikation
+Indikation: acute attack of hereditary angioedema. Also ACE-inhibitor induced
 
-Kontraindikation:  kontraindikation eller risk
-
-Läkemedel styrka dos route tid
+Icatibant (Fyrazir®) 30 mg SC showed a faster resolution of ACE-inhibitor induced angioedema compared with Prednisolone 500 mg IV + Clemastine 2 mg IV
 
 
 
-Title/4. Åtgärd 4
+Title/4. C1-esterase inhibitor (Berinert®)?  FFP?
 Text/
-Indikation: indikation
+Indikation: acute attack of hereditary angioedema. Also ACE-inhibitor induced
 
-Kontraindikation:  kontraindikation eller risk
+Berinert® 1000 IE slow IV infusion (20 IE/kg)
 
-Läkemedel styrka dos route tid
+FFP is an alternative to a C1-esterase inhibitor. Same dose as for coagulation disorders
 
 
 
-Title/5. Åtgärd 5
+Title/5. Antihistamines & Corticosteroids?
 Text/
-Indikation: indikation
+Indikation: in the setting of antihistamine-induced angioedema (urticaria, pruritus)
 
-Kontraindikation:  kontraindikation eller risk
+Desloratadine (Aerius®) 10 mg PO (6-12 years old 5 mg, < 6 years 2.5 mg)
 
-Läkemedel styrka dos route tid
+Betamethasone 8 mg PO or IV (0.1 mg/kg for children)
 
-
-
-Title/6. Åtgärd 6
-Text/
-Indikation: indikation
-
-Kontraindikation:  kontraindikation eller risk
-
-Läkemedel styrka dos route tid
-
-
-
-Title/7. Åtgärd 7
-Text/
-Indikation: indikation
-
-Kontraindikation:  kontraindikation eller risk
-
-Läkemedel styrka dos route tid
-
-
-
-Title/8. Åtgärd 8
-Text/
-Indikation: indikation
-
-Kontraindikation:  kontraindikation eller risk
-
-Läkemedel styrka dos route tid

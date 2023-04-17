@@ -1,0 +1,66 @@
+Title/1. Target Mean Arterial Pressure
+Text/
+• MAP should be kept > 90 mm Hg to ensure optimal spinal cord perfusion
+
+
+
+Title/2. Crystalloids?
+Text/
+Indication: initial shock management
+
+Risk: overzealous fluid resuscitation may lead to pulmonary edema, impaired ventilation and cord edema which may impair tissue perfusion
+
+• Crystalloid bolus
+
+
+
+Title/3. Atropine?
+Text/
+Indication: bradycardia
+
+• Atropine 0.5 mg IV should be given prior to procedures that stimulate the vagus (e.g. oropharyngeal suctioning, endotracheal intubation) since these procedures may lead to profound bradycardia.
+
+
+
+Title/4. Prevention of hypothermia?
+Text/
+Indication: patients with neurogenic shock may easily become hypothermic.
+
+
+
+Title/5. Vasopressors?
+Text/
+Indication: a vasopressor should be added if necessary to maintain MAP ≥ 85 - 90 mm Hg.
+
+• Noradrenalin, Adrenalin:  agents with both alpha- and beta-agonist properties such as norepinephrine, epinephrine and dopamine are preferred given their chronotropic activity.
+
+
+
+Title/6. Bladder Catheterization
+Text/
+Indication: the bladder should be catheterized due to the risk of urinary retention and to follow urinary output
+
+
+
+Title/7. Pacemaker?
+Text/
+Indication: bradycardia refractory to atropine
+
+
+
+Title/8. Admission
+Text/
+• Patients with severe neurogenic shock should be admitted to the neuroICU for monitoring of CVP.  Contact the neurosurgeon.
+
+
+
+Title/9. MR
+Text/
+• MR is the modality of choice to investigate suspected spinal cord pathology.
+
+
+
+Title/Therapies of Unproven Benefit
+Text/
+• Corticosteroids for the treatment of acute spinal cord injury are not recommended
+

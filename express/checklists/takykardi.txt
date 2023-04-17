@@ -1,0 +1,57 @@
+Title/1. ABCDE
+Text/
+• B: respiratory insufficiency? Pulmonary oedema?
+• C: blood pressure? Shock?
+• D: level of consciousness?
+• E: fever? Leg swelling?
+
+Consider
+• Oxygen 10 L/min
+• Large PVC
+
+
+
+Title/2. Emergent Cardioversion?
+Text/
+Indication: severe symptoms (resp insufficiency, shock) due to the tachycardia
+
+Contraindication: tachycardia and instability secondary to another condition (e.g. sepsis, pulmonary embolism) 
+
+• Sedation with Propofol 0.5 mg/ml or Ketamine 1 mg/kg IV over 1 min
+
+• SYNCHRONIZE
+
+• 200 J (2 J/kg)
+
+• If refractory:  Amiodarone 300 mg in glucose 50 mg/ml 100 ml IV over 10 min then reattempt cardioversion
+
+
+
+Title/3. Blood Tests & 12-Lead EKG
+Text/
+• Potassium?  Calcium?
+
+• 12-lead EKG
+
+
+
+Title/4. Precipitants?
+Text/
+• Hypovolemia / bleeding?
+• Pulmonary embolism?
+• Myocardial ischemia?
+• Sepsis / infection?
+• Poisoning?
+• Withdrawal?
+• Thyrotoxicosis?
+
+Consider Ultrasound
+
+
+
+Title/5. Further Management
+Text/
+• Regular + Narrow QRS
+• Irregular + Narrow QRS
+• Regular + Wide QRS
+• Irregular + Wide QRS

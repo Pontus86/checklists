@@ -1,0 +1,203 @@
+Title/1. Svår agitation?
+Text/
+• De-escalation measures:  attempt to calm the patient through verbal/non-verbal measures
+
+• Call for help in the setting of severe agitation not responding to de-escalation measures
+
+• Midazolam 5 mg IM; reevaluate after 10 minutes, repeat if necessary
+
+
+
+Title/2. ABCDE + Bedside Blood Tests (acid-base, electrolytes . . .) + EKG
+Text/
+Patients presenting with “poisoning” may suffer from conditions other than poisoning (e.g. intracranial hemorrhage, fractures, self-inflicted wounds) and may be unwilling or unable to provide a reliable history.  The ABCDE, bedside blood tests and EKG allow for the identification of toxidromes, signs of trauma and other conditions
+
+
+
+Title/3. Toxidrom?
+Text/
+• Sympathomimetic:	Diazepam 10 mg IV.  Avoid beta-bockers
+• Anticholinergic:	Diazepam 10 mg IV. Physostigmin in severe cases
+• Serotonergic:	Diazepam 10 mg IV. Cyproheptadine 12 mg PO in severe cases
+• Sedative:	Supportive care.  Flumazenil may precipitate seizures
+• Opioid:	Naloxone 0.1 mg IV av needed to maintain ventilation
+• Cholinergic:	Atropine 2-5 mg IV (50 µg/kg in children).  Oxims in selected cases
+• Na Channel Block: 	NaHCO3 2 mmol/kg.  See Sodium Channel Blockade Toxidrome
+• K Channel Block: 	See Potassium Channel Blockade Toxidrome
+
+ABCDE TOXIDROMES
+	High	Low
+Neither	Sympathomimetic
+(e.g. cocaine, amphetamine)	Sedative-Hypnotic
+(e.g. ethanol, benzodiazepines)
+Dry	Anticholinergic
+(e.g. tricyclics, antihistamines)	Opioid
+(e.g. morphine, heroin)
+Wet	Serotonergic
+(e.g. SSRI, ecstasy)	Cholinergic
+(e.g. AChE inhibitors, pesticides)
+SSRI: Selective Serotonin Reuptake Inhibitors.  AChE:  Acetylcholinesterase
+
+	High	Low		Dry	Wet
+B	•	Tachypnea
+•	Normal SpO2	•	Bradypnea
+•	Low SpO2	Skin	•	Red, warm, dry	•	Sweaty•	
+C	•	Hypertension
+•	Tachycardia	•	Hypotension
+•	Bradycardia	Mouth/Eyes	•	Dry mouth
+•	Dry eyes	•	Salivation
+•	Tearing
+D	•	Agitation-seizure
+•	Mydriasis	•	Somnolence
+•	Miosis	GI	•	Ileus	•	Diarrhea
+E	•	Hyperthermia	•	Hypothermia	Urinary	•	Retention	•	Incontinence
+
+ 
+ACID-BASE TOXIDROMES
+Respiratory Alkalosis
+•	Salicylates
+•	Theophylline
+•	Caffeine
+•	Nicotine	Increased Anion Gap
+•	Methanol, metformin
+•	Pyroglutamate, propylene glycol
+•	Iron, Isoniazid, Ibuprofen
+•	Ethylene glycol
+•	Salicylates
+•	Cyanide
+•	Toluene (glue sniffing)
+•	Solvents	Decreased Anion Gap
+•	Lithium
+•	Iodide*
+•	Bromide*
+•	Salicylates*
+
+* Falsely high chloride
+
+EKG TOXIDROMES
+AV Nodal Blockade
+•	Beta-blockers
+•	Calcium channel blockers
+•	Digoxin	Sodium Channel Blockade
+•	Class Ia antiarhythmics
+•	Class Ic antiarrhythmics
+•	Propranolol 
+•	Diltiazem, Verapamil
+•	Tricyclic antidepressants
+•	Maprotiline (Tetracyclic)
+•	Loxapine, phenothiazines, thioridazine
+•	Diphehydramine
+•	Chloroquine, Carbamazepine, Cocaine, Citalopram	Potassium Channel Blockade
+•	Class Ia antiarhythmics
+•	Class Ic antiarrhythmics
+•	Class III antiarrhythmics
+•	Tricyclic antidepressants
+•	Maprotiline (Tetracyclic)
+•	Antipsychotics, e.g. haloperidol, phenothiazines, quetiapine
+•	Antihistamines, e.g. diphenhydramine, terfenadine
+•	Chloroquine, erythromycin, ketoconazole, doperidol, cisaprid
+
+
+
+Title/4. Anamnes
+Text/
+
+MAPLES
+
+Vad?	• Which substances? Amounts?  Routes (PO, IV)?
+När?	• Time of intoxication?
+Varför?	• Suicide Attempt?
+Hit?	• Varför/hur hamnade du här på akuten?
+Nu?	• Hur mår du fysiskt/psykiskt nu?
+
+
+Title/5. Contact Poison Control Center?
+Text/
+tel.  ___________________
+
+
+
+Title/6. Antidote?
+Text/
+• Certain specific ingestions require specific treatments to counter the effects of the ingestions and/or increase elimination of the ingestion from the body.
+
+Substance	Antidote
+Acetaminophen	N-acetylcystein (NAC)
+Arsenic	British Anti-Lewisite (BAL)
+Benzodiazepines	Flumazenil
+Beta-blockers	See Calcium Channel/Beta Blocker Toxidrome
+Calcium channel blockers	See Calcium Channel/Beta Blocker Toxidrome
+Carbamate	Atropine, Pralidoxime
+Cyanide	Hydroxycobalamin (Cyanokit)
+Digitalis glycosides	Digoxin-specific antibody fragments (Fab)
+Ethylene glycol	Fomepizole
+Iron	Deferoxamine
+Isoniazid (INH)	Pyridoxine (Vitamin B6)
+Lead	British Anti-Lewisite (BAL), dimercaptosuccinic acid (DMSA)
+Lipid-soluble, cardiotoxic	Intravenous Fat Emulsion (Intralipid) 200 mg/ml 100 ml IV
+Metformin	Hemodialysis, methylene blue
+Methanol	Folate, Ethanol, Fomepizole
+Methemoglobin-Forming Agents	Methylene blue 1-2 mg/kg IV over 5 min
+Contraindicated if the patient has G6PD deficiency
+Mercury	British Anti-Lewisite (BAL)
+Opioids	Naloxone 0.08 - 2 mg IV
+Organophosphates	Atropine, Pralidoxime
+Salicylates	NaHCO3 (target pH of 7.50-7.55), hemodialysis
+Serotonin syndrome	Cyproheptadine
+Sulfonylureas	Octreotide
+Tricyclic antidepressants	NaHCO3
+Valproic acid	Carnitine
+
+
+
+Title/7. Measures to Decrease Absorption?
+Text/
+• Activated charcoal 50 g (1 g/kg in children) PO or via large bore nasogastric tube to unconscious patients after intubation is indicated within 1 hour of ingestion of a potentially toxic overdose.  Beyond 1h after ingestion, activated charcoal may be considered for truly toxic ingestions requiring more that supportive care (e.g. tricyclic antidepressants, beta-blockers, calcium antagonists).  Activated charcoal is less effective at adsorbing metals (lithium, iron), alcohols (methanol, ethylene glycol), or petroleum distillates (white spirit).  A repeated dose 2-4 hours later may be beneficial in cases of sustained-release compounds.
+• Gastric lavage is indicated within 1 hour of ingestion of a highly toxic substance (e.g. calcium channel blocker and cyclic antidepressant).
+• Whole bowel irrigation is indicated in cases of large ingestions of iron, lead, lithium, potassium or large ingestions of sustained-release cardiotoxic substances (e.g. calcium channel blockers).  The dosage is 2 L/hr of a polyethylene glycol solution given via a nasogastric tube until the rectal effluents are clear.
+
+
+
+Title/8. Thiamine?
+Text/
+• Thiamine 500 mg IV over 30 min once or twice daily for 3 days for patients with chronic ethanol abuse who are deemed at increased risk for Wernicke's encephalopathy.
+• Thiamine 500 mg IV over 30 min 3 times daily for 5 days in the setting of suspected Wernicke's encephalopathy.
+
+
+
+Title/9. Bladder Scan & Catheterization?
+Text/
+• Patients with anticholinergic toxidrome may suffer from urinary retention
+
+
+
+Title/10. Additional Tests?
+Text/
+• Acetaminophen for most patients with poisoning (+4 hr value if known ingestion time)
+• Ethanol (present in 50% of deliberate poisonings in one series)
+• Medication levels for certain specific overdoses?
+• Ethylene glycol, methanol, salicylate if unclear metabolic acidosis, elevated anion gap
+• Liver tests, INR if hepatotoxic ingestion, e.g. acetaminophen overdose
+• Total CK + myoglobin if prolonged immobilization / seizures
+• Urine toxicology screen seldom of immediated value but may impact further management
+• Pregnancy test in fertile women
+• Unenhanced CT for suspected 'body packing' or 'body stuffing'
+
+
+
+Title/11. Admission for Somatic Treatment?
+Text/
+
+
+
+Title/12. Psychiatric Assessment Prior to Discharge?
+Text/
+• One systematic review concluded that overreliance on risk scales and the identification of risk factors is potentially dangerous, and no substitute for a comprehensive psychosocial assessment of the needs and risks specific to the individual patient.  
+
+
+
+Title/13. Contact Social Services or Guardians?
+Text/
+• Is the patient the caretaker of a child?
+• Is the patient a minor?
+• Is the patient at high-risk of destroying his or her life through repeated drug overdoses?

@@ -1,0 +1,119 @@
+Title/1. Adrenalin IM
+Text/
+Indication:  first-line therapy.  Fatal outcomes associated with delayed administration
+
+Adrenalin 1 mg/ml 0.3-0.5 ml (10 µg/kg or 0.15 mg) IM deeply into the anterolateral, mid thigh.  The dose may be repeated every 5 min
+
+
+
+Title/2. Trigger Removal
+Text/
+Indication:  all cases of anaphylaxis
+
+Remove the trigger if possible, e.g. discontinue infusion, remove stinger after a bee sting
+
+
+
+Title/3. Position
+Text/
+Indication:  low blood pressure / presyncope.  Contraindicated if patient wants to sit up
+
+Supine position
+
+Lateral decubitus if nauseated
+
+Left lateral decubitus if advanced pregnancy
+
+
+
+Title/4. Oxygen
+Text/
+Indication:  all cases of anaphylaxis
+
+Oxygen ≥ 10 L/min via mask with reservoir
+
+
+
+Title/5. Upper Airway Measures?
+Text/
+Indication: upper airway compromise (e.g. stridor, swelling, subjective narrowing)
+
+Call anesthesia __________ and/or ENT specialist __________
+
+Adrenalin 1 mg/ml 5 ml nebulized (400 µg/kg, max dose of 5 mg)
+
+Cricothyroidotomy (surgical or needle) if complete upper airway obstruction develops
+
+
+
+Title/6. Lower Airway Measures?
+Text/
+Indication: bronchospasm
+
+Salbutamol 5 mg nebulized (2.5 mg < 5 years). See Asthma Exacerbation for additional measures
+
+
+
+Title/7. Ringer's Acetate?
+Text/
+Indication: hypotension or tachycardia. Intravenous crystalloid therapy increases the blood pressure and promotes the absorption and distribution of intramuscular adrenalin
+
+Ringer's Acetate 1000 ml (20 ml/kg) IV bolus
+
+
+
+Title/8. Adrenalin IV?
+Text/
+Indication: Adrenalin IV is indicated if the patient does not respond to repeated doses of adrenaline IM and is developing severe symptoms.  Excessive amounts of adrenalin administered IV may result in severe complications such as intracranial bleeding, myocardial ischemia and arrhythmias
+
+Adrenalin 0.1 mg/ml 1 ml diluted with 9 ml normal saline, 2 ml IV bolus (20 µg).  A child may respond to a dose as low as 1 µg/kg.  Administered under EKG monitoring
+
+Adrenalin 1 mg/ml 2 ml in 48 ml saline = 40 µg/ml. Infusion rate 0.1 µg/kg/min
+
+
+
+Title/9. Glucagon IV?
+Text/
+Indication: for patients refractory to epinephrine, e.g. taking beta-blockers
+
+Glucagon 1 mg/ml 1 ml over 1 min IV (20-30 µg/kg).  Can repeat up to 5 mg in adults
+
+
+
+Title/10. Atropine?
+Text/
+Indication: paradoxical bradycardia
+
+Atropine 0.5 mg IV (20 µg/kg).  Can be repeated up to 3 mg in adults
+
+
+
+Title/11. Antihistamine
+Text/
+Indication: for the symptomatic treatment of urticaria-angioedema and pruritus. Antihistamines have no effect on blood pressure
+
+Clemastin (Tavegyl®) 1 mg PO or IV, or Desloratadine (Aerius®) 10 mg PO (5 mg if 6- 12 years old, 2.5 mg if < 6 years). Antihistamine therapy may be given for up to three days
+
+
+
+Title/12. Corticosteroids
+Text/
+Indication: corticosteroids are used to minimize the risk of biphasic reactions. The onset of action is slow, in the order of hours
+
+Betamethasone 8 mg PO or IV (0.1 mg/kg) or Hydrocortisone 250 mg IV (100 mg < 6 years). Corticosteroids (e.g. Betamethasone 3 mg daily) may be given for up to three days
+
+
+
+Title/13. Observation
+Text/
+4 hours observation from the last adrenalin administration
+
+> 10 hours observation for patients with severe or refractory symptoms
+
+
+
+Title/14. Disposition
+Text/
+Prescribe self-injectable epinephrine and provide instructions on how to use the injector
+
+Referral to an allergy clinic to identify/confirm clinically relevant allergens

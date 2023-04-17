@@ -1,0 +1,93 @@
+Title/1. Information att inhämta
+Text/
+• EKG
+
+• MAPLES
+
+• Blodgas
+
+• Om misstänkt cellsönderfall: CK, Myoglobin, Kalcium, Fosfat, Urat
+
+
+Title/2. Kalcium?
+Text/
+Indikation: K > 6.0 mmol/L OCH en av följande:
+• breda QRS-komplex
+• bradykardi
+• arytmi
+
+Risk: nekros om Kalciumklorid 10% extravaserar; använd CVK eller stor PVK
+
+• Kalciumglukonat 10% 30 ml (0,3 ml/kg) IV över 5 min
+	ELLER
+• Kalciumklorid 10% 10 ml (0,1 ml/kg) IV över 5 min
+
+• Upprepa efter 10 min om EKG-indikationer kvarstår
+
+
+
+Title/3. Insulin/Glukos?
+Text/
+Indikation: K > 6.0 mmol/L
+
+• Kortverkande insulin (t ex Novorapid) 10 E i Glukos 50 mg/ml 500 ml IV över 15 min
+
+• Vid hyperglykemi: 10 E i 100 ml 0,9% NaCl IV över 15 min 
+
+• Om initial Glukos < 7 mmol/L: Glukos 50 mg/ml 500 ml IV över 5 tim för att förebygga hypoglykemi
+
+• Barn: 0,1 E/kg med Glukos 50 mg/ml infusion 2 ml/kg
+
+
+
+
+Title/4. Beta-2 Agonist?
+Text/
+Indikation: K > 6.5 mmol/L
+
+• Salbutamol (Albuterol) 10-20 mg neb
+	ELLER
+• Terbutalin (Bricanyl) 0,5 mg/ml 1 ml SC
+
+• Barn < 25 kg: Salbutamol 2,5 mg neb
+
+• Barn 25-50 kg: Salbutamol 5 mg neb
+
+
+
+Title/5. Kalium bindning?
+Text/
+Indikation: K > 6.0 mmol/L
+
+• Natriumzirkoniumcyklosilikat (Lokelma) 10 g x3/dag PO
+ELLER
+• Patiromer (Veltassa) 8,4 g/dag PO
+ELLER
+• Natriumpolystyrensulfonat (Resonium) 15 g x3/dag PO
+
+
+
+Title/6. Hemodialys?
+Text/
+Indikationer:
+• livshotande hyperkalemi
+• hyperkalemi refraktär till medicinsk behandling
+• terminal njursvikt
+• oligurisk akut njursvikt (< 400 mL urin/dag)
+• markant cellsönderfall (t ex svår rabdomyolys)
+
+
+
+Title/7. Diuretika?
+Text/
+Indikation: tillräcklig njurfunktion
+
+• Furosemid 40-80 mg IV tillsammans med 0,9% NaCl infusion
+
+
+
+Title/8. Vidare handläggning
+Text/
+• Mäta om Kalium och Glukos 2 timmar efter behandlingsstart
+
+• Åtgärder riktade mot orsaken till hyperkalemi (t ex seponera läkemedel, KAD)

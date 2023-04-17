@@ -1,1 +1,23 @@
-fakta
+Sign In
+Sign Out
+----------------------------------------
+VUXEN
+Agiterad
+Smärta vuxen
+Procedursedering vuxen
+----------------------------------------
+BARN
+WETBAG
+Smärta barn
+Procedursedering barn
+----------------------------------------
+MOTGIFTER
+Naloxone & Lanexat
+----------------------------------------
+CHOCK
+Push-dose pressor
+Sprutpump doser
+----------------------------------------
+ÖVRIGT
+Samtycke
+NEWS2

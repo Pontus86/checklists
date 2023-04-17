@@ -1,0 +1,93 @@
+Title/1. Information to get
+Text/
+• EKG
+
+• MAPLES
+
+• Bedside blood tests
+
+• If suspected tissue breakdown: CK, myoglobin, Calcium, Phosphate, Urate
+
+
+Title/2. Calcium?
+Text/
+Indication: K > 6.0 mmol/L AND one of following:
+• wide QRS
+• bradycardia
+• arrhythmia
+
+Risk: tissue necrosis if Calcium Chloride 10% extravasates; use central venous catheter or large-bore antecubital peripheral venous catheter
+
+• Calcium Gluconate 10% 30 ml (0.3 ml/kg) IV over 5 min
+	OR
+• Calcium Chloride 10% 10 ml (0.1 ml/kg) IV over 5 min
+
+• Repeat after 10 min if EKG indications persist
+
+
+
+Title/3. Insulin/Glucose?
+Text/
+Indication: K > 6.0 mmol/L
+
+• Short acting insulin (e.g. Novorapid) 10 U in Glucose 50 mg/ml 500 ml IV over 15 min
+
+• If significant hyperglycemia: 10 U in 100 ml 0.9% NaCl IV over 15 min 
+
+• If initial Glucose < 7 mmol/L: Glucose 50 mg/ml 500 ml IV over 5 hours to prevent hypoglycemia
+
+• Child: 0.1 U/kg with D25W infusion 2 ml/kg
+
+
+
+
+Title/4. Beta-2 Agonist?
+Text/
+Indication: K > 6.5 mmol/L
+
+• Salbutamol (Albuterol) 10-20 mg nebulized
+	OR
+• Terbutalin (Bricanyl) 0.5 mg/ml 1 ml SC
+
+• Child < 25 kg: Salbutamol 2.5 mg nebulized
+
+• Child 25-50 kg: Salbutamol 5 mg nebulized
+
+
+
+Title/5. Potassium binder?
+Text/
+Indication: K > 6.0 mmol/L
+
+• Sodium zirconium cyclosilicate (Lokelma) 10 g x3/day PO
+OR
+• Patiromer 8.4 g/day PO
+OR
+• Calcium Resonium 15 g x3/day PO
+
+
+
+Title/6. Hemodialysis?
+Text/
+Indications:
+• life-threatening hyperkalemia
+• hyperkalemia resistent to medical therapy
+• end-stage renal disease
+• oliguric acute kidney injury (< 400 mL urine/day)
+• marked tissue breakdown (e.g. rhabdomyolysis)
+
+
+
+Title/7. Loop diuretics?
+Text/
+Indication: sufficient renal function
+
+• Furosemide 40-80 mg IV in conjunction with 0.9% NaCl infusion
+
+
+
+Title/8. Further Management
+Text/
+• Remeasure Potassium and Glucose 2 hours after start of therapy
+
+• Address cause of hyperkalemia (e.g.discontinue medications, Foley catheter)

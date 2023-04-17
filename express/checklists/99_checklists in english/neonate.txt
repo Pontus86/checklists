@@ -1,0 +1,63 @@
+Title/1. Initial Measures
+Text/
+1-Dry the infant and assess after 30 seconds
+
+2-If effective breathing, HR > 100 bpm: prevent hypothermia (on mother's chest)
+
+3-Cut umbilical cord after 2-5 min
+
+
+
+Title/2. Airway
+Text/
+• Head in neutral position, towel under shoulders
+
+• No airway suction
+
+
+
+Title/3. Breathing
+Text/
+Ventilate with room air 30-60/min
+
+Confirm effective ventilation/chest wall expansion
+
+If ineffective ventilation: one or several of following:
+• Jaw thrust
+• Change mask size
+• OPA/NPA/LMA
+• Laryngoscopy, suction, endotracheal intubation
+
+
+
+Title/4. Circulation
+Text/
+Indication: HR < 60/bpm despite effective ventilation > 1 min
+
+• 3:1 chest compression:ventilation (90:30/min)
+
+• Ventilate with 100% syrgas
+
+• Check heart rate every 30 sec, discontinue compressions if HR > 60 bpm
+
+
+
+Title/5. Drugs
+Text/
+Indication: heart rate remains < 60 bpm
+
+Adrenalin 0.1 mg/ml 0.3 ml via umbilical ven or IO
+
+Ringer's acetate or 0 neg blood 30 ml bolus via umbilical ven or IO
+
+Naloxone 0.4 mg/ml 0.5 ml IM if suspected opioid poisoning
+
+Glucose 50 mg/ml 10 ml via umbilical ven or IO
+
+
+
+Title/6. End
+Text/
+Discontinue ventilation when (effective own breathing + HR > 100 bpm)
+
+Discontinue CPR if > 20 min resuscitation and no signs of life

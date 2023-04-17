@@ -1,0 +1,114 @@
+Title/1. Upright Positioning
+Text/
+Place the patient in the upright position by elevating the head of the bed
+
+
+
+Title/2. Supplemental Oxygen?
+Text/
+As needed to maintain a SpO2 > 90% or a PaO2 > 8 kPa (60 mm Hg). Hyperoxia should be avoided
+
+
+
+Title/3. Vasodilators?
+Text/
+Indications:
+• Severe hypertension and urgent need for afterload reduction
+• Acute mitral or aortic regurgitation
+• As adjunct to diuretics in patients with inadequate response
+• Patients with refractory HF and low cardiac output
+
+Contraindications:
+• SBP < 110 mm Hg
+• Significant mitral or aortic stenosis
+• Predominant right heart failure
+• Nitroglycerin contraindicated in the setting of recent sildenafil use
+
+Options:
+• Nitroglycerin 0.4 mg SL every 60 sec until BP responds and dyspnea improves
+• Nitroglycerin 1 mg/ml 0.5 mg bolus IV q3min
+• Nitroglycerin 1 mg/ml 10 ml in 40 ml saline = 200 µg/ml. 1 µg/kg/min, titrate up
+
+
+
+Title/4. Diuretics?
+Text/
+Indication: congestion (total body fluid overload)
+
+Contraindication:
+• SBP < 85 mm Hg
+• Caution in the setting of aortic stenosis
+• Not initially recommended in Sympathetic Crashing Acute Pulmonary Edema
+
+Dose:
+• Furosemid 40 mg IV for patients not taking diuretics
+• For patients taking oral loop diuretics, at least the whole oral daily dose given IV is recommended (e.g. ≥ 80 mg IV for a patient taking 40 mg PO twice daily)
+
+
+
+Title/5. Morphine?
+Text/
+Indication: anxious, restless or distressed patient
+
+Risk: not routinely recommended, associated with increased mortality in AHF (OR 4.84)
+
+• Morphine 4 mg IV along with antiemetic (e.g. Metoclopramide 10 mg IV)
+
+• Alertness and respiratory effort should be monitored frequently
+
+
+
+Title/6. CPAP / NIPPV?
+Text/
+Indications:
+• Respiratory acidosis
+• Respiratory distress and hypoxia despite above measures
+
+Contraindications:
+• SBP < 85 mm Hg
+• Vomiting
+• Pneumothorax
+• Depressed consciousness
+
+Options:
+• CPAP 5 cm H2O, titrate to 15 cm if needed
+• NIPPV (10/5 cm H2O) if persisting hypercapnia, fatiguing, history of COPD
+
+
+
+Title/7. Endotracheal Intubation & Invasive Ventilation?
+Text/
+Indications:
+• Patients with respiratory failure (hypoxia, hypercapnia) who fail to improve despite CPAP or NIPPV
+• Physical exhaustion
+• Diminished level of consciousness and inability to protect airway
+
+
+
+Title/8. Blood Tests
+Text/
+• Plasma natriuretic peptide level (BNP, NT-proBNP or MR-proANP)
+• Troponin (High sensitivity troponin levels usually elevated)
+
+
+
+Title/9. Cause-Specific Therapy?
+Text/
+• STEMI / NSTEMI?  See STEMI
+
+• Structural problem (e.g. papillary muscle rupture)? Consider urgent thoracic surgery
+
+
+
+Title/10. Admission & Monitoring
+Text/
+• ICU admission if SaO2 < 90% despite supplemental O2, heart rate < 60 or >120 bpm, SBP < 90 mm Hg, evidence of organ hypoperfusion (e.g. diminished urine output, altered mental status)
+
+• Loop diuretics: total IV daily dose 2.5 times the patient's previous total oral dose, administered every 12 hours.  If diuretic response is inadequate, addition of metolazone
+
+• Monitor blood pressure, respiratory rate, pulse, daily weights, urinary output, renal function, potassium.  Consider Bladder Catheterization
+
+• Na & fluid restriction (< 2g/day, < 2 L/day)
+
+• LMWH for thromboembolic prophylaxis 
+

@@ -1,7 +1,7 @@
 {
-    "script": "server.js",
+    "script": "./server.js",
     "watch": true,
-    "ignore_watch": ["express/database"],
+    "ignore_watch": ["express/database", ".git"],
     "watch_options": {
         "followSymlinks": false
     },

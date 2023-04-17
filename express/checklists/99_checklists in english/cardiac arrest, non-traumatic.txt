@@ -1,0 +1,141 @@
+Title/1. Roles
+Text/
+Team 1:
+1. Confirm airway patency/intubate
+2. Ventilate, follow EtCO2
+3. Auscultate lungs during rhythm analysis
+
+Team 2:
+1. Ultrasound heart: tamponade, contractions?
+2. If rhythm + contractions: pulse check
+3. Femoral blood gas
+4. Ultrasound groin: proximal DVT?
+
+Team 3:
+1. Rhythm analysis
+2. Defibrillation / medications?
+3. Intraosseous needle humerus PRN
+
+
+
+Title/2. Rhythm Analysis
+Text/
+Minimize interruption of chest compressions
+
+VF/pVT: 360 J (4 J/kg) once
+
+Adrenalin every 4th min:
+• Directly if PEA/asystole
+• After 3rd def if VF/pVT
+
+
+
+Title/3. Reversible Causes?
+Text/
+READ ALOUD, RESPOND ALOUD
+
+"Is the airway open?"
+
+"Do we have a tension pneumothorax?"
+
+"Do we have tamponade?"
+
+"Do we suspect pulmonary embolism?"
+
+"Do we suspect massive bleed?"
+
+"Do we suspect poisoning?"
+
+"What are the Potassium? Calcium? Glucose?"
+
+
+
+
+Title/4. Specific Measures
+Text/
+Pulmonary embolism:
+• rt-PA 50 mg IV bolus + Heparin 5000 Units IV
+• Additional rt-PA 50 mg IV after 15 min
+• Consider ECMO
+• Consider performing CPR for up to 90 min
+
+Hyperkalemia / hypocalcemia:
+• Calcium gluconate 100 mg/ml 30 ml (0.3 ml/kg) IV push
+
+Poisonings:
+• Naloxone 2 mg IV if suspected opioid overdose
+• NaHCO3 50 mg/ml 200 ml (3 ml/kg) IV if poisoning with a membrane-stabilizing agent
+• Calcium (see above) + Glucagon 5 mg IV if poisoning with a beta-blocker / calcium channel antagonist
+• Lipid emulsion 20% 100 ml (1.5 ml/kg) IV over 1 min
+• ECMO
+
+
+
+Title/5. ROSC
+Text/
+• Noradrenalin infusion? Noradrenalin 1 mg/ml 2 ml in 48 ml saline = 40 µg/ml
+Initial infusion 0.1 µg/kg/min. Bolus 5-10 µg
+
+• Titrate supplemental oxygen to SpO2 94-98%
+
+• PCI for patients with post-ROSC EKG showing STEMI and for patients who have required defibrillation for VF/pVT
+
+• Target temperature 36ºC
+
+
+
+
+Title/6. Terminate Resuscitation
+Text/
+As a general rule:  > 40 min CPR, asystole, no heart contractions
+
+
+
+
+Title/Special Circumstances
+Text/
+Hypothermia:
+• Bilateral chest tubes, infusion of 300 ml NaCl 40°C, drain + repeat
+• ECMO _________
+• See hypothermia
+
+Pregnant:
+• Perimortem sectio ___________
+
+Poisoning:
+• Naloxone 2 mg IV/IO
+• NaHCO3 50 mg/ml 200 ml (3 ml/kg) IV
+• Calcium Gluconate 100 mg/ml 30 ml IV
+• Glucagon 5 mg IV
+• Lipid emulsion 20% 100 ml (1.5 ml/kg) IV over 1 min
+• ECMO _________
+
+
+
+
+Title/Basic CPR
+Text/
+Chest compressions:  100-120/min
+
+Ventilation:
+• Adult 30:2
+• Child 15:2
+• Intubated: 10-20/min asynchronous
+
+Rhythm analysis every 2 min
+
+
+
+
+Title/Adrenalin and Amiodarone
+Text/
+
+Adrenalin 0.1 mg/ml
+• Directly if PEA/asystole
+• After 3rd def if VF/pVT
+• Adult: 10 ml IV/IO
+• Child: 10 microg/kg (1 ml for every 10 kg)
+
+Amiodarone 50 mg/ml
+• Adult: 300 mg after 3rd def, 150 mg after 5th def
+• Child: 5 mg/kg after 3rd and 5th def

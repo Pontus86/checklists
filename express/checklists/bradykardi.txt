@@ -1,0 +1,88 @@
+Title/1. Hjärtstopp?
+Text/  
+• HLR
+
+• Adrenalin 0,1 mg/ml 10 ml (10 µg/kg) IV/IO bolus
+
+• Se Hjärtstopp
+
+
+
+Title/2. Syrgas?
+Text/
+Indikation: hypoxemi
+
+• O2 10 L/min via mask
+
+
+
+Title/3. Adrenalin?
+Text/
+Indikation: medvetandesänkning + hypotension (pre-hjärtstopp)
+
+• Adrenalin 1 mg/ml 0,5 mg (10 µg/kg) IM; upprepa vid behov
+
+Om inget svar:
+• Hämta Adrenalin 0.1 mg/ml
+• Hämta 10 ml spruta
+• Dra upp 1 ml Adrenalin (100 µg)
+• Späd med 9 ml NaCl (ger en 10 µg/ml lösning)
+• Ge 2 ml (20 µg) IV bolus till både vuxna och barn; upprepa vb
+
+
+
+Title/4. Externpacing?
+Text/
+Indikation: medvetandesänkning + hypotension + inget svar på adrenalin
+
+• Börja med 100 mA och frekvens 60/min
+
+• Känn efter femoralispuls (capture?), titrera upp eller ner ström
+
+• Ketamin 10 mg/ml 1 mg/kg IV över 1 min for dissociation
+
+
+
+Title/5. Atropin?
+Text/
+Indikation: symptomatic (e.g. presyncope, dyspnea)
+
+• Atropine 0.5 mg/ml 0.5 mg (20 µg/kg) IV (can repeat up to 3 mg in adults)
+
+
+
+Title/6. Isoprenalin?
+Text/
+Indikation: symptomatic + not responding to atropine
+
+• Isoprenaline 0.2 mg/ml 2 ml in 48 ml saline = 8 µg/ml
+
+• Infusion rate 0.05 µg/kg/min	
+
+
+
+Title/7. Särskilda orsaker?
+Text/
+• Acquire 12-lead EKG, bedside blood tests, history
+
+• Myocardial ischemia: Theophylline 100-200 mg by slow IV infusion may be considered in the setting of inferior myocardial infarction, cardiac transplant or spinal cord injury
+
+• Hyperkalemia: Calcium Gluconate 100 mg/ml 30 ml (0.3 ml/kg) IV over 5 min + see Hyperkalemia
+
+• Hypoglycemia: Glucose 300 mg/ml 30 ml (Glucose 100 mg/ml 2 ml/kg) IV
+
+• Calcium Channel/Beta Blocker poisoning: Calcium Gluconate 100 mg/ml 30 ml IV over 5 min + see Calcium Channel/Beta Blocker poisoning?
+
+• Digoxin Poisoning: Digoxin-specific antibody (Fab) fragments
+
+ 
+Title/8. Transvenöspacing, PCI?
+Text/
+• Discuss with cardiologist  
+
+
+
+Title/9. ECMO?
+Text/
+• Rescue therapy of last resort
+

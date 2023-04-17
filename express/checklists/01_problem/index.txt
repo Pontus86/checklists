@@ -1,3 +1,42 @@
-hypoxemi
-luftvägshinder (övre)
-trauma nivå 1
+ALLMÄN
+Hjärtstopp, icke-traumatisk
+Hjärtstopp, traumatisk
+Trauma nivå 1
+Nyfödda
+Samtycke
+Aggressiv - Agiterad
+----------------------------------------
+AIRWAY
+Övre luftvägshinder
+----------------------------------------
+BREATHING
+Hemoptys
+Hypoxemi-lågt SpO2
+----------------------------------------
+CIRCULATION
+Lågt blodtryck - chock
+Bradykardi
+Takykardi
+Takykardi reg + smal QRS
+Takykardi reg + bred QRS
+Takykardi oreg + smal QRS
+Takykardi oreg + bred QRS
+----------------------------------------
+DISABILITY
+Medvetanderubbning
+Krampanfall
+----------------------------------------
+EXPOSURE
+Hypotermi
+Hypertermi
+----------------------------------------
+ELEKTROLYTER
+Hyponatremi
+Hypernatremi
+Hypokalemi
+Hyperkalemi
+Hypocalcemi
+Hypercalcemi
+----------------------------------------
+INTOXIKATIONER
+intoxikation allmänt

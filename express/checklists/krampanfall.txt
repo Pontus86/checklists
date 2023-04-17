@@ -1,0 +1,128 @@
+Title/1. Hjärtstopp / Chock?
+Text/
+• "Kramper" kan utlösas av hypoxi/chock/hjärtstopp
+
+
+
+Title/2. Stabilisering av halsrygg?
+Text/
+Indikation: vid huvudtrauma före eller i samband med krampanfall
+
+
+
+
+Title/3. Luftvägs åtgärder?
+Text/
+Indikation: ofri luftväg
+
+• Jaw-thrust
+OCH/ELLER
+• Näskantarell (svalgtub kan skada tänder)
+
+
+
+Title/4. Vid kräkning
+Text/
+• Sidoläge
+
+
+
+Title/5. Syrgas
+Text/
+• Syrgas ≥ 10 L/min via mask med reservoar
+
+
+
+Title/6. Ventilation?
+Text/
+Indikation: låg andningsfrekvens / låg tidalvolym
+
+• Ventilation med mask och blåsa, 2-person teknik
+
+
+
+Title/7. Bensodiazepin?
+Text/
+Indikation: ihållande eller intermittenta ryckningar > 5 min
+
+Om IV:
+• Diazepam 5 mg/ml 2 ml IV (0,2 mg/kg)
+
+Om ej IV:
+• Midazolam 5 mg/ml 2 ml IM (0,2 mg/kg)
+ELLER
+• Midazolam 5 mg/ml 1 ml intranasalt i varje näsborre (0,2 mg/kg totalt)
+
+• Bensodosen kan upprepas 1 gång
+
+
+Title/8. Kristalloid?
+Text/
+Indikation: SBP < 120 mm Hg
+
+• Ringeracetat 500 ml IV bolus
+
+
+Title/9. Reversibla orsaker?
+Text/
+
+• Hypoglykemi: Glucose 300 mg/ml ≥ 20 ml IV (glukos 100 mg/ml 2 ml/kg)
+
+• Hyponatremi: Addex-Na 4 mmol/ml 20 ml i 0.9% NaCl 250 ml. Ge hela 270 ml IV över 15 min (barn: 4 ml/kg)
+
+• Hypokalcemi: Kalciumglukonat 100 mg/ml 10 ml IV över 5 min
+
+• Meningit: Ceftriaxone 3 g IV + Ampicillin 3 g IV eller motsvarande
+
+• Encefalit: Acyclovir 10 mg/kg IV
+
+• Na-kanal blockad: NaHCO3 50 mg/ml 200 ml IV bolus (3 ml/kg)
+
+• Isoniazid intox: Pyridoxin 5 g IV över 10 min
+
+• Eklampsi: Addex-Magnesium 1 mmol/ml 20 ml IV över 5 min eller Magnesiumsulfat 500 mg/ml 10 ml IM I varje lår (10 g totalt)
+
+
+
+Title/10. Keppra = Levetiracetam?
+Text/
+Indikation: ihållande eller intermittenta ryckningar > 5 min oavsett effekt av Benso
+
+• Levetiracetam (Keppra®) 60 mg/kg (max 4,5 g) IV över 10 min
+
+
+
+Title/11. Propofol?
+Text/
+Indikation: ihållande ryckningar
+
+• Propofol 2 mg/kg IV bolus
+
+
+
+Title/12. Djup sedering och endotrakeal intubation?
+Text/
+Indikation: ihållande ryckningar trots Benso + Keppra
+
+Endotrakeal intubation efter följande:
+• Propofol 2-5 mg/kg IV	över 5 min
+ELLER
+• Tiopental (Pentothal®) 2-7 mg/kg IV max 50 mg/min
+ELLER
+• Midazolam (Dormicum®)	0,2 mg/kg IV
+
+
+
+Title/13. Vidare vård
+Text/
+• Blodprov: Na, Ca, Mg, Glukos, Vita, Trombocyter, nivåer av antiepileptiska läkemedel
+
+• CT skalle om första krampanfall ELLER skalltrauma
+
+• EEG om icke-konvulsivt status ELLER fått neuromuskulärt blockerande substans
+
+• Alkoholabstinens / undernärd: Tiamin 500 mg IV
+
+• Behandla hypertermi om den föreligger
+
+
