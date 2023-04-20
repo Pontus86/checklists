@@ -13,6 +13,7 @@ var currentChecklist = "anafylaxi";
 var events = [];
 var problemList = "";
 
+
 var menuTexts = [];
 
 /**
