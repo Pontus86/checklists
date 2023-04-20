@@ -1,0 +1,48 @@
+Title/1. Kalla på hjälp?
+Text/
+• Anestesi larm: 77900
+
+• Narkosläkare vuxen: 78880
+
+• Narkosläkare barn: 78880
+
+• ÖNH: 71709
+
+• Om medvetslös: 50,000
+
+
+
+Title/2. Adrenalin?
+Text/
+Vid misstänkt anafylaxi, angioödem, luftvägsödem:
+
+• Adrenalin 1 mg/ml 0,5 mg IM låret anterolateralt
+
+• Adrenalin 1 mg/ml 1 ml + 3 ml NaCl nebuliserad
+
+
+
+Title/3. Öppna luftväg
+Text/
+Välj/bytt mellan:
+
+• Haklyft
+• Naskantarell/svalgtub
+• Larynxmask
+• Sug
+• Heimlich/ryggdunk/bröstkompressioner
+• Endotrakeal intubation
+
+Sist: coniotomi
+
+
+
+Title/4. Bekräfta öppen luftväg
+Text/
+• Ventilera med mask (2 personteknik)
+
+• Bekräfta öppen luftväg:
+- Bröstkorgen expanderar
+- Lungauskultation: andningsljud bilateralt
+- Stigande SpO2
+- Stigande EtO2

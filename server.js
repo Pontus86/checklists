@@ -84,7 +84,7 @@ app.use('/', async function(req, res){
 
 });
 const server = https.createServer(options, app);
-const port = 8443;
+const port = 443;
 
 server.on('error', function(err) {
     if(err.code === 'EADDRINUSE')
