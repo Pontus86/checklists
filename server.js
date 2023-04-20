@@ -30,11 +30,11 @@ app.use(express.static("express"));
 
 //Send index html data
 app.use('/', async function(req, res){
-  console.debug('Request:');
-  console.debug('URL: ' + req.url);
-  console.debug('Method: ' + req.method);
-  console.debug('Body: ' + req.body);
-  console.debug(req.body)
+  console.log('Request:');
+  console.log('URL: ' + req.url);
+  console.log('Method: ' + req.method);
+  console.log('Body: ' + req.body);
+  console.log(req.body);
   if(req.url == '/upload'){
     //console.debug(req);
     var name = req.body.array[0].toString();
@@ -78,6 +78,7 @@ app.use('/', async function(req, res){
       });
  });}
  else{
+  console.log(req.url);
   res.sendFile(path.join(__dirname+'/express/index.html'));
 };
 

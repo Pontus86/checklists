@@ -67,6 +67,8 @@ document.addEventListener('DOMContentLoaded', run);
 function createListFromTextFile(file)
 {
     console.log("File request name is: " + file);
+    file = file.toLowerCase();
+    console.log("File: " + file);
     var allText = "Title/testing";
     var rawFile = new XMLHttpRequest();
     rawFile.onreadystatechange = function ()
