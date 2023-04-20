@@ -84,3 +84,19 @@ then copy all files in the keys folder using:
     pm2 start server.js
     pm2 list
     pm2 delete server.js
+
+//To use Authbind
+    The standard ports on node are blocked for non root access.
+    To bypass this you can use authbind.
+
+    1. sudo apt-get install authbind
+    2.  sudo touch /etc/authbind/byport/<your-port>
+        sudo chown username:username /etc/authbind/byport/<your-port>
+        sudo chmod 500 /etc/authbind/byport/<your-port>
+    3. authbind --deep pm2 server.js
+
+
+//To kill all jupyter processes on the rapsberry pi
+    ps aux | grep jupyter | awk '{print $2}' | xargs kill
+
+    ssh -L 1234:localhost:1234 pi@raspberrypi.local "ps aux | grep jupyter | awk '{print $2}' | xargs kill && cd Documents/checklists && jupyter notebook --no-browser --port=1234 & disown && bash"

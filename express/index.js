@@ -64,6 +64,7 @@ document.addEventListener('DOMContentLoaded', run);
 */
 function createListFromTextFile(file)
 {
+    console.log("File request name is: " + file);
     var allText = "Title/testing";
     var rawFile = new XMLHttpRequest();
     rawFile.onreadystatechange = function ()
@@ -378,7 +379,7 @@ function readIndexMenu(menuIndexNumber)
               if(rawFile.status === 200 || rawFile.status == 0)
               {
                   menuTexts.push(rawFile.responseText);
-                  console.log(rawFile.responseText);
+                  //console.log(rawFile.responseText);
                   createMenuList(menuIndexNumber, rawFile.responseText.split(/\n/ig));
               }
           }
