@@ -219,7 +219,7 @@ function createListItem(arrayOfItems){
   if(arrayOfItems.toString().includes("I/")){
     image_source = arrayOfItems.toString()
     image_source = image_source.substring(image_source.search("I/") + 2)
-    image_path = "./checklists/02_ingrepp/" + image_source
+    image_path = "./checklists/" + image_source
     console.log(image_source)
     console.log(image_path)
     document.getElementById("recordsList").innerHTML="";
