@@ -37,25 +37,26 @@ function run(){
         document.getElementById('currentUser').innerHTML = "RS-ID: " + currentUser;
       }
 
-    document.getElementById('problemButton').onclick = function(){
+    document.getElementById('problemButton').onclick = async function(){
       var menuIndexNumber = 0
-      showMenu(menuIndexNumber);
+      await showMenu(menuIndexNumber);
     }
-    document.getElementById('ingreppButton').onclick = function(){
+    document.getElementById('ingreppButton').onclick = async function(){
       var menuIndexNumber = 1
-      showMenu(menuIndexNumber);
+      await showMenu(menuIndexNumber);
     }
-    document.getElementById('diagnosButton').onclick = function(){
+    document.getElementById('diagnosButton').onclick = async function(){
       var menuIndexNumber = 2
-      showMenu(menuIndexNumber);
+      await showMenu(menuIndexNumber);
     }
-    document.getElementById('faktaButton').onclick = function(){
+    document.getElementById('faktaButton').onclick = async function(){
       var menuIndexNumber = 3
-      showMenu(menuIndexNumber);
+      await showMenu(menuIndexNumber);
     }
 
 }
 document.addEventListener('DOMContentLoaded', run);
+
 
 /**
 * This method first reads a specified text file,
@@ -312,12 +313,14 @@ function homeButton(){
   document.getElementById("checklist").style.display = "none";
 }
 
-function showMenu(menuIndexNumber){
+async function showMenu(menuIndexNumber){
+  await readIndexMenu(menuIndexNumber);
+  await delay(150);
   document.getElementById("homePage").style.display = "none";
   document.getElementById("menuPage").style.display = "block";
   document.getElementById("checklist").style.display = "none";
-  console.log("show menu")
-  readIndexMenu(menuIndexNumber)
+  console.log("show menu");
+  
 }
 
 function showChecklist(){
@@ -326,6 +329,7 @@ function showChecklist(){
   document.getElementById("checklist").style.display = "block";
   document.getElementById("recordsList").innerHTML="";
   document.getElementById("ifImage").innerHTML="";
+  
 }
 
 
@@ -350,14 +354,14 @@ function createMenuList(menuIndexNumber, arrayOfChecklists){
       li.setAttribute('href', "#");
       li.innerText = arrayOfChecklists[i];
       ul.appendChild(li);
-      document.getElementById('menu_field_' + i).onclick = function(event){
+      document.getElementById('menu_field_' + i).onclick = async function(event){
         //alert(event.target.text);
-        showChecklist();
         document.getElementById("title").innerText = event.target.text;
         document.getElementById("itemText").innerHTML = "";
         document.getElementById("cardTitle").innerHTML = "";
         currentChecklist = event.target.text;
         createListFromTextFile(checklists + event.target.text + ".txt");
+        showChecklist();
 
       }
     }
@@ -369,13 +373,13 @@ function createMenuList(menuIndexNumber, arrayOfChecklists){
 * createDropdown() is then called, to instantiate the dropdown elements of the checklists in the navbar.
 @param {String} file - takes a file-path as input.
 */
-function readIndexMenu(menuIndexNumber)
+async function readIndexMenu(menuIndexNumber)
 {
   let menus = [problem, ingrepp, diagnoses, fakta];
 
       var file = checklists + menus[menuIndexNumber] + index;
       var rawFile = new XMLHttpRequest();
-      rawFile.onreadystatechange = function ()
+      rawFile.onreadystatechange = await function ()
       {
           if(rawFile.readyState === 4)
           {
@@ -390,6 +394,13 @@ function readIndexMenu(menuIndexNumber)
       rawFile.open("GET", file, true);
       rawFile.send(null);
 
+}
+
+
+function delay(milliseconds){
+  return new Promise(resolve => {
+      setTimeout(resolve, milliseconds);
+  });
 }
 
 

@@ -28,7 +28,7 @@ else
   echo -e '\n\nAll tests passed, starting server'
   #node server.js
   #forever -o ../logs/out.log -e ../logs/err.log -w server.js
-  #pm2 start pm2-process.json --watch
-  authbind --deep pm2 start server.js
+  pm2 start pm2-process.json --watch
+  #authbind --deep pm2 start server.js --watch
   $SHELL
 fi

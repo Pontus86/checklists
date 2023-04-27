@@ -93,7 +93,7 @@ then copy all files in the keys folder using:
     2.  sudo touch /etc/authbind/byport/<your-port>
         sudo chown username:username /etc/authbind/byport/<your-port>
         sudo chmod 500 /etc/authbind/byport/<your-port>
-    3. authbind --deep pm2 server.js
+    3. authbind --deep pm2 start server.js
 
 
 //To kill all jupyter processes on the rapsberry pi
