@@ -14,11 +14,12 @@
     <!--Bootstrap -->
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <!-- Plotly-->
-    <link rel="stylesheet" href="index.css">
+    
     <script src="bundle.js"></script>
-    <link rel="stylesheet" href="./css/bootstrap.css">
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
 	  <script src="./js/jquery-3.6.4.js"></script>
     <script src="./js/bootstrap.js"></script>
+    <link rel="stylesheet" href="index.css">
   </head>
 
 <body class="bg-light">
@@ -60,12 +61,12 @@
 
 <div id="homePage" class="container card shadow p-3 mb-5 bg-white rounded" style="min-height:40px; margin-top: 80px">
   <div class="d-flex flex-row justify-content">
-    <div class="col-6 text-center border-right border-bottom" >
+    <div class="col-6 text-center border-right border-bottom;" >
       <h1 class="display-3 text-uppercase" style="margin: 60px">
         <a id="problemButton" href="#" style="text-de">Problem</a>
       </h1>
     </div>
-    <div class="col-6 text-center border-bottom" >
+    <div class="col-6 text-center border-left border-bottom" >
       <h1 class="display-3 text-uppercase" style="margin: 60px">
         <a id="diagnosButton" href="#" style="text-de">Diagnos</a>
       </h1>
@@ -77,7 +78,7 @@
           <a id="ingreppButton" href="#" style="text-de">Ingrepp</a>
         </h1>
       </div>
-      <div class="col-6 text-center" >
+      <div class="col-6 text-center border-left" >
         <h1 class="display-3 text-uppercase" style="margin: 60px">
           <a id="faktaButton" href="#" style="text-de">Fakta</a>
         </h1>
@@ -88,7 +89,8 @@
 </div>
 
 <div id="menuPage" class="container card shadow p-3 mb-5 bg-white rounded" style="min-height:40px; margin-top: 80px">
-  <input type="button" value="Home" class="btn btn-dark" onclick="homeButton();"/>
+  <input type="button" value="Home" class="btn btn-dark" onclick="homeButton();">
+  <i class="bi bi-house"></i></input>
   <div class="row d-flex justify-content">
     <h1 id="menuTitle" style="margin: 40px">Title</h1>
     <ul class="list-group list-group-flush" id="menuList" style="width:600px; margin:auto">
@@ -98,22 +100,23 @@
 
 
 
-<div id="checklist" class="container card shadow p-3 mb-5 bg-white rounded" style="min-height:400px; margin-top: 80px">
+<div id="checklist" class="container card shadow p-3 mb-5 bg-white rounded" style="min-height:400px; margin-top: 80px; padding: 20px">
   <input type="button" value="Home" class="btn btn-dark" onclick="homeButton();"/>
+  
 <!-- Generated <list--></list-->
       <div class="row d-flex justify-content">
         <h1 id="title"style="margin: 40px">Title</h1>
       </div>
       <div id="ifImage"></div>
       <div id="ifNoImage" class="d-flex flex-row">
-      <div class="col-6" >
+      <div class="col-5" >
         <ul class="list-group list-group-flush" id="recordsList" style="width:600px; margin:auto">
         </ul>
 
       </div>
       <div class="col-1">
       </div>
-      <div class="col-5 card p-3 mb-5 bg-white rounded container" style="margin-left: 8px; margin-right :30px">
+      <div class="col-6 p-3 mb-5 bg-white rounded container" style="margin-left: 8px; margin-right :30px">
         <h5 class="card-title" id="cardTitle"></h5>
         <div class="text-dark" id="itemText">
         </div>

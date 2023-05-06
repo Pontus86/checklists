@@ -3,21 +3,24 @@
   "name": "checklists",
   "version": "1.0.0",
   "description": "",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "test": "jest"
   },
   "dependencies": {
     "-": "^0.0.1",
+    "bootstrap-icons": "^1.10.5",
     "browserify": "^17.0.0",
+    "ejs": "^3.1.9",
     "express": "^4.17.1",
+    "forever": "^4.0.0",
     "formidable": "^1.2.2",
     "g": "^2.0.1",
     "ip": "^1.1.5",
     "jsdoc": "^4.0.2",
     "open": "^9.1.0",
-    "uniq": "^1.0.1",
-    "forever": "^4.0.0"
+    "uniq": "^1.0.1"
   },
   "devDependencies": {
     "jest": "^26.6.3"

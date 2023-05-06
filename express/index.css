@@ -98,7 +98,7 @@ If more are added, you need to rerun the launch.sh script to bundle the js file 
 
 .checklist-item
 {
-
+    border: 0px!important;
 }
 
 /*If you make changes to checklist items, you need to realign the checkboxes
