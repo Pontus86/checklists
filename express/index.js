@@ -231,7 +231,6 @@ This ensures that data is sent to the server upon each click.
 function setListItemOnClicks(i) {
   document.getElementById('checkbox_' + i).onclick = function (event) {
     addEvent(event);
-    console.log(event.target.outerHTML);
     saveChoices(events);
   }
   document.getElementById('list_field_' + i).onclick = function (event) {

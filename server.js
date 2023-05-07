@@ -49,6 +49,9 @@ function setupExpressApp(CHECKLIST_ENCRYPTION_PUBLIC_KEY) {
     if (req.url == '/upload') {
       uploadController.uploadChecklist(req, CHECKLIST_ENCRYPTION_PUBLIC_KEY);
     }
+    if (req.url == '/fileupload') {
+      uploadController.uploadFile(req);
+    }
     else {
       res.sendFile(path.join(__dirname + '/express/index.html'));
     };
