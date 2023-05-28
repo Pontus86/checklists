@@ -1,59 +1,71 @@
-Title/1. Ringer's Acetate
+Title/1. Symtom/fynd
 Text/
-• Ringer's acetate 1000 ml bolus IV; physiologic normal saline 1 L/h
+• Sammanhang: odiagnostiserad Addisons sjukdom avslöjs ofta vid infektion
 
-• Large volumes may be required.
+• Symtom som kan förekomma: buksmärta, kräkning, diarré, presynkope
+
+• Fynd som kan förekomma: lågt blodtryck, medvetandepåverkan, feber, ökad pigmentering, hyponatremi, hyperkalemi, hypoglykemi, njursvikt
+
+ 
+Title/2. Ringer-Acetat
+Text/
+• Ringer-Acetat 1000 ml IV bolus IV
+
+• Därefter kan stora volymer kristalloid behövas
 
 
  
-Title/2. Glucose
+Title/3. Glukos?
 Text/
-Indication: hypoglycemia
+Indikation:
+• Hypoglykemi
 
-• Glucose 300 mg/ml 30 ml then glucose 50 mg/ml (5%) 1000 ml infusion
+• Glukos 300 mg/ml 30 ml sedan Glukos 50 mg/ml 1000 ml IV över 4 tim
 
 
 
-Title/3. Blood Tests
+Title/4. Blodprov
 Text/
-• Plasma cortisol and ACTH:  The diagnosis of chronic adrenal insufficiency is based on morning cortisol levels.  In a state of stress, however, cortisol levels should be elevated (> 20 ug/dL).  In the acute setting, critically ill patients with suspected adrenal insufficiency, blood should be sent for cortisol and ACTH measurement followed by immediate hydrocortisone therapy
-
-• Plasma renin and aldosterone may also be measured.  Renin and aldosterone concentrations will be elevated if the adrenal glands are unable to produce mineralocorticoids
-
-• TSH and T4 may also be measured, due to the possibility of concomittant autoimmune thyroid disease or multiple endocrine abnormalities
-
+• Kortisol
+• ACTH
+• TSH
+• T4
 
 
-Title/4. Corticosteroids
+
+Title/5. Kortikosteroider
 Text/
-• Hydrocortisone (Solu-Cortef®) 100 mg IV (2 mg/kg) is the steroid used most commonly.  In addition to glucocorticoid effects, high dose hydrocortisone has a mineralocorticoid effect that precludes the concomitant administration of a mineralocorticoid
+Val:
+• Solu-Cortef 100 mg IV (barn 2 mg/kg)
 
-• Dexamethasone 6 mg IV does not interfere with serum cortisol assays which may be advantageous for patients without a previous diagnosis of adrenal insufficiency.  It has no mineralocorticoid effect but adequate sodium replacement can be achieved by intravenous saline alone
-
-• Hydrocortisone (or other steroids with glucocorticoid activity) should be continued until confirmatory results are available.  Options include:
-o Hydrocortisone 50 – 100 mg every 6 h
-o Hydrocortisone 100-200 mg infusion over 24 hours
+• Betapred 4 mg/ml 2 ml IV; påverkar inte plasma-kortisolnivå och tolkning av Synacthen vid odiagnostiserad Addisons sjukdom
 
 
 
-Title/5. Antibiotics?
+Title/5. Antibiotika?
 Text/
-• When an infection is the suspected trigger of acute adrenal crisis, patients should receive broad-spectrum antibiotics and "source control" (see Sepsis)
+Indikation
+• Misstänkt infektion
+
+• Bredspektrum antibiotika
+• Source control (se Diagnos/Sepsis)
 
 
 
-Title/6. Vasopressors?
+Title/6. Vasopressor?
 Text/
-• Vasopressor therapy is indicated in the setting of persisting hypotension despite fluid resuscitation.  However, cortisol deficiency may account for relative unresponsiveness to catecholamines.
+Indikation
+• Kvarstående lågt blodtryck - chock trots Ringer-Acetat
+
+Noradrenalin I sprutpump:
+• Noradrenalin 1 mg/ml 2 ml + 48 ml NaCl eller Glukos 50 mg/ml = 48 ug/ml
+• Ge bolus 10 ug
+• Start 0,1 ug/kg/min
 
 
 
-Title/7. ICU
+Title/7. Vidare handläggning
 Text/
-• ICU admission is indicated for patients who requires invasive monitoring and/or vasopressor support
+• IVA vid vasopressor behov
 
-
-
-Title/8. Short ACTH stimulation test
-Text/
-• A short ACTH stimulation test can be carried out to determine the cause of the adrenal insufficiency in patients without a previous diagnosis
+• Solu-Cortef 100 mg IV var 6:e tim

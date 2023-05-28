@@ -1,0 +1,62 @@
+Title/1. Syrgas?
+Text/
+Indikation: SpO2 < 88%
+
+Val:
+• Mask med reservoar 10-15 L/min
+• Oxymask 1-10 L/min
+• Mask utan reservoar 5-10 L/min
+• Näsgrimma 1-4 L/min
+
+Sikta på SpO2 88-92%
+
+
+
+Title/2. Inhalerad bronkodilaterande
+Text/
+• Ventoline 2 mg/ml 2,5 ml NEB
+• Atrovent 0,25 mg/ml 2 ml NEB
+
+
+ 
+Title/3. NIV?
+Text/
+Indikationer:
+• Svår respiratorisk acidos
+• Svår dyspné/ansträngd andning/utmattning
+
+Relativa kontraindikationer:
+• Djup medvetandesänkning
+• Stora volymer luftvägssekret
+• Upprepade kräkningar
+• Nyligen övreluftväg- / övre-GI-kirurgi
+
+• PEEP 5 cm H20
+• P-Support 5 cm H2O
+
+
+
+Title/4. Endotrakeal intubation?
+Text/
+Indikationer:
+• Massiv aspiration
+• Livhotande hypoxemi, andningsuppehåll
+• Hemodynamisk instabilitet
+• Djup medvetandesänkning, svår agitation
+
+• Narkos 78880
+• Anestesilarm 77900
+• MIG-bedömning 72784
+
+
+Title/5. Kortikosteroider
+Text/
+
+• Betapred 4 mg/ml 2 ml IV
+
+
+
+Title/6. Antibiotika
+Text/
+
+• Doxyferm® 200 mg PO or Amimox 750 mg PO

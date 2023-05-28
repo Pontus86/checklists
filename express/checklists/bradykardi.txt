@@ -1,88 +1,88 @@
 Title/1. Hjärtstopp?
 Text/  
 • HLR
-
-• Adrenalin 0,1 mg/ml 10 ml (10 µg/kg) IV/IO bolus
-
+• 50000
+• Adrenalin 0,1 mg/ml 10 ml IV bolus (Barn: 10 µg/kg)
 • Se Hjärtstopp
 
 
 
 Title/2. Syrgas?
 Text/
-Indikation: hypoxemi
+Indikation:
+• SpO2 < 90%
 
-• O2 10 L/min via mask
+• Syrgas 10 L/min via mask
 
 
 
 Title/3. Adrenalin?
 Text/
-Indikation: medvetandesänkning + hypotension (pre-hjärtstopp)
+Indikation:
+• Medvetandesänkt + lågt blodtryck
 
-• Adrenalin 1 mg/ml 0,5 mg (10 µg/kg) IM; upprepa vid behov
+• Adrenalin 1 mg/ml 0,5 mg (10 µg/kg) IM
+• Upprepa vid behov
 
 Om inget svar:
-• Hämta Adrenalin 0.1 mg/ml
-• Hämta 10 ml spruta
-• Dra upp 1 ml Adrenalin (100 µg)
-• Späd med 9 ml NaCl (ger en 10 µg/ml lösning)
-• Ge 2 ml (20 µg) IV bolus till både vuxna och barn; upprepa vb
+• Adrenalin 0,1 mg/ml 1 ml dras upp i en 10 ml spruta
+• Späd med 9 ml NaCl
+• Ge 2 ml (20 µg) IV bolus till både vuxna och barn
+• Upprepa var 2:a min
 
 
 
 Title/4. Externpacing?
 Text/
-Indikation: medvetandesänkning + hypotension + inget svar på adrenalin
+Indikation:
+• Medvetandesänkt + lågt blodtryck + inget svar på adrenalin
 
-• Börja med 100 mA och frekvens 60/min
-
-• Känn efter femoralispuls (capture?), titrera upp eller ner ström
-
-• Ketamin 10 mg/ml 1 mg/kg IV över 1 min for dissociation
+• Tryck på "Pacing"
+• Öka "Ström" till 100 mA
+• Öka "Frekvens" till 60/min
+• Känn femoralispuls, titrera ström
+• Esketamine 5 mg/ml 1 mg/kg IV över 1 min
 
 
 
 Title/5. Atropin?
 Text/
-Indikation: symptomatic (e.g. presyncope, dyspnea)
+Indikation:
+• Presynkope, dyspné, övriga bradykardi-utlösta symtom
 
-• Atropine 0.5 mg/ml 0.5 mg (20 µg/kg) IV (can repeat up to 3 mg in adults)
+• Atropin 0,5 mg/ml 2 ml IV (Barn: 20 µg/kg)
+• Kan upprepas, sammanlagt 3 mg hos vuxna
 
 
 
 Title/6. Isoprenalin?
 Text/
-Indikation: symptomatic + not responding to atropine
+Indikation:
+• Bradykardi-utlösta symtom + inget svar på Atropin
 
-• Isoprenaline 0.2 mg/ml 2 ml in 48 ml saline = 8 µg/ml
-
-• Infusion rate 0.05 µg/kg/min	
+• Isoprenaline 0,2 mg/ml 2 ml + 48 ml NaCl = 8 µg/ml
+• Start 0,05 µg/kg/min, titrera
 
 
 
 Title/7. Särskilda orsaker?
 Text/
-• Acquire 12-lead EKG, bedside blood tests, history
+• Myokardischemi: kontakta HIA-jour 71414
 
-• Myocardial ischemia: Theophylline 100-200 mg by slow IV infusion may be considered in the setting of inferior myocardial infarction, cardiac transplant or spinal cord injury
+• Hyperkalemi: Kalciumglukonat 100 mg/ml 30 ml (0,3 ml/kg) IV över 5 min. Se Hyperkalemi
 
-• Hyperkalemia: Calcium Gluconate 100 mg/ml 30 ml (0.3 ml/kg) IV over 5 min + see Hyperkalemia
+• Hypoglykemi: Glukos 300 mg/ml 30 ml IV (Glucose 50 mg/ml 4 ml/kg hos barn)
 
-• Hypoglycemia: Glucose 300 mg/ml 30 ml (Glucose 100 mg/ml 2 ml/kg) IV
+• Intox Kalciumantagonist/Beta-blockerare: Se checklista
 
-• Calcium Channel/Beta Blocker poisoning: Calcium Gluconate 100 mg/ml 30 ml IV over 5 min + see Calcium Channel/Beta Blocker poisoning?
+• Digoxin-förgiftning: Digitalisantikroppar (Giftinfo: 010-4566719)
 
-• Digoxin Poisoning: Digoxin-specific antibody (Fab) fragments
 
- 
-Title/8. Transvenöspacing, PCI?
+
+Title/8. Transvenöspacing, PCI, ECMO?
 Text/
-• Discuss with cardiologist  
+• Transvenöspacing, PCI: HIA-jour (71414)
 
+• ECMO: THIVA-jour (77971)
 
-
-Title/9. ECMO?
-Text/
-• Rescue therapy of last resort
 

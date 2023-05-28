@@ -1,53 +1,78 @@
-Title/1. Oxygen?
+Title/1. Syrgas?
 Text/
-Indication: SpO2 < 90%
+Indikation:
+• SpO2 < 90%
 
-• Nasal prongs, face mask or mask with reservoir depending on response to therapy
+Val:
+• Mask med reservoar 10-15 L/min
+• Oxymask 1-10 L/min
+• Mask utan reservoar 5-10 L/min
+• Näsgrimma 1-4 L/min
 
 
 
-Title/2. Crystalloid?
+Title/2. Ringer-Acetat?
 Text/
-Indication: SBT < 100 mm Hg
+Indikation:
+• SBT < 100 mm Hg
 
-• Ringer 500 ml IV bolus
+• Ringer-Acetat 500 ml IV bolus
 
 
 
-Title/3. NIPPV?
+Title/3. NIV?
 Text/
-Indication: acute hypoxemic respiratory failure (Grade 2 recommendation)
+Indikation:
+• SpO2 < 90% trots syrgas
 
-Contraindication:  severely impaired consciousness or inability to cooperate; high aspiration risk or inability to clear secretions
+Relativa kontraindikationer:
+• Djup medvetandesänkning
+• Stora volymer luftvägssekret
+• Upprepade kräkningar
+• Nyligen övreluftväg- / övre-GI-kirurgi
+
+• PEEP 5 cm H20
+• P-Support 5 cm H2O
 
 
 
-Title/4. Endotracheal intubation?
+Title/4. Endotrakeal intubation?
 Text/
-Indication: inability by other means to maintain oxygenation and ventilation
+Indikation:
+• Lågt SpO2 och högt CO2 trots syrgas och NIV
+
+• Narkos 78880
+• Anestesilarm 77900
+• MIG-bedömning 72784
 
 
 
-Title/5. Diagnostic Tests
+Title/5. Utredningar
 Text/
-• Chest x-ray?
-• Blood cultures x 2
-• Nasopharyngeal and sputum cultures?
-• Urine pneumococcal Ag?
-• Urine legionella Ag?
-• Sars-CoV-2 PCR?
-• Influenza PCR?	
-• PCR mycoplasma/chlamydia pneumoniae?
+• Blododlingar x 2
+• Nasofarynx odling?
+• PCR för Sars-CoV-2, influenza, RSV?	
+• PCR för mycoplasma/chlamydia pneumoniae?
+• Urin: antigen för pneumocock/Legionella?
+• POCUS (empyem)? Bedside lungröntgen?
 
 
 
-Title/6. Antibiotics
+Title/6. Antibiotika
 Text/
-• Cefotaxime
+Vid septisk chock + allvarlig bakomliggande lungsjukdom:
+• Piperacillin/tazobaktam 4 g IV + Levofloxacin 750 mg IV
 
+Vid septisk chock:
+• Cefotaxim 2 g IV + Levofloxacin 750 mg IV
 
+Vid insjuknande i anslutning till influenza:
+• Cefotaxim 2 g IV
 
-Title/7. Disposition
-Text/
-• Out-patient if Pneumonia Severity Index (PSI) Risk Class I, II +/- III (see Dyspnea)
-• ICU if ≥ 5 points SMART-COP (≥ 33% risk of requiring intensive respiratory or vasopressor support)
+Vid misstänkt atypisk pneumoni:
+• Benzylpenicillin 3 g IV + Doxycyklin 200 mg PO
+• PC-allergi: Levofloxacin 750 mg IV
+
+I övrigt:
+• Benzylpenicillin 3 g IV
+• PC-allergi: Levofloxacin 750 mg IV

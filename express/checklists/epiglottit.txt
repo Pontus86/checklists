@@ -1,41 +1,53 @@
-Title/1. Call ENT and/or Anesthesia
+Title/1. Kliniskt syndrom
 Text/
-Call ENT and/or anesthesia if epiglottitis is suspected
+Överväg epiglottit vid:
+• Dyspné
+• Dysfoni (dämpad röst)
+• Dregel (talar för hotande förlust av luftväg)
+• Dysfagi + ont i halsen
+• Stridor
+• Feber (kan saknas hos 50% av vuxna)
 
 
 
-Title/2. Avoid Aggravating Measures
+Title/2. Kalla på ÖNH/Narkos
 Text/
-Direct examination or manipulation of the pharynx should be avoided
+Val:
+• ÖNH 71061
+• Narkos 78880
+• Anestesilarm 77900
 
-Patients assuming the sniffing position should not be laid flat
 
 
-
-Title/3. Equipment
+Title/3. Förberedelser
 Text/
-Ensure that equipment required for bag-valve-mask ventilation, endotracheal intubation and cricothyrotomy (adults) or needle cricothyrotomy (children) is available
+• Låt patienten sitta, "sniffing position"
+• Undvik direkt undersökning av svalget
+• Syrgas
+• Förbereda för fiberlaryngoskopi, intubation, coniotomi/jet ventilation
 
 
-
-Title/4. Flexible Laryngoscopy
+Title/4. Flexibel laryngoskopi
 Text/
-Flexible laryngoscopy is the diagnostic procedure of choice
+• Förstalinjens undersökning
 
 
 
-Title/5. Endotracheal Intubation?
+Title/5. Endotrakeal intubation?
 Text/
-The decision to intubate depends on epiglottitis severity, clinical course (increased severity of the past 4-6 hours) and the presence of immunocompromise or diabetes
+Faktorer som påverkar beslut:
+• Graden av inflammation av epiglottis
+• Kliniskt förlopp under senaste 5 timmar
+• Immunbrist, diabetes
 
 
 
-Title/6. Antibiotics
+Title/6. Antibiotika
 Text/
-Cefotaxime or Ceftriaxone 1-2 g IV (50-100 mg/kg) are first-line antibiotics
+• Cefotaxime 2 g IV (50-100 mg/kg)
 
 
 
-Title/7. Admission
+Title/7. Inläggning
 Text/
-Unintubated patients are often admitted to the ICU for close monitoring
+• Om ej inducerad: inläggning på avd med tätt övervakning/intubationsberedskap

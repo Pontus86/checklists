@@ -1,0 +1,49 @@
+Title/1. Hypocalcemia?
+Text/
+Indication: hypocalcemia
+
+• Calcium Gluconate 100 mg/ml solution 10 ml IV over 5 min (0.2 ml/kg). Repeat until the calcium is normalized.
+
+
+
+Title/2. Hypokalemia?
+Text/
+Indication: hypokalemia
+
+• Potassium 20 mmol/hr IV is the maximum recommended potassium replacement rate in the absence of unstable arrhythmias. Oral and IV supplementation may be carried out simultaneously (See Hypokalemia). The target potassium is 4.5-5 mmol/L
+
+
+
+Title/3. Magnesium 10 mmol?
+Text/
+Indications:
+• QTc > 450 msec and the patient has taken a high-risk medication
+• QTc > 550 msec and the patient has taken > 1 substance that prolongs the QT interval
+
+• Magnesium (Addex®-Magnesium 1 mmol/ml) 10 mmol IV over 5 min
+
+
+
+Title/4. Magnesium infusion?
+Text/
+Indication: QTc > 500 msec and the patient has taken a high-risk medication
+
+• Magnesium (Addex®-Magnesium 1 mmol/ml) 4 mmol/h IV over 6 hours
+
+
+
+Title/5. Isoprenaline?
+Text/
+Indications: heart rate < 60 beat/min and:
+• QTc > 450 msec in presence of intoxication with a high-risk medication
+• QTc > 550 msec and the patient has taken > 1 substance that prolongs the QT interval
+
+• Isoprenaline 0.05 µg/kg/min titrated to a baseline heart rate > 80 beats/min
+
+
+
+Title/6. Admission for Arrhythmia Monitoring?
+Text/
+Indication: admission to a setting that can monitor for arrhythmias (e.g. CCU or ICU) is recommended in the following circumstances:
+• QTc > 450 msec following intoxication with a high-risk medication
+• QTc > 500 msec following intoxication with a non-high-risk medication

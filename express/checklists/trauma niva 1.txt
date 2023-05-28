@@ -1,0 +1,173 @@
+Title/1. TORAKOTOMI / GRAVIDA / BARN / BLODCENTRALEN
+Text/
+
+TORAKOTOMI (THIVA 77971):
+• 71879 (primärjour thorax)
+• 71688 (thorax Op sternumsåg)
+
+GRAVID > 20 veckor (Gyn 72501; Förlossning 78579; Neojour 78580)
+• Förbered perimortem sectio
+• Förbered omhändertagande nyfödda
+
+BARN (Barn IVA 78484)
+• < 1 år: (må / 2) + 4
+• 1-4 år:  (år x 2) + 10
+• 5-14 år: (år x 4)
+
+• Blod 10 ml/kg IV bolus, upprepas
+• Cyklokapron 15 mg/kg IV bolus
+• Kalciumglukonat 100 mg/ml 0,3 ml/kg
+
+BLOD-ATP (72950)
+
+
+
+
+Title/2. Rollfördelning
+Text/
+Narkos:
+• Halsrygg stabilisering
+• Ventilerar, EtCO2
+• Beredskap för intubation
+
+Akutläkare:
+• Bäckengördel på bristen
+• Inspektera bröstkorg, auskultera lungorna
+• Ultraljud: tamponad, lung-sliding, pleura- bukvätska?
+• Beredskap för toraxdrän
+• Undersöker extremiteter, rygg vid stockvändning
+
+Sjuksköterska:
+• Förbereder Fluido?
+• Beredskap IO nål humerus
+• Blodprov
+
+Ledare:
+• Crowd-control
+• PRATAR HÖGT, LÄGESRAPPORTER
+• Beslut om blod, drän, läkemedel
+
+
+
+Title/3. Tourniquet?
+Text/
+Indikation: svår extremitetsblödning som inte kan hävas med kompression
+
+
+
+Title/4. Toraxdrän?
+Text/
+Indikation: misstänkt pneumo- hemotorax och (instabil patient eller övertrycksventilation)
+
+
+
+Title/5. Torakotomi?
+Text/
+Indikation: SAMTLIGA:
+• livstecken vid skadeplats
+• Pulslös på akuten
+• Pulslöshet < 15 min
+
+Kontraindikation:
+• Asystole + ingen tamponad
+• Skador ej förenliga med överlevnad 
+
+
+
+Title/6. Endotrakeal intubation?
+Text/
+Indikationer:
+• Medvetslös
+• Kan ej skydda sin övre luftväg
+
+• Vid RSI: undvik hypotension vid traumatisk hjärnskada
+
+
+
+Title/7. EtCO2?
+Text/
+Indikation: traumatisk hjärnskada
+
+• Sikta på EtCO2 5
+
+• Sikta på EtCO2 3,5 om (medvetslös + ljusstel dilaterad pupill)
+
+
+
+
+Title/8. Bäckengördel?
+Text/
+Indikation: högenergi våld mot bäckenet
+
+
+
+Title/9. Blodprov?
+Text/
+• Blodgas
+• Trombocyter
+• PK, aPTT
+• Fibrinogen
+• Blodgruppering/bastest
+
+
+
+Title/10. 0 negativt blod?
+Text/
+Indikation: blödningschock med SBT ≤ 80 mm Hg eller förlust av radialispuls
+
+
+
+Title/11. Blodtrycksmål
+Text/
+• SBP 80-90 mm Hg (MAP ≥ 65 mm Hg) "permissive hypotension"
+
+• SBP > 100 mm Hg (MAP ≥ 80 mm Hg) om traumatisk hjärnskada / ryggmärgsskada
+
+
+
+Title/12. Smärtstillning?
+Text/
+Val:
+• Morfin 10 mg/ml 0,5 ml IV
+• Esketamine 5 mg/ml 2ml IV över 1 min
+
+
+
+Title/13. Cyklokapron?
+Text/
+Indikation: blödningschock + inom 3 timmar från trauma
+
+• Cyklokapron 2 g IV (15 mg/kg)
+
+
+
+Title/14. Kalcium?
+Text/
+Indikationer:
+• Hypokalcemi
+• Transfusion av blodprodukter, särskilt vid leverinsufficiens
+
+• Kalciumglukonat 100 mg/ml 10 ml (0,3 ml/kg) IV om joniserat kalcium < 1,0 mmol/L 
+
+
+
+Title/15. Antibiotika - Tetanusprofylax?
+Text/
+• Cloxacillin (Ekvacillin®) 2 g IV (≤ 20 kg: 50 mg/kg) vid öppna extremitetsfrakturer
+
+• Cefotaxime 1 g IV + Flagyl 1,5 g IV vid penetrerande bukskada
+
+• DiTeBooster 0,5 ml IM vid kontaminerad sårskada
+
+
+
+Title/16. Förebygg hypotermi
+Text/
+Indikation: alla patienter
+
+
+
+Title/17. Disposition?
+Text/
+• Op eller DT?
+

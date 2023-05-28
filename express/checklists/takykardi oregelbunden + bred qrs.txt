@@ -1,0 +1,75 @@
+Title/1. Akut elkonvertering?
+Text/
+• Vid hypoxemi, chock, medvetandesänkning: se Problem/Takykardi
+
+Title/2. Hyper- hypokalemi?
+Text/
+• Se Problem/hyperkalemi
+
+• Se Problem/hypokalemi
+
+
+
+Title/3. Intox natrium-kanalblockad?
+Text/
+• Se Problem/Intox Natrium-kanalblockad
+
+
+
+Title/4. Differentialdiagnos
+Text/
+• VT, monomorf eller polymorf
+
+• SVT (förmaksflimmer, fladder/EAT med varierande överledning) +
+-Grenblock
+-Accessorisk ledningsbana
+-Hyperkalemi
+-Intox natrium-kanalblockad
+
+Se tidigare EKG:
+• Grenblock, samma QRS-mönster?
+• Delta-våg?
+
+
+
+Title/5. Tolkning 12-avlednings EKG
+Text/
+Förekomst av enstaka smala QRS-komplex talar för
+• Preexciterad förmaksflimmer
+• VT (capture beat)
+
+
+
+Title/6. Förmaksflimmer med grenblockering?
+Text/
+Indikation
+• Typisk höger- eller vänstergrenblocks mönster
+• Samma QRS-mönster när när patienten är i sinusrytm
+
+Tolkning/handläggning
+• Talar starkt för förmaksflimmer med grenblock
+• Behandlas som förmaksflimmer; se Problem/Takykardi oregelbunden + smal ers
+
+
+
+Title/7. Förmaksflimmer med accessorisk ledningsbana?
+Text/
+• Elkonvertering (läkemedel / manövrar som hämmar AV-noden kan utlösa VF)
+
+1-Sederingsval
+• Propofol 10 mg/ml 0,5 mg/kg IV
+• Esketamine 5 mg/ml 0,5 mg/kg IV + Midazolam 1 mg/ml 1 ml IV
+
+2-Elkonvertering
+• SYNKRONISERA
+• 200 J (2 J/kg)
+
+3-Refraktär?
+• SYNKRONISERA IGEN
+• 360 J (4 J/kg)
+• Byt plattor från antero-lateral till antero-posterior
+
+Efter elkonvertering
+• EKG: delta-våg?
+• Inläggning med hjärtmonitorering för elfys utredning/ablation
+ 

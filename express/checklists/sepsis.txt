@@ -82,7 +82,7 @@ Bakteriell meningit:
 
 
 
-Title/8. Cortikosteroider?
+Title/8. Kortikosteroider?
 Text/
 Om patienten tar Prednisolon dagligen:
 
@@ -95,22 +95,22 @@ Om patienten tar Prednisolon dagligen:
 Title/9. Source Control
 Text/
 Överväg:
-• empyem
-• tarmperforation, tarmischemi
-• avstängd pyelit, kolangit
-• necrotizerande fasciit (inkl Fourniers gangrän)
-• böld, septisk artrit
-• tampong
+• Empyem
+• Tarmperforation, tarmischemi
+• Avstängd pyelit, kolangit
+• Necrotizerande fasciit (inkl Fourniers gangrän)
+• Böld, septisk artrit
+• Tampong
 
 Överväg
-• ultraljud
+• Ultraljud
 • CT
 
 
 
 Title/10. Blodtransfusion
 Text/
-Om Hb < 70-80 g/L
+• Om Hb < 70-80 g/L
 
 
 

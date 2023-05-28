@@ -1,0 +1,119 @@
+Title/1. TORAKOTOMI / GRAVIDA / BARN / BLODCENTRALEN
+Text/
+
+TORAKOTOMI (77971 THIVA):
+• 71879 (primärjour thorax)
+• 71688 (thorax Op sternumsåg)
+
+GRAVID > 20 veckor (72501 Gyn; 78579 Förlossning; 78580 Neojour)
+• Förbered perimortem sectio
+• Förbered omhändertagande nyfödda
+
+BARN (78484 Barn IVA)
+• < 1 år: (må / 2) + 4
+• 1-4 år:  (år x 2) + 10
+• 5-14 år: (år x 4)
+
+• Blod 10 ml/kg IV bolus, upprepas
+• Cyklokapron 15 mg/kg IV bolus
+• Kalciumglukonat 100 mg/ml 0,3 ml/kg
+
+BLOD-ATP (72950)
+
+
+Title/2. Rollfördelning
+Text/
+Narkos:
+• Halsrygg stabilisering?
+• Ventilerar, EtCO2
+• Intubation
+
+Akutläkare:
+• Bäckengördel på bristen
+• Bilateral torakostomi
+• Ultraljud hjärta: tamponad, kontraktioner?
+• Beredskap för torakotomi
+
+Sjuksköterska:
+• Förbered Fluido
+• IO nål humerus
+
+Ledare:
+• PRATAR HÖGT, LÄGESRAPPORTER
+• Beslut om torakotomi
+• Beslut om massiv transfusion
+
+
+
+Title/3. Reversibla orsaker—LÄS HÖGT!
+Text/
+"Är luftvägen öppen? Vad är endtidal CO2?"
+
+"Har vi uteslutit tryckpneumothorax?"
+
+"Har vi tamponad?"
+
+"Slår hjärtat?"
+
+"Ska vi påbörja blodtransfusion?"
+
+"Ska vi göra torakotomi?"
+
+
+
+Title/4. Blödningschock—MEKANISKA ÅTGÄRDER
+Text/
+Vid extremitetsblödning:
+• Tourniquet
+
+Vid bäcken/ljumskblödning:
+• Externkompression av bukaorta (med knytnäve eller knä)
+• Bäckengördel
+
+Vid bukblödning:
+• Torakotomi och manuell kompression av aorta descendens
+
+
+
+Title/5. Blödningschock—BLOD
+Text/
+• 0 - blod
+• Beställ ATP (72950)
+• Trombocyter ges så tidigt som möjligt (ej via FLUIDO)
+• Plasma ges när tillgängliga, sikta på 4 röda:4 plasma:1 trombocyter
+
+
+
+Title/6. Blödningschock—LÄKEMEDEL
+Text/
+Allmänt:
+• Cyklokapron 2 g (30 mg/kg) IV över 10 min
+• Fibrinogen (Riastap) 2 g (30 mg/kg) IV
+• Kalciumglukonat 100 mg/ml 10 ml (0,3 ml/kg) om Ca < 1,0
+
+Antikoagulatia/trombocythämmare:
+• Vid Waran: Ocplex 2000 IE IV (80 ml) + Konakion 10 mg IV
+• Vid Xarelto/Eliquis: Ocplex 2000 IE IV (80 ml)
+• Vid Pradaxa: Ocplex 2000 IE IV (80 ml) eller Idarucizumab 5 g IV över 5 min
+• Vid Trombyl/NSAID: Desmopressin 15 ug/ml 1 ml (50 kg)  - 2 ml (100 kg) SC
+• Vid ofraktionerad heparin/LMWH: Protamin sulfate 50 mg
+
+
+
+Title/7. Vid ROSC
+Text/
+• Direkt Op
+• Hybridsal vid angiografi/coiling
+
+
+
+Title/8. Avbryta återupplivning
+Text/
+Kriterier för att tidigt avbryta:
+• Inga livstecken > 15 min
+• Skador ej förenliga med överlevnad
+
+Polisen kontaktas (rättsmedicinsk obduktion) vid
+• Olyckor
+• Våld
+• Misstänkt självmord eller mord

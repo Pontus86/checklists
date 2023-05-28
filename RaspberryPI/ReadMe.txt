@@ -100,3 +100,8 @@ then copy all files in the keys folder using:
     ps aux | grep jupyter | awk '{print $2}' | xargs kill
 
     ssh -L 1234:localhost:1234 pi@raspberrypi.local "ps aux | grep jupyter | awk '{print $2}' | xargs kill && cd Documents/checklists && jupyter notebook --no-browser --port=1234 & disown && bash"
+
+Sometimes the raspberry pi will restart (power outage is a probable issue) 
+To autostart the server on reboot, I have created a file called "autostart-server.sh".
+The path to this file has been added to the file "/etc/rc.local" at the very end before the final exit 0. This should ensure that this script is run on startup. 
+

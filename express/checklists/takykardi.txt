@@ -1,57 +1,54 @@
-Title/1. ABCDE
+Title/1. ABCDE & Blodgas
 Text/
-• B: respiratory insufficiency? Pulmonary oedema?
-• C: blood pressure? Shock?
-• D: level of consciousness?
-• E: fever? Leg swelling?
-
-Consider
-• Oxygen 10 L/min
-• Large PVC
+• B: hypoxemi? lungödem?
+• C: hypotension-shock?
+• D: medvetandesänkning?
+• E: feber? bensvullnad?
+• Hyper- hypokalemi?
 
 
 
-Title/2. Emergent Cardioversion?
+Title/2. Utlösande faktor?
 Text/
-Indication: severe symptoms (resp insufficiency, shock) due to the tachycardia
-
-Contraindication: tachycardia and instability secondary to another condition (e.g. sepsis, pulmonary embolism) 
-
-• Sedation with Propofol 0.5 mg/ml or Ketamine 1 mg/kg IV over 1 min
-
-• SYNCHRONIZE
-
-• 200 J (2 J/kg)
-
-• If refractory:  Amiodarone 300 mg in glucose 50 mg/ml 100 ml IV over 10 min then reattempt cardioversion
+• Hypovolemi/blödning?
+• Lungemboli?
+• Myokardischemi?
+• Sepsis?
+• Hypokalemi? Hypocalcemi? Hypomagnesiemi?
+• Intoxikation?
+• Abstinens?
+• Tyreotoxikos?
 
 
 
-Title/3. Blood Tests & 12-Lead EKG
+Title/3. Elkonvertering?
 Text/
-• Potassium?  Calcium?
+Indikation:
+• Svåra symptom (resp insuff, shock) sekundära till takykardin
 
-• 12-lead EKG
+Kontraindikation:
+• Takykardi och svåra symtom sekundära till annat tillstånd (t ex sepsis, lungemboli) 
+
+1-Sederingsval
+• Propofol 10 mg/ml 0,5 mg/kg IV
+• Esketamine 5 mg/ml 0,5 mg/kg IV + Midazolam 1 mg/ml 1 mg IV
+
+2-Elkonvertering
+• SYNKRONISERA
+• 200 J (Barn: 2 J/kg)
+
+3-Refraktär?
+• SYNKRONISERA IGEN
+• 360 J (Barn: 4 J/kg)
+• Byt plattor från antero-lateral till antero-posterior sedan nytt försök
+• Amiodaron 50 mg/ml 6 ml (300 mg) i 100 ml Glukos 50 mg/ml IV over 10 min sedan nytt försök
 
 
 
-Title/4. Precipitants?
+Title/4. Vidare handläggning
 Text/
-• Hypovolemia / bleeding?
-• Pulmonary embolism?
-• Myocardial ischemia?
-• Sepsis / infection?
-• Poisoning?
-• Withdrawal?
-• Thyrotoxicosis?
-
-Consider Ultrasound
-
-
-
-Title/5. Further Management
-Text/
-• Regular + Narrow QRS
-• Irregular + Narrow QRS
-• Regular + Wide QRS
-• Irregular + Wide QRS
+Val:
+• Regelbunden + smal QRS
+• Regelbunden + bred QRS
+• Oregelbunden + smal QRS
+• Oregelbunden + bred QRS

@@ -1,26 +1,27 @@
-ALLMÄN
-Hjärtstopp, icke-traumatisk
-Hjärtstopp, traumatisk
-Trauma nivå 1
-Nyfödda
+ALLMÄNT
+Hjartstopp, icke-traumatisk
+Hjartstopp, traumatisk
+Trauma niva 1
+Crashing patient
+Nyfodda
 Samtycke
-Aggressiv - Agiterad
+Agiterad
 ----------------------------------------
 AIRWAY
-Övre luftvägshinder
+Ovre luftvagshinder
 ----------------------------------------
 BREATHING
 Hemoptys
-Hypoxemi-lågt SpO2
+Hypoxemi - lagt SpO2
 ----------------------------------------
 CIRCULATION
-Lågt blodtryck - chock
+Lagt blodtryck - chock
 Bradykardi
 Takykardi
-Takykardi reg + smal QRS
-Takykardi reg + bred QRS
-Takykardi oreg + smal QRS
-Takykardi oreg + bred QRS
+Takykardi regelbunden + smal QRS
+Takykardi regelbunden + bred QRS
+Takykardi oregelbunden + smal QRS
+Takykardi oregelbunden + bred QRS
 ----------------------------------------
 DISABILITY
 Medvetanderubbning
@@ -29,6 +30,7 @@ Krampanfall
 EXPOSURE
 Hypotermi
 Hypertermi
+Brannskada - rokgasinhalation
 ----------------------------------------
 ELEKTROLYTER
 Hyponatremi
@@ -39,4 +41,12 @@ Hypocalcemi
 Hypercalcemi
 ----------------------------------------
 INTOXIKATIONER
-intoxikation allmänt
+Íntox Allmant
+Intox Natrium-kanalblockad
+Intox Kalium-kanalblockad
+Intox Kalciumantagonist/Beta-blockerare
+Intox Lokalbedovningsmedel (LAST)
+----------------------------------------
+SMÄRTA
+Brostsmarta
+Buksmarta

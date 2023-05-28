@@ -1,0 +1,80 @@
+Title/1. Akut elkonvertering?
+Text/
+• Vid hypoxemi, chock, medvetandesänkning: se Problem/Takykardi
+
+
+
+Title/2. Differentialdiagnos
+Text/
+• Förmaksflimmer (inga P-vågor, helt oregelbunden)
+
+• Förmaksfladder med varierande AV-överledning (fladder vågor kring 300 slag/min i bakgrund, ej helt oregelbunden)
+
+• Ektopisk förmakstakykardi med varierande AV-överledning (P-vågor vanligtvis 130 - 250 slag/min i bakgrund, ej helt oregelbunden)
+
+• Multifokal förmakstakykardi (P-vågor med ≥ 3 olika morfologier)
+
+
+
+Title/3. Sekundär flim/fladder?
+Text/
+• Vid snabb flim/fladder sekundärt till tillstånd nedan behandlas tillståndet initialt, ej takykardin
+
+Överväg:
+• Hypovolemi/blödning?
+• Lungemboli?
+• Myokardischemi?
+• Sepsis?
+• Hypokalemi? Hypocalcemi? Hypomagnesiemi?
+• Intoxikation?
+• Abstinens?
+• Tyreotoxikos?
+
+
+Title/4. Paroxysmal flim/fladder: elkonvertering?
+Text/
+Indikation:
+• Säkert duration < 48 tim eller antikoagulantia i ≥ 3 veckor
+
+Kontraindikation:
+• Stroke/TIA inom 6 månader eller mekanisk hjärtklaff
+
+Elkonvertering efter TEE kan vara aktuellt om patienten
+• Inte uppfyller indikationen
+• Har en kontraindikation
+
+
+
+Title/5. Paroxysmal flimmer: Brinavess?
+Text/
+Indikation:
+• Alternativ till elkonvertering
+• Säkert duration < 48 tim eller antikoagulantia i ≥ 3 veckor
+
+Kontraindikationer:
+• Stroke/TIA inom 6 månader eller mekanisk hjärtklaff
+• Hjärtsvikt medelsvår (andfådd vid lätt fysisk aktivitet) eller svår (andfådd i vila)
+• AKS inom 30 dagar
+• Svår aortastenos
+• SBT < 100 mm Hg
+• QT-tid > 440 ms (QTc-tid > 500 ms)
+• Svår bradykardi, AV-block II eller AV-block III och ingen pacemaker
+• Antiarytmika Klass I eller Klass III (t ex Amiodaron) inom senaste 4 timmar
+
+Infusion #1
+• Brinavess 3 mg/kg IV över 10 min
+
+Om förmaksflimmer fortsätter 15 minuter efter infusion #1
+• Brinavess 2 mg/kg IV över 10 min
+
+Title/6. Paroxysmal flim/fladder: frekvenskontroll?
+Text/
+Indikation:
+• Paroxysmal flim/fladder där konvertering till sinus ej aktuellt
+
+Val:
+• Seloken 5 mg IV. Kontraindicerad vid akut hjärtsvikt och svår astma
+• Digoxin 0,5 mg IV
+• Amiodaron 50 mg/ml 6 ml i Glukos 50 mg/ml 250 ml IV över 30 min:
+- vid utebliven frekvenskontroll med digoxin och/eller beta-blockerare
+- istället för beta-blockerare hos patienter med EF < 40%

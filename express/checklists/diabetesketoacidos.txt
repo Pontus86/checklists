@@ -1,0 +1,81 @@
+Title/1. Diagnos
+Text/
+Talar för DKA:
+• Känd typ 1 diabetes eller hyperglykemi
+• Kapillära ketoner > 3 mmol/L, ökat anjongap
+• Ingen annan förklaring för ökat anjongap/ketoner
+
+Obs:
+• Glukos kan vara < 12 mmol/L, särskilt vid användning av SGLT2-hämmare (t ex Forxiga)
+• pH kan vara > 7,35 vid samtidig metabolalkalos från kräkning/intorkning
+
+
+Title/2. Lågt blodtryck - chock?
+Text/
+• Ringer-Acetat 500 ml bolus (barn: 10 ml/kg)
+
+
+
+Title/3. Vätska
+Text/
+• Ringer-Acetat 1000 ml över 2 timmar initialt
+
+
+
+Title/4. Kalium
+Text/
+Kontraindikation:
+• Kalium ≥ 5,3 mmmol/L
+• Chock, ingen diures
+
+Hur man gör:
+• NaCl 1000 ml + Kaliumklorid 2 mmol/ml 20 ml (40 mmol)
+• Infusion 1020 ml över 4 timmar (10 mmol KCl / tim)
+
+
+
+Title/5. Insulin
+Text/
+Kontraindikation:
+• Kalium < 3,3 mmmol/L
+
+Hur man gör:
+• Lispro/Humalog eller Aspart/Novorapid 100 E/ml 0,5 ml (50 E) + 49,5 ml NaCl = 1 E/ml
+• Infusion 0,05 E/kg/tim.  Om patienten väger 80 kg blir det 4 E/tim = 4 ml/tim
+• VSSI = Volym Som Ska Infunderas: motsvarande 2 timmar
+
+Alternativt ges insulin bolus som bro till infusion:
+• Lispro/Humalog eller Aspart/Novorapid 100 E/ml 0,5 ml (50 E) + 49,5 ml NaCl = 1 E/ml
+• 0,05 E/kg. Om patienten väger 80 kg blir det 4 E = 4 ml IV
+
+
+
+Title/6. Glukos
+Text/
+Indikation:
+• Glukos < 15 mmol/L
+
+• Glukos 50 mg/ml 1000 ml IV över 2 tim 
+
+
+
+Title/7. Utlösande faktor
+Text/
+Överväg:
+• Infektion: antibiotika?
+• Insulinpump problem / non-compliance
+
+
+
+Title/8. Vidare handläggning
+Text/
+• Inläggning på AIMA (IVA)
+
+• Ny blodgas varannan timme och justering av:
+-Vätska (som regel Ringer-Acetat 500 ml/tim i 4 timmar sedan 250 ml/tim)
+-Kalium-infusion
+-Insulin-infusion
+-Glukos-infusion
+
+• Målet är en minskning i effektiv osmolaritet (2xNa + glukos) på < 3 mmol/L/tim
+-Vid för snabb minskning ges glukos-infusion eller byt till Glukos 100 mg/ml

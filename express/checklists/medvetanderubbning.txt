@@ -13,12 +13,13 @@ Svårt sjuk + svårt agiterad:
 Title/2. Glukos?
 Text/
 Vid hypoglykemi:
-• IV Glukos 300 mg/ml 30 ml (100 mg/ml 2 ml/kg) IV
+• IV Glukos 300 mg/ml 30 ml IV
 • IM Glukagon 1 mg
+• Barn: Glukos 50 mg/ml 4 ml/kg IV
 
 Vid hyperglykemi:
-• DKA?
-• HHS?
+• Diabetesketoacidos?
+• Hyperglykemiskt hyperosmolär syndrom?
 
 
 

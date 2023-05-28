@@ -1,0 +1,70 @@
+Title/1. Diagnos
+Text/
+Talar för HHS:
+• (Na x 2) + glukos ≥ 320 mmol/L
+
+Obs:
+• Patienter kan lida av både HHS och DKA
+
+Title/2. Lågt blodtryck - chock?
+Text/
+• Ringer-Acetat 500 ml bolus (barn: 10 ml/kg)
+
+
+Title/3. Vätska
+Text/
+Risk:
+• Lungödem hos patienter med kronisk njursvikt 
+
+• Ringer-Acetat 1000 ml/tim
+
+
+
+Title/4. Kalium
+Text/
+Kontraindikation:
+• Kalium > 5,0 mmmol/L
+• Chock, ingen diures
+
+Hur man gör:
+• NaCl 1000 ml + Kaliumklorid 2 mmol/ml 20 ml (40 mmol)
+• Infusion 1020 ml över 4 timmar (10 mmol KCl / tim)
+
+
+
+Title/5. Insulin
+Text/
+Indikation:
+• Samtidig DKA (kapillära ketoner > 3 mmol/L)
+
+Kontraindikation:
+• Lågt blodtryck - chock
+• Kalium < 3,3 mmol/L
+
+Hur man gör:
+• Lispro/Humalog eller Aspart/Novorapid 100 E/ml 0,5 ml (50 E) + 49,5 ml NaCl = 1 E/ml
+• Infusion 0,05 E/kg/tim.  Om patienten väger 80 kg blir det 4 E/tim = 4 ml/tim
+• VSSI = Volym Som Ska Infunderas: motsvarande 2 timmar
+
+
+
+Title/5. Utlösande faktor
+Text/
+Överväg:
+• Infektion: antibiotika?
+• Infarkt (t ex hjärtinfarkt, stroke)
+• Inflammation (t ex pankreatit)
+
+
+
+Title/6. Vidare handläggning
+Text/
+• Inläggning på AIMA (IVA)
+
+• Ny blodgas varannan timme och justering av:
+-Vätska (ofta 3-4000 ml under första 4 tim)
+-Kalium-infusion
+-Insulin-infusion om glukos ej sjunkande + ej chock + Kalium ≥ 3,5 mmmol/L
+
+• Målet är en minskning i effektiv osmolaritet (2xNa + glukos) på < 3 mmol/L/tim
+-Vid för snabb minskning ges glukos-infusion

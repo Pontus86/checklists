@@ -1,0 +1,99 @@
+Title/1. Akut elkonvertering?
+Text/
+• Vid hypoxemi, chock, medvetandesänkning: se Problem/Takykardi
+
+
+
+Title/2. Hyper- hypokalemi?
+Text/
+• Se Problem/hyperkalemi
+
+• Se Problem/hypokalemi
+
+
+
+Title/3. Intox natrium-kanalblockad?
+Text/
+• Se Problem/Intox Natrium-kanalblockad
+
+
+
+Title/4. Differentialdiagnos
+Text/
+• VT (80% av fall; > 90% vid tidigare hjärtinfarkt)
+
+• SVT (Sinustakykardi/fladder/EAT/AVNRT) +
+-Grenblock
+-Accessorisk ledningsbana
+-Hyperkalemi
+-Intox natrium-kanalblockad
+
+• AVRT antidrom
+
+Se tidigare EKG:
+• Grenblock, samma QRS-mönster?
+• Delta-våg?
+
+
+
+Title/5. Tolkning 12-avlednings EKG
+Text/
+Bekräftar VT:
+• AV dissociation (P vågor långsammare + oberoende av QRS-komplex)
+• Capture beat, fusion beat
+
+Talar för VT:
+• Positiv konkordans: QRS positiva V1-V6
+• Negativ konkordans: QRS negativa V1-V6
+• Extrem axel: QRS negativa in I och aVF)
+• QRS > 160 msec
+• RS > 100 msec (från början av R till botten av S) i ≥ 1 av V1-V6 
+
+
+
+Title/6. Lewis Lead?
+Text/
+Indikation:
+• Enbart AV-dissociation är 100% specifik för VT
+• Lewis lead kan tydliggöra P-vågor
+
+Hur man gör:
+• Standard 12-avlednings-EKG
+• Elektroden från höger arm flyttas till interkostalrum 2 till höger av sternum
+• Elektroden från vänster arm flyttas till interkostalrum 4 till höger av sternum
+• Öka amplitud till 20 mm/mV
+• Ta om EKG, leta efter P-vågor i avl I
+
+
+
+Title/7. Esofagus-EKG?
+Text/
+Indikation:
+• Enbart AV-dissociation är 100% specifik för VT
+• Överväg esofagus-EKG om EKG/Lewis-lead inte avslöjar AV-dissociation
+
+Hur man gör:
+• Se Ingrepp/Esofagus-EKG
+• Dra ut elektroden längs esofagus tills att P-vågor är synliga
+• Registrera och tryck ut EKG
+
+
+Title/8. VT?
+Text/
+Val:
+• Amiodaron 300 mg i Glucose 50 mg/ml 250 ml IV över 20 min
+• Elkonvertering (se Problem/Takykardi)
+
+
+
+Title/9. SVT/AVRT?
+Text/
+• Adenosin 5 mg/ml 1 ml IV bolus följt av 10 ml NaCl bolus
+• Registrera svar (t ex via monitor, defibrillatorn, eller esofagus-elektrod)
+• Ingen effekt: ge 2 ml (10 mg) sedan 3 ml (15 mg) bolus
+• Barn: 0,1 mg/kg start dos; ingen effekt 0,2 mg/kg, sedan 0,3 mg/kg
+
+Tolkning
+• Takykardin bryts: AVNRT eller AVRT
+• Takykardin försvinner tillfälligt sedan åter: fladder/EAT (Se Problem/Takykardi regelbunden + smal)
+• Takykardin bryts inte alls: VT

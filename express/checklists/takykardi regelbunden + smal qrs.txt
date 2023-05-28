@@ -1,0 +1,106 @@
+Title/1. Akut elkonvertering?
+Text/
+• Vid hypoxemi, chock, medvetandesänkning: se Problem/Takykardi
+
+
+
+Title/2. Differentialdiagnos
+Text/
+• Sinustakykardi: HF < 150 slag/min; positiv P-våg i avl II
+
+• Förmaksfladder: HF ofta kring 150 slag/min vid 2:1 överledning
+
+• Ektopisk förmakstakykardi (EAT): negativt P-våg i avl II, PR kort eller lång
+
+• AVNRT
+
+• AVRT ortodrom: ofta deltavåg vid sinusrytm
+
+Obs:  2-5% av VT har QRS-bred 110-120 msec
+
+
+
+Title/3. Lewis Lead?
+Text/
+Indikation
+• För att tydligare kunna identifiera P-vågor i förhållande till QRS-komplex
+
+Hur man gör:
+• Standard 12-avlednings-EKG
+• Elektroden från höger arm flyttas till interkostalrum 2 till höger av sternum
+• Elektroden från vänster arm flyttas till interkostalrum 4 till höger av sternum
+• Öka amplitud till 20 mm/mV
+• Ta om EKG, leta efter P-vågor i avl I
+
+
+
+Title/4. Valsalva?
+Text/
+Indikation
+• Kan bryta AVNRT/AVRT, avslöja P-vågor
+
+Hur man gör:
+• Patient halvsittande
+• Patienten blåser i en 20 ml spruta så hårt som möjligt i 15 sek
+• Direkt därefter läggs patienten i planläge och benen höjs i 45° i 15 sek
+
+Barn: handske fylld med is + vatten läggs på pannan
+
+
+
+Title/5. Adenosin?
+Text/
+Indikation:
+• Utebliven effekt av Valsalva-manöver
+
+Kontraindikationer/risker:
+• Biverkningar vid tidigare behandling
+• Svår hypotoni, instabil angina
+• I sällsynta fall kan Adenosin utlösa brady- eller takyarytmier
+
+Hur man gör:
+• Defibrillator (via 3-avl EKG) kan skriva ut rytmremsa vid behandling
+• Adenosin 5 mg IV BOLUS följt av 10 ml NaCl IV bolus
+• Inget effekt: Adenosin 10 mg IV bolus + NaCl flush
+• Inget effekt: Adenosin 15 mg IV bolus + NaCl flush
+• Barn: 100 ug/kg, 200 ug/kg, 300 ug/kg
+
+Tolkning:
+• Arytmin bryts: talar för AVNRT/AVRT
+• Tillfällig bradykardi, förmaksaktivitet syns: fladder/EAT
+• Ingen effekt alls: VT?
+
+
+
+Title/6. Amiodaron?
+Text/
+Indikation:
+• Paroxysmal SVT som inte bryts av Valsalva eller Adenosin
+
+Kontraindikation
+• Misstänkt fladder > 48 tim och ingen antikoagulantia i ≥ 3 veckor
+
+• Amiodaron 50 mg/ml 6 ml (300 mg) i Glukos 50 mg/ml 250 ml IV över 20 min
+
+
+
+Title/7. Elkonvertering?
+Text/
+Indikation
+• Paroxysmal SVT som inte bryts av Valsalva eller Adenosin
+
+Kontraindikation
+• Misstänkt fladder > 48 tim och ingen antikoagulantia i > 4 veckor
+
+1-Sederingsval
+• Propofol 10 mg/ml 0,5 mg/kg IV
+• Esketamine 5 mg/ml 0,5 mg/kg IV + Midazolam 1 mg/ml 1 mg IV
+
+2-Elkonvertering
+• SYNKRONISERA
+• 200 J (2 J/kg)
+
+3-Refraktär?
+• SYNKRONISERA IGEN
+• 360 J (4 J/kg)
+• Byt plattor från antero-lateral till antero-posterior

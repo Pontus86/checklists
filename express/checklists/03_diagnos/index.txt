@@ -1,32 +1,35 @@
 AIRWAY
 Anafylaxi
-Angioödem
-Övre luftväg främmande kropp
+Angioodem
+Frammande kropp ovre luftvag
 ----------------------------------------
 BREATHING
 Astmaanfall
 COVID-19
 Epiglottit
-Kol exacerbation
+KOL-exacerbation
 Influenza
-Lungödem
+Lungodem
 Pneumoni
 ----------------------------------------
 CIRCULATION
 Addisonkris
 Anafylaxi
 Aortadissektion
-Blödningschock
-Hjärttamponad
+Blodningschock
+Hjarttamponad
 Hypertensiv kris
 Kardiogen chock
 Lungemboli
 Neurogen chock
 Sepsis
-Övertrycks pneumothorax
+Overtrycks pneumothorax
 ----------------------------------------
 DISABILITY
-Ökat intrakraniellt tryck
+Okat intrakraniellt tryck
 Krampanfall
 ----------------------------------------
-EXPOSURE
+GLUKOS & EKG
+Diabetesketoacidos
+Hyperglykemiskt hyperosmolart syndrom
+STEMI-OMI

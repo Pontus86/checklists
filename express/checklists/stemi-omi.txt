@@ -1,0 +1,112 @@
+Title/1. Diagnos
+Text/
+Vid OMI (Occlusion Myocardial Infarction) motiveras direkt kontakt med HIA-jour (71414) för ställning till akut PCI. OMI kriterier:
+
+• ST-höjningar i 2 intilliggande avledningar (STEMI)
+• Hyperakuta T-vågor, De Winter (ST-sänkning V1-V6 före toppig hyperakut T-våg)
+• ST-höjning i III och ST-sänkning i aVL eller tvärtom
+• Sgarbossa:
+- Positiv konkordans (QRS+ och STE > 1 mm)
+- Negativ konkordans (QRS- och STD > 1 mm) i V1, V2 eller V3
+- Excessiv diskordans (STE > 25% av förekommande Q-våg)
+
+
+
+Title/2. Oxygen?
+Text/
+Indikation:
+• SpO2 < 95%
+
+Val:
+• Mask med reservoar 10-15 L/min
+• Oxymask 1-10 L/min
+• Mask utan reservoar 5-10 L/min
+• Näsgrimma 1-4 L/min
+
+
+
+Title/3. Aortadissektion?
+Text/
+• Kan ockludera kranskärl
+
+• Överväg vid urakut debut av skarp svår smärta
+
+• Ultraljud kan stärka misstanken men inte utesluta
+
+• Överväg prio 1 CT innan anti-trombocyter/antikoagulantia
+
+
+
+Title/4. Typ 2 infarkt?
+Text/
+Överväg typ 2 infarkt sekundärt till
+• Infektion
+• Anemi
+• Arytmi
+
+Behandla orsaken
+
+
+
+Title/5. V4R, V7-V9?
+Text/
+Högerkammar/posterior STEMI kan förekomma vid inferiorinfarkt.
+
+• Överväg 12-avl EKG med V4R istället för V4 (högerkammar STEMI?)
+
+• Överväg 12-avl EKG med V7-8-9 istället för V1-2-3 (posterior STEMI?)
+
+
+
+Title/6. HIA-jour (71414)
+Text/
+• Vid misstänkt OMI, ställning till PCI
+
+
+
+Title/7. Trombyl?
+Text/
+Indikation:
+• Misstänkt OMI
+
+Kontraindikationer
+• Allergi
+• Misstänkt aortadissektion
+
+Dos
+• Trombyl 75 mg x 4 PO
+
+
+
+Title/8. Lipitor?
+Text/
+Indikation:
+• Misstänkt OMI
+
+• Atorvastatin (Lipitor) 80 mg PO
+
+
+
+Title/9. Heparin?
+Text/
+Indikation:
+• Misstänkt OMI
+
+• Heparin 50-70 E/kg IV bolus, max 5000 E
+
+
+
+Title/10. Morfin/Nitroglycerin?
+Text/
+Indikation:
+• Smärta
+• Rekommenderas ej rutinmässigt
+
+Relativa kontraindikationer:
+• SBT < 110 mm Hg
+• Högerkammarinfarkt
+
+Läkemedel
+• Morfin 10 mg/ml 0,4 ml IV 
+• Överväg Primperan 10 mg IV
+• Nitroglycerin 1 puff SL

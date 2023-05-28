@@ -1,0 +1,64 @@
+Title/1. Stop the Injection
+Text/
+Indication: onset of symptoms suggestive of LAST (e.g. circumoral numbness)
+
+
+
+Title/2. Cardiac Arrest?
+Text/
+Indication: unconscious + not breathing + no definite pulse
+
+• Adrenalin: limit adrenalin boluses to ≤ 1 mcg/kg IV since adrenalin may limit the efficacy of lipid therapy. Give small boluses of 10-100 mcg.
+• Amiodarone: administer in the setting of ventricular arrhythmias
+• ECMO: call for ECMO early with LAST requiring CPR. ECMO may require until the LOA diffuse from the cardiac sodium channel receptors.
+
+
+
+Title/3. Oxygen
+Text/
+Indication: all patients. Hypoxia potentiates LA toxicity.
+
+• High flow oxygen via mask
+
+
+
+Title/4. Ventilation?
+Text/
+Indication: hypoventilation. Acidosis potentiates LA toxicity. Hyperventilation may help by increasing the pH.
+
+• Ventilate using bag-valve-mask
+
+
+
+Title/5. Lipid Emulsion
+Text/
+Indication: seizures or impending seizures, or signs of cardiovascular toxicity (arrhythmias, severe hypotension, or cardiac arrest)
+
+• Lipid Emulsion 20% 1.5 ml/kg (100 ml for a 70 kg adult) IV over 1 min
+• Repeat boluses:  give up to a maximum of 2 repeat boluses at 5-minute intervals if cardiovascular instability
+• Infusion 15 ml/kg/hr = 0.25 mg/kg/min = 1000 ml/hr for a 70 kg adult. The infusion rate can be doubled if persistent cardiovascular instability. Continue infusion for at least 10 minutes after hemodynamic stability is achieved.
+• Maximum cumulative dose: 12 ml/kg (800 ml for 70 kg adult).
+
+
+
+Title/6. Seizures?
+Text/
+• Benzodiazepines as first line (e.g. Diazepam 10 mg IV 0.2 mg/kg)
+• Thiopentone 1 mg/kg or phenobarbital as second line
+• Avoid Phenytoin (which blocks sodium channels) and Propofol (cardiodepressant)
+
+
+
+Title/7. Sodium Bicarbonate?
+Text/
+Indication: there is little in the literature about sodium bicarbonate use, even though it is advocated for sodium channel receptor blockade in poisonings such as TCA-overdose. The literature recommends NaHCO3 in the setting of wide QRS complex
+
+• Sodium bicarbonate (50 mg/ml) 200 ml (120 mEq) IV push for an adult (3 ml/kg = 2 mEq/kg for a child).
+
+
+
+Title/8. Methylene blue
+Text/
+Indication: methemoglobinemia
+
+• Methylene blue 1-2 mg/kg IV

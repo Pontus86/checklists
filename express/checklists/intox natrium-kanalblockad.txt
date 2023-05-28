@@ -1,0 +1,70 @@
+Title/1. Crystalloids?
+Text/
+Indication: hypotension
+
+• Crystalloid 500 ml IV boluses (10 ml/kg).
+
+
+
+Title/2. NaHCO3?
+Text/
+Indication: QRS > 100 msec or hypotension or ventricular arrhythmias. Sodium bicarbonate works by increasing the transmembrane Na gradient and alkalinising the blood.
+
+• Sodium bicarbonate (50 mg/ml) 200 ml (120 mEq) IV push (3 ml/kg = 2 mEq/kg for a child). Can repeat after 5 min. An infusion of NaHCO3 is recommended afterwards.
+
+
+
+Title/3. Magnesium?
+Text/
+•	Indication: ventricular arrhythmia despite two treatments with NaHCO3
+•	Magnesium 2.5 g (Addex-Magnesium 1 mmol/ml 10 ml) IV over 2 min.
+
+
+
+Title/4. Vasopressors?
+Text/
+Indication: hypotension despite sodium bicarbonate and crystalloid therapy. To counter the alpha adrenergic antagonist effect of TCAs.
+
+• Adrenalin 0.1 mg/ml 1 ml mixed with 9 ml NaCl. Administer 2 ml (20 µg) IV bolus. Repeat after 3 min if necessary. Noradrenalin infusion (see Emergency Medications).
+
+
+
+Title/5. Hyperventilation?
+Text/
+Indication: if NaHCO3 therapy alone is insufficent to reach the target pH of 7.50-7.55. Acidosis increases free drug binding to the sodium channel.
+
+• Hyperventilate to a target pH of 7.50 - 7.55.
+
+
+
+Title/6. Hypertonic Saline?
+Text/
+Indication: hypotension refractory to NaHCO3, fluid resuscitation and vasopressor therapy. Hypertonic saline works by increasing the transmembrane sodium gradient.
+
+• Hypertonic saline 3% 100 ml IV bolus. Add NaCl Concentrate (Addex®-Natriumklorid) 4 mmol/L 10 ml to 100 ml of 0.9% NaCl, yielding a 110 ml solution containing 55 mmol NaCl (2.9%). Can administer twice with 10 min interval.
+
+
+
+Title/7. Seizures?
+Text/
+Indication: seizure in the presence of sodium channel blockade toxicity
+
+• Benzodiazepines followed by Propofol.
+• Phenytoin contraindicated according to some sources since it may worsen cardiac toxicity.
+
+
+
+Title/8. Rescue Therapies?
+Text/
+• Lidocaine 1.5 mg/kg IV if ventricular arrhythmias despite above therapy
+• Lipid emulsion (Intralipid® 20%) 100 ml (1.5 ml/kg) IV over 1 min. Can repeat twice
+• Cardiac pacing
+• Extracorporeal membrane oxygenation
+
+
+
+Title/9. Further Management
+Text/
+• Concomittant potassium channel blockade? Many of the substances that block Na channels also K potassium channels. See Potassium Channel Blockade Toxidrome.
+
+• Admission: patients should be admitted with continuous QRS monitoring.

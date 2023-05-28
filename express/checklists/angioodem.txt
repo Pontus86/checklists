@@ -1,0 +1,78 @@
+Title/1. Kalla på hjälp?
+Text/
+Indikation: hotande övreluftvägshinder
+
+Val:
+• 50000
+• Anestesilarm 77900
+• ÖNH 71061
+
+
+
+Title/2. Adrenalin IM?
+Text/
+Indikation: larynxödem
+
+
+• Adrenalin 1 mg/ml 0,5 ml IM (0,15 mg eller 10 µg/kg)
+• Upprepas var 10:e min vid behov
+
+Adrenalin funkar framförallt vid histamin-utlöst angioödem (klåda, utslag)
+Kan vara ineffektiv vid bradykinin-utlöst angioödem (hereditär, ACE-hämmare)
+
+
+
+
+Title/3. Övre luftvägsåtgärder
+Text/
+Indikation: ha beredskap om övre luftvägshinder utvecklas
+
+Mental förberedelse för:
+• Fiberlaryngoskopi
+• Fiberintubation
+• Coniotomi
+
+
+
+
+Title/4. Cyklokapron?
+Text/
+Indikation: misstänkt bradykinin-utlöst (hereditär, ACE-hämmare)
+
+• Cyklokapron 100 mg/ml 10 ml IV över 10 min
+
+
+
+
+Title/5. Berinert/Fyrazir?
+Text/
+Indikation:
+• Misstänkt bradykinin-utlöst (hereditär, ACE-hämmare)
+• Kontakt med ÖNH (71061) gällande beslut om behandling
+
+Val:
+• Fyrazir 30 mg SC
+• Berinert 1000 - 1500 IE (20 IE/kg, avrunda till närmast 500 IE) långsam IV infusion
+
+
+
+
+
+Title/6. FFP?
+Text/
+Indikation:
+• Misstänkt bradykinin-utlöst (hereditär, ACE-hämmare) med hotad övre luftväg
+• Ingen tillgång till Berinert eller Fyrazir
+
+• 2 enheter färsk frusen plasma IV
+
+
+
+
+Title/7. Antihistamin & kortikosteroid
+Text/
+Indikation: histamin-utlöst angioödem (klåda, utslag)
+
+• Taveyl 1 mg/ml 2 ml IV
+• Betapred 4 mg/ml 2 ml IV
+

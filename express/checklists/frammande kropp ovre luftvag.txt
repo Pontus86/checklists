@@ -1,0 +1,41 @@
+Title/1. Kalla på hjälp?
+Text/
+
+Val:
+• 50000
+• Anestesilarm 77900
+• ÖNH 71061
+
+
+
+Title/2. Medvetslös patient?
+Text/
+• 50,000 larm
+• Påbörja hjärt- lungräddning
+• Laryngoskopi
+• Försök seponera kroppen med MaGill tång
+• Annars intubera, trycka kroppen i hö bronk, ventilera vä lunga
+
+
+
+Title/3. Ineffektiv hosta? Kan ej prata? Cyanos?
+Text/
+• Ryggdunkningar x 5
+• Buktryck x 5
+• Upprepa tills förbättrad eller medvetslös
+
+Barn eller höggravid: bröstkompression istället för buktryck
+
+
+
+Title/4. Effektiv hosta? Kan prata?
+Text/
+• Ge syrgas
+• Förberedelse i fall patientens tillstånd försämras
+
+
+
+Title/5. Fortsatt vård
+Text/
+• Ställningstagande till lungröntgen vid röntgentätt föremål
+• Bronkoskopi vid misstänkt främmande kropp i luftvägen

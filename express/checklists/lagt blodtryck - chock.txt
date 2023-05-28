@@ -1,0 +1,162 @@
+Title/1. Ringer-Acetat bolus
+Text/
+• Ringer-Acetate 500 ml bolus IV (barn: 10 ml/kg)
+
+• PVC x 2
+
+• Svårstucken:
+- Intraosseösnål?
+- Ultraljudsledd PVK?
+
+
+
+Title/2. Adrenalin?
+Text/
+Indikation:
+• SBT < 70 mm Hg
+• Ingen radialispuls
+
+Adrenalin IM:
+• Adrenalin 1 mg/ml 0,5 ml IM (barn: 10 µg/kg)
+• Upprepa efter 3 min vid behov
+
+Om inget svar:
+• Adrenalin 0,1 mg/ml 1 ml i en 10 ml spruta
+• Späd med 9 ml NaCl
+• Ge 2 ml (20 µg) IV
+• Upprepa var 2:a min vid behov
+
+
+
+Title/3. 12-Lead EKG
+Text/
+• Ischemi? Se Diagnos/Kardiogen chock eller Diagnos/STEMI-OMI
+
+• Takykardi? Se Problem/Takykardi
+
+• Bradykardi? Se Problem/Bradykardi
+
+
+
+Title/4. Blodgas
+Text/
+• Hb?
+
+• Kalium?
+
+• Glukos?
+
+• Laktat?
+
+• Anjongap?
+
+
+
+Title/5. Ultraljud hjärta
+Text/
+• Perikardvätska? Högerkammar-påverkan?
+
+• Högerkammare > Vänsterkammare? D-sign?
+
+• Dålig kontraktilitet?
+
+
+
+Title/6. Ultraljud IVC
+Text/
+Liten (< 20 mm) + varierar (> 50% kollaps):
+• Hypovolem
+• Distributiv
+
+Stor (> 21 mm) + stel (< 50% kollaps)
+• Obstruktiv
+• Kardiogen
+
+
+
+Title/7. Ultraljud perihepatisk + perisplenisk
+Text/
+• Pleuravätka?
+
+• Intraperitoneal vätska (blödning)?
+
+• Hydronefros (avstängd pyelit)?
+
+
+
+Title/8. Ultraljud bukaorta
+Text/
+• Aneurysm > 5 cm (ruptur)?
+
+
+
+Title/9. Ultraljud lungor
+Text/
+• Lungsliding? Lung-point?
+
+• B-lines?
+
+• Konsolidering?
+
+• Pleuravätska (empyem)?
+
+
+
+Title/10. Övriga prov
+Text/
+Kvinna ≤ 50 år + chock UNS
+• Urinsticka gravtest
+
+Allmänna prov
+• Vita + trombocyter + CRP
+• PK + aPTT
+• Troponin
+
+Överväg
+• KAD för att följa urinproduktion
+• Kapillärt CRP
+
+
+
+Title/11. Förebygg hypotermi
+Text/
+Tänk på
+• Filt
+• Varma IV vätskor
+• Avlägsna blöta kläder
+
+
+
+Title/12. Differentialdiagnos
+Text/
+Hypovolem:
+• Blödning
+• Icke-blödning (diarré, diures, third-spacing?)
+
+Obstruktiv:
+• Lungemboli
+• Tamponad (aortadissektion?)
+• Övertryckspneumothorax
+
+Kardiogen:
+• Ischemi (OMI?)
+• Arytmi
+• Strukturell (papillarmuskelruptur?)
+• Intox (kalciumantagonist?)
+
+Distributiv:
+• Sepsis
+• Anafylaxi
+• Neurogenchock
+• Addisonkris
+
+
+
+Title/13. Vidare handläggning
+Text/
+• Se Diagnoser/CIRCULATION
+
+Noradrenalin sprutpump:
+• Noradrenalin 1 mg/ml 2 ml + 48 ml NaCl = 40 µg/ml
+• Bolus 10 µg
+• Start 0,1 µg/kg/min

@@ -1,0 +1,59 @@
+Title/1. Hjärtstopp?
+Text/
+• Addex-Magnesium 1 mmol/ml 10 ml späd med 10 ml NaCl IV över 2 min
+
+• Addex-Kaliumklorid 2 mmol/ml 10 ml späd med 10 ml NaCl IV över 2 min (helst via prox PVK eller CVK)
+
+
+
+Title/2. Livshotande arytmi?
+Text/
+• Addex-Magnesium 1 mmol/ml 10 ml späd med 10 ml NaCl IV över 10 min
+
+• Addex-Kaliumklorid 2 mmol/ml 10 ml späd med 250 ml NaCl IV över 15 min (helst via prox PVK eller CVK)
+
+
+ 
+Title/3. Långsam K + Mg infusion?
+Text/
+Indikation:
+• Kalium < 3,0 mmol/L
+
+• Addex-Kaliumklorid 2 mmol/ml 20 ml + Addex-Magnesium 1 mmol/ml 10 ml i 1000 ml NaCl IV över 4 tim (infusionspump)
+
+
+
+Title/4. Kaleorid PO?
+Text/
+Indikation:
+• Kalium < 3,5 mmol/L
+
+• Kaleorid 750 mg x 2-4 PO
+
+
+
+Title/5. Hjärtmonitorering?
+Text/
+Indikation:
+
+• Kontinuerlig hjärtmonitorering så länge K < 2,5 mmol/L
+
+
+
+Title/6. Prov
+Text/
+• EKG:
+- Förlängd QTc?
+- U-vågor (oftast V4-V6)?
+
+• Serum-Magnesium
+
+
+
+Title/7. Uppföljning Kalium
+Text/
+• Initialt var 2:a tim
+
+• Risk för överkorrigering vid
+- Njursvikt
+- Hypokalemi utlöst av shift (resp alkalos, beta-agonist)

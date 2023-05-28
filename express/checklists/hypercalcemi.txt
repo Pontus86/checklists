@@ -1,0 +1,81 @@
+Title/0. Background
+Text/
+INVESTIGATIONS
+• PTH
+• EKG
+
+ELECTROCARDIOGRAM
+O	•	Arrhythmias (VF, conduction defects, bradycardia) rarely occur
+•	Atrioventricular block progressing to complete heart block
+P	•	PR prolongation
+Q	•	QRS widening
+S	•	ST-segment elevation can occur with severe hypercalcemia
+T	•	Short QTc interval due to shortening of the heart's action potential
+
+Title/1. Normal Saline
+Text/
+Indication: normal saline infusion to start lowering the calcium is the first-line therapy. The goal is to replenish intravascular volume and lead to urine output of 100-150 ml/hr
+
+• Normal Saline: the volume and rate depend on comorbidities (e.g. heart failure) and symptoms. In general, 1000 ml over 4 hours.
+
+
+
+Title/2. Loop Diuretics
+Text/
+Indicated once the patient is euvolemic to block calcium reabsorption in the kidney
+
+• Furosemide 1 mg/kg IV
+
+
+
+Title/3. Biphosphonate
+Text/
+Indication: Biphosphonates such as Zoledronic acid and Pamidronate are first-line treatments for malignancy-induced hypercalcemia and a mainstay of treatment of moderate to severe hypercalcemia in general
+
+• Zoledronic acid 4 mg IV over 15 min or Pamidronate 60-90 mg IV over 2 hours. Dose adjustment in patients with renal disease.
+
+
+
+Title/4. Other Therapies?
+Text/
+• Prednisolone 40 mg/day in the setting of Hodgkin's disease, multiple myeloma, granulomatous disorders, excessive intake of Vitamin D
+
+• Hemodialysis and peritoneal dialysis are effective therapies for lowering calcium levels e.g. in patients refractory to other therapies or patients with congestive heart failure or renal failure with fluid overload for whom hydration cannot be used.
+
+
+
+Title/5. Medication Changes
+Text/
+• Discontinue medications that promote hypercalcemia, e.g. thiazide diuretics, Vitamin D, Vitamin A, Calcium supplements
+
+
+
+
+Title/6. Admission?
+Text/
+• Severe hypercalcemia (ionized Ca > 2.5 mmol/L)
+
+• Moderate hypercalcemia (ionized Ca 2.0 - 2.5 mmol/L) AND mental status changes
+
+• Cardiac monitoring is recommended for patients with severe hypercalcemia due to the risk of arrhythmias
+
+
+Title/7. DIAGNOSIS DIFFERENTIAL DIAGNOSIS OF HYPERCALCEMIA
+Text/
+Pathophysiology	Examples
+Hyper-parathyroidism	•	Primary hyperparathyroidism (leading cause, 50% of cases)
+•	Tertiary hyperparathyroidism (hyperplasia of the parathyroid gland in response to chronic hypocalcemia, unresponsive to calcium levels)
+Malignancy	•	Direct bone destruction, e.g. breast cancer, multiple myeloma
+•	PTH-rP (parathyroid related peptide), which mimics the biological effects of normal PTH, e.g. squamous-cell lung cancer
+•	Increased production of calcitriol, e.g. Hodgkin's lymphoma
+•	Other squamous cell tumors, , T-cell tumors, renal-cell carcinoma
+Granulomatous diseases	•	Sarcoidosis
+•	Tuberculosis
+•	Leprosy
+Immobilization	
+Drugs	•	Thiazide diuretics (increase renal calcium reabsorption)
+•	Antacids
+•	Lithium
+•	Vitamin A
+•	Vitamin D
+ 

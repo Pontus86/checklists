@@ -1,6 +1,6 @@
 Title/1. Adrenalin intramuskulärt (IM)
 Text/
-• Adrenalin 1 mg/ml 0,5 ml IM anterolateralt I låret
+• Adrenalin 1 mg/ml 0,5 ml IM anterolateralt i låret
 
 • Kan upprepas var 5:e min
 
@@ -14,14 +14,13 @@ Text/
 
 Title/3. Planläge/Sidoläge?
 Text/
-Indikation: lågt blodtryck/presynkop
+Indikation: lågt blodtryck/svimfärdig
 
 Kontraindikation: patienten vill vara sittande
 
+Välj:
 • Planläge
-
 • Sidoläge vid illamående
-
 • Vänstersidoläge om höggravid
 
 
@@ -36,11 +35,11 @@ Title/5. Övreluftvägs åtgärder?
 Text/
 Indikation: stridor, tungsvullnad
 
-• Luftvägslarm, kalla narkos ( ) eller ÖNH ( )
+• Anestesilarm 77900, ÖNH 71061
 
-• Adrenalin 1 mg/ml 5 ml nebuliserad
+• Adrenalin 1 mg/ml 1 ml nebuliserad
 
-• Övreluftvägs hinder (länk)
+• Se Problem/Airway/Övreluftvägs hinder
 
 
 
@@ -50,40 +49,40 @@ Indikation: bronchospasm/ronchi
 
 Risk: hypokalemi
 
-• Ventoline 2 mg/ml 2,5 ml (1 ampul) nebuliserad (kan ges till patient i sidoläge)
+• Ventoline 2 mg/ml 2,5 ml (1 ampul) nebuliserad
+• Kan ges till patient i sidoläge
 
 
 
-Title/7. Ringers acetat?
+Title/7. Ringer-Acetat?
 Text/
 Indikation: lågt blodtryck/takykard
 
-• Ringers acetat 1000 ml (20 ml/kg) IV bolus
+• Ringer-Acetat 1000 ml (20 ml/kg) IV bolus
 
 
 
 Title/8. Adrenalin intravenöst (IV)?
 Text/
-Indikation: svåra symtom trots adrenalin IM
+Indikation: svåra symtom trots Adrenalin IM
 
 Risk: arytmi (EKG monitorering)
 
-• Ta fram Adrenalin 0,1 mg/ml (ampull på 10 ml)
-• Ta fram en 10 ml spruta
-• Dra upp 1 ml av Adrenalin 0.1 mg/ml
-• Späd med 9 ml NaCl (ger en lösning på 10 microg/ml)
-• Ge 2 ml (20 microg) IV bolus.
+• Adrenalin 0,1 mg/ml (ampull på 10 ml)
+• Dra upp 1 ml i en 10 ml spruta
+• Späd med 9 ml NaCl (ger en lösning på 10 ug/ml)
+• Ge 2 ml (20 ug) IV bolus
 • Upprepad var 2:a min vid behov
 
 
 
-Title/9. Glucagon intravenöst (IV)?
+Title/9. Glukagon intravenöst (IV)?
 Text/
 Indikation: svåra symtom, svarar ej till adrenalin (pga beta-blockerare?)
 
 Risk: kräkning
 
-• Ta fram Glucagon 1 mg/ml
+• Glucagon 1 mg/ml
 • Spruta vätskan in i flaskan för att lösa upp pulvern
 • Dra upp lösningen MED EN VANLIG 2 ml SPRUTA
 • Injicera vätskan (1 ml) IV över 1 min
@@ -95,9 +94,9 @@ Title/10. Atropin?
 Text/
 Indikation: paradoxal bradykardi
 
-• Atropin 0,5 mg/ml 2ml IV.
+• Atropin 0,5 mg/ml 2 ml IV
 
-• Upprepa vid behov.  Hos vuxna kan man ge upp till 3 mg
+• Upprepa vid behov. Hos vuxna kan man ge upp till 3 mg
 
 
 
@@ -117,9 +116,9 @@ Text/
 
 Title/13. Observation
 Text/
-• Om patienten fått adrenalin IM:  4 timmars observation sedan administration
+• Om patienten fått adrenalin IM: 4 timmars observation sedan administration
 
-• Vid svåra symtom:  10 timmars observation
+• Vid svåra symtom: 10 timmars observation
 
 
 

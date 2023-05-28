@@ -1,0 +1,113 @@
+Title/1. Hjärtläge
+Text/
+• Höja sänghuvudet
+
+
+
+Title/2. Syrgas?
+Text/
+Indikation: SpO2 ≤ 90%
+
+Val:
+• Mask med reservoar 10-15 L/min
+• Oxymask 1-10 L/min
+• Mask utan reservoar 5-10 L/min
+• Näsgrimma 1-4 L/min
+
+
+
+Title/3. Furix?
+Text/
+Kontraindikation:
+• SBT < 90 mm Hg
+
+Risk:
+• Hypovolemi ska undvikas vid svår aortastenos
+
+• Furix 40 mg IV om patienten inte står på diuretika
+• Furix dygnets dos IV om patienten redan står på diuretika (t ex 80 mg IV om patienten tar Furix 40 mg x 2)
+
+
+
+Title/4. Nitroglycerin?
+Text/
+Indikationer:
+• SBP > 160 mm Hg (för att minska afterload)
+• Akut mitralis- eller aortainsufficiens
+• Otillräcklig svar till Furix
+
+Kontraindikationer:
+• SBT < 110 mm Hg
+• Svår mitraslis- eller aortastenos
+• Viagra-bruk inom 12 tim
+
+Val:
+• Nitroglycerin 1 spraydos (0,4 mg) var 2:a min tills blodtrycksänkning
+• Nitroglycerin 1 mg/ml 0,5 mg bolus IV var 3:e min
+• Nitroglycerin 1 mg/ml 10 ml + 40 ml NaCl = 200 µg/ml. 1,5 µg/kg/min (100 ug/min), titrera
+
+
+
+Title/5. CPAP/NIV?
+Text/
+Indikationer:
+• Hypoxemi trots åtgärder ovan
+• Respiratorisk acidos
+
+Kontraindikationer:
+• SBP < 85 mm Hg
+• Kräkning
+• Pneumothorax
+• Svår medvetandesänkning
+
+• EPAP 5 cm H2O, titrera upp till vid behov
+• Tillägg P-support 5 cm H2O vid hyperkapné, utmattning, KOL
+
+
+
+Title/6. Endotrakeal intubation + invasiv ventilation?
+Text/
+Indikationer:
+• Hypoxi och/eller hyperkapné utan svar på CPAP/NIV
+• Utmattning
+• Nedsatt medvetandegrad, kan ej skydda luftvägen
+
+• Narkos 78880
+• Anestesilarm 77900
+
+
+
+Title/8. Blodprov
+Text/
+• Pro-BNP
+• Troponin
+
+
+
+Title/9. Utlösande orsak?
+Text/
+Överväg:
+• Akut hjärtischemi (STEMI/OMI)?
+• Akut strukturellt problem (t ex papillarmuskelruptur)?
+
+
+
+Title/10. Övrigt
+Text/
+• Överväg KAD för att följa diures
+• Klexane 40 mg SC om ej på antikoagulantia
+
+
+
+Title/11. Morfin?
+Text/
+Indikation:
+• Svår ångest
+
+Risker:
+• Påverkan på andning och medvetandegrad
+• Associerad med ökad mortalitet
+• Rekommenderas ej rutinmässigt
+
+• Morfin 2 mg IV
+• Primperan 10 mg IV

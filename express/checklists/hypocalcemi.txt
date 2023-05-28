@@ -1,0 +1,46 @@
+Title/1. Information to get
+Text/
+• Ionized calcium
+• PTH
+• 25-OH-Vitamin D
+• Magnesium
+• Phosphate
+• EKG: heart block, prolonged QTc, T wave inversions?
+
+Title/2. Symptomatic Hypocalcemia
+Text/
+Indication: intravenous calcium is indicated in the setting of hypocalcemia, but contraindicated in the presence of hyperphosphatemia because of the risk of precipitation. 
+
+Intravenous magnesium is indicated in the setting of hypomagnesemia.
+• Calcium Gluconate 10% 30 ml IV
+• Magnesium Sulphate 1-2 g = 4-8 mmol IV (Addex®-Magnesium 1 mmol/ml 4-8 ml)
+
+Title/3. Asymptomatic Hypocalcemia
+Text/
+• Oral calcium
+• Consider vitamin D supplementation
+• Consider changing from loop diuretics to thiazide diuretics
+
+Title/4. DIFFERENTIAL DIAGNOSIS OF HYPOCALCEMIA
+Text/
+Pathophysiology	Examples
+Decreased oral intake, intestinal absorption, bone resorption	Hypo-parathyroidism	•	Surgical
+•	Autoimmune
+•	Hypomagnesemia (PTH resistance / suppressed secretion)
+•	Hypermagnesemia (when acute & severe: suppressed PTH secretion)
+	Vitamin D deficiency	•	Decreased intake/absorption of foods containing vitamin D
+•	Decreased exposure to ultraviolet light
+•	Decreased 25-hydroxylation in the liver
+•	Decreased 1-hydroxylation in the kidney
+•	Increased metabolism of Vitamin D to inactive metabolites
+Shift-binding	Hyper-phosphatemia	Hyperphosphatemia leads to increased calcium deposition in bone (mostly) and in extraskeletal tissues. Causes:
+•	Increased phosphorus intake
+•	Tissue breakdown (rhabdomyolysis, tumor lysis SD)
+•	Decreased renal excretion (e.g. acute renal failure)
+	Citrate	•	Transfusion of blood products
+	Bone mineralization	•	Osteoblastic bone metastases (breast, prostate cancer)
+•	Hungry bone syndrome
+	Fat	•	Pancreatitis
+	Respiratory alkalosis	•	Both acute and chronic respiratory alkalosis decrease ionized Ca
+Increased renal loss	Hypoparathyroidism leads to increased calcium renal excretion
+

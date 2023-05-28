@@ -1,0 +1,144 @@
+Title/1. Syrgas
+Text/
+Val:
+• Mask med reservoar 10-15 L/min
+• Oxymask 1-10 L/min
+• Mask utan reservoar 5-10 L/min
+• Näsgrimma 1-4 L/min
+
+
+Title/2. Esketamine?
+Text/
+Indikation: svårt agiterad + hypoxisk
+
+Val:
+• Esketamine 25 mg/ml 6 ml IM (3 ml i vardera låren)
+• Esketamine 5 mg/ml 6 ml IV över 2 min
+
+
+
+Title/3. Övre luftvägshinder?
+Text/
+Talar för:
+• Stridor
+• Snarkande
+• Svullen tunga
+• Låg EtCO2
+
+Se Problem/AIRWAY/Övre luftvägshinder
+
+Om intuberad:
+• EtCO2?
+• Fel tubläge (t ex i esophagus)?
+• Tub ockluderad (kan sugkateter passeras längs tuben?)
+
+Vid tveksam om tubläge: extubera
+
+
+
+Title/4. Hypoventilation?
+Text/
+Talar för:
+• Låg andningsfrekvens
+• Nedsatta tidala volymer
+• Högt EtCO2 och pCO2
+
+Val:
+• Ventilation med mask och blåsa (2-person-teknik)
+• Naloxon 0,4 mg/ml utspäd till 0,04 mg/ml; 2 ml (0,08 mg) IV
+• NIV (PEEP 3 cm H2O; P-support 5 cm H2O)
+
+
+
+Title/5. Pneumothorax / Pleuravätska?
+Text/
+Ultraljud pneumothorax:
+• Frånvaro av lung-sliding
+• Lung-point (diagnostisk)
+
+Ultraljud pleuravätska:
+• Positiv spine-sign
+
+Åtgärd:
+• Överväg pigtail/portex 12F i den säkra triangeln
+
+
+
+Title/6. Lungödem?
+Text/
+Talar för:
+• Bilaterala B-lines
+• Nedsatt hjärtkontraktilitet
+• IVC > 2 cm, IVC-CI < 50% 
+
+Se Diagnoser/BREATHING/Lungödem
+
+
+
+Title/7. Lungemboli?
+Text/
+Talar för:
+• Lågt blodtryck
+• EKG: negativa T-vågor V1-V4 + III; högergrenblock
+• Ultrasound: HK>VK, D-sign, McConnells sign
+• IVC > 2 cm, IVC-CI < 50%
+
+Se Diagnoser/CIRCULATION/Lungemboli
+
+
+
+Title/8. KOL- eller astmaexacerbation?
+Text/
+Talar för:
+• Förlängd expiration i förhållande till inspiration
+• Expiratoriska biljud
+• Frånvara av fynd på ultraljud som talar för annan orsak
+• Förhöjt EtCO2 / pCO2 vid KOL
+
+Se Diagnoser/BREATHING/Astmaanfall
+Se Diagnoser/BREATHING/KOL-exacerbation
+
+
+
+Title/9. Pneumoni?
+Text/
+Talar för:
+• Fokala fynd vid lungauskultation / ultraljud
+• Feber
+
+Se Diagnoser/BREATHING/Pneumoni
+
+
+
+Title/10. COVID/Influenza/RSV?
+Text/
+• PCR
+
+Se Diagnoser/BREATHING/COVID-19
+
+
+Title/11. NIV
+Text/
+Starttryck:
+• PEEP=EPAP: 4 cm
+• P-Support 6 cm (dvs IPAP 10 cm)
+
+Vid lågt PaO2/SpO2:
+• Öka FiO2
+• Öka PEEP=EPAP
+
+Vid högt PaCO2:
+• Öka P-support (öka IPAP)
+
+
+Title/12. Falskt lågt SpO2?
+Text/
+Kan förekomma vid:
+• Dålig perfusion
+• Nagellack
+• Methemoglobinemi
+
+Överväg arteriell blodgas
+
+
+

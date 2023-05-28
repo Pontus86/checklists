@@ -1,16 +1,16 @@
-HJÄRTSTOPP NIVÅ-1 TRAUMA
+HJÄRTSTOPP och NIVÅ-1 TRAUMA
 Torakotomi
 Perimortem sectio
 ----------------------------------------
 AIRWAY
-Övre luftvägshinder
+Ovre luftvagshinder
 Coniotomi
 ----------------------------------------
 CIRCULATION
-Intraosseös nål humerus
+Intraosseos nal humerus
+Esofagus-EKG
+Extern-pacing
 ----------------------------------------
 DISABILITY
 Lumbalpunktion
 Lateral kantotomi
-
-
