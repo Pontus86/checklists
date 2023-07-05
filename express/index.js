@@ -2,6 +2,8 @@
 *@module index
 */
 
+const Session = require("./models/Session.js");
+
 let checklists = "checklists/";
 let problem = "01_problem/";
 let ingrepp = "02_ingrepp/";
@@ -13,30 +15,28 @@ var currentChecklist = "anafylaxi";
 var events = [];
 var problemList = "";
 
+const session = new Session();
 
 var menuTexts = [];
+const MENU_NAMES = ['problemButton', 'ingreppButton', 'diagnosButton', 'faktaButton'];
 
 /**
 * This code gets executed when the document content is loaded.
 * Calls the functions readTextFile() and readIndex() to load the dropdown menu and the first checklist.
 */
 function run() {
-  homeButton();
-  createListFromTextFile(checklists + "anafylaxi.txt");
-    //createListItem(splitSections(allText));
-
-  problemList = createListFromTextFile(checklists + "anafylaxi.txt");
-  readIndex(checklists + index);
-
-
-  const MENU_NAMES = ['problemButton', 'ingreppButton', 'diagnosButton', 'faktaButton'];
+  session.setUserRSID = "177575";
+  console.log(session.userRSID)
+  viewHomePage();
   setMenuItemsOnClickEvents(MENU_NAMES);
-
 }
 document.addEventListener('DOMContentLoaded', run);
 
 
-
+/**
+ * This function set OnClickEvents on the menu items shown on the home page. 
+ * @param {array} menuNames 
+ */
 function setMenuItemsOnClickEvents(menuNames) {
   menuNames.forEach((element, index) => {
     document.getElementById(element).onclick = async function () {
@@ -53,24 +53,15 @@ function setMenuItemsOnClickEvents(menuNames) {
 @param {String} file - takes a file-path as input.
 */
 function createListFromTextFile(file) {
-  console.log("File request name is: " + file);
   file = file.toLowerCase();
-  console.log("File: " + file);
-  var allText = "Title/testing";
   var rawFile = new XMLHttpRequest();
   rawFile.onreadystatechange = function () {
-    if (rawFile.readyState === 4) {
-      if (rawFile.status === 200 || rawFile.status == 0) {
-        allText = rawFile.responseText;
-        //return allText;
-        createListItem(splitSections(allText));
-
-      }
+    if (rawFile.readyState === 4 && (rawFile.status === 200 || rawFile.status == 0)) {
+        createListItem(splitSections(rawFile.responseText));
     }
   }
   rawFile.open("GET", file, true);
   rawFile.send(null);
-  return allText;
 }
 
 /**
@@ -263,6 +254,7 @@ function currentTime() {
 @param {String} event - takes an event as input. This event contains the item the user has clicked.
 */
 function addEvent(event) {
+  session.addEvent(event);
   if (events.length == 0) {
     events.push([currentTime(), "__" + currentUser, "__" + currentChecklist]);
   }
@@ -288,7 +280,7 @@ async function saveChoices(eventData) {
 }
 
 
-function homeButton() {
+function viewHomePage() {
   document.getElementById("homePage").style.display = "block";
   document.getElementById("menuPage").style.display = "none";
   document.getElementById("checklist").style.display = "none";
@@ -300,8 +292,6 @@ async function showMenu(menuIndexNumber) {
   document.getElementById("homePage").style.display = "none";
   document.getElementById("menuPage").style.display = "block";
   document.getElementById("checklist").style.display = "none";
-  console.log("show menu");
-
 }
 
 function showChecklist() {
@@ -310,7 +300,6 @@ function showChecklist() {
   document.getElementById("checklist").style.display = "block";
   document.getElementById("recordsList").innerHTML = "";
   document.getElementById("ifImage").innerHTML = "";
-
 }
 
 function showOnly(input){
@@ -360,12 +349,6 @@ function createMenuList(menuIndexNumber, arrayOfChecklists) {
   }
 }
 
-/**
-* This method makes a 'GET' http request to the server, asking for the index file.
-* The server returns the text contained in that file.
-* createDropdown() is then called, to instantiate the dropdown elements of the checklists in the navbar.
-@param {String} file - takes a file-path as input.
-*/
 async function readIndexMenu(menuIndexNumber) {
   let menus = [problem, ingrepp, diagnoses, fakta];
 

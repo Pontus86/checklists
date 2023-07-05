@@ -3,6 +3,8 @@
 *@module index
 */
 
+const Session = require("./models/Session.js");
+
 let checklists = "checklists/";
 let problem = "01_problem/";
 let ingrepp = "02_ingrepp/";
@@ -14,30 +16,28 @@ var currentChecklist = "anafylaxi";
 var events = [];
 var problemList = "";
 
+const session = new Session();
 
 var menuTexts = [];
+const MENU_NAMES = ['problemButton', 'ingreppButton', 'diagnosButton', 'faktaButton'];
 
 /**
 * This code gets executed when the document content is loaded.
 * Calls the functions readTextFile() and readIndex() to load the dropdown menu and the first checklist.
 */
 function run() {
-  homeButton();
-  createListFromTextFile(checklists + "anafylaxi.txt");
-    //createListItem(splitSections(allText));
-
-  problemList = createListFromTextFile(checklists + "anafylaxi.txt");
-  readIndex(checklists + index);
-
-
-  const MENU_NAMES = ['problemButton', 'ingreppButton', 'diagnosButton', 'faktaButton'];
+  session.setUserRSID = "177575";
+  console.log(session.userRSID)
+  viewHomePage();
   setMenuItemsOnClickEvents(MENU_NAMES);
-
 }
 document.addEventListener('DOMContentLoaded', run);
 
 
-
+/**
+ * This function set OnClickEvents on the menu items shown on the home page. 
+ * @param {array} menuNames 
+ */
 function setMenuItemsOnClickEvents(menuNames) {
   menuNames.forEach((element, index) => {
     document.getElementById(element).onclick = async function () {
@@ -54,24 +54,15 @@ function setMenuItemsOnClickEvents(menuNames) {
 @param {String} file - takes a file-path as input.
 */
 function createListFromTextFile(file) {
-  console.log("File request name is: " + file);
   file = file.toLowerCase();
-  console.log("File: " + file);
-  var allText = "Title/testing";
   var rawFile = new XMLHttpRequest();
   rawFile.onreadystatechange = function () {
-    if (rawFile.readyState === 4) {
-      if (rawFile.status === 200 || rawFile.status == 0) {
-        allText = rawFile.responseText;
-        //return allText;
-        createListItem(splitSections(allText));
-
-      }
+    if (rawFile.readyState === 4 && (rawFile.status === 200 || rawFile.status == 0)) {
+        createListItem(splitSections(rawFile.responseText));
     }
   }
   rawFile.open("GET", file, true);
   rawFile.send(null);
-  return allText;
 }
 
 /**
@@ -232,7 +223,6 @@ This ensures that data is sent to the server upon each click.
 function setListItemOnClicks(i) {
   document.getElementById('checkbox_' + i).onclick = function (event) {
     addEvent(event);
-    console.log(event.target.outerHTML);
     saveChoices(events);
   }
   document.getElementById('list_field_' + i).onclick = function (event) {
@@ -265,6 +255,7 @@ function currentTime() {
 @param {String} event - takes an event as input. This event contains the item the user has clicked.
 */
 function addEvent(event) {
+  session.addEvent(event);
   if (events.length == 0) {
     events.push([currentTime(), "__" + currentUser, "__" + currentChecklist]);
   }
@@ -290,7 +281,7 @@ async function saveChoices(eventData) {
 }
 
 
-function homeButton() {
+function viewHomePage() {
   document.getElementById("homePage").style.display = "block";
   document.getElementById("menuPage").style.display = "none";
   document.getElementById("checklist").style.display = "none";
@@ -302,8 +293,6 @@ async function showMenu(menuIndexNumber) {
   document.getElementById("homePage").style.display = "none";
   document.getElementById("menuPage").style.display = "block";
   document.getElementById("checklist").style.display = "none";
-  console.log("show menu");
-
 }
 
 function showChecklist() {
@@ -312,7 +301,6 @@ function showChecklist() {
   document.getElementById("checklist").style.display = "block";
   document.getElementById("recordsList").innerHTML = "";
   document.getElementById("ifImage").innerHTML = "";
-
 }
 
 function showOnly(input){
@@ -362,12 +350,6 @@ function createMenuList(menuIndexNumber, arrayOfChecklists) {
   }
 }
 
-/**
-* This method makes a 'GET' http request to the server, asking for the index file.
-* The server returns the text contained in that file.
-* createDropdown() is then called, to instantiate the dropdown elements of the checklists in the navbar.
-@param {String} file - takes a file-path as input.
-*/
 async function readIndexMenu(menuIndexNumber) {
   let menus = [problem, ingrepp, diagnoses, fakta];
 
@@ -399,4 +381,62 @@ function delay(milliseconds) {
 
 module.exports = { splitSections, splitItems, saveChoices };
 
+},{"./models/Session.js":2}],2:[function(require,module,exports){
+class Session {
+
+    constructor() {
+        this.userRSID = "";
+        this.checklist = "";
+        this.events = [];
+    }
+    set setUserRSID(userRSID){
+        this.userRSID = userRSID;
+    }
+    set setChecklist(checklist){
+        this.checklist = checklist;
+    }
+
+    /**
+    * This function takes a generated event and adds it to the events-array.
+    * If this array is empty, a header is first created, containing the current time, current user and current checklist.
+    @param {String} event - takes an event as input. This event contains the item the user has clicked.
+    */
+    addEvent(event) {
+        if (this.events.length == 0) {
+            this.events.push([this.currentTime(), "__" + this.userRSID, "__" + this.checklist]);
+        }
+        if (event.target.value == "checkbox") {
+            var checked = 0;
+            if (event.target.checked) checked = 1;
+            this.events.push([this.currentTime(), this.userRSID, this.checklist, event.target.id, checked]);
+        }
+        else this.events.push([this.currentTime(), this.userRSID, this.checklist, event.target.text, 9]);
+
+    }
+
+    /**
+    * This function sends a POST request to the server, with attached event data.
+    @returns {Integer} - returns the server response. 200 means OK, everything worked out.
+    */
+    async saveChoices() {
+        var response = await fetch('/upload', { method: "POST", body: JSON.stringify({ array: this.events }) });
+        console.log("data sent");
+        return response.status;
+    }
+
+/**
+* This function gets the current time, creates a string of date and time of day, and returns that string.
+@returns {String} - Returns a string containing the current time in the format YYYY-MM-DD_HH-MM-SS.
+*/
+currentTime() {
+  var today = new Date();
+  var date = today.getFullYear() + '-' + (today.getMonth() + 1) + '-' + today.getDate();
+  var time = today.getHours() + "-" + today.getMinutes() + "-" + today.getSeconds();
+  var dateTime = date + '_' + time;
+
+  return dateTime;
+}
+}
+
+module.exports = Session
 },{}]},{},[1]);

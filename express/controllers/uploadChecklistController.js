@@ -19,6 +19,7 @@ function logRequest(req) {
 
 //Uploads checklist and an encrypted version of the checklist in a separate binaries folder.
 async function uploadChecklist(req, publicKey) {
+  console.log("function1");
   logRequest(req);
   var name = req.body.array[0].toString();
   var newpath = __dirname + "/../database/" + name + ".csv";
@@ -28,11 +29,11 @@ async function uploadChecklist(req, publicKey) {
     var fileName = "./express/database/binaries/" + name + ".bin";
     const dataToEncrypt = req.body.array[i].toString();
     //Needs to overwrite the file on first loop.
-    var encryptedData = await RSA.encryptData(dataToEncrypt, publicKey, fileName, true);
-    if( i == 0){
-      var encryptedData = await RSA.encryptData(dataToEncrypt, publicKey, fileName, false);
+    let firstLoop = false;
+    if(i==0){
+      firstLoop = true;
     }
-    
+    var encryptedData = await RSA.encryptData(dataToEncrypt, publicKey, fileName, append=firstLoop);
   }
 
   req.body.array.forEach(async (element) => {
@@ -44,17 +45,6 @@ async function uploadChecklist(req, publicKey) {
     console.log("File saved");
   });
 
-}
-
-async function uploadFile(req) {
-  var form = new formidable.IncomingForm();
-  form.parse(req, function (err, fields, files) {
-    var oldpath = files.filetoupload.path;
-    var newpath = __dirname + "/express/database/" + files.filetoupload.name;
-    fs.rename(oldpath, newpath, function (err) {
-      if (err) throw err;
-    });
-  });
 }
 
 
@@ -73,6 +63,5 @@ function createCSV(data) {
 
 module.exports = {
   logRequest: logRequest,
-  uploadChecklist: uploadChecklist,
-  uploadFile: uploadFile
+  uploadChecklist: uploadChecklist
 }

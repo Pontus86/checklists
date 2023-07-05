@@ -1,18 +1,9 @@
-class Session {
+class sessionController {
 
-    constructor() {
-        this.userRSID = "";
-        this.checklist = "";
-        this.events = [];
+    constructor(sessionModel){
+        this.sessionModel = sessionModel
     }
-    set setUserRSID(userRSID){
-        this.userRSID = userRSID;
-    }
-    set setChecklist(checklist){
-        this.checklist = checklist;
-    }
-
-    /**
+/**
     * This function takes a generated event and adds it to the events-array.
     * If this array is empty, a header is first created, containing the current time, current user and current checklist.
     @param {String} event - takes an event as input. This event contains the item the user has clicked.
@@ -54,4 +45,4 @@ currentTime() {
 }
 }
 
-module.exports = Session
+module.exports = sessionController

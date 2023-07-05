@@ -5,17 +5,18 @@
 const crypto = require('crypto');
 const fs = require('fs').promises;
 
-//This delimiter ensures that there are no incorrect datasplits. 
-//Incorrect splits were introduced when only one \n was used.
-//This led to a failure to decrypt messages.
-const DELIMITER = '\n\n\n\n\n\n\n\n\n\n';
 
 async function encryptData(dataToEncrypt, publicKey, fileName, append=true)  {
-  var DELIM = '\n\n\n\n\n\n\n\n\n\n';
+
+  //This delimiter ensures that there are no incorrect datasplits. 
+  //Incorrect splits were introduced when only one \n was used.
+  //This led to a failure to decrypt messages.
+  let DELIM = '\n\n\n\n\n\n\n\n\n\n';
+
   const encryptedData = crypto.publicEncrypt(publicKey, Buffer.from(dataToEncrypt));
-  var write = 'a';
+  let write = 'a';
   if(append == false){
-    var write = 'w';
+    write = 'w';
   }
   try {
     const encryptedDataFile = await fs.open(fileName, write);
