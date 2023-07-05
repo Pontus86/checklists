@@ -31,7 +31,7 @@ async function decryptData(privateKey, fileName) {
 
   async function loadPrivateKey() {
     // Load the private key
-    const privateKeyPem = await fs.readFile('../../../../checklist-keys/private_key.pem', 'utf8');
+    const privateKeyPem = await fs.readFile('../../../checklist-keys/private_key.pem', 'utf8');
     const privateKey = crypto.createPrivateKey(privateKeyPem);
   
     return privateKey;

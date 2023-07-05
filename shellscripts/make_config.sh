@@ -25,7 +25,7 @@ if [[ $name != '' ]]; then
 	echo "[branch \"master\"]" >> config
 	echo "	remote = origin" >> config
 	echo "	merge = refs/heads/master" >> config
-	mv config .git
+	mv config ./../.git
 	
 	
 fi
