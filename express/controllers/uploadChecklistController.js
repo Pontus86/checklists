@@ -3,7 +3,7 @@
 */
 
 const formidable = require('formidable');
-const RSA = require('./../../RSA.js');
+const RSA = require('../RSA.js');
 var fs = require('fs');
 
 
@@ -19,9 +19,14 @@ function logRequest(req) {
 
 //Uploads checklist and an encrypted version of the checklist in a separate binaries folder.
 async function uploadChecklist(req, publicKey) {
-  console.log("function1");
   logRequest(req);
   var name = req.body.array[0].toString();
+  //TODO:
+  //The name variable is derived from req.body.array[0].toString(), which may cause issues if the array is empty 
+  //or doesn't have the expected structure. 
+  //It's essential to handle potential errors when accessing array elements.
+  //We should probably use some kind of ? conditional to either get the name or have some standard name? Maybe better to
+  //induce an error if we have an empty array. Should not be called with empty array. Maybe Assertion?
   var newpath = __dirname + "/../database/" + name + ".csv";
 
   for (let i = 0; i < req.body.array.length; i++) {
@@ -36,9 +41,6 @@ async function uploadChecklist(req, publicKey) {
     var encryptedData = await RSA.encryptData(dataToEncrypt, publicKey, fileName, append=firstLoop);
   }
 
-  req.body.array.forEach(async (element) => {
-
-  });
   csv = createCSV(req.body.array);
   fs.writeFile(newpath, csv, function (err) {
     if (err) return console.log(err);
@@ -59,6 +61,10 @@ function createCSV(data) {
     + data.map(e => e.join(",")).join("\n");
 
   return csvContent;
+  //TODO:
+    //The createCSV function seems fine, but keep in mind that it assumes all elements of the input array are also arrays. 
+    //Ensure that the input is properly formatted before using this function to avoid errors. Prob use Assert and check
+    //if all input data elements is of type Array. 
 }
 
 module.exports = {

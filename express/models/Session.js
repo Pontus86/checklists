@@ -1,3 +1,6 @@
+/**
+ *@module Session
+ */
 class Session {
 
     constructor() {
@@ -19,14 +22,14 @@ class Session {
     */
     addEvent(event) {
         if (this.events.length == 0) {
-            this.events.push([this.currentTime(), "__" + this.userRSID, "__" + this.checklist]);
+            this.events.push([this.getCurrentTime(), "__" + this.userRSID, "__" + this.checklist]);
         }
         if (event.target.value == "checkbox") {
             var checked = 0;
             if (event.target.checked) checked = 1;
-            this.events.push([this.currentTime(), this.userRSID, this.checklist, event.target.id, checked]);
+            this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, event.target.id, checked]);
         }
-        else this.events.push([this.currentTime(), this.userRSID, this.checklist, event.target.text, 9]);
+        else this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, event.target.text, 9]);
 
     }
 
@@ -44,7 +47,7 @@ class Session {
 * This function gets the current time, creates a string of date and time of day, and returns that string.
 @returns {String} - Returns a string containing the current time in the format YYYY-MM-DD_HH-MM-SS.
 */
-currentTime() {
+getCurrentTime() {
   var today = new Date();
   var date = today.getFullYear() + '-' + (today.getMonth() + 1) + '-' + today.getDate();
   var time = today.getHours() + "-" + today.getMinutes() + "-" + today.getSeconds();

@@ -15,7 +15,11 @@
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <!-- Plotly-->
     
-    <script src="bundle.js"></script>
+    <script src="./bundle.js"></script>
+    <!-- TODO: To stop requiring bundling the .js file, change this to <script type="module" src="index.js"></script> 
+    You have to use imports and exports in your javascript file for this to work. No require() in the index.js file!.
+    -->
+
     <link rel="stylesheet" href="./css/bootstrap.min.css">
 	  <script src="./js/jquery-3.6.4.js"></script>
     <script src="./js/bootstrap.js"></script>
@@ -88,8 +92,9 @@
   </div>
 </div>
 
+<!-- MENU -->
 <div id="menuPage" class="container card shadow p-3 mb-5 bg-white rounded" style="min-height:40px; margin-top: 80px">
-  <input type="button" value="Home" class="btn btn-dark" onclick="homeButton();">
+  <input id="homeButton" type="button" value="Home" class="btn btn-dark">
   <i class="bi bi-house"></i></input>
   <div class="row d-flex justify-content">
     <h1 id="menuTitle" style="margin: 40px">Title</h1>
@@ -99,9 +104,9 @@
 </div>
 
 
-
+<!-- CHECKLIST -->
 <div id="checklist" class="container card shadow p-3 mb-5 bg-white rounded" style="min-height:400px; margin-top: 80px; padding: 20px">
-  <input type="button" value="Home" class="btn btn-dark" onclick="homeButton();"/>
+  <input id="homeButton2" type="button" value="Home" class="btn btn-dark""/>
   
 <!-- Generated <list--></list-->
       <div class="row d-flex justify-content">
@@ -109,18 +114,21 @@
       </div>
       <div id="ifImage"></div>
       <div id="ifNoImage" class="d-flex flex-row">
-      <div class="col-5" >
-        <ul class="list-group list-group-flush" id="recordsList" style="width:600px; margin:auto">
+      <div class="col-6" >
+        <ul class="list-group list-group-flush" id="recordsList" style="min-width:600px; margin-left: 22px;">
         </ul>
 
       </div>
-      <div class="col-1">
-      </div>
-      <div class="col-6 p-3 mb-5 bg-white rounded container" style="margin-left: 8px; margin-right :30px">
+      <!--<div class="col-1">
+      </div>-->
+      <div id="checklistCardBackground" class="col-6 p-3 mb-5 rounded container;" style="padding: 0px!important;">
+      <div class="bg-white rounded container;" style="margin: 8px; padding: 8px">
         <h5 class="card-title" id="cardTitle"></h5>
         <div class="text-dark" id="itemText">
         </div>
       </div>
+      </div>
+      
 
 </div>
 </div>
@@ -135,16 +143,6 @@
     integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
     integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>-->
-    <script>
-    function homeButton(){
-      document.getElementById("homePage").style.display = "block";
-      document.getElementById("menuPage").style.display = "none";
-      document.getElementById("checklist").style.display = "none";
-    }
-    </script>
-
-
-
 
 </body>
 

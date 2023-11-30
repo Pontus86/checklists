@@ -1,3 +1,70 @@
+
+
+:root {
+    --eric-red: #DC143C;
+    --eric-green: #228B22;
+    --eric-blue: #0000CD;
+    --eric-yellow: #FFA500;
+
+    --pontus-red: #ea907a;
+    --pontus-green: #89bd9e;
+    --pontus-blue: #7cb9e8;
+    --pontus-yellow: #f3d250;
+
+    --style-red: var(--pontus-red);
+    --style-green: var(--pontus-green);
+    --style-blue: var(--pontus-blue);
+    --style-yellow: var(--pontus-yellow);
+
+}
+
+/* Define the font using @font-face */
+@font-face {
+    font-family: 'AvenirNext'; /* Font name you'll use in CSS */
+    src: url('/express/fonts/AvenirNextLTPro-Regular.otf') format('otf'), /* Path to your font file */
+         /*url('fonts/your-custom-font.woff') format('woff');  Provide different formats for compatibility */
+    /* Add more src lines for other file formats if necessary */
+    /* Include font-weight and font-style if applicable */
+}
+
+body {
+    font-family: 'AvenirNext'; 
+}
+/* 
+
+body {
+    font-family: 'Montserrat'
+    'Arial', 
+    'Helvetica', 
+    'Roboto', snygg för checkliste items
+    'Open Sans', snygg för checkliste items
+    'Lato', 
+    'Montserrat', Snygg!
+    'Nunito', 
+    sans-serif; You can replace 'Arial' with any of the mentioned fonts 
+}
+*/
+
+/* Apply specific styles for iPads */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+    /* Your iPad styles here */
+    body {
+        /* Adjust font size for iPads */
+        font-size: 20px;
+    }
+}
+/* Apply specific styles for different screen resolutions */
+@media only screen and (min-width: 1920px) {
+    /* Styles for larger screens */
+    body {
+        /* Adjust font size for larger screens */
+        font-size: 20px;
+    }
+}
+
+
+
+
 /*
 This is the main stylesheet used in this project.
 To change items with the same class, use .className,
@@ -99,6 +166,7 @@ If more are added, you need to rerun the launch.sh script to bundle the js file 
 .checklist-item
 {
     border: 0px!important;
+    padding-right: 16px!important;
 }
 
 /*If you make changes to checklist items, you need to realign the checkboxes
@@ -109,12 +177,127 @@ Uncomment the code below and try different pixel values*/
     top: 50px;*/
 }
 
+/* Eric's colors:
+Red: #DC143C
+Green: #228B22
+Blue: #0000CD
+Yellow: #FFA500
 
-#problemButton {color: #DC143C !important;font-size: 90px !important;}
+Pontus's colors:
+Red: #ea907a
+Green: #89bd9e
+Blue: #7cb9e8
+Yellow: #f3d250
+*/ 
 
-#diagnosButton {color: #228B22 !important;font-size: 90px !important;}
+#problemButton {color: var(--eric-red) !important;font-size: 90px !important;}
 
-#ingreppButton {color: #0000CD !important;font-size: 90px !important;}
+#diagnosButton {color: var(--eric-green) !important;font-size: 90px !important;}
 
-#faktaButton {color: #FFA500 !important;font-size: 90px !important;}
+#ingreppButton {color: var(--eric-blue) !important;font-size: 90px !important;}
 
+#faktaButton {color: var(--eric-yellow) !important;font-size: 90px !important;}
+
+/* Hover styles */
+#problemButton:hover {
+    color: var(--style-red)!important;; /* Red color when hovered */
+}
+
+#diagnosButton:hover {
+    color: var(--style-green)!important;; /* Green color when hovered */
+}
+
+#ingreppButton:hover {
+    color: var(--style-blue)!important;; /* Blue color when hovered */
+}
+
+#faktaButton:hover {
+    color: var(--style-yellow)!important;; /* Yellow color when hovered */
+}
+
+
+
+
+
+
+
+/* Checkbox CSS */
+
+/* Style the circles */
+.circle-container-green,
+.circle-container-yellow,
+.circle-container-red {
+    display: inline-block;
+    margin-right: 10px;
+    position: relative;
+    cursor: pointer;
+    height: 20px;
+    width: 20px;
+    border-radius: 10%;
+}
+
+.circle-container-green {
+    background-color: #89bd9e;
+}
+.circle-container-yellow {
+    background-color: #f3d250;
+}
+.circle-container-red {
+    background-color: #ea907a;
+}
+/* Blue color: #7cb9e8 */
+
+.green-circle,
+.yellow-circle,
+.red-circle {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    text-align: center;
+    line-height: 0;
+    font-size: 0;
+    position: relative;
+    display: inline-block;
+}
+
+.green-circle::before,
+.yellow-circle::before,
+.red-circle::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    margin: 5px;
+}
+
+.green-circle::before {
+    background-color: #89bd9e;
+}
+
+.yellow-circle::before {
+    background-color: #f3d250;
+}
+
+.red-circle::before {
+    background-color: #ea907a;
+}
+
+/* Style the actual radio buttons */
+.circle-container input {
+    display: none;
+}
+
+/* Inner black circle when checked */
+.circle-container-green input:checked + .green-circle::before,
+.circle-container-yellow input:checked + .yellow-circle::before,
+.circle-container-red input:checked + .red-circle::before  {
+    background-color: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

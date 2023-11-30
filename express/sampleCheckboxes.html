@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Concentric Circles (Hidden Radio Buttons)</title>
+    <style>
+        /* Style the circles */
+
+        .circle-container-green,
+        .circle-container-yellow,
+        .circle-container-red {
+            display: inline-block;
+            margin-right: 10px; /* Adjust the margin as needed */
+            position: relative;
+            cursor: pointer;
+            height: 40px;
+            width: 40px;
+            border-radius: 10%; /* Make the edges rounded */
+        }
+
+        .circle-container-green {
+            background-color: #89bd9e;
+        }
+        .circle-container-yellow {
+            background-color: #f3d250;
+        }
+        .circle-container-red {
+            background-color: #ea907a;
+        }
+        
+
+
+        .green-circle,
+        .yellow-circle,
+        .red-circle {
+            border-radius: 50%;
+            width: 30px; 
+            height: 30px;
+            text-align: center;
+            line-height: 0px;
+            font-size: 0; 
+            position: relative;
+            display: inline-block;
+        }
+
+        .green-circle::before,
+        .yellow-circle::before,
+        .red-circle::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            border-radius: 50%;
+            width: 20px; /* Adjust the size of the black circle */
+            height: 20px;
+            margin: 5px; /* Adjust the margin to control the distance between circles */
+        }
+
+        .green-circle::before {
+            background-color: #89bd9e;
+            
+        }
+
+        .yellow-circle::before {
+            background-color: #f3d250;
+        }
+
+        .red-circle::before {
+            background-color: #ea907a;
+        }
+
+        /* Style the actual radio buttons */
+        .circle-container input {
+            display: none; /* Hide the actual radio buttons */
+        }
+        /* Style the actual radio buttons */
+        .circle-container-green input {
+            display: none; /* Hide the actual radio buttons */
+        }
+        /* Style the actual radio buttons */
+        .circle-container-yellow input {
+            display: none; /* Hide the actual radio buttons */
+        }
+        /* Style the actual radio buttons */
+        .circle-container-red input {
+            display: none; /* Hide the actual radio buttons */
+        }
+
+        /* Inner black circle when checked */
+        .circle-container-green input:checked + .green-circle::before,
+        .circle-container-yellow input:checked + .yellow-circle::before,
+        .circle-container-red input:checked + .red-circle::before  {
+            background-color: white;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Green Circle -->
+    <label class="circle-container-green">
+        <input type="radio" name="color">
+        <div class="green-circle"></div>
+    </label>
+
+    <!-- Yellow Circle -->
+    <label class="circle-container-yellow">
+        <input type="radio" name="color">
+        <div class="yellow-circle"></div>
+    </label>
+
+    <!-- Red Circle -->
+    <label class="circle-container-red">
+        <input type="radio" name="color">
+        <div class="red-circle"></div>
+    </label>
+
+</body>
+</html>
