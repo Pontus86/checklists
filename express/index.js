@@ -147,9 +147,14 @@ function createListItem(rawFile) {
   
   document.getElementById("ifNoImage").style.display = "none";
   document.getElementById("ifImage").style.display = "none";
+
+  hideElementAndChildren(document.getElementById("ifNoImage"))
+  hideElementAndChildren(document.getElementById("ifImage"))
+
   document.getElementById("recordsList").innerHTML = "";
 
   if (arrayOfItems.toString().includes("I/")) {
+    showElementAndChildren(document.getElementById("ifImage"))
     image_source = arrayOfItems.toString()
     image_source = image_source.substring(image_source.search("I/") + 2)
     image_path = "./checklists/" + image_source
@@ -158,10 +163,11 @@ function createListItem(rawFile) {
     document.getElementById("ifImage").style.display = "block";
   }
   else {
+    showElementAndChildren(document.getElementById("ifNoImage"))
     console.log("Creating List items");
     let ul = document.getElementById("recordsList");
     ul.className = "list-group list-group-flush checklist-list";
-  
+    
     for (i = 0; i < arrayOfItems.length; i++) {
       let content = util.splitItems(arrayOfItems[i]);
       let checkbox = checklistItems.createCheckbox(i);
@@ -171,10 +177,34 @@ function createListItem(rawFile) {
       ul.appendChild(li);
       setListItemOnClicks(i);
     }
+    // Get the height of the source element
+    let sourceHeight = document.getElementById("checklistLeftCol").clientHeight; // or offsetHeight if you prefer
+    // Set the min-height of the target element based on the source element's height
+    document.getElementById("checklistCard").style.minHeight = sourceHeight + 'px';
     document.getElementById("ifNoImage").style.display = "block";
   }
-
+  
   console.log("Done creating List items");
+}
+
+function hideElementAndChildren(element) {
+  element.style.display = 'none'; // Hide the current element
+
+  // Loop through each child element and hide them as well
+  let children = element.children;
+  for (let i = 0; i < children.length; i++) {
+      hideElementAndChildren(children[i]);
+  }
+}
+
+function showElementAndChildren(element) {
+  element.style.display = ''; // Reset the display property for the current element
+
+  // Loop through each child element and show them as well
+  let children = element.children;
+  for (let i = 0; i < children.length; i++) {
+      showElementAndChildren(children[i]);
+  }
 }
 
 
@@ -186,10 +216,12 @@ This ensures that data is sent to the server upon each click.
 */
 function setListItemOnClicks(i) {
   document.getElementById('checkbox_' + i).onclick = function (event) {
+    event.preventDefault();
     session.addEvent(event);
     session.saveChoices(events);
   }
   document.getElementById('list_field_' + i).onclick = function (event) {
+    event.preventDefault();
     if (event.target.text != null) {
       cardBackground = document.getElementById("checklistCardBackground");
       cardBackground.style.backgroundColor = 'rgb(248, 249, 250)';
