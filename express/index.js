@@ -154,16 +154,28 @@ function createListItem(rawFile) {
   document.getElementById("recordsList").innerHTML = "";
 
   if (arrayOfItems.toString().includes("I/")) {
-    showElementAndChildren(document.getElementById("ifImage"))
+    ifImage(arrayOfItems);
+  }
+  else {
+    ifNoImage(arrayOfItems);
+  }
+  console.log("Done creating List items");
+}
+
+
+function ifImage(arrayOfItems){
+  showElementAndChildren(document.getElementById("ifImage"))
     image_source = arrayOfItems.toString()
     image_source = image_source.substring(image_source.search("I/") + 2)
     image_path = "./checklists/" + image_source
     let elem = checklistItems.createImage(image_path);
     document.getElementById("ifImage").appendChild(elem);
     document.getElementById("ifImage").style.display = "block";
-  }
-  else {
-    showElementAndChildren(document.getElementById("ifNoImage"))
+}
+
+
+function ifNoImage(arrayOfItems){
+  showElementAndChildren(document.getElementById("ifNoImage"))
     console.log("Creating List items");
     let ul = document.getElementById("recordsList");
     ul.className = "list-group list-group-flush checklist-list";
@@ -177,14 +189,9 @@ function createListItem(rawFile) {
       ul.appendChild(li);
       setListItemOnClicks(i);
     }
-    // Get the height of the source element
-    let sourceHeight = document.getElementById("checklistLeftCol").clientHeight; // or offsetHeight if you prefer
-    // Set the min-height of the target element based on the source element's height
+    let sourceHeight = document.getElementById("checklistLeftCol").clientHeight; 
     document.getElementById("checklistCard").style.minHeight = sourceHeight + 'px';
-    document.getElementById("ifNoImage").style.display = "block";
-  }
-  
-  console.log("Done creating List items");
+    //document.getElementById("ifNoImage").style.display = "block";
 }
 
 function hideElementAndChildren(element) {
@@ -228,7 +235,16 @@ function setListItemOnClicks(i) {
       document.getElementById("cardTitle").innerHTML = event.target.text;
       session.addEvent(event);
       session.saveChoices(events);
-      document.getElementById("itemText").innerHTML = util.replaceNewLine(event.target.value);
+      //value = util.replaceExternalLinks(event.target.value);
+      value = util.applyStyling(event.target.value)
+      //value = replaceInternalLinks(value);
+      //value = util.replaceNewLine(value);
+      //value = util.makeTextGreen(value);
+      //value = util.makeTextRed(value);
+
+      document.getElementById("itemText").innerHTML = value;
+      //document.getElementById("itemText").innerHTML = util.replaceNewLine(event.target.value);
+      setOnClickForATags("itemText");
     }
   }
 }
@@ -253,6 +269,10 @@ function createMenuList(rawFile, menuIndexNumber) {
   let ul = document.getElementById("menuList");
   document.getElementById("menuList").innerHTML = "";
   document.getElementById("menuTitle").innerText = menuTitles[menuIndexNumber];
+
+  listOfUls = [];
+  group = -1;
+
   for (i = 0; i < arrayOfChecklists.length; i++) {
     let li = document.createElement("a");
     li.className = "menu-item checklist-menu-item";
@@ -261,9 +281,26 @@ function createMenuList(rawFile, menuIndexNumber) {
     li.value = arrayOfChecklists[i];
     //console.log(li.value);
     li.setAttribute('href', "#");
-    li.innerText = arrayOfChecklists[i];
-    ul.appendChild(li);
-    document.getElementById('menu_field_' + i).onclick = async function (event) {
+    innerText = util.applyStyling(arrayOfChecklists[i])
+    //innerText = util.makeTextRed(arrayOfChecklists[i])
+    //innerText = util.makeTextGreen(innerText)
+    li.innerHTML = innerText;
+    ul2 = document.createElement("li");
+    ul2.className = "vertical-stack";
+    ul2.style.breakInside = 'avoid-column';
+    if(arrayOfChecklists[i].includes("---") || innerText.startsWith("<span")){
+      li.className = "non-clickable";
+      if (innerText.startsWith("<span")){
+        group += 1;
+        listOfUls.push(ul2);
+      }
+    }
+    listOfUls[group].appendChild(li);
+    //li2.appendChild(li);
+    //ul.appendChild(li2);
+    
+
+    /**document.getElementById('menu_field_' + i).onclick = async function (event) {
       //alert(event.target.text);
       document.getElementById("title").innerText = event.target.text;
       document.getElementById("itemText").innerHTML = "";
@@ -272,8 +309,60 @@ function createMenuList(rawFile, menuIndexNumber) {
       createListFromTextFile(checklistFolders.checklists + event.target.text + ".txt");
       showChecklist();
 
+    }*/
+  }
+  for(j=0; j < listOfUls.length; j++){
+    ul.appendChild(listOfUls[j]);
+  }
+  for(i=0; i < arrayOfChecklists.length; i++){
+    document.getElementById('menu_field_' + i).onclick = async function (event) {
+      //alert(event.target.text);
+      /**document.getElementById("title").innerText = event.target.text;
+      document.getElementById("itemText").innerHTML = "";
+      document.getElementById("cardTitle").innerHTML = "";
+      currentChecklist = event.target.text;
+      createListFromTextFile(checklistFolders.checklists + event.target.text + ".txt");
+      showChecklist();*/
+      getChecklistFromInternalLink(event.target.text)
     }
   }
+}
+
+function getChecklistFromInternalLink(checklistName){
+  checklistName = checklistName.charAt(0).toUpperCase() + checklistName.slice(1)
+  document.getElementById("title").innerText = checklistName;
+  document.getElementById("itemText").innerHTML = "";
+  document.getElementById("cardTitle").innerHTML = "";
+  currentChecklist = checklistName;
+  createListFromTextFile(checklistFolders.checklists + currentChecklist + ".txt");
+  resetChecklist();
+  showChecklist();
+}
+
+function replaceInternalLinks(inputString) {
+  // Regular expression to find the pattern: ExternalLink/<TextToShow><urlToGoTo>
+  let regex = /InternalLink\/<([^>]+)><([^>]+)>/g;
+
+  // Replace the pattern with the anchor tag
+  // <a href="#" onclick="myFunction()">Click me</a>
+  let replacedString = inputString.replace(regex, '<a href="#" class="links" data-url="$2">$1</a>');
+
+  return replacedString;
+}
+
+function setOnClickForATags(parentId) {
+  // Get the parent element
+  let parentElement = document.getElementById(parentId);
+
+  // Find all <a> tags within the parent element
+  let aTags = parentElement.querySelectorAll('a');
+
+  // Loop through each <a> tag and set the onclick attribute
+  aTags.forEach(function(aTag) {
+      if(aTag.dataset.url != ""){
+      aTag.onclick = function() {getChecklistFromInternalLink(aTag.dataset.url);}
+    }
+  });
 }
 
 

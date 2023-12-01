@@ -1,15 +1,15 @@
-HJÄRTSTOPP NIVÅ-1 TRAUMA
+ChapterTitle/<HJÄRTSTOPP NIVÅ-1 TRAUMA>
 Torakotomi
 Perimortem sectio
 ----------------------------------------
-AIRWAY
+ChapterTitle/<AIRWAY>
 Övre luftvägshinder
 Coniotomi
 ----------------------------------------
-CIRCULATION
+ChapterTitle/<CIRCULATION>
 Intraosseös nål humerus
 ----------------------------------------
-DISABILITY
+ChapterTitle/<DISABILITY>
 Lumbalpunktion
 Lateral kantotomi
 

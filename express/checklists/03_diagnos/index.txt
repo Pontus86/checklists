@@ -1,9 +1,9 @@
-AIRWAY
+ChapterTitle/<AIRWAY>
 Anafylaxi
 Angioödem
 Övre luftväg främmande kropp
 ----------------------------------------
-BREATHING
+ChapterTitle/<BREATHING>
 Astmaanfall
 COVID-19
 Epiglottit
@@ -12,7 +12,7 @@ Influenza
 Lungödem
 Pneumoni
 ----------------------------------------
-CIRCULATION
+ChapterTitle/<CIRCULATION>
 Addisonkris
 Anafylaxi
 Aortadissektion
@@ -25,8 +25,8 @@ Neurogen chock
 Sepsis
 Övertrycks pneumothorax
 ----------------------------------------
-DISABILITY
+ChapterTitle/<DISABILITY>
 Ökat intrakraniellt tryck
 Krampanfall
 ----------------------------------------
-EXPOSURE
+ChapterTitle/<EXPOSURE>

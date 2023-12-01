@@ -1,4 +1,4 @@
-ALLMÄN
+ChapterTitle/<ALLMÄN>
 Hjärtstopp, icke-traumatisk
 Hjärtstopp, traumatisk
 Trauma nivå 1
@@ -6,14 +6,14 @@ Nyfödda
 Samtycke
 Aggressiv - Agiterad
 ----------------------------------------
-AIRWAY
+ChapterTitle/<AIRWAY>
 Övre luftvägshinder
 ----------------------------------------
-BREATHING
+ChapterTitle/<BREATHING>
 Hemoptys
 Hypoxemi-lågt SpO2
 ----------------------------------------
-CIRCULATION
+ChapterTitle/<CIRCULATION>
 Lågt blodtryck - chock
 Bradykardi
 Takykardi
@@ -22,15 +22,15 @@ Takykardi reg + bred QRS
 Takykardi oreg + smal QRS
 Takykardi oreg + bred QRS
 ----------------------------------------
-DISABILITY
+ChapterTitle/<DISABILITY>
 Medvetanderubbning
 Krampanfall
 ----------------------------------------
-EXPOSURE
+ChapterTitle/<EXPOSURE>
 Hypotermi
 Hypertermi
 ----------------------------------------
-ELEKTROLYTER
+ChapterTitle/<ELEKTROLYTER>
 Hyponatremi
 Hypernatremi
 Hypokalemi
@@ -38,5 +38,5 @@ Hyperkalemi
 Hypocalcemi
 Hypercalcemi
 ----------------------------------------
-INTOXIKATIONER
+ChapterTitle/<INTOXIKATIONER>
 intoxikation allmänt

@@ -1,6 +1,8 @@
 /**
  *@module Util
  */
+
+
 class Util{
 
 /**
@@ -33,7 +35,50 @@ splitSections(input) {
     return input.replace(/\n/ig, '<br>');
   }
 
+  replaceExternalLinks(inputString) {
+    // Regular expression to find the pattern: ExternalLink/<TextToShow><urlToGoTo>
+    let regex = /ExternalLink\/<([^>]+)><([^>]+)>/g;
+  
+    // Replace the pattern with the anchor tag
+    let replacedString = inputString.replace(regex, '<a href="$2" class = "links" target="_blank" data-url="">$1</a>');
+  
+    return replacedString;
+  }
 
+  makeTextGreen(inputString) {
+    // Regular expression to find the pattern: Green/<SomeText>
+    let regex = /Green\/<([^>]+)>/g;
+
+    // Replace the pattern with the styled text
+    let replacedString = inputString.replace(regex, '<span style="color: green;">$1</span>');
+
+    return replacedString;
+  }
+  
+  makeTextRed(inputString) {
+    // Regular expression to find the pattern: Green/<SomeText>
+    let regex = /Red\/<([^>]+)>/g;
+
+    // Replace the pattern with the styled text
+    let replacedString = inputString.replace(regex, '<span style="color: red;">$1</span>');
+
+    return replacedString;
+  }
+
+  chapterTitle(inputString) {
+    // Regular expression to find the pattern: Green/<SomeText>
+    let regex = /ChapterTitle\/<([^>]+)>/g;
+
+    // Replace the pattern with the styled text
+    let replacedString = inputString.replace(regex, '<span style="color: green;">$1</span>');
+  
+    return replacedString;
+  }
+
+  applyStyling(inputString){
+    let returnString = this.replaceNewLine(this.replaceExternalLinks(this.makeTextRed(this.makeTextGreen(this.chapterTitle(inputString)))));
+    return returnString
+  }
 }
 
 module.exports = Util

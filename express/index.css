@@ -142,7 +142,12 @@ a:hover
     text-decoration: none!important;
 }
 
-
+#menuList{
+    margin: 24px;
+    column-count: 3!important; /* Set the number of columns */
+    column-gap: 40px; /* Set the gap between columns */
+    list-style-type: none;
+}
 
 /*These classes are used by the checklists created on request
 These are referenced by the index.js file. 
@@ -300,4 +305,27 @@ Yellow: #f3d250
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+/* Style for the links class */
+a.links {
+    color: rgb(49, 117, 149); /* Text color red */
+    font-weight: bold; 
+    text-decoration: none; /* Remove default underline */
+    /*text-decoration: underline;  Remove default underline */
+}
+
+a.links:hover {
+    color: rgb(35, 86, 95)!important; /* Text color yellow on hover */
+}
+
+.non-clickable {
+    pointer-events: none; /* Make the element non-clickable */
+    color: white!important; /* Set text color to white */
+}
+
+.vertical-stack {
+    display: flex; /* Set the li container as a flex container */
+    flex-direction: column; /* Stack children vertically */
+    /* Additional styles if required */
 }

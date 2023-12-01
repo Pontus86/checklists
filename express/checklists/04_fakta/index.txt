@@ -1,23 +1,24 @@
+ChapterTitle/<KOMMUNIKATION>
 Sign In
 Sign Out
 ----------------------------------------
-VUXEN
+ChapterTitle/<VUXEN>
 Agiterad
 Smärta vuxen
 Procedursedering vuxen
 ----------------------------------------
-BARN
+ChapterTitle/<BARN>
 WETBAG
 Smärta barn
 Procedursedering barn
 ----------------------------------------
-MOTGIFTER
+ChapterTitle/<MOTGIFTER>
 Naloxone & Lanexat
 ----------------------------------------
-CHOCK
+ChapterTitle/<CHOCK>
 Push-dose pressor
 Sprutpump doser
 ----------------------------------------
-ÖVRIGT
+ChapterTitle/<ÖVRIGT>
 Samtycke
 NEWS2
