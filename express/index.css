@@ -160,7 +160,7 @@ If more are added, you need to rerun the launch.sh script to bundle the js file 
 
 .checklist-menu-item
 {
-    
+    cursor: pointer;
 }
 
 .checklist-list
@@ -172,6 +172,7 @@ If more are added, you need to rerun the launch.sh script to bundle the js file 
 {
     border: 0px!important;
     padding-right: 16px!important;
+    cursor: pointer;
 }
 
 /*If you make changes to checklist items, you need to realign the checkboxes
@@ -195,13 +196,13 @@ Blue: #7cb9e8
 Yellow: #f3d250
 */ 
 
-#problemButton {color: var(--eric-red) !important;font-size: 90px !important;}
+#problemButton {color: var(--eric-red) !important;font-size: 90px !important;cursor: pointer;}
 
-#diagnosButton {color: var(--eric-green) !important;font-size: 90px !important;}
+#diagnosButton {color: var(--eric-green) !important;font-size: 90px !important;cursor: pointer;}
 
-#ingreppButton {color: var(--eric-blue) !important;font-size: 90px !important;}
+#ingreppButton {color: var(--eric-blue) !important;font-size: 90px !important;cursor: pointer;}
 
-#faktaButton {color: var(--eric-yellow) !important;font-size: 90px !important;}
+#faktaButton {color: var(--eric-yellow) !important;font-size: 90px !important;cursor: pointer;}
 
 /* Hover styles */
 #problemButton:hover {

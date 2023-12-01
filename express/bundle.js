@@ -131,7 +131,18 @@ const MENU_NAMES = ['problemButton', 'ingreppButton', 'diagnosButton', 'faktaBut
  * This code gets executed when the document content is loaded.
  * Calls the functions readTextFile() and readIndex() to load the dropdown menu and the first checklist.
 */
-function run() {
+async function run() {
+  // Usage
+  getAllChecklists()
+  .then(() => {
+      console.log('All checklists fetched successfully');
+  })
+  .catch((error) => {
+      console.error('Error fetching checklists:', error);
+  });
+
+
+
   session.setUserRSID = "177575";
   viewHomePage();
   setMenuItemsOnClickEvents(MENU_NAMES);
@@ -139,6 +150,14 @@ function run() {
   let homeButton2 = document.getElementById("homeButton2")
   homeButton.onclick = viewHomePage;
   homeButton2.onclick = viewHomePage;
+
+  // Get the search bar element and add event listener for input changes
+  let searchBar = document.getElementById('searchBar');
+  searchBar.addEventListener('input', function() {
+    if (this.value.trim() !== '') {
+      updateList(this.value);
+    }
+  });
 }
 document.addEventListener('DOMContentLoaded', run);
 
@@ -181,12 +200,12 @@ async function createXMLHttpRequest(file, callbackFunction, ...callbackArgs){
     else if (xmlHttpRequest.readyState === DONE && xmlHttpRequest.status === STATUS_0){
     //This is the special case when we have a ready file but there is a status 0 meaning error.
       //TODO: We should implement some error logging or handling here.x
-      console.log(xmlHttpRequest)
+      //console.log(xmlHttpRequest)
     }
     else{
       console.log("ReadyState: "+ xmlHttpRequest.readyState);
       console.log("Status: "+ xmlHttpRequest.status);
-      console.log(xmlHttpRequest)
+      //console.log(xmlHttpRequest);
     }
   }
   xmlHttpRequest.open("GET", file, true);
@@ -315,13 +334,14 @@ function setListItemOnClicks(i) {
   }
   document.getElementById('list_field_' + i).onclick = function (event) {
     event.preventDefault();
-    if (event.target.text != null) {
+    if (event.target.value != null) {
       cardBackground = document.getElementById("checklistCardBackground");
       cardBackground.style.backgroundColor = 'rgb(248, 249, 250)';
-      document.getElementById("cardTitle").innerHTML = event.target.text;
+      document.getElementById("cardTitle").innerHTML = event.target.textContent;
       session.addEvent(event);
       session.saveChoices(events);
       value = util.applyStyling(event.target.value)
+      value = replaceInternalLinks(value)
 
       document.getElementById("itemText").innerHTML = value;
       //document.getElementById("itemText").innerHTML = util.replaceNewLine(event.target.value);
@@ -355,11 +375,11 @@ function createMenuList(rawFile, menuIndexNumber) {
   group = -1;
 
   for (i = 0; i < arrayOfChecklists.length; i++) {
-    let li = document.createElement("a");
+    let li = document.createElement("div");
     li.className = "menu-item checklist-menu-item";
     li.setAttribute("id", "menu_field_" + i);
     li.value = arrayOfChecklists[i];
-    li.setAttribute('href', "#");
+    //li.setAttribute('href', "#");
     innerText = util.applyStyling(arrayOfChecklists[i])
     li.innerHTML = innerText;
     ul2 = document.createElement("li");
@@ -385,7 +405,8 @@ function createMenuList(rawFile, menuIndexNumber) {
   }
   for(i=0; i < arrayOfChecklists.length; i++){
     document.getElementById('menu_field_' + i).onclick = async function (event) {
-      getChecklistFromInternalLink(event.target.text)
+      addToHistory("getChecklistFromInternalLink", [event.target.value])
+      getChecklistFromInternalLink(event.target.value)
     }
   }
 }
@@ -426,6 +447,161 @@ function setOnClickForATags(parentId) {
     }
   });
 }
+
+
+
+
+let navigationHistory = []; // Array to store navigation history
+let currentIndex = -1; // Index pointer for the current position in history
+window.getChecklistFromInternalLink = getChecklistFromInternalLink;
+
+window.onpopstate = function(event) {
+  console.log(event)
+  console.log(history)
+  console.log("Step1")
+  if(history.state){
+    console.log(history.state[currentIndex])
+    //let func = window[history.state[currentIndex].funcName];
+    //console.log(window)
+    //console.log(func);
+    //func.apply(null, history.state[currentIndex].params)
+  }
+  if (event.state && event.state.funcName) {
+    console.log("Step2")
+    let func = window[event.state.funcName];
+    console.log(func)
+    if (typeof func === 'function') {
+        console.log("Step3")
+          func.apply(null, event.state.params);
+      }
+  }
+};
+
+function addToHistory(funcName, params) {
+  let historyState = { funcName: funcName, params: params };
+  navigationHistory.push(historyState);
+  //history.pushState(historyState, '');
+  history.pushState(navigationHistory, '');
+  currentIndex++;
+  //console.log(history)
+}
+
+
+function navigateBackward() {
+    if (currentIndex > 0) {
+        currentIndex--;
+        let historyItem = navigationHistory[currentIndex];
+        historyItem.func.apply(null, historyItem.params);
+    }
+}
+
+function navigateForward() {
+    if (currentIndex < navigationHistory.length - 1) {
+        currentIndex++;
+        let historyItem = navigationHistory[currentIndex];
+        historyItem.func.apply(null, historyItem.params);
+    }
+}
+
+
+
+function updateList(searchTerm) {
+  let filteredChecklists = []
+  if(searchTerm.length == 1){
+    filteredChecklists = allChecklists.filter(checklist =>
+      checklist.toLowerCase().startsWith(searchTerm.toLowerCase())
+    )
+  }
+  else{
+    filteredChecklists = allChecklists.filter(checklist =>
+        checklist.toLowerCase().includes(searchTerm.toLowerCase()) && searchTerm.length >= 2
+    )
+  }
+  filteredChecklists.sort()
+  let checklistResults = document.getElementById('checklistResults');
+  checklistResults.innerHTML = ''; // Clear previous results
+
+  filteredChecklists.forEach(checklist => {
+      let listItem = document.createElement('li');
+      listItem.textContent = checklist;
+      listItem.className = "checklist-menu-item"
+      listItem.style.margin = "24px"
+      listItem.addEventListener('click', function() {
+          getChecklistFromInternalLink(checklist);
+          window.scrollTo({
+            top: 0,
+            left: 0,
+            behavior: 'smooth' // Optional: Adds smooth scrolling effect
+          });
+      });
+      checklistResults.appendChild(listItem);
+  });
+}
+
+
+
+
+
+let allChecklists = []
+
+async function checklistFinder(rawFile, menus){
+  console.log("This is menu: ")
+  console.log(menus)
+  arrayOfChecklists = rawFile.responseText.split(/\n/ig);
+  console.log(arrayOfChecklists)
+  allChecklists.push(arrayOfChecklists)
+  
+}
+
+
+
+function getAllChecklists() {
+  return new Promise((resolve, reject) => {
+      let menus = [problem, ingrepp, diagnoses, fakta];
+      let promises = [];
+
+      for (let i = 0; i < menus.length; i++) {
+          let file = checklistFolders.checklists + menus[i] + index;
+          console.log(file);
+          
+          // Assuming createXMLHttpRequest returns a promise
+          let promise = fetch(file)
+              .then(response => {
+                  if (!response.ok) {
+                      throw new Error('Network response was not ok');
+                  }
+                  return response.text();
+              })
+              .then(data => {
+                  // Process the data here
+                  //console.log(`Checklist ${menus[i]}:`, data);
+                  //allChecklists.push(data.split("\n"))
+                  allChecklists = allChecklists.concat(data.split("\n"))
+                  allChecklists = [...new Set(allChecklists.filter(str => !str.includes("ChapterTitle") && !str.includes("---") && str !== ''))];
+                  console.log(allChecklists)
+                  return data; // Return data if needed
+              })
+              .catch(error => {
+                  console.error('There was a problem with the fetch operation:', error);
+                  throw error; // Propagate the error
+              });
+
+          promises.push(promise);
+      }
+
+      Promise.all(promises)
+          .then(() => {
+              resolve(); // Resolve the outer promise once all requests are completed
+              console.log("Promises fulfilled");
+          })
+          .catch((error) => {
+              reject(error); // Reject the outer promise if any request fails
+          });
+  });
+}
+
+
+
 
 
 
@@ -562,13 +738,13 @@ class ChecklistItems {
       throw new TypeError("Content must be an array with two strings as first and second argument");
     }
 
-    let li = document.createElement("a");
+    let li = document.createElement("div");
 
     li.id = "list_field_" + index;
     li.style.display = "flex";
     li.style.flexDirection = "row";
     li.className = "list-group-item list-group-item-action checklist-item";
-    li.href = "#";
+    //li.href = "#";
     li.innerText = content[0];
     li.value = content[1];
     return li;

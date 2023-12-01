@@ -65,13 +65,13 @@ class ChecklistItems {
       throw new TypeError("Content must be an array with two strings as first and second argument");
     }
 
-    let li = document.createElement("a");
+    let li = document.createElement("div");
 
     li.id = "list_field_" + index;
     li.style.display = "flex";
     li.style.flexDirection = "row";
     li.className = "list-group-item list-group-item-action checklist-item";
-    li.href = "#";
+    //li.href = "#";
     li.innerText = content[0];
     li.value = content[1];
     return li;
