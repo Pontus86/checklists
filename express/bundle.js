@@ -49,7 +49,7 @@ splitSections(input) {
   makeTextGreen(inputString) {
     // Regular expression to find the pattern: Green/<SomeText>
     let regex = /Green\/<([^>]+)>/g;
-    
+
     // Replace the pattern with the styled text
     let replacedString = inputString.replace(regex, '<span style="color: green;">$1</span>');
 
@@ -77,7 +77,7 @@ splitSections(input) {
   }
 
   applyStyling(inputString){
-    let returnString = this.replaceExternalLinks(this.makeTextRed(this.makeTextGreen(this.chapterTitle(inputString))));
+    let returnString = this.replaceNewLine(this.replaceExternalLinks(this.makeTextRed(this.makeTextGreen(this.chapterTitle(inputString)))));
     return returnString
   }
 }
@@ -321,11 +321,7 @@ function setListItemOnClicks(i) {
       document.getElementById("cardTitle").innerHTML = event.target.text;
       session.addEvent(event);
       session.saveChoices(events);
-      value = util.replaceExternalLinks(event.target.value);
-      value = replaceInternalLinks(value);
-      value = util.replaceNewLine(value);
-      value = util.makeTextGreen(value);
-      value = util.makeTextRed(value);
+      value = util.applyStyling(event.target.value)
 
       document.getElementById("itemText").innerHTML = value;
       //document.getElementById("itemText").innerHTML = util.replaceNewLine(event.target.value);
@@ -362,13 +358,9 @@ function createMenuList(rawFile, menuIndexNumber) {
     let li = document.createElement("a");
     li.className = "menu-item checklist-menu-item";
     li.setAttribute("id", "menu_field_" + i);
-    //li.setAttribute("value", content[1]);
     li.value = arrayOfChecklists[i];
-    //console.log(li.value);
     li.setAttribute('href', "#");
     innerText = util.applyStyling(arrayOfChecklists[i])
-    //innerText = util.makeTextRed(arrayOfChecklists[i])
-    //innerText = util.makeTextGreen(innerText)
     li.innerHTML = innerText;
     ul2 = document.createElement("li");
     ul2.className = "vertical-stack";
@@ -380,34 +372,19 @@ function createMenuList(rawFile, menuIndexNumber) {
         listOfUls.push(ul2);
       }
     }
+    //If first element isn't a title, create the first group anyway
+    if(group == -1){ 
+      group += 1;
+        listOfUls.push(ul2);
+    }
     listOfUls[group].appendChild(li);
-    //li2.appendChild(li);
-    //ul.appendChild(li2);
     
-
-    /**document.getElementById('menu_field_' + i).onclick = async function (event) {
-      //alert(event.target.text);
-      document.getElementById("title").innerText = event.target.text;
-      document.getElementById("itemText").innerHTML = "";
-      document.getElementById("cardTitle").innerHTML = "";
-      currentChecklist = event.target.text;
-      createListFromTextFile(checklistFolders.checklists + event.target.text + ".txt");
-      showChecklist();
-
-    }*/
   }
   for(j=0; j < listOfUls.length; j++){
     ul.appendChild(listOfUls[j]);
   }
   for(i=0; i < arrayOfChecklists.length; i++){
     document.getElementById('menu_field_' + i).onclick = async function (event) {
-      //alert(event.target.text);
-      /**document.getElementById("title").innerText = event.target.text;
-      document.getElementById("itemText").innerHTML = "";
-      document.getElementById("cardTitle").innerHTML = "";
-      currentChecklist = event.target.text;
-      createListFromTextFile(checklistFolders.checklists + event.target.text + ".txt");
-      showChecklist();*/
       getChecklistFromInternalLink(event.target.text)
     }
   }

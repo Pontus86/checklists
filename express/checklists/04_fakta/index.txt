@@ -1,4 +1,3 @@
-ChapterTitle/<KOMMUNIKATION>
 Sign In
 Sign Out
 ----------------------------------------
