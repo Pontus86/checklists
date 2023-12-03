@@ -148,8 +148,16 @@ async function run() {
   setMenuItemsOnClickEvents(MENU_NAMES);
   let homeButton = document.getElementById("homeButton")
   let homeButton2 = document.getElementById("homeButton2")
-  homeButton.onclick = viewHomePage;
-  homeButton2.onclick = viewHomePage;
+  //homeButton.onclick = viewHomePage;
+  homeButton.addEventListener("click", function() {
+    addToHistory("viewHomePage", [])
+    viewHomePage();
+  })
+  homeButton2.addEventListener("click", function() {
+    addToHistory("viewHomePage", [])
+    viewHomePage();
+  })
+  //homeButton2.onclick = viewHomePage;
 
   // Get the search bar element and add event listener for input changes
   let searchBar = document.getElementById('searchBar');
@@ -174,6 +182,7 @@ function viewHomePage() {
 function setMenuItemsOnClickEvents(menuNames) {
   menuNames.forEach((element, index) => {
     document.getElementById(element).onclick = async function () {
+      addToHistory("showMenu", [index])
       await showMenu(index);
     }
   });
@@ -455,35 +464,40 @@ let navigationHistory = []; // Array to store navigation history
 let currentIndex = -1; // Index pointer for the current position in history
 window.getChecklistFromInternalLink = getChecklistFromInternalLink;
 
+window.showMenu = showMenu;
+window.viewHomePage = viewHomePage;
+
 window.onpopstate = function(event) {
   console.log(event)
-  console.log(history)
-  console.log("Step1")
-  if(history.state){
-    console.log(history.state[currentIndex])
+  //if(history.state){
+    //console.log(history.state[currentIndex])
     //let func = window[history.state[currentIndex].funcName];
     //console.log(window)
     //console.log(func);
     //func.apply(null, history.state[currentIndex].params)
-  }
-  if (event.state && event.state.funcName) {
+    //}
+ // func.apply(null, history.state[currentIndex].params)
+  if (event.state) {
     console.log("Step2")
-    let func = window[event.state.funcName];
+    let currentStateIndex = event.state.length-1
+    let func = window[event.state[currentStateIndex].funcName];
     console.log(func)
     if (typeof func === 'function') {
         console.log("Step3")
-          func.apply(null, event.state.params);
+          func.apply(null, event.state[currentStateIndex].params);
       }
   }
 };
 
 function addToHistory(funcName, params) {
+  console.log("AddedToHistory")
+
   let historyState = { funcName: funcName, params: params };
   navigationHistory.push(historyState);
   //history.pushState(historyState, '');
   history.pushState(navigationHistory, '');
   currentIndex++;
-  //console.log(history)
+  console.log(navigationHistory)
 }
 
 
@@ -544,17 +558,6 @@ function updateList(searchTerm) {
 
 let allChecklists = []
 
-async function checklistFinder(rawFile, menus){
-  console.log("This is menu: ")
-  console.log(menus)
-  arrayOfChecklists = rawFile.responseText.split(/\n/ig);
-  console.log(arrayOfChecklists)
-  allChecklists.push(arrayOfChecklists)
-  
-}
-
-
-
 function getAllChecklists() {
   return new Promise((resolve, reject) => {
       let menus = [problem, ingrepp, diagnoses, fakta];
@@ -562,7 +565,6 @@ function getAllChecklists() {
 
       for (let i = 0; i < menus.length; i++) {
           let file = checklistFolders.checklists + menus[i] + index;
-          console.log(file);
           
           // Assuming createXMLHttpRequest returns a promise
           let promise = fetch(file)
@@ -578,7 +580,6 @@ function getAllChecklists() {
                   //allChecklists.push(data.split("\n"))
                   allChecklists = allChecklists.concat(data.split("\n"))
                   allChecklists = [...new Set(allChecklists.filter(str => !str.includes("ChapterTitle") && !str.includes("---") && str !== ''))];
-                  console.log(allChecklists)
                   return data; // Return data if needed
               })
               .catch(error => {

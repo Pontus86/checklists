@@ -160,6 +160,7 @@ If more are added, you need to rerun the launch.sh script to bundle the js file 
 
 .checklist-menu-item
 {
+    font-size:25px!important;
     cursor: pointer;
 }
 
@@ -173,6 +174,7 @@ If more are added, you need to rerun the launch.sh script to bundle the js file 
     border: 0px!important;
     padding-right: 16px!important;
     cursor: pointer;
+    font-size: 25px!important;
 }
 
 /*If you make changes to checklist items, you need to realign the checkboxes
@@ -330,3 +332,6 @@ a.links:hover {
     flex-direction: column; /* Stack children vertically */
     /* Additional styles if required */
 }
+
+#itemText {font-size : 25px!important;}
+#cardTitle {font-size : 30px!important;}
