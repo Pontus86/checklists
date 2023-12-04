@@ -28,7 +28,7 @@ class ChecklistItems {
     let radio = document.createElement("input");
     radio.type = "radio";
     radio.name = "" + index;
-    radio.style.display = "none";
+    //radio.style.display = "none";
 
     // Create the circle element within the container
     let circle = document.createElement("div");
@@ -36,6 +36,7 @@ class ChecklistItems {
     circle.style.display = "flex";
     circle.style.alignItems = "center";
     circle.style.justifyContent = "center"; // Center horizontally and vertically
+    
 
 
     // Append elements

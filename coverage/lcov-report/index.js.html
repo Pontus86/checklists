@@ -23,16 +23,16 @@
         <div class='clearfix'>
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">10.25% </span>
+                <span class="strong">9.73% </span>
                 <span class="quiet">Statements</span>
-                <span class='fraction'>25/244</span>
+                <span class='fraction'>25/257</span>
             </div>
         
             
             <div class='fl pad1y space-right2'>
                 <span class="strong">0% </span>
                 <span class="quiet">Branches</span>
-                <span class='fraction'>0/43</span>
+                <span class='fraction'>0/47</span>
             </div>
         
             
@@ -44,9 +44,9 @@
         
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">10.46% </span>
+                <span class="strong">9.92% </span>
                 <span class="quiet">Lines</span>
-                <span class='fraction'>25/239</span>
+                <span class='fraction'>25/252</span>
             </div>
         
             
@@ -582,7 +582,24 @@
 <a name='L523'></a><a href='#L523'>523</a>
 <a name='L524'></a><a href='#L524'>524</a>
 <a name='L525'></a><a href='#L525'>525</a>
-<a name='L526'></a><a href='#L526'>526</a></td><td class="line-coverage quiet"><span class="cline-any cline-neutral">&nbsp;</span>
+<a name='L526'></a><a href='#L526'>526</a>
+<a name='L527'></a><a href='#L527'>527</a>
+<a name='L528'></a><a href='#L528'>528</a>
+<a name='L529'></a><a href='#L529'>529</a>
+<a name='L530'></a><a href='#L530'>530</a>
+<a name='L531'></a><a href='#L531'>531</a>
+<a name='L532'></a><a href='#L532'>532</a>
+<a name='L533'></a><a href='#L533'>533</a>
+<a name='L534'></a><a href='#L534'>534</a>
+<a name='L535'></a><a href='#L535'>535</a>
+<a name='L536'></a><a href='#L536'>536</a>
+<a name='L537'></a><a href='#L537'>537</a>
+<a name='L538'></a><a href='#L538'>538</a>
+<a name='L539'></a><a href='#L539'>539</a>
+<a name='L540'></a><a href='#L540'>540</a>
+<a name='L541'></a><a href='#L541'>541</a>
+<a name='L542'></a><a href='#L542'>542</a>
+<a name='L543'></a><a href='#L543'>543</a></td><td class="line-coverage quiet"><span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
@@ -838,8 +855,25 @@
 <span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-no">&nbsp;</span>
@@ -1360,11 +1394,28 @@ This ensures that data is sent to the server upon each click.
 */
 function <span class="fstat-no" title="function not covered" >setListItemOnClicks(</span>i) {
 <span class="cstat-no" title="statement not covered" >  document.getElementById('checkbox_' + i).onclick = <span class="fstat-no" title="function not covered" >fu</span>nction (event) {</span>
+<span class="cstat-no" title="statement not covered" >    console.log("Klick på checkbox")</span>
+<span class="cstat-no" title="statement not covered" >    console.log(event.target.tagName)</span>
 <span class="cstat-no" title="statement not covered" >    event.preventDefault();</span>
 <span class="cstat-no" title="statement not covered" >    session.addEvent(event);</span>
 <span class="cstat-no" title="statement not covered" >    session.saveChoices(events);</span>
+    // Find the nearest radio button within the clicked element's ancestors
+    const clickedElement = <span class="cstat-no" title="statement not covered" >event.target;</span>
+    const nearestRadio = <span class="cstat-no" title="statement not covered" >clickedElement.closest('label');</span>
+    const isChecked = <span class="cstat-no" title="statement not covered" >clickedElement.checked;</span>
+<span class="cstat-no" title="statement not covered" >        console.log('Is checked:', isChecked);</span>
+    
+<span class="cstat-no" title="statement not covered" >    if (nearestRadio) {</span>
+<span class="cstat-no" title="statement not covered" >      console.log("Kom hit!")</span>
+<span class="cstat-no" title="statement not covered" >        nearestRadio.click(); </span>// Manually trigger a click on the found radio button
+    }
   }
 <span class="cstat-no" title="statement not covered" >  document.getElementById('list_field_' + i).onclick = <span class="fstat-no" title="function not covered" >fu</span>nction (event) {</span>
+<span class="cstat-no" title="statement not covered" >    console.log(event.target.tagName)</span>
+<span class="cstat-no" title="statement not covered" >    if (event.target.tagName === 'LABEL') {</span>
+<span class="cstat-no" title="statement not covered" >      console.log("Här")</span>
+<span class="cstat-no" title="statement not covered" >      event.stopPropagation();</span>
+    }
 <span class="cstat-no" title="statement not covered" >    event.preventDefault();</span>
 <span class="cstat-no" title="statement not covered" >    if (event.target.value != null) {</span>
 <span class="cstat-no" title="statement not covered" >      cardBackground = document.getElementById("checklistCardBackground");</span>
@@ -1639,7 +1690,7 @@ module.exports = {}
             <div class='footer quiet pad2 space-top1 center small'>
                 Code coverage generated by
                 <a href="https://istanbul.js.org/" target="_blank">istanbul</a>
-                at Sun Dec 03 2023 23:04:11 GMT+0100 (Central European Standard Time)
+                at Mon Dec 04 2023 10:22:46 GMT+0100 (Central European Standard Time)
             </div>
         </div>
         <script src="prettify.js"></script>

@@ -264,7 +264,7 @@ Yellow: #f3d250
     text-align: center;
     line-height: 0;
     font-size: 0;
-    position: relative;
+    /*position: relative;*/
     display: inline-block;
 }
 
@@ -296,8 +296,11 @@ Yellow: #f3d250
 }
 
 /* Style the actual radio buttons */
-.circle-container input {
-    display: none;
+.circle-container-green input, 
+.circle-container-yellow input, 
+.circle-container-red input 
+{
+   display: none;
 }
 
 /* Inner black circle when checked */
@@ -305,9 +308,9 @@ Yellow: #f3d250
 .circle-container-yellow input:checked + .yellow-circle::before,
 .circle-container-red input:checked + .red-circle::before  {
     background-color: white;
-    top: 50%;
+    /*top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);*/
 }
 
 /* Style for the links class */

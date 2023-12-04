@@ -203,7 +203,7 @@ function ifImage(arrayOfItems){
 
 
 function ifNoImage(arrayOfItems){
-  showElementAndChildren(document.getElementById("ifNoImage"))
+    showElementAndChildren(document.getElementById("ifNoImage"))
     console.log("Creating List items");
     let ul = document.getElementById("recordsList");
     ul.className = "list-group list-group-flush checklist-list";
@@ -250,12 +250,17 @@ This ensures that data is sent to the server upon each click.
 @param {Integer} i - the number of the current list item and checkbox to get OnClick event listeners.
 */
 function setListItemOnClicks(i) {
+  
   document.getElementById('checkbox_' + i).onclick = function (event) {
-    event.preventDefault();
+    event.stopPropagation();
+    console.log("Klick på checkbox")
+    //event.preventDefault();
     session.addEvent(event);
     session.saveChoices(events);
   }
+  
   document.getElementById('list_field_' + i).onclick = function (event) {
+    console.log("Först klickas list field")
     event.preventDefault();
     if (event.target.value != null) {
       cardBackground = document.getElementById("checklistCardBackground");
@@ -335,6 +340,7 @@ function createMenuList(rawFile, menuIndexNumber) {
 }
 
 function getChecklistFromInternalLink(checklistName){
+  resetSearchList()
   checklistName = checklistName.charAt(0).toUpperCase() + checklistName.slice(1)
   document.getElementById("title").innerText = checklistName;
   document.getElementById("itemText").innerHTML = "";
@@ -382,6 +388,7 @@ window.showMenu = showMenu;
 window.viewHomePage = viewHomePage;
 
 window.onpopstate = function(event) {
+  resetSearchList()
   console.log(event)
   //if(history.state){
     //console.log(history.state[currentIndex])
@@ -464,6 +471,13 @@ function updateList(searchTerm) {
       });
       checklistResults.appendChild(listItem);
   });
+}
+
+function resetSearchList(){
+  let checklistResults = document.getElementById('checklistResults');
+  let searchbar = document.getElementById('searchBar');
+  searchbar.value = "";
+  checklistResults.innerHTML = ''; // Clear previous results
 }
 
 
