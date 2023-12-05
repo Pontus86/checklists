@@ -426,6 +426,7 @@ function createMenuList(rawFile, menuIndexNumber) {
 }
 
 function getChecklistFromInternalLink(checklistName){
+  
   resetSearchList()
   checklistName = checklistName.charAt(0).toUpperCase() + checklistName.slice(1)
   document.getElementById("title").innerText = checklistName;
@@ -458,7 +459,9 @@ function setOnClickForATags(parentId) {
   // Loop through each <a> tag and set the onclick attribute
   aTags.forEach(function(aTag) {
       if(aTag.dataset.url != ""){
-      aTag.onclick = function() {getChecklistFromInternalLink(aTag.dataset.url);}
+      aTag.onclick = function() {
+        addToHistory("getChecklistFromInternalLink", [aTag.dataset.url])
+        getChecklistFromInternalLink(aTag.dataset.url);}
     }
   });
 }
@@ -469,7 +472,6 @@ function setOnClickForATags(parentId) {
 let navigationHistory = []; // Array to store navigation history
 let currentIndex = -1; // Index pointer for the current position in history
 window.getChecklistFromInternalLink = getChecklistFromInternalLink;
-
 window.showMenu = showMenu;
 window.viewHomePage = viewHomePage;
 
