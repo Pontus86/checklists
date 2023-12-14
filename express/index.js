@@ -295,6 +295,7 @@ function showChecklist() {
 */
 function createMenuList(rawFile, menuIndexNumber) {
   arrayOfChecklists = rawFile.responseText.split(/\n/ig);
+  console.log(arrayOfChecklists)
   
   let menuTitles = ["Problem", "Ingrepp", "Diagnoser", "Fakta"];
 
@@ -306,6 +307,9 @@ function createMenuList(rawFile, menuIndexNumber) {
   group = -1;
 
   for (i = 0; i < arrayOfChecklists.length; i++) {
+    if (arrayOfChecklists[i].length == 0){
+      arrayOfChecklists[i] = "---";
+    }
     let li = document.createElement("div");
     li.className = "menu-item checklist-menu-item";
     li.setAttribute("id", "menu_field_" + i);
@@ -316,7 +320,9 @@ function createMenuList(rawFile, menuIndexNumber) {
     ul2 = document.createElement("li");
     ul2.className = "vertical-stack";
     ul2.style.breakInside = 'avoid-column';
+    
     if(arrayOfChecklists[i].includes("---") || innerText.startsWith("<span")){
+      console.log(arrayOfChecklists[i].length)
       li.className = "non-clickable";
       if (innerText.startsWith("<span")){
         group += 1;

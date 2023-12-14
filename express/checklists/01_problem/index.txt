@@ -5,7 +5,7 @@ Trauma nivå 1
 Nyfödda
 Samtycke
 Aggressiv - Agiterad
-----------------------------------------
+
 ChapterTitle/<AIRWAY>
 Övre luftvägshinder
 ----------------------------------------
