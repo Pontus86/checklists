@@ -46,6 +46,7 @@ const MENU_NAMES = ['problemButton', 'ingreppButton', 'diagnosButton', 'faktaBut
  * Calls the functions readTextFile() and readIndex() to load the dropdown menu and the first checklist.
 */
 async function run() {
+  createModal()
   // Usage
   getAllChecklists()
   .then(() => {
@@ -253,10 +254,12 @@ function setListItemOnClicks(i) {
   
   document.getElementById('checkbox_' + i).onclick = function (event) {
     event.stopPropagation();
-    console.log("Klick på checkbox")
-    //event.preventDefault();
-    session.addEvent(event);
-    session.saveChoices(events);
+    if(event.target.nodeName == "INPUT"){
+      console.log("Klick på checkbox")
+      //event.preventDefault();
+      session.addEvent(event);
+      session.saveChoices(events);
+  }
   }
   
   document.getElementById('list_field_' + i).onclick = function (event) {
@@ -347,6 +350,7 @@ function getChecklistFromInternalLink(checklistName){
   document.getElementById("itemText").innerHTML = "";
   document.getElementById("cardTitle").innerHTML = "";
   currentChecklist = checklistName;
+  session.checklist = checklistName;
   createListFromTextFile(checklistFolders.checklists + currentChecklist + ".txt");
   resetChecklist();
   showChecklist();
@@ -529,6 +533,126 @@ function getAllChecklists() {
               reject(error); // Reject the outer promise if any request fails
           });
   });
+}
+
+
+function createModal() {
+  // Create modal container
+  const modal = document.createElement('div');
+  modal.classList.add('modal');
+  document.body.appendChild(modal);
+
+  // Create modal content
+  const modalContent = document.createElement('div');
+  modalContent.classList.add('modal-content');
+  modal.appendChild(modalContent);
+
+  // Create close button
+  const closeBtn = document.createElement('span');
+  closeBtn.classList.add('close');
+  closeBtn.innerHTML = '&times;';
+  modalContent.appendChild(closeBtn);
+
+  // Create form
+  const form = document.createElement('form');
+  form.id = 'popupForm';
+  modalContent.appendChild(form);
+
+  // Form elements
+  const heading = document.createElement('h2');
+  heading.textContent = 'Fyll i till forskningsprojektet';
+  form.appendChild(heading);
+
+  const nameLabel = document.createElement('label');
+  nameLabel.setAttribute('for', 'name');
+  nameLabel.textContent = 'RSID:';
+  form.appendChild(nameLabel);
+
+  const nameInput = document.createElement('input');
+  nameInput.type = 'text';
+  nameInput.id = 'name';
+  nameInput.name = 'name';
+  nameInput.required = true;
+  form.appendChild(nameInput);
+
+  // Create a div for displaying the error message
+  const errorDiv = document.createElement('div');
+  errorDiv.style.color = 'red';
+  form.appendChild(errorDiv);
+
+  form.appendChild(document.createElement('br'));
+  form.appendChild(document.createElement('br'));
+
+  const levelLabel = document.createElement('label');
+  levelLabel.setAttribute('for', 'level');
+  levelLabel.textContent = 'Läkare Nivå:';
+  form.appendChild(levelLabel);
+
+  const selectInput = document.createElement('select');
+  selectInput.id = 'level';
+  selectInput.name = 'level';
+  form.appendChild(selectInput);
+      
+
+  const levels = ['junior', 'st', 'specialist'];
+
+  levels.forEach(level => {
+    const option = document.createElement('option');
+    option.value = level;
+    option.textContent = level.charAt(0).toUpperCase() + level.slice(1);
+    selectInput.appendChild(option);
+  });
+
+  form.appendChild(document.createElement('br'));
+  form.appendChild(document.createElement('br'));
+
+  const submitInput = document.createElement('input');
+  submitInput.type = 'submit';
+  submitInput.value = 'Submit';
+  form.appendChild(submitInput);
+  modal.style.display = 'block';
+
+  // Event listeners
+  /*
+  const openBtn = document.getElementById('openModal');
+  openBtn.addEventListener('click', function() {
+    
+  });
+  
+  closeBtn.addEventListener('click', function() {
+    modal.style.display = 'none';
+  });
+  */
+
+  window.addEventListener('click', function(event) {
+    if (event.target === modal) {
+      modal.style.display = 'none';
+    }
+  });
+
+  form.addEventListener('submit', function(event) {
+    event.preventDefault();
+    if(!validateInput(nameInput.value.trim())){
+      errorDiv.textContent = 'Fyll i fullständigt RSID';
+    }
+    else{
+      session.setUserRSID = event.target.name.value.toString()
+      session.setPhysicianLevel = event.target.level.value.toString()
+      errorDiv.textContent = ''; // Clear error message if validation passes
+      modal.style.display = 'none';
+    }
+  });
+}
+
+// Function to validate the input value as exactly six numbers
+function validateInput(inputValue) {
+  const regex = /^\d{6}$/; // Regular expression for exactly 6 digits
+
+  if (!regex.test(inputValue)) {
+    return false; // Validation fails
+  } else {
+    return true; // Validation passes
+  }
 }
 
 

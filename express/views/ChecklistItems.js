@@ -2,6 +2,7 @@
  *@module ChecklistItems
  */
 class ChecklistItems {
+  /**
   createCheckbox2(index) {
 
     if (typeof index !== "number" || !Number.isInteger(index) || index < 0) {
@@ -17,9 +18,9 @@ class ChecklistItems {
     checkbox.style.marginLeft = "auto";
     return checkbox;
   }
+  */
 
-
-  createCircle(color, index) {
+  createCircle(color, index, number) {
     // Create the container for the circle
     let container = document.createElement("label");
     container.className = "circle-container-" + color;
@@ -27,7 +28,8 @@ class ChecklistItems {
     // Create the radio button
     let radio = document.createElement("input");
     radio.type = "radio";
-    radio.name = "" + index;
+    radio.name = "radioButton" + index;
+    radio.value = number;
     //radio.style.display = "none";
 
     // Create the circle element within the container
@@ -49,9 +51,10 @@ class ChecklistItems {
 
   createCheckbox(index){
       let container = document.createElement("div");
-      container.appendChild(this.createCircle("green", index));
-      container.appendChild(this.createCircle("yellow", index));
-      container.appendChild(this.createCircle("red", index));
+
+      container.appendChild(this.createCircle("green", index, 0));
+      container.appendChild(this.createCircle("yellow", index, 1));
+      container.appendChild(this.createCircle("red", index, 2));
       container.id = "checkbox_" + index;
       container.style.marginLeft = "auto";
       return container

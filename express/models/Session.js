@@ -5,11 +5,15 @@ class Session {
 
     constructor() {
         this.userRSID = "";
+        this.phycisianLevel = "";
         this.checklist = "";
         this.events = [];
     }
     set setUserRSID(userRSID){
         this.userRSID = userRSID;
+    }
+    set setPhysicianLevel(level){
+        this.phycisianLevel = level;
     }
     set setChecklist(checklist){
         this.checklist = checklist;
@@ -22,16 +26,28 @@ class Session {
     */
     addEvent(event) {
         if (this.events.length == 0) {
-            this.events.push([this.getCurrentTime(), "__" + this.userRSID, "__" + this.checklist]);
+            this.events.push([this.getCurrentTime(), "__" + this.userRSID, "__" + this.checklist, "__" + this.phycisianLevel]);
         }
-        if (event.target.value == "checkbox") {
-            var checked = 0;
-            if (event.target.checked) checked = 1;
-            this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, event.target.id, checked]);
+        if (event.target.nodeName == "INPUT") {
+            this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, event.target.outerText, event.target.value]);
         }
-        else this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, event.target.text, 9]);
-
+        else this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, event.target.outerText, 9]);
+        this.removeCommas();
     }
+
+    removeCommas() {
+        // Assuming this.events is an array containing string elements with commas
+
+        for (let i = 0; i < this.events.length; i++) {
+            for (let j = 0; j < this.events[i].length; j++){
+                if (typeof this.events[i][j] == 'string') {
+                    this.events[i][j] = this.events[i][j].replace(",", '_'); // Remove commas using regex
+                    this.events[i][j] = this.events[i][j].replace("\n", ''); // Remove commas using regex
+                }
+            }
+        }
+    }
+
 
     /**
     * This function sends a POST request to the server, with attached event data.
@@ -39,7 +55,9 @@ class Session {
     */
     async saveChoices() {
         var response = await fetch('/upload', { method: "POST", body: JSON.stringify({ array: this.events }) });
+        console.log(JSON.stringify({ array: this.events }))
         console.log("data sent");
+        console.log(response)
         return response.status;
     }
 

@@ -66,6 +66,16 @@ splitSections(input) {
     return replacedString;
   }
 
+  makeTextColor(inputString) {
+    // Regular expression to find the pattern: Green/<SomeText>
+    let regex = /Color\/<([^>]+)><([^>]+)>/g;
+
+    // Replace the pattern with the styled text
+    let replacedString = inputString.replace(regex, '<span style="color: $1;">$2</span>');
+
+    return replacedString;
+  }
+
   chapterTitle(inputString) {
     // Regular expression to find the pattern: Green/<SomeText>
     let regex = /ChapterTitle\/<([^>]+)>/g;
@@ -77,7 +87,7 @@ splitSections(input) {
   }
 
   applyStyling(inputString){
-    let returnString = this.replaceNewLine(this.replaceExternalLinks(this.makeTextRed(this.makeTextGreen(this.chapterTitle(inputString)))));
+    let returnString = this.replaceNewLine(this.replaceExternalLinks(this.makeTextColor(this.makeTextRed(this.makeTextGreen(this.chapterTitle(inputString))))));
     return returnString
   }
 }
@@ -132,6 +142,7 @@ const MENU_NAMES = ['problemButton', 'ingreppButton', 'diagnosButton', 'faktaBut
  * Calls the functions readTextFile() and readIndex() to load the dropdown menu and the first checklist.
 */
 async function run() {
+  createModal()
   // Usage
   getAllChecklists()
   .then(() => {
@@ -339,10 +350,12 @@ function setListItemOnClicks(i) {
   
   document.getElementById('checkbox_' + i).onclick = function (event) {
     event.stopPropagation();
-    console.log("Klick på checkbox")
-    //event.preventDefault();
-    session.addEvent(event);
-    session.saveChoices(events);
+    if(event.target.nodeName == "INPUT"){
+      console.log("Klick på checkbox")
+      //event.preventDefault();
+      session.addEvent(event);
+      session.saveChoices(events);
+  }
   }
   
   document.getElementById('list_field_' + i).onclick = function (event) {
@@ -433,6 +446,7 @@ function getChecklistFromInternalLink(checklistName){
   document.getElementById("itemText").innerHTML = "";
   document.getElementById("cardTitle").innerHTML = "";
   currentChecklist = checklistName;
+  session.checklist = checklistName;
   createListFromTextFile(checklistFolders.checklists + currentChecklist + ".txt");
   resetChecklist();
   showChecklist();
@@ -618,6 +632,126 @@ function getAllChecklists() {
 }
 
 
+function createModal() {
+  // Create modal container
+  const modal = document.createElement('div');
+  modal.classList.add('modal');
+  document.body.appendChild(modal);
+
+  // Create modal content
+  const modalContent = document.createElement('div');
+  modalContent.classList.add('modal-content');
+  modal.appendChild(modalContent);
+
+  // Create close button
+  const closeBtn = document.createElement('span');
+  closeBtn.classList.add('close');
+  closeBtn.innerHTML = '&times;';
+  modalContent.appendChild(closeBtn);
+
+  // Create form
+  const form = document.createElement('form');
+  form.id = 'popupForm';
+  modalContent.appendChild(form);
+
+  // Form elements
+  const heading = document.createElement('h2');
+  heading.textContent = 'Fyll i till forskningsprojektet';
+  form.appendChild(heading);
+
+  const nameLabel = document.createElement('label');
+  nameLabel.setAttribute('for', 'name');
+  nameLabel.textContent = 'RSID:';
+  form.appendChild(nameLabel);
+
+  const nameInput = document.createElement('input');
+  nameInput.type = 'text';
+  nameInput.id = 'name';
+  nameInput.name = 'name';
+  nameInput.required = true;
+  form.appendChild(nameInput);
+
+  // Create a div for displaying the error message
+  const errorDiv = document.createElement('div');
+  errorDiv.style.color = 'red';
+  form.appendChild(errorDiv);
+
+  form.appendChild(document.createElement('br'));
+  form.appendChild(document.createElement('br'));
+
+  const levelLabel = document.createElement('label');
+  levelLabel.setAttribute('for', 'level');
+  levelLabel.textContent = 'Läkare Nivå:';
+  form.appendChild(levelLabel);
+
+  const selectInput = document.createElement('select');
+  selectInput.id = 'level';
+  selectInput.name = 'level';
+  form.appendChild(selectInput);
+      
+
+  const levels = ['junior', 'st', 'specialist'];
+
+  levels.forEach(level => {
+    const option = document.createElement('option');
+    option.value = level;
+    option.textContent = level.charAt(0).toUpperCase() + level.slice(1);
+    selectInput.appendChild(option);
+  });
+
+  form.appendChild(document.createElement('br'));
+  form.appendChild(document.createElement('br'));
+
+  const submitInput = document.createElement('input');
+  submitInput.type = 'submit';
+  submitInput.value = 'Submit';
+  form.appendChild(submitInput);
+  modal.style.display = 'block';
+
+  // Event listeners
+  /*
+  const openBtn = document.getElementById('openModal');
+  openBtn.addEventListener('click', function() {
+    
+  });
+  
+  closeBtn.addEventListener('click', function() {
+    modal.style.display = 'none';
+  });
+  */
+
+  window.addEventListener('click', function(event) {
+    if (event.target === modal) {
+      modal.style.display = 'none';
+    }
+  });
+
+  form.addEventListener('submit', function(event) {
+    event.preventDefault();
+    if(!validateInput(nameInput.value.trim())){
+      errorDiv.textContent = 'Fyll i fullständigt RSID';
+    }
+    else{
+      session.setUserRSID = event.target.name.value.toString()
+      session.setPhysicianLevel = event.target.level.value.toString()
+      errorDiv.textContent = ''; // Clear error message if validation passes
+      modal.style.display = 'none';
+    }
+  });
+}
+
+// Function to validate the input value as exactly six numbers
+function validateInput(inputValue) {
+  const regex = /^\d{6}$/; // Regular expression for exactly 6 digits
+
+  if (!regex.test(inputValue)) {
+    return false; // Validation fails
+  } else {
+    return true; // Validation passes
+  }
+}
+
+
 
 
 
@@ -634,11 +768,15 @@ class Session {
 
     constructor() {
         this.userRSID = "";
+        this.phycisianLevel = "";
         this.checklist = "";
         this.events = [];
     }
     set setUserRSID(userRSID){
         this.userRSID = userRSID;
+    }
+    set setPhysicianLevel(level){
+        this.phycisianLevel = level;
     }
     set setChecklist(checklist){
         this.checklist = checklist;
@@ -651,16 +789,28 @@ class Session {
     */
     addEvent(event) {
         if (this.events.length == 0) {
-            this.events.push([this.getCurrentTime(), "__" + this.userRSID, "__" + this.checklist]);
+            this.events.push([this.getCurrentTime(), "__" + this.userRSID, "__" + this.checklist, "__" + this.phycisianLevel]);
         }
-        if (event.target.value == "checkbox") {
-            var checked = 0;
-            if (event.target.checked) checked = 1;
-            this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, event.target.id, checked]);
+        if (event.target.nodeName == "INPUT") {
+            this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, event.target.outerText, event.target.value]);
         }
-        else this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, event.target.text, 9]);
-
+        else this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, event.target.outerText, 9]);
+        this.removeCommas();
     }
+
+    removeCommas() {
+        // Assuming this.events is an array containing string elements with commas
+
+        for (let i = 0; i < this.events.length; i++) {
+            for (let j = 0; j < this.events[i].length; j++){
+                if (typeof this.events[i][j] == 'string') {
+                    this.events[i][j] = this.events[i][j].replace(",", '_'); // Remove commas using regex
+                    this.events[i][j] = this.events[i][j].replace("\n", ''); // Remove commas using regex
+                }
+            }
+        }
+    }
+
 
     /**
     * This function sends a POST request to the server, with attached event data.
@@ -668,7 +818,9 @@ class Session {
     */
     async saveChoices() {
         var response = await fetch('/upload', { method: "POST", body: JSON.stringify({ array: this.events }) });
+        console.log(JSON.stringify({ array: this.events }))
         console.log("data sent");
+        console.log(response)
         return response.status;
     }
 
@@ -692,6 +844,7 @@ module.exports = Session
  *@module ChecklistItems
  */
 class ChecklistItems {
+  /**
   createCheckbox2(index) {
 
     if (typeof index !== "number" || !Number.isInteger(index) || index < 0) {
@@ -707,9 +860,9 @@ class ChecklistItems {
     checkbox.style.marginLeft = "auto";
     return checkbox;
   }
+  */
 
-
-  createCircle(color, index) {
+  createCircle(color, index, number) {
     // Create the container for the circle
     let container = document.createElement("label");
     container.className = "circle-container-" + color;
@@ -717,7 +870,8 @@ class ChecklistItems {
     // Create the radio button
     let radio = document.createElement("input");
     radio.type = "radio";
-    radio.name = "" + index;
+    radio.name = "radioButton" + index;
+    radio.value = number;
     //radio.style.display = "none";
 
     // Create the circle element within the container
@@ -739,9 +893,10 @@ class ChecklistItems {
 
   createCheckbox(index){
       let container = document.createElement("div");
-      container.appendChild(this.createCircle("green", index));
-      container.appendChild(this.createCircle("yellow", index));
-      container.appendChild(this.createCircle("red", index));
+
+      container.appendChild(this.createCircle("green", index, 0));
+      container.appendChild(this.createCircle("yellow", index, 1));
+      container.appendChild(this.createCircle("red", index, 2));
       container.id = "checkbox_" + index;
       container.style.marginLeft = "auto";
       return container

@@ -1,0 +1,12 @@
+const 01_problem = ["Hjärtstopp\,\ icke-traumatisk","Hjärtstopp\,\ traumatisk","Trauma\ nivå\ 1","Nyfödda","Samtycke","Aggressiv\ -\ Agiterad","$'�\226vre luftvägshinder'","Hemoptys","Hypoxemi-lågt\ SpO2","Lågt\ blodtryck\ -\ chock","Bradykardi","Takykardi","Takykardi\ reg\ +\ smal\ QRS","Takykardi\ reg\ +\ bred\ QRS","Takykardi\ oreg\ +\ smal\ QRS","Takykardi\ oreg\ +\ bred\ QRS","Medvetanderubbning","Krampanfall","Hypotermi","Hypertermi","Hyponatremi","Hypernatremi","Hypokalemi","Hyperkalemi","Hypocalcemi","Hypercalcemi",];
+const 04_fakta = ["Sign\ In","Sign\ Out","Agiterad","Smärta\ vuxen","Procedursedering\ vuxen","WETBAG","Smärta\ barn","Procedursedering\ barn","Naloxone\ \&\ Lanexat","Push-dose\ pressor","Sprutpump\ doser","Samtycke",];
+const checklists = ["''",];
+const . = ["''",];
+const 02_procedures = ["''",];
+const checklists = ["''",];
+const . = ["''",];
+const 04_facts = ["''",];
+const checklists = ["anafylaxi","astmaanfall","kol\ exacerbation","epiglottit","hypoxemi","luftvägshinder\ \(övre\)","lungödem","pneumoni",];
+const 02_ingrepp = ["Torakotomi","Perimortem\ sectio","$'�\226vre luftvägshinder'","Coniotomi","Intraosseös\ nål\ humerus","Lumbalpunktion","Lateral\ kantotomi","''","''",];
+const 03_diagnos = ["Anafylaxi","Angioödem","$'�\226vre luftväg främmande kropp'","Astmaanfall","COVID-19","Epiglottit","Kol\ exacerbation","Influenza","Lungödem","Pneumoni","Addisonkris","Anafylaxi","Aortadissektion","Blödningschock","Hjärttamponad","Hypertensiv\ kris","Kardiogen\ chock","Lungemboli","Neurogen\ chock","Sepsis","$'�\226vertrycks pneumothorax'","$'�\226kat intrakraniellt tryck'","Krampanfall",];
+module.exports = 03_diagnos;

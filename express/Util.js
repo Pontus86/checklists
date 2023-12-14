@@ -65,6 +65,16 @@ splitSections(input) {
     return replacedString;
   }
 
+  makeTextColor(inputString) {
+    // Regular expression to find the pattern: Green/<SomeText>
+    let regex = /Color\/<([^>]+)><([^>]+)>/g;
+
+    // Replace the pattern with the styled text
+    let replacedString = inputString.replace(regex, '<span style="color: $1;">$2</span>');
+
+    return replacedString;
+  }
+
   chapterTitle(inputString) {
     // Regular expression to find the pattern: Green/<SomeText>
     let regex = /ChapterTitle\/<([^>]+)>/g;
@@ -76,7 +86,7 @@ splitSections(input) {
   }
 
   applyStyling(inputString){
-    let returnString = this.replaceNewLine(this.replaceExternalLinks(this.makeTextRed(this.makeTextGreen(this.chapterTitle(inputString)))));
+    let returnString = this.replaceNewLine(this.replaceExternalLinks(this.makeTextColor(this.makeTextRed(this.makeTextGreen(this.chapterTitle(inputString))))));
     return returnString
   }
 }

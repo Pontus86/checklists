@@ -54,7 +54,7 @@ function setupExpressApp(CHECKLIST_ENCRYPTION_PUBLIC_KEY) {
 
   //This is used for the formatting of uploaded data
   app.use(express.json({
-    type: ['application/json' ] //removed , text/plain
+    type: ['application/json' , "text/plain"]
   }))
   //This is used for getting all data from files such as the index file or checklists
   app.use(express.static("express"));
