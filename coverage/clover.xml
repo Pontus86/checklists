@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1702585439732" clover="3.2.0">
-  <project timestamp="1702585439732" name="All files">
-    <metrics statements="323" coveredstatements="25" conditionals="53" coveredconditionals="0" methods="57" coveredmethods="0" elements="433" coveredelements="25" complexity="0" loc="323" ncloc="323" packages="1" files="1" classes="1"/>
+<coverage generated="1702587225095" clover="3.2.0">
+  <project timestamp="1702587225095" name="All files">
+    <metrics statements="322" coveredstatements="25" conditionals="53" coveredconditionals="0" methods="57" coveredmethods="0" elements="432" coveredelements="25" complexity="0" loc="322" ncloc="322" packages="1" files="1" classes="1"/>
     <file name="index.js" path="/Users/Pontus/Documents/Forskning/checklists/express/index.js">
-      <metrics statements="323" coveredstatements="25" conditionals="53" coveredconditionals="0" methods="57" coveredmethods="0"/>
+      <metrics statements="322" coveredstatements="25" conditionals="53" coveredconditionals="0" methods="57" coveredmethods="0"/>
       <line num="5" count="1" type="stmt"/>
       <line num="6" count="1" type="stmt"/>
       <line num="7" count="1" type="stmt"/>
@@ -20,7 +20,6 @@
       <line num="36" count="1" type="stmt"/>
       <line num="38" count="1" type="stmt"/>
       <line num="39" count="1" type="stmt"/>
-      <line num="49" count="0" type="stmt"/>
       <line num="51" count="0" type="stmt"/>
       <line num="53" count="0" type="stmt"/>
       <line num="56" count="0" type="stmt"/>

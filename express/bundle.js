@@ -142,7 +142,7 @@ const MENU_NAMES = ['problemButton', 'ingreppButton', 'diagnosButton', 'faktaBut
  * Calls the functions readTextFile() and readIndex() to load the dropdown menu and the first checklist.
 */
 async function run() {
-  createModal()
+  // createModal()
   // Usage
   getAllChecklists()
   .then(() => {
