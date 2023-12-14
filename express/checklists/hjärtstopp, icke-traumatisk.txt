@@ -2,7 +2,7 @@ Title/1. ECMO / GRAVIDA / BARN
 Text/
 ExternalLink/<Google><https://www.google.com>
 InternalLink/<Hyperkalemi><hyperkalemi>
-Color/<#ab7054><Indikation: >Alla
+Yellow/<Indikation: >Alla
 Red/<Kontraindikation: >Allergi
 ECMO (77971 THIVA):
 • Ung patient
