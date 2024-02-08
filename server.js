@@ -66,8 +66,9 @@ function setupExpressApp(CHECKLIST_ENCRYPTION_PUBLIC_KEY) {
 
       try {
         const files = await fs.promises.readdir(path.dirname(requestedPath));
-        //console.log(files)
-        const requestedFileLower = path.basename(requestedPath).toLowerCase();
+        console.log(files)
+        const requestedFileLower = path.basename(requestedPath).toLowerCase().replace(/%20/g, ' ');
+        console.log(requestedFileLower)
         const found = files.find(file => file.toLowerCase() === requestedFileLower);
 
         if (found) {
