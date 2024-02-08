@@ -211,6 +211,8 @@ function ifImage(arrayOfItems){
   let loadingIcon = document.createElement("img");
   loadingIcon.src = "./images/loading.gif";
   loadingIcon.className = "loading-icon";
+  loadingIcon.style.height = "50px";
+  loadingIcon.style.width = "50px";
   loadingIcon.style.marginTop = "200px"; // Center the loading icon
   loadingIcon.style.marginBottom = "200px"; // Center the loading icon
   loadingIcon.style.marginLeft = "400px"; // Center the loading icon
