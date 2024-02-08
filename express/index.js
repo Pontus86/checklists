@@ -110,7 +110,7 @@ async function showMenu(menuIndexNumber) {
   setVisibleSection(SECTION_NAMES[1]);
 }
 
-async function createXMLHttpRequest(file, callbackFunction, ...callbackArgs){
+async function createXMLHttpRequest2(file, callbackFunction, ...callbackArgs){
 
   const DONE = 4;
   const STATUS_OK = 200;
@@ -119,6 +119,7 @@ async function createXMLHttpRequest(file, callbackFunction, ...callbackArgs){
   xmlHttpRequest = new XMLHttpRequest();
   xmlHttpRequest.onreadystatechange = function () {
     if (xmlHttpRequest.readyState === DONE && xmlHttpRequest.status === STATUS_OK) {
+      console.log(xmlHttpRequest.responseText)
       callbackFunction(xmlHttpRequest, ...callbackArgs);
     }
     else if (xmlHttpRequest.readyState === DONE && xmlHttpRequest.status === STATUS_0){
@@ -135,6 +136,26 @@ async function createXMLHttpRequest(file, callbackFunction, ...callbackArgs){
   xmlHttpRequest.open("GET", file, true);
   xmlHttpRequest.send(null);
 
+}
+async function createXMLHttpRequest(file, callbackFunction, ...callbackArgs) {
+  try {
+    const response = await fetch(file);
+    if (response.ok) {
+      const text = await response.text();
+      const fakeXMLHttpRequest = {
+        responseText: text,
+        readyState: 4,
+        status: response.status
+      };
+      callbackFunction(fakeXMLHttpRequest, ...callbackArgs);
+    } else {
+      console.log("Status: " + response.status);
+      // TODO: Implement error logging or handling here.
+    }
+  } catch (error) {
+    console.log("Error: " + error);
+    // TODO: Implement error logging or handling here.
+  }
 }
 
 
@@ -183,6 +204,7 @@ function createListItem(rawFile) {
   document.getElementById("recordsList").innerHTML = "";
 
   if (arrayOfItems.toString().includes("I/")) {
+    console.log(arrayOfItems.toString())
     ifImage(arrayOfItems);
   }
   else {

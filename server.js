@@ -56,6 +56,33 @@ function setupExpressApp(CHECKLIST_ENCRYPTION_PUBLIC_KEY) {
   app.use(express.json({
     type: ['application/json' , "text/plain"]
   }))
+  
+  
+   // Custom middleware for case-insensitive file serving
+   app.use(async (req, res, next) => {
+    if (req.method === 'GET') {
+      //console.log("GET REQUEST:");
+      const requestedPath = path.join(__dirname, 'express', req.path);
+
+      try {
+        const files = await fs.promises.readdir(path.dirname(requestedPath));
+        //console.log(files)
+        const requestedFileLower = path.basename(requestedPath).toLowerCase();
+        const found = files.find(file => file.toLowerCase() === requestedFileLower);
+
+        if (found) {
+          // If a case-insensitive match is found, serve the file directly
+          //console.log("FOUND")
+          //console.log(path.join(path.dirname(requestedPath), found))
+          return res.sendFile(path.join(path.dirname(requestedPath), found));
+        }
+      } catch (error) {
+        console.error(error);
+        // If an error occurs (e.g., directory not found), proceed to next middleware
+      }
+    }
+    next();
+  });
   //This is used for getting all data from files such as the index file or checklists
   app.use(express.static("express"));
 
@@ -76,6 +103,8 @@ function setupExpressApp(CHECKLIST_ENCRYPTION_PUBLIC_KEY) {
       res.sendFile(path.join(__dirname + '/express/index.html'));
     };
   });
+
+  
 
   return app;
 }
