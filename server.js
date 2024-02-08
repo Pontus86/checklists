@@ -72,8 +72,8 @@ function setupExpressApp(CHECKLIST_ENCRYPTION_PUBLIC_KEY) {
 
         if (found) {
           // If a case-insensitive match is found, serve the file directly
-          //console.log("FOUND")
-          //console.log(path.join(path.dirname(requestedPath), found))
+          console.log("FOUND")
+          console.log(path.join(path.dirname(requestedPath), found))
           return res.sendFile(path.join(path.dirname(requestedPath), found));
         }
       } catch (error) {
