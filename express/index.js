@@ -194,12 +194,16 @@ function createListItem(rawFile) {
 
 function ifImage(arrayOfItems){
   showElementAndChildren(document.getElementById("ifImage"))
-    image_source = arrayOfItems.toString()
-    image_source = image_source.substring(image_source.search("I/") + 2)
-    image_path = "./checklists/" + image_source
-    let elem = checklistItems.createImage(image_path);
-    document.getElementById("ifImage").appendChild(elem);
-    document.getElementById("ifImage").style.display = "block";
+  document.getElementById("ifImage").style.display = "block";
+  image_source = arrayOfItems.toString()
+  image_source = image_source.substring(image_source.search("I/") + 2)
+  image_path = "./checklists/" + image_source
+  let elem = checklistItems.createImage(image_path);
+  document.getElementById("ifImage").style.visibility = "hidden" ; // Make the image visible
+  document.getElementById("ifImage").appendChild(elem);
+  elem.onload =  function(){
+    document.getElementById("ifImage").style.visibility = 'visible'; // Make the image visible
+  }
 }
 
 

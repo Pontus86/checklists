@@ -290,12 +290,22 @@ function createListItem(rawFile) {
 
 function ifImage(arrayOfItems){
   showElementAndChildren(document.getElementById("ifImage"))
-    image_source = arrayOfItems.toString()
-    image_source = image_source.substring(image_source.search("I/") + 2)
-    image_path = "./checklists/" + image_source
-    let elem = checklistItems.createImage(image_path);
-    document.getElementById("ifImage").appendChild(elem);
-    document.getElementById("ifImage").style.display = "block";
+  document.getElementById("ifImage").style.display = "block";
+  image_source = arrayOfItems.toString()
+  image_source = image_source.substring(image_source.search("I/") + 2)
+  image_path = "./checklists/" + image_source
+  let elem = checklistItems.createImage(image_path);
+  document.getElementById("ifImage").style.visibility = "hidden" ; // Make the image visible
+  // Set the transition effect using JavaScript
+  //document.getElementById("ifImage").style.transition = 'opacity 2s ease-in-out';
+
+// Initially set the image opacity to 0
+  //document.getElementById("ifImage").style.opacity = '0';
+  document.getElementById("ifImage").appendChild(elem);
+  elem.onload =  function(){
+    document.getElementById("ifImage").style.visibility = 'visible'; // Make the image visible
+    //document.getElementById("ifImage").style.opacity = '1';
+  }
 }
 
 

@@ -23,9 +23,9 @@
         <div class='clearfix'>
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">100% </span>
+                <span class="strong">93.75% </span>
                 <span class="quiet">Statements</span>
-                <span class='fraction'>41/41</span>
+                <span class='fraction'>45/48</span>
             </div>
         
             
@@ -37,16 +37,16 @@
         
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">100% </span>
+                <span class="strong">66.67% </span>
                 <span class="quiet">Functions</span>
-                <span class='fraction'>4/4</span>
+                <span class='fraction'>4/6</span>
             </div>
         
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">100% </span>
+                <span class="strong">93.75% </span>
                 <span class="quiet">Lines</span>
-                <span class='fraction'>41/41</span>
+                <span class='fraction'>45/48</span>
             </div>
         
             
@@ -157,7 +157,17 @@
 <a name='L98'></a><a href='#L98'>98</a>
 <a name='L99'></a><a href='#L99'>99</a>
 <a name='L100'></a><a href='#L100'>100</a>
-<a name='L101'></a><a href='#L101'>101</a></td><td class="line-coverage quiet"><span class="cline-any cline-neutral">&nbsp;</span>
+<a name='L101'></a><a href='#L101'>101</a>
+<a name='L102'></a><a href='#L102'>102</a>
+<a name='L103'></a><a href='#L103'>103</a>
+<a name='L104'></a><a href='#L104'>104</a>
+<a name='L105'></a><a href='#L105'>105</a>
+<a name='L106'></a><a href='#L106'>106</a>
+<a name='L107'></a><a href='#L107'>107</a>
+<a name='L108'></a><a href='#L108'>108</a>
+<a name='L109'></a><a href='#L109'>109</a>
+<a name='L110'></a><a href='#L110'>110</a>
+<a name='L111'></a><a href='#L111'>111</a></td><td class="line-coverage quiet"><span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
@@ -185,6 +195,7 @@
 <span class="cline-any cline-yes">6x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">6x</span>
 <span class="cline-any cline-yes">6x</span>
 <span class="cline-any cline-yes">6x</span>
 <span class="cline-any cline-yes">6x</span>
@@ -209,6 +220,7 @@
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-yes">2x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-yes">2x</span>
 <span class="cline-any cline-yes">2x</span>
 <span class="cline-any cline-yes">2x</span>
@@ -244,6 +256,14 @@
 <span class="cline-any cline-yes">3x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-yes">1x</span>
@@ -279,7 +299,7 @@ class ChecklistItems {
   }
   */
 &nbsp;
-  createCircle(color, index) {
+  createCircle(color, index, number) {
     // Create the container for the circle
     let container = document.createElement("label");
     container.className = "circle-container-" + color;
@@ -287,7 +307,8 @@ class ChecklistItems {
     // Create the radio button
     let radio = document.createElement("input");
     radio.type = "radio";
-    radio.name = "" + index;
+    radio.name = "radioButton" + index;
+    radio.value = number;
     //radio.style.display = "none";
 &nbsp;
     // Create the circle element within the container
@@ -309,9 +330,10 @@ class ChecklistItems {
 &nbsp;
   createCheckbox(index){
       let container = document.createElement("div");
-      container.appendChild(this.createCircle("green", index));
-      container.appendChild(this.createCircle("yellow", index));
-      container.appendChild(this.createCircle("red", index));
+&nbsp;
+      container.appendChild(this.createCircle("green", index, 0));
+      container.appendChild(this.createCircle("yellow", index, 1));
+      container.appendChild(this.createCircle("red", index, 2));
       container.id = "checkbox_" + index;
       container.style.marginLeft = "auto";
       return container
@@ -344,6 +366,14 @@ class ChecklistItems {
       throw new TypeError("Image path must be a string.");
     }
     let elem = document.createElement("img");
+    elem.setAttribute("display", "none");
+    console.log("Image loading")
+    elem.onload = <span class="fstat-no" title="function not covered" >fu</span>nction() {
+<span class="cstat-no" title="statement not covered" >      setTimeout(<span class="fstat-no" title="function not covered" >fu</span>nction() {</span>
+<span class="cstat-no" title="statement not covered" >        elem.setAttribute("display", "block");</span>
+<span class="cstat-no" title="statement not covered" >        console.log("Image loaded");</span>
+      }, 500);
+    };
 &nbsp;
     //elem.src = './checklists/02_ingrepp/Coniotomi Exemple JPEG.jpg';
     elem.src = image_path;
@@ -364,7 +394,7 @@ module.exports = ChecklistItems</pre></td></tr></table></pre>
             <div class='footer quiet pad2 space-top1 center small'>
                 Code coverage generated by
                 <a href="https://istanbul.js.org/" target="_blank">istanbul</a>
-                at Fri Dec 08 2023 11:40:29 GMT+0100 (Central European Standard Time)
+                at Thu Feb 08 2024 10:34:22 GMT+0100 (Central European Standard Time)
             </div>
         </div>
         <script src="../../prettify.js"></script>
