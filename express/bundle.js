@@ -289,22 +289,34 @@ function createListItem(rawFile) {
 
 
 function ifImage(arrayOfItems){
-  showElementAndChildren(document.getElementById("ifImage"))
-  document.getElementById("ifImage").style.display = "block";
+  parentDiv = document.getElementById("ifImage")
+  parentDiv.style.display = 'flex';
+  parentDiv.style.justifyContent = 'center';
+  parentDiv.style.alignItems = 'center';
+  showElementAndChildren(parentDiv)
+  parentDiv.style.display = "block";
   image_source = arrayOfItems.toString()
   image_source = image_source.substring(image_source.search("I/") + 2)
   image_path = "./checklists/" + image_source
   let elem = checklistItems.createImage(image_path);
-  document.getElementById("ifImage").style.visibility = "hidden" ; // Make the image visible
-  // Set the transition effect using JavaScript
-  //document.getElementById("ifImage").style.transition = 'opacity 2s ease-in-out';
+  elem.style.visibility = "hidden" ; // Make the image visible
+  elem.style.display = "none";
+  parentDiv.appendChild(elem);
 
-// Initially set the image opacity to 0
-  //document.getElementById("ifImage").style.opacity = '0';
-  document.getElementById("ifImage").appendChild(elem);
+  // Show loading icon
+  let loadingIcon = document.createElement("img");
+  loadingIcon.src = "./images/loading.gif";
+  loadingIcon.className = "loading-icon";
+  loadingIcon.style.marginTop = "200px"; // Center the loading icon
+  loadingIcon.style.marginBottom = "200px"; // Center the loading icon
+  loadingIcon.style.marginLeft = "400px"; // Center the loading icon
+  parentDiv.appendChild(loadingIcon);
+
   elem.onload =  function(){
-    document.getElementById("ifImage").style.visibility = 'visible'; // Make the image visible
-    //document.getElementById("ifImage").style.opacity = '1';
+    // Hide loading icon
+    parentDiv.removeChild(loadingIcon);
+    elem.style.display = "block";
+    elem.style.visibility = 'visible'; // Make the image visible
   }
 }
 

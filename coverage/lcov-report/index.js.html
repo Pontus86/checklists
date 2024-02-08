@@ -23,9 +23,9 @@
         <div class='clearfix'>
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">7.6% </span>
+                <span class="strong">7.29% </span>
                 <span class="quiet">Statements</span>
-                <span class='fraction'>25/329</span>
+                <span class='fraction'>25/343</span>
             </div>
         
             
@@ -44,9 +44,9 @@
         
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">7.69% </span>
+                <span class="strong">7.37% </span>
                 <span class="quiet">Lines</span>
-                <span class='fraction'>25/325</span>
+                <span class='fraction'>25/339</span>
             </div>
         
             
@@ -732,7 +732,25 @@
 <a name='L673'></a><a href='#L673'>673</a>
 <a name='L674'></a><a href='#L674'>674</a>
 <a name='L675'></a><a href='#L675'>675</a>
-<a name='L676'></a><a href='#L676'>676</a></td><td class="line-coverage quiet"><span class="cline-any cline-neutral">&nbsp;</span>
+<a name='L676'></a><a href='#L676'>676</a>
+<a name='L677'></a><a href='#L677'>677</a>
+<a name='L678'></a><a href='#L678'>678</a>
+<a name='L679'></a><a href='#L679'>679</a>
+<a name='L680'></a><a href='#L680'>680</a>
+<a name='L681'></a><a href='#L681'>681</a>
+<a name='L682'></a><a href='#L682'>682</a>
+<a name='L683'></a><a href='#L683'>683</a>
+<a name='L684'></a><a href='#L684'>684</a>
+<a name='L685'></a><a href='#L685'>685</a>
+<a name='L686'></a><a href='#L686'>686</a>
+<a name='L687'></a><a href='#L687'>687</a>
+<a name='L688'></a><a href='#L688'>688</a>
+<a name='L689'></a><a href='#L689'>689</a>
+<a name='L690'></a><a href='#L690'>690</a>
+<a name='L691'></a><a href='#L691'>691</a>
+<a name='L692'></a><a href='#L692'>692</a>
+<a name='L693'></a><a href='#L693'>693</a>
+<a name='L694'></a><a href='#L694'>694</a></td><td class="line-coverage quiet"><span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
@@ -934,6 +952,24 @@
 <span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-no">&nbsp;</span>
@@ -1602,16 +1638,34 @@ function <span class="fstat-no" title="function not covered" >createListItem(</s
 &nbsp;
 &nbsp;
 function <span class="fstat-no" title="function not covered" >ifImage(</span>arrayOfItems){
-<span class="cstat-no" title="statement not covered" >  showElementAndChildren(document.getElementById("ifImage"))</span>
-<span class="cstat-no" title="statement not covered" >  document.getElementById("ifImage").style.display = "block";</span>
+<span class="cstat-no" title="statement not covered" >  parentDiv = document.getElementById("ifImage")</span>
+<span class="cstat-no" title="statement not covered" >  parentDiv.style.display = 'flex';</span>
+<span class="cstat-no" title="statement not covered" >  parentDiv.style.justifyContent = 'center';</span>
+<span class="cstat-no" title="statement not covered" >  parentDiv.style.alignItems = 'center';</span>
+<span class="cstat-no" title="statement not covered" >  showElementAndChildren(parentDiv)</span>
+<span class="cstat-no" title="statement not covered" >  parentDiv.style.display = "block";</span>
 <span class="cstat-no" title="statement not covered" >  image_source = arrayOfItems.toString()</span>
 <span class="cstat-no" title="statement not covered" >  image_source = image_source.substring(image_source.search("I/") + 2)</span>
 <span class="cstat-no" title="statement not covered" >  image_path = "./checklists/" + image_source</span>
   let elem = <span class="cstat-no" title="statement not covered" >checklistItems.createImage(image_path);</span>
-<span class="cstat-no" title="statement not covered" >  document.getElementById("ifImage").style.visibility = "hidden" ; </span>// Make the image visible
-<span class="cstat-no" title="statement not covered" >  document.getElementById("ifImage").appendChild(elem);</span>
+<span class="cstat-no" title="statement not covered" >  elem.style.visibility = "hidden" ; </span>// Make the image visible
+<span class="cstat-no" title="statement not covered" >  elem.style.display = "none";</span>
+<span class="cstat-no" title="statement not covered" >  parentDiv.appendChild(elem);</span>
+&nbsp;
+  // Show loading icon
+  let loadingIcon = <span class="cstat-no" title="statement not covered" >document.createElement("img");</span>
+<span class="cstat-no" title="statement not covered" >  loadingIcon.src = "./images/loading.gif";</span>
+<span class="cstat-no" title="statement not covered" >  loadingIcon.className = "loading-icon";</span>
+<span class="cstat-no" title="statement not covered" >  loadingIcon.style.marginTop = "200px"; </span>// Center the loading icon
+<span class="cstat-no" title="statement not covered" >  loadingIcon.style.marginBottom = "200px"; </span>// Center the loading icon
+<span class="cstat-no" title="statement not covered" >  loadingIcon.style.marginLeft = "400px"; </span>// Center the loading icon
+<span class="cstat-no" title="statement not covered" >  parentDiv.appendChild(loadingIcon);</span>
+&nbsp;
 <span class="cstat-no" title="statement not covered" >  elem.onload =  <span class="fstat-no" title="function not covered" >fu</span>nction(){</span>
-<span class="cstat-no" title="statement not covered" >    document.getElementById("ifImage").style.visibility = 'visible'; </span>// Make the image visible
+    // Hide loading icon
+<span class="cstat-no" title="statement not covered" >    parentDiv.removeChild(loadingIcon);</span>
+<span class="cstat-no" title="statement not covered" >    elem.style.display = "block";</span>
+<span class="cstat-no" title="statement not covered" >    elem.style.visibility = 'visible'; </span>// Make the image visible
   }
 }
 &nbsp;
@@ -2089,7 +2143,7 @@ module.exports = {}
             <div class='footer quiet pad2 space-top1 center small'>
                 Code coverage generated by
                 <a href="https://istanbul.js.org/" target="_blank">istanbul</a>
-                at Thu Feb 08 2024 10:51:25 GMT+0100 (Central European Standard Time)
+                at Thu Feb 08 2024 11:14:49 GMT+0100 (Central European Standard Time)
             </div>
         </div>
         <script src="prettify.js"></script>
