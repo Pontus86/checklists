@@ -20,15 +20,18 @@
 
 /* Define the font using @font-face */
 @font-face {
-    font-family: 'AvenirNext'; /* Font name you'll use in CSS */
-    src: url('/express/fonts/AvenirNextLTPro-Regular.otf') format('otf'), /* Path to your font file */
+    /*font-family: 'AvenirNext'; /* Font name you'll use in CSS */
+    /*src: url('/express/fonts/AvenirNextLTPro-Regular.otf') format('otf'), /* Path to your font file */
+    font-family: 'NotoSans'; /* Font name you'll use in CSS */
+    src: url('fonts/NotoSans-VariableFont_wdth,wght.otf') format('woff2'), /* Path to your font file */
          /*url('fonts/your-custom-font.woff') format('woff');  Provide different formats for compatibility */
     /* Add more src lines for other file formats if necessary */
     /* Include font-weight and font-style if applicable */
 }
 
+
 body {
-    font-family: 'AvenirNext'; 
+    font-family: 'NotoSans'; /* Use the font you defined above */
 }
 /* 
 

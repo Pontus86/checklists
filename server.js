@@ -9,6 +9,7 @@ var fs = require('fs');
 var ip = require("ip");
 const RSA = require('./express/RSA.js');
 const uploadController = require("./express/controllers/uploadChecklistController.js");
+const os = require('os');
 
 
 
@@ -112,7 +113,18 @@ function setupExpressApp(CHECKLIST_ENCRYPTION_PUBLIC_KEY) {
   return app;
 }
 
-
+function getIPv6Address() {
+  const interfaces = os.networkInterfaces();
+  for (const name of Object.keys(interfaces)) {
+      for (const iface of interfaces[name]) {
+          // Filter for an IPv6 address that is not an internal (loopback) address
+          if (iface.family === 'IPv6' && !iface.internal) {
+              return iface.address;
+          }
+      }
+  }
+  return '::1'; // Return the loopback address if no external IPv6 address is found
+}
 
 
 //CREATING THE SERVER
@@ -131,11 +143,14 @@ function createServer(APP_OPTIONS, app, PORT) {
       const UNCAUGHT_FATAL_EXCEPTION = 1;
       process.exit(UNCAUGHT_FATAL_EXCEPTION);
   });
-
+  //server.listen(PORT, '::', function () {
+  //  console.log(`\nYour website can be found at: https://[${getIPv6Address()}]:${PORT}`);
+  //  console.log(`\nListening to PORT: ${PORT}`);
+  //});
+  
   server.listen(PORT, '0.0.0.0', function () {
     console.log('\nYour website can be found at: https://' + ip.address() + ':' + PORT);
     console.log('\nListening to PORT:  ' + PORT);
-
   });
 }
 
