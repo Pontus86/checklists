@@ -46,7 +46,7 @@ const MENU_NAMES = ['problemButton', 'ingreppButton', 'diagnosButton', 'faktaBut
  * Calls the functions readTextFile() and readIndex() to load the dropdown menu and the first checklist.
 */
 async function run() {
-  // createModal()
+  createModal()
   // Usage
   getAllChecklists()
   .then(() => {
@@ -635,6 +635,7 @@ function createModal() {
   form.appendChild(document.createElement('br'));
   form.appendChild(document.createElement('br'));
 
+  // Create a label and select input for physician level
   const levelLabel = document.createElement('label');
   levelLabel.setAttribute('for', 'level');
   levelLabel.textContent = 'Läkare Nivå:';
@@ -657,6 +658,21 @@ function createModal() {
 
   form.appendChild(document.createElement('br'));
   form.appendChild(document.createElement('br'));
+
+
+  const patientIDLabel = document.createElement('label');
+  patientIDLabel.setAttribute('for', 'name');
+  patientIDLabel.textContent = 'PatientID:';
+  form.appendChild(patientIDLabel);
+
+  const patientIDLabelInput = document.createElement('input');
+  patientIDLabelInput.type = 'text';
+  patientIDLabelInput.id = 'patientID';
+  patientIDLabelInput.name = 'patientID';
+  patientIDLabelInput.required = true;
+  form.appendChild(patientIDLabelInput);
+
+
 
   const submitInput = document.createElement('input');
   submitInput.type = 'submit';

@@ -100,3 +100,17 @@ then copy all files in the keys folder using:
     ps aux | grep jupyter | awk '{print $2}' | xargs kill
 
     ssh -L 1234:localhost:1234 pi@raspberrypi.local "ps aux | grep jupyter | awk '{print $2}' | xargs kill && cd Documents/checklists && jupyter notebook --no-browser --port=1234 & disown && bash"
+
+
+To fix autostart:
+
+1. type:
+crontab -e
+
+2. Select option 1
+
+3. At end of file type:
+@reboot sleep 10 && authbind --deep /opt/nodejs/bin/pm2 start /home/pi/Documents/checklists/server.js --watch
+
+4. Reboot pi to test:
+sudo reboot
