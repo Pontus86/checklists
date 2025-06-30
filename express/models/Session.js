@@ -5,9 +5,15 @@ class Session {
 
     constructor() {
         this.userRSID = "";
-        this.phycisianLevel = "";
+        this.patientID = "";
+        this.physicianLevel = "";
         this.checklist = "";
         this.events = [];
+        this.checklistUse = false;
+        this.do_confirm = "";
+        this.likert_scale = "";
+        this.no_use = "";
+        this.discuss = "No";
     }
     set setUserRSID(userRSID){
         this.userRSID = userRSID;
@@ -25,13 +31,24 @@ class Session {
     @param {String} event - takes an event as input. This event contains the item the user has clicked.
     */
     addEvent(event) {
+        console.log(event);
         if (this.events.length == 0) {
-            this.events.push([this.getCurrentTime(), "__" + this.userRSID, "__" + this.checklist, "__" + this.phycisianLevel]);
+            this.events.push([this.getCurrentTime(), "__" + this.userRSID, "__" + this.checklist, "__" + this.patientID, "__" + this.physicianLevel, "", "", "", "", "", "", ""]);
         }
+        if (event == "logout") {
+            console.log("User logged out");
+            this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, "Logout", "", "", this.phycisianLevel, this.checklistUse,
+                this.do_confirm, this.likert_scale, this.no_use, this.discuss]);
+            this.removeCommas();
+            return;
+        }
+
         if (event.target.nodeName == "INPUT") {
-            this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, event.target.outerText, event.target.value]);
+            console.log(event)
+            console.log(event.target.parentNode.parentNode.parentNode.outerText)
+            this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, "Checkbox", event.target.parentNode.parentNode.parentNode.outerText, event.target.value, "", "", "", "", "", ""]);
         }
-        else this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, event.target.outerText, 9]);
+        else this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, "Read", event.target.outerText, 9, "", "", "", "", "", ""]);
         this.removeCommas();
     }
 

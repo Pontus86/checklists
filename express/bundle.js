@@ -101,6 +101,8 @@ module.exports = Util
 let Session = require("./models/Session.js");
 let Util = require("./Util.js");
 let ChecklistItems = require("./views/ChecklistItems.js")
+let Modals = require("./modals.js");
+
 
 //TODO:
 //The variable names like checklists, problem, ingrepp, etc., would be more meaningful if 
@@ -128,6 +130,7 @@ let index = "index.txt";
 let events = [];
 
 const session = new Session();
+const modals = new Modals();
 const util = new Util();
 const checklistItems = new ChecklistItems();
 
@@ -142,7 +145,7 @@ const MENU_NAMES = ['problemButton', 'ingreppButton', 'diagnosButton', 'faktaBut
  * Calls the functions readTextFile() and readIndex() to load the dropdown menu and the first checklist.
 */
 async function run() {
-  createModal()
+  //createModal()
   // Usage
   getAllChecklists()
   .then(() => {
@@ -177,6 +180,30 @@ async function run() {
       updateList(this.value);
     }
   });
+
+  modals.showLoginModal(session);
+  
+  ['mousemove', 'keydown', 'click', 'scroll'].forEach(evt => {
+    window.addEventListener(evt, () => modals.resetInactivityTimer(session));
+  });
+  
+  modals.resetInactivityTimer(session); // starta direkt
+
+  document.getElementById('logoutButton').addEventListener('click', () => {
+    modals.showLogoutModal(session, (data) => {
+      console.log('Logout-formulär skickades:', data);
+      // Här kan du t.ex. skicka data till backend
+      
+
+    });
+  });
+
+  document.getElementById('debugButton').addEventListener('click', () => {
+    console.log("Session data:", session);
+    console.log("Checklist items:", checklistItems);
+    console.log("Util functions:", util);
+  });
+
 }
 document.addEventListener('DOMContentLoaded', run);
 
@@ -731,6 +758,7 @@ function createModal() {
   form.appendChild(document.createElement('br'));
   form.appendChild(document.createElement('br'));
 
+  // Create a label and select input for physician level
   const levelLabel = document.createElement('label');
   levelLabel.setAttribute('for', 'level');
   levelLabel.textContent = 'Läkare Nivå:';
@@ -753,6 +781,21 @@ function createModal() {
 
   form.appendChild(document.createElement('br'));
   form.appendChild(document.createElement('br'));
+
+
+  const patientIDLabel = document.createElement('label');
+  patientIDLabel.setAttribute('for', 'name');
+  patientIDLabel.textContent = 'PatientID:';
+  form.appendChild(patientIDLabel);
+
+  const patientIDLabelInput = document.createElement('input');
+  patientIDLabelInput.type = 'text';
+  patientIDLabelInput.id = 'patientID';
+  patientIDLabelInput.name = 'patientID';
+  patientIDLabelInput.required = true;
+  form.appendChild(patientIDLabelInput);
+
+
 
   const submitInput = document.createElement('input');
   submitInput.type = 'submit';
@@ -792,6 +835,8 @@ function createModal() {
   });
 }
 
+
+
 // Function to validate the input value as exactly six numbers
 function validateInput(inputValue) {
   const regex = /^\d{6}$/; // Regular expression for exactly 6 digits
@@ -812,7 +857,363 @@ module.exports = {}
 
 
 
-},{"./Util.js":1,"./models/Session.js":3,"./views/ChecklistItems.js":4}],3:[function(require,module,exports){
+},{"./Util.js":1,"./modals.js":3,"./models/Session.js":4,"./views/ChecklistItems.js":5}],3:[function(require,module,exports){
+// modals.js
+/**
+ *@module Modals
+ */
+
+ class Modals {
+    INACTIVITY_WARNING_MINUTES = 3;
+    INACTIVITY_FINAL_MINUTES = 10;
+    inactivityTimeout = null;
+    lastWarningShown = null;
+  
+    createModalContainer() {
+      const modal = document.createElement('div');
+      modal.classList.add('modal');
+  
+      const modalContent = document.createElement('div');
+      modalContent.classList.add('modal-content');
+      modal.appendChild(modalContent);
+  
+      document.body.appendChild(modal);
+      return { modal, modalContent };
+    }
+  
+    createCloseButton(modal, modalContent) {
+      const closeBtn = document.createElement('span');
+      closeBtn.classList.add('close');
+      closeBtn.innerHTML = '&times;';
+      modalContent.appendChild(closeBtn);
+  
+      closeBtn.addEventListener('click', () => {
+        modal.style.display = 'none';
+      });
+    }
+  
+    createInputLabelPair(labelText, id, required = false) {
+      const label = document.createElement('label');
+      label.setAttribute('for', id);
+      label.textContent = labelText;
+  
+      const input = document.createElement('input');
+      input.type = 'text';
+      input.id = id;
+      input.name = id;
+      input.required = required;
+  
+      return { label, input };
+    }
+  
+    createLevelSelector() {
+      const label = document.createElement('label');
+      label.setAttribute('for', 'level');
+      label.textContent = 'Läkare Nivå:';
+  
+      const select = document.createElement('select');
+      select.id = 'level';
+      select.name = 'level';
+  
+      ['junior', 'st', 'specialist'].forEach(level => {
+        const option = document.createElement('option');
+        option.value = level;
+        option.textContent = level.charAt(0).toUpperCase() + level.slice(1);
+        select.appendChild(option);
+      });
+  
+      return { label, select };
+    }
+  
+    showLoginModal(session) {
+      const { modal, modalContent } = this.createModalContainer();
+      this.createCloseButton(modal, modalContent);
+  
+      const form = document.createElement('form');
+      form.id = 'loginForm';
+  
+      const heading = document.createElement('h2');
+      heading.textContent = 'Logga in för forskningsprojektet';
+      form.appendChild(heading);
+  
+      //const rsid = this.createInputLabelPair('RSID:', 'rsid', true);
+      //form.appendChild(rsid.label);
+      //form.appendChild(rsid.input);
+  
+      const patient = this.createInputLabelPair('PatientID:', 'patientID', true);
+      form.appendChild(patient.label);
+      form.appendChild(patient.input);
+  
+      //const level = this.createLevelSelector();
+      //form.appendChild(level.label);
+      //form.appendChild(level.select);
+  
+      const errorDiv = document.createElement('div');
+      errorDiv.style.color = 'red';
+      form.appendChild(errorDiv);
+  
+      const submit = document.createElement('input');
+      submit.type = 'submit';
+      submit.value = 'Logga in';
+      form.appendChild(submit);
+  
+      form.addEventListener('submit', (event) => {
+        event.preventDefault();
+          //session.userRSID = rsid.input.value.trim();
+          //session.physicianLevel = level.select.value;
+          session.patientID = patient.input.value.trim();
+          modal.style.display = 'none';
+        
+      });
+  
+      modalContent.appendChild(form);
+      modal.style.display = 'block';
+    }
+  
+    showTimeoutModal(session, timePassedMinutes) {
+      const { modal, modalContent } = this.createModalContainer();
+      this.createCloseButton(modal, modalContent);
+  
+      const form = document.createElement('form');
+      const heading = document.createElement('h2');
+      heading.textContent = `Inaktivitet i ${timePassedMinutes} minuter`;
+      form.appendChild(heading);
+  
+      const question = document.createElement('p');
+      question.textContent = 'Är det samma patient?';
+      form.appendChild(question);
+  
+      const sameBtn = document.createElement('button');
+      sameBtn.type = 'button';
+      sameBtn.textContent = 'Ja';
+  
+      const newBtn = document.createElement('button');
+      newBtn.type = 'button';
+      newBtn.textContent = 'Nej, ny patient';
+  
+      form.appendChild(sameBtn);
+      form.appendChild(newBtn);
+  
+      sameBtn.addEventListener('click', () => {
+        if (timePassedMinutes >= this.INACTIVITY_FINAL_MINUTES) {
+                const pid = prompt('Skriv in patientens personnummer (det döljs vid sparning):');
+                if (pid == session.patientID) {
+                    modal.style.display = 'none';
+                    this.showTemporaryMessage("Du är fortfarande inloggad och kan fortsätta arbeta.", "info");
+                    //break;
+                }
+                else {
+                    this.showTemporaryMessage("Du har skrivit in fel personnummer eller inte skrivit in något.", "error");
+                    
+                }
+            
+        } 
+        else {
+          modal.style.display = 'none';
+          this.showTemporaryMessage("Du är fortfarande inloggad och kan fortsätta arbeta.", "info");
+        }
+      });
+  
+      newBtn.addEventListener('click', () => {
+        modal.style.display = 'none';
+        window.location.reload();
+      });
+  
+      modalContent.appendChild(form);
+      modal.style.display = 'block';
+    }
+  
+    showLogoutModal(session, onSubmit) {
+      const { modal, modalContent } = this.createModalContainer();
+      this.createCloseButton(modal, modalContent);
+    
+      const form = document.createElement('form');
+      const heading = document.createElement('h2');
+      heading.textContent = 'Fyll i innan utloggning';
+      form.appendChild(heading);
+    
+      // Doctor competence section
+      const experience = this.createInputLabelPair('Högsta läkarkompetens:', 'experience');
+      const experienceSelect = document.createElement('select');
+      ['Specialist akut', 'Specialist annat', 'ST akut', 'ST annat'].forEach(text => {
+      const option = document.createElement('option');
+      option.value = text;
+      option.textContent = text;
+      experienceSelect.appendChild(option);
+      });
+      form.appendChild(experience.label);
+      form.appendChild(experienceSelect);
+    
+      // Checklist usage section
+      const usedChecklistLabel = document.createElement('label');
+      usedChecklistLabel.textContent = 'Användes checklista?';
+      const usedChecklist = document.createElement('select');
+      ['Ja', 'Nej'].forEach(val => {
+      const opt = document.createElement('option');
+      opt.value = val;
+      opt.textContent = val;
+      usedChecklist.appendChild(opt);
+      });
+      form.appendChild(usedChecklistLabel);
+      form.appendChild(usedChecklist);
+    
+      // Dynamic elements for checklist usage
+      const doConfirmLabel = document.createElement('label');
+      doConfirmLabel.textContent = 'Användes checklista som do/confirm?';
+      const doConfirm = document.createElement('select');
+      ['Ja', 'Nej'].forEach(val => {
+      const opt = document.createElement('option');
+      opt.value = val;
+      opt.textContent = val;
+      doConfirm.appendChild(opt);
+      });
+    
+      const valueLabel = document.createElement('label');
+      valueLabel.textContent = 'Hur värdefull var checklistan? (1 ej värdefull, 6 mycket värdefull):';
+      const valueInput = document.createElement('input');
+      valueInput.type = 'number';
+      valueInput.min = 1;
+      valueInput.max = 6;
+      valueInput.required = true;
+    
+      const whyLabel = document.createElement('label');
+      whyLabel.id = 'whyLabel';
+      whyLabel.textContent = 'Varför användes checklistan inte?';
+      const whyInput = document.createElement('select');
+      ['-', 'Brist på tid', 'Läkare ville inte', 'Ej relevant för fallet', 'Annat'].forEach(val => {
+      const opt = document.createElement('option');
+      opt.value = val;
+      opt.textContent = val;
+      whyInput.appendChild(opt);
+      });
+      whyInput.id = 'whyInput';
+      whyInput.required = true;
+    
+      usedChecklist.addEventListener('change', () => {
+      if (usedChecklist.value === 'Ja') {
+        if (!form.contains(doConfirmLabel)) form.appendChild(doConfirmLabel);
+        if (!form.contains(doConfirm)) form.appendChild(doConfirm);
+        if (!form.contains(valueLabel)) form.appendChild(valueLabel);
+        if (!form.contains(valueInput)) form.appendChild(valueInput);
+        if (form.contains(whyLabel)) whyLabel.remove();
+        if (form.contains(whyInput)) whyInput.remove();
+        feedbackBtn.remove();
+        submitBtn.remove();
+        form.appendChild(feedbackBtn);
+        form.appendChild(submitBtn);
+      } else {
+        if (!form.contains(whyLabel)) form.appendChild(whyLabel);
+        if (!form.contains(whyInput)) form.appendChild(whyInput);
+        if (form.contains(doConfirmLabel)) doConfirmLabel.remove();
+        if (form.contains(doConfirm)) doConfirm.remove();
+        if (form.contains(valueLabel)) valueLabel.remove();
+        if (form.contains(valueInput)) valueInput.remove();
+        feedbackBtn.remove();
+        submitBtn.remove();
+        form.appendChild(feedbackBtn);
+        form.appendChild(submitBtn);
+      }
+      });
+    
+      // Feedback button
+      const feedbackBtn = document.createElement('button');
+      feedbackBtn.type = 'button';
+      feedbackBtn.textContent = 'Klicka här om du vill diskutera med projektansvarig';
+      feedbackBtn.addEventListener('click', () => {
+      alert(`Skicka feedback från ${session.setUserRSID}`);
+      session.discuss = 'Ja';
+      });
+    
+      // Logout button
+      const submitBtn = document.createElement('input');
+      submitBtn.type = 'submit';
+      submitBtn.value = 'Logga ut';
+    
+      form.addEventListener('submit', (event) => {
+      event.preventDefault();
+      const data = {
+        experience: experienceSelect.value,
+        usedChecklist: usedChecklist.value,
+        doConfirm: doConfirm.value,
+        valueScore: valueInput.value,
+      };
+    
+      session.checklistUse = usedChecklist.value === 'Ja';
+      if (usedChecklist.value === 'Nej') {
+        session.no_use = whyInput.value;
+      }
+      session.do_confirm = doConfirm.value;
+      session.likert_scale = valueInput.value;
+      session.checklist = experienceSelect.value;
+      session.addEvent("logout");
+    
+      modal.style.display = 'none';
+      if (onSubmit) onSubmit(data);
+      this.showTemporaryMessage("Data sparad!", "info");
+      session.saveChoices();
+      setTimeout(() => {
+        window.location.reload();
+      }, 3000);
+      });
+    
+      modalContent.appendChild(form);
+      //form.appendChild(feedbackBtn);
+      //form.appendChild(submitBtn);
+      modal.style.display = 'block';
+    }
+  
+    resetInactivityTimer(session) {
+      if (this.inactivityTimeout) clearTimeout(this.inactivityTimeout);
+  
+      this.inactivityTimeout = setTimeout(() => {
+        const now = Date.now();
+        const minutesSinceLast = this.lastWarningShown ? (now - this.lastWarningShown) / 60000 : Infinity;
+  
+        if (minutesSinceLast >= this.INACTIVITY_WARNING_MINUTES) {
+          this.lastWarningShown = now;
+          this.showTimeoutModal(session, this.INACTIVITY_WARNING_MINUTES);
+        }
+  
+        setTimeout(() => {
+          const laterNow = Date.now();
+          const minutesSinceWarning = (laterNow - this.lastWarningShown) / 60000;
+          if (minutesSinceWarning >= (this.INACTIVITY_FINAL_MINUTES - this.INACTIVITY_WARNING_MINUTES)) {
+            this.showTimeoutModal(session, this.INACTIVITY_FINAL_MINUTES);
+          }
+        }, (this.INACTIVITY_FINAL_MINUTES - this.INACTIVITY_WARNING_MINUTES) * 60000);
+  
+      }, this.INACTIVITY_WARNING_MINUTES * 60000);
+    }
+  
+    validateInput(value) {
+      return value.length >= 3; // Anpassa efter RSID-regel
+    }
+
+
+    showTemporaryMessage(message, type = 'info', duration = 3000) {
+        const container = document.getElementById('alert-container');
+        if (!container) return;
+      
+        const alert = document.createElement('div');
+        alert.className = `alert alert-${type}`;
+        alert.role = 'alert';
+        alert.innerText = message;
+      
+        container.appendChild(alert);
+      
+        setTimeout(() => {
+          alert.remove();
+        }, duration);
+      }
+
+  }
+
+  
+  
+  
+  module.exports = Modals;
+  
+},{}],4:[function(require,module,exports){
 /**
  *@module Session
  */
@@ -820,9 +1221,15 @@ class Session {
 
     constructor() {
         this.userRSID = "";
-        this.phycisianLevel = "";
+        this.patientID = "";
+        this.physicianLevel = "";
         this.checklist = "";
         this.events = [];
+        this.checklistUse = false;
+        this.do_confirm = "";
+        this.likert_scale = "";
+        this.no_use = "";
+        this.discuss = "No";
     }
     set setUserRSID(userRSID){
         this.userRSID = userRSID;
@@ -840,13 +1247,24 @@ class Session {
     @param {String} event - takes an event as input. This event contains the item the user has clicked.
     */
     addEvent(event) {
+        console.log(event);
         if (this.events.length == 0) {
-            this.events.push([this.getCurrentTime(), "__" + this.userRSID, "__" + this.checklist, "__" + this.phycisianLevel]);
+            this.events.push([this.getCurrentTime(), "__" + this.userRSID, "__" + this.checklist, "__" + this.patientID, "__" + this.physicianLevel, "", "", "", "", "", "", ""]);
         }
+        if (event == "logout") {
+            console.log("User logged out");
+            this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, "Logout", "", "", this.phycisianLevel, this.checklistUse,
+                this.do_confirm, this.likert_scale, this.no_use, this.discuss]);
+            this.removeCommas();
+            return;
+        }
+
         if (event.target.nodeName == "INPUT") {
-            this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, event.target.outerText, event.target.value]);
+            console.log(event)
+            console.log(event.target.parentNode.parentNode.parentNode.outerText)
+            this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, "Checkbox", event.target.parentNode.parentNode.parentNode.outerText, event.target.value, "", "", "", "", "", ""]);
         }
-        else this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, event.target.outerText, 9]);
+        else this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, "Read", event.target.outerText, 9, "", "", "", "", "", ""]);
         this.removeCommas();
     }
 
@@ -891,7 +1309,7 @@ getCurrentTime() {
 }
 
 module.exports = Session
-},{}],4:[function(require,module,exports){
+},{}],5:[function(require,module,exports){
 /**
  *@module ChecklistItems
  */

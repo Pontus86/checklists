@@ -24,16 +24,17 @@
 	  <script src="./js/jquery-3.6.4.js"></script>
     <script src="./js/bootstrap.js"></script>
     <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="modals.css">
   </head>
 
 <body class="bg-light">
-  <nav hidden id="navigation" class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <div class="container">
+  <!-- <nav id="navigation" class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container">
   <ul class="nav nav-pills">
   <li class="nav-item dropdown">
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Checklists</a>
     <div class="dropdown-menu" id="dropdown">
-      <!--<a class="dropdown-item" href="#">Action</a>-->
+      <a class="dropdown-item" href="#">Action</a>
     </div>
   </li>
 <li class="nav-item">
@@ -41,24 +42,32 @@
   </li>
 
 </ul>
-</div>
+</div> -->
 <li class="nav-item me-auto">
   <div class="row">
-    <div class="col-9">
+    <!--<div class="col-4"></div>
+      <div class="col-5">
       <form>
         <div class="form-group row">
-          <label for="inputUser" class="col-sm-6 col-form-label text-white">User RS-ID</label>
+          <label for="inputUser" class="col-sm-6 col-form-label text-white">RS-ID</label>
           <div class="col-sm-6">
             <input type="text" class="form-control" id="inputUser" placeholder="177575">
           </div>
         </div>
       </form>
     </div>
-    <div class="col-3">
-      <input type="Button" id="btnSave" value="Save" class="btn btn-dark"/>
+    <div class="col-1">
+      <input type="Button" id="btnSave" value="Spara" class="btn btn-dark"/>
     </div>
+    <div class="col-1">
+      <input type="Button" id="logoutButton" value="Logga ut" class="btn btn-dark"/>
+      <input type="Debug" id="debugButton" value="Debug" class="btn btn-dark"/>-->
+    </div>
+    
 </li>
 </nav>
+
+<div id="alert-container" style="position: fixed; bottom: 1rem; right: 50%; transform: translateX(50%); z-index: 2000;"></div>
 
 
 
@@ -136,9 +145,13 @@
 </div>
 </div>
 
-<div class="container card shadow p-3 mb-5 bg-white rounded" style="width: 400px; min-height:40px; margin-top: 80px">
-<input type="text" id="searchBar" placeholder="Search...">
-<ul id="checklistResults" style="list-style-type: none;"></ul>
+<div class="container card shadow p-3 mb-5 bg-white rounded" style="width: 600px; min-height:40px; margin-top: 80px">
+  <div class="d-flex justify-content-between">
+    <input type="text" class="form-control me-2" id="inputUser" placeholder="177575" style="flex: 1;">
+    <input type="text" id="searchBar" placeholder="Search..." class="form-control ms-2" style="flex: 4;">
+    <input type="Button" id="logoutButton" value="Logga ut" class="btn btn-dark ms-2" style="flex: 1;">
+  </div>
+  <ul id="checklistResults" style="list-style-type: none; margin-top: 10px;"></ul>
 </div>
 
 

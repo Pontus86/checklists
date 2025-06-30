@@ -5,6 +5,8 @@
 let Session = require("./models/Session.js");
 let Util = require("./Util.js");
 let ChecklistItems = require("./views/ChecklistItems.js")
+let Modals = require("./modals.js");
+
 
 //TODO:
 //The variable names like checklists, problem, ingrepp, etc., would be more meaningful if 
@@ -32,6 +34,7 @@ let index = "index.txt";
 let events = [];
 
 const session = new Session();
+const modals = new Modals();
 const util = new Util();
 const checklistItems = new ChecklistItems();
 
@@ -46,7 +49,7 @@ const MENU_NAMES = ['problemButton', 'ingreppButton', 'diagnosButton', 'faktaBut
  * Calls the functions readTextFile() and readIndex() to load the dropdown menu and the first checklist.
 */
 async function run() {
-  createModal()
+  //createModal()
   // Usage
   getAllChecklists()
   .then(() => {
@@ -81,6 +84,30 @@ async function run() {
       updateList(this.value);
     }
   });
+
+  modals.showLoginModal(session);
+  
+  ['mousemove', 'keydown', 'click', 'scroll'].forEach(evt => {
+    window.addEventListener(evt, () => modals.resetInactivityTimer(session));
+  });
+  
+  modals.resetInactivityTimer(session); // starta direkt
+
+  document.getElementById('logoutButton').addEventListener('click', () => {
+    modals.showLogoutModal(session, (data) => {
+      console.log('Logout-formulär skickades:', data);
+      // Här kan du t.ex. skicka data till backend
+      
+
+    });
+  });
+
+  document.getElementById('debugButton').addEventListener('click', () => {
+    console.log("Session data:", session);
+    console.log("Checklist items:", checklistItems);
+    console.log("Util functions:", util);
+  });
+
 }
 document.addEventListener('DOMContentLoaded', run);
 
@@ -711,6 +738,8 @@ function createModal() {
     }
   });
 }
+
+
 
 // Function to validate the input value as exactly six numbers
 function validateInput(inputValue) {
