@@ -112,6 +112,7 @@
   
     showTimeoutModal(session, timePassedMinutes) {
       const { modal, modalContent } = this.createModalContainer();
+      modal.classList.add('timeout-modal');
       this.createCloseButton(modal, modalContent);
   
       const form = document.createElement('form');
@@ -138,7 +139,10 @@
         if (timePassedMinutes >= this.INACTIVITY_FINAL_MINUTES) {
                 const pid = prompt('Skriv in patientens personnummer (det döljs vid sparning):');
                 if (pid == session.patientID) {
-                    modal.style.display = 'none';
+                    //modal.style.display = 'none';
+                    document.querySelectorAll('.timeout-modal').forEach(modal => {
+                      modal.style.display = 'none';
+                    });
                     this.showTemporaryMessage("Du är fortfarande inloggad och kan fortsätta arbeta.", "info");
                     //break;
                 }
@@ -150,6 +154,7 @@
         } 
         else {
           modal.style.display = 'none';
+          
           this.showTemporaryMessage("Du är fortfarande inloggad och kan fortsätta arbeta.", "info");
         }
       });
@@ -188,7 +193,7 @@
       const usedChecklistLabel = document.createElement('label');
       usedChecklistLabel.textContent = 'Användes checklista?';
       const usedChecklist = document.createElement('select');
-      ['Ja', 'Nej'].forEach(val => {
+      ['-','Ja', 'Nej'].forEach(val => {
       const opt = document.createElement('option');
       opt.value = val;
       opt.textContent = val;
@@ -300,6 +305,9 @@
       //form.appendChild(feedbackBtn);
       //form.appendChild(submitBtn);
       modal.style.display = 'block';
+      addModalCloseOptions(modal);
+
+      
     }
   
     resetInactivityTimer(session) {
@@ -347,6 +355,21 @@
       }
 
   }
+
+  addModalCloseOptions = (modal) => {
+    // Close modal on click outside
+    window.addEventListener('click', (event) => {
+      if (event.target === modal) {
+      modal.style.display = 'none';
+      }
+    });
+
+    window.addEventListener('keydown', (event) => {
+      if (event.key === 'Escape') {
+      modal.style.display = 'none';
+      }
+    });
+  };
 
   
   
