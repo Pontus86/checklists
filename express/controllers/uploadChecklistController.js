@@ -57,8 +57,12 @@ async function uploadChecklist(req, publicKey) {
 */
 function createCSV(data) {
   data.shift(); //Remove first line as this is the title
-  let csvContent = "Time,User,Checklist,Event, Checklist_item, checked, physician_level, checklist_used, do_confirm, likert_scale, reason_for_no_use, discuss\n"; //Header for the CSV file
-    + data.map(e => e.join(",")).join("\n");
+  let csvContent = "Time,User,Checklist,Event,Checklist_item,checked,physician_level,checklist_used,do_confirm,likert_scale,reason_for_no_use,discuss\n"; // Header for the CSV file
+  csvContent += data.map(e => e.join(",")).join("\n");
+
+  console.log("CSV content generated:");
+  console.log(data);
+  console.log(csvContent);
 
   return csvContent;
   //TODO:
