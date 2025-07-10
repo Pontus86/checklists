@@ -290,6 +290,7 @@
       session.do_confirm = doConfirm.value;
       session.likert_scale = valueInput.value;
       session.physicianLevel = experienceSelect.value;
+      console.log("Experience level to be sent to session:", experienceSelect.value);
       console.log("Session data before logout:", session);
       console.log();
       session.addEvent("logout");

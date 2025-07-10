@@ -1150,7 +1150,7 @@ module.exports = {}
       session.do_confirm = doConfirm.value;
       session.likert_scale = valueInput.value;
       session.physicianLevel = experienceSelect.value;
-      session.setPhysicianLevel(experienceSelect.value);
+      console.log("Experience level to be sent to session:", experienceSelect.value);
       console.log("Session data before logout:", session);
       console.log();
       session.addEvent("logout");
@@ -1260,9 +1260,6 @@ class Session {
     set setUserRSID(userRSID){
         this.userRSID = userRSID;
     }
-    set setPhysicianLevel(level){
-        this.phycisianLevel = level;
-    }
     set setChecklist(checklist){
         this.checklist = checklist;
     }
@@ -1279,7 +1276,7 @@ class Session {
         }
         if (event == "logout") {
             console.log("User logged out");
-            this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, "Logout", "", "", this.phycisianLevel, this.checklistUse,
+            this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, "Logout", "", "", this.physicianLevel, this.checklistUse,
                 this.do_confirm, this.likert_scale, this.no_use, this.discuss]);
             this.removeCommas();
             return;
@@ -1292,6 +1289,7 @@ class Session {
         }
         else this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, "Read", event.target.outerText, 9, "", "", "", "", "", ""]);
         this.removeCommas();
+        console.log("Sesstion events", this.events);
     }
 
     removeCommas() {
