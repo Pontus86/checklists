@@ -1040,7 +1040,7 @@ module.exports = {}
       // Doctor competence section
       const experience = this.createInputLabelPair('Högsta läkarkompetens:', 'experience');
       const experienceSelect = document.createElement('select');
-      ['Specialist akut', 'Specialist annat', 'ST akut', 'ST annat'].forEach(text => {
+      ['-', 'Specialist akut', 'Specialist annat', 'ST akut', 'ST annat'].forEach(text => {
       const option = document.createElement('option');
       option.value = text;
       option.textContent = text;
@@ -1066,7 +1066,7 @@ module.exports = {}
       const doConfirmLabel = document.createElement('label');
       doConfirmLabel.textContent = 'Användes checklista som do/confirm?';
       const doConfirm = document.createElement('select');
-      ['Ja', 'Nej'].forEach(val => {
+      ['-', 'Ja', 'Nej'].forEach(val => {
       const opt = document.createElement('option');
       opt.value = val;
       opt.textContent = val;
@@ -1124,9 +1124,11 @@ module.exports = {}
       const feedbackBtn = document.createElement('button');
       feedbackBtn.type = 'button';
       feedbackBtn.textContent = 'Klicka här om du vill diskutera med projektansvarig';
+      
+
       feedbackBtn.addEventListener('click', () => {
-      alert(`Skicka feedback från ${session.setUserRSID}`);
-      session.discuss = 'Ja';
+      //alert(`Skicka feedback från ${session.setUserRSID}`);
+        this.showDiscussModal(session);
       });
     
       // Logout button
@@ -1171,6 +1173,32 @@ module.exports = {}
       addModalCloseOptions(modal);
 
       
+    }
+
+    showDiscussModal(session) {
+      const { modal: discussmodal, modalContent: discussmodalContent } = this.createModalContainer();
+      const RSID = this.createInputLabelPair('RSID:', 'userRSID', true);
+      session.discuss = 'Ja';
+    
+      const discussform = document.createElement('form');
+      
+      discussform.appendChild(RSID.label);
+      discussform.appendChild(RSID.input);
+
+      const submitBtn = document.createElement('input');
+      submitBtn.type = 'submit';
+      submitBtn.value = 'Skicka';
+      discussform.appendChild(submitBtn);
+
+      discussmodalContent.appendChild(discussform);
+      discussmodal.style.display = 'block';
+  
+      discussform.addEventListener('submit', (event) => {
+        event.preventDefault();
+        session.userRSID = RSID.input.value.trim();
+        discussmodal.style.display = 'none';
+        this.showTemporaryMessage("Vi kontaktar dig!", "info");
+      });
     }
   
     resetInactivityTimer(session) {
