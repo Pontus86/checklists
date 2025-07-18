@@ -386,7 +386,40 @@
         setTimeout(() => {
           alert.remove();
         }, duration);
-      }
+    }
+
+    showCheckboxExplainerModal(){
+      const { modal, modalContent } = this.createModalContainer();
+      this.createCloseButton(modal, modalContent);
+        
+      const form = document.createElement('form');
+      form.id = 'checkboxExplainerForm';
+
+      const explanation = document.createElement('p');
+      const greenText = "Utfört innan checklistan öppnats.";
+      const yellowText = "Utfört tack vare checklistan.";
+      const redText = "Inte indicerat.";
+
+      explanation.innerHTML = '<span style=" background-color: #89bd9e; color: white; padding: 2px 5px; border-radius: 3px;">Grön checkbox:</span> ' + greenText + '<br>' +
+        '<span style="background-color: #f3d250; color: white; padding: 2px 5px; border-radius: 3px;">Gul checkbox:</span> ' + yellowText + '<br>' +
+        '<span style="background-color: #ea907a; color: white; padding: 2px 5px; border-radius: 3px;">Röd checkbox:</span> ' + redText;
+      explanation.style.textAlign = 'left';
+        form.appendChild(explanation);
+
+      const submit = document.createElement('input');
+      submit.type = 'submit';
+      submit.value = 'Stäng';
+      form.appendChild(submit);
+
+      form.addEventListener('submit', (event) => {
+        event.preventDefault();
+        modal.style.display = 'none';
+      });
+
+      modalContent.appendChild(form);
+      modal.style.display = 'block';
+      
+    }
 
   }
 
@@ -403,7 +436,11 @@
       modal.style.display = 'none';
       }
     });
+
+    
   };
+
+  
 
   
   

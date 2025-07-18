@@ -56,6 +56,7 @@ class ChecklistItems {
       container.appendChild(this.createCircle("yellow", index, 1));
       container.appendChild(this.createCircle("red", index, 2));
       container.id = "checkbox_" + index;
+      container.style.minWidth = "90px";
       container.style.marginLeft = "auto";
       return container
   }

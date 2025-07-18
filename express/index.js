@@ -100,11 +100,25 @@ async function run() {
     });
   });
 
-  document.getElementById('debugButton').addEventListener('click', () => {
-    console.log("Session data:", session);
-    console.log("Checklist items:", checklistItems);
-    console.log("Util functions:", util);
+  
+
+  document.getElementById('checkbox_explainer').addEventListener('click', () => {
+    console.log("Checkbox explainer clicked");
+    modals.showCheckboxExplainerModal();
   });
+  
+
+  // Attempt to maximize the window on run (only works in browser environments)
+    try {
+      window.moveTo(0, 0);
+      window.resizeTo(screen.availWidth, screen.availHeight);
+    } catch (error) {
+      console.warn("Window resizing is not supported in this environment:", error);
+    }
+
+    
+    
+  
 
 }
 document.addEventListener('DOMContentLoaded', run);
@@ -295,6 +309,18 @@ function ifNoImage(arrayOfItems){
     let sourceHeight = document.getElementById("checklistLeftCol").clientHeight; 
     document.getElementById("checklistCard").style.minHeight = sourceHeight + 'px';
     //document.getElementById("ifNoImage").style.display = "block";
+    // const explanation = document.createElement('p');
+
+    // const greenText = "Utfört innan checklistan öppnats.";
+    // const yellowText = "Utfört tack vare checklistan.";
+    // const redText = "Inte indicerat.";
+
+    // explanation.innerHTML = '<span style=" background-color: #89bd9e; color: white; padding: 2px 5px; border-radius: 3px;">Grön checkbox:</span> ' + greenText + '<br>' +
+    //   '<span style="background-color: #f3d250; color: white; padding: 2px 5px; border-radius: 3px;">Gul checkbox:</span> ' + yellowText + '<br>' +
+    //   '<span style="background-color: #ea907a; color: white; padding: 2px 5px; border-radius: 3px;">Röd checkbox:</span> ' + redText;
+    // explanation.style.textAlign = 'left';
+    // explanation.style.margin = '20px';
+    // ul.appendChild(explanation);
 }
 
 function hideElementAndChildren(element) {
@@ -335,6 +361,17 @@ function setListItemOnClicks(i) {
       session.saveChoices(events);
   }
   }
+
+  // let hoverTimeout;
+  // document.getElementById('checkbox_' + i).onmouseover = function () {
+  //   hoverTimeout = setTimeout(() => {
+  //     modals.showCheckboxExplainerModal();
+  //   }, 3000); // 2 seconds
+  // };
+
+  // document.getElementById('checkbox_' + i).onmouseout = function () {
+  //   clearTimeout(hoverTimeout);
+  // };
   
   document.getElementById('list_field_' + i).onclick = function (event) {
     console.log("Först klickas list field")
