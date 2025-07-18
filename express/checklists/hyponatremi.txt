@@ -1,53 +1,94 @@
-Title/1. Information att inhämta
+Title/1. Hyperton natriumklorid?
 Text/
+Color/<#5EA35C><Indikation:>
+• Na < 120 + en av följande:
+- Medvetslös/somnolent
+- Krampanfall
+- Kräkning
+
+Color/<#a5715a><Tillverka NaCl 3%:>
+• NaCl 0,9% 250 ml
+• Tillsätt Addex-Natrium 4 mmol/ml 20 ml
+
+Color/<#a5715a><Administera NaCl 3%:>
+• Ge hela 270 ml IV över 15 min Color/<#0014ff><(4 ml/kg)>
+• Upprepa mätning av Na
+• Ge ytterligare NaCl 3% vb för att höja Na med 5 mmol/L
+
+
+Title/2. Inhämta information
+Text/
+Color/<#a5715a><Inhämta:>
 • Tidigare Na-värden?
-
 • MAPLES
-
 • Anamnes: vätskebalans (intag och förlust)
-
 • ABCDE
-
-• Blodgas
-
-• U-Na, U-osm, S-om
-
-
-
-Title/2. Hyperton natriumklorid?
-Text/
-Indikation: kräkning, krampanfall, somnolens, medvetslöshet
-
-• Blanda 20 ml Addex-natrium (4 mmol/ml) med 250 ml NaCl 0,9%
-
-• Ge hela 270 ml IV över 15 min (4 ml/kg)
-
-• Upprepas mätning av S-Na; ytterligare hyperton NaCl ges vb för att initialt höja [Na] med 5 mmol/L
+• Plasma osmolaritet (Rutin/Akut1 grönremiss)
+• Urin Na + Urin osmolaritet (Special 3 remiss)
 
 
 
 Title/3. Kristalloidbehandling?
 Text/
-Indikation: intramuskulär volymbrist
+Color/<#5EA35C><Indikation:>
+• Intravaskulär volymbrist
 
-• Ringer-acetat 1000 ml IV över 4h
+Color/<#a5715a><Åtgärd:>
+• Ringer-Acetat 1000 ml IV över 4 tim
 
 
 
 Title/4. Vätskekarens?
 Text/
-Indikation: varken encefalopati eller volymbrist
+Color/<#5EA35C><Indikation:>
+• Varken encefalopati eller volymbrist
 
-• Vätskekarens (< 800 ml/dygn)
+Color/<#a5715a><Åtgärd:>
+• < 800 ml PO intag/dygn
 
 
 
 Title/5. Vidare vård
 Text/
+Color/<#a5715a><Åtgärder:>
 • Riktade utredningar/behandlingar mot misstänkt orsak
 
-• Inläggning vid Na < 120 mmol/L, symtomgivande hyponarremi, risk för snabb ändring
+• Inläggning vid
+- Na < 120 mmol/L
+- Symtomgivande hyponatremi
+- Risk för snabb Na-ändring
 
-• Vid inläggning:  kontroll av Na var 2-6:e tim + överväg timdiures
+• Vid inläggning: kontroll av Na var 2-6:e tim + överväg timdiures
 
-• Sikta på Na ändring ≤ 10 mmol/L/dygn
+• Sikta på Na ändring ≤ 8 mmol/L/dygn
+
+
+
+Title/Differentialdiagnos
+Text/
+Color/<#A336C9><För mycket vatten in:>
+• Polydyspsi
+
+Color/<#A336C9><För lite vatten ut:>
+• Ökat ADH:
+- intravaskulärvolym brist
+- hjärtsvikt
+- cirrhos
+- nefrotiskt syndrom
+
+• SIADH:
+- lungpatologi
+- hjärnpatologi
+- cancer
+- läkemedel
+- sekundär adrenalinsuff
+
+Color/<#A336C9><För lite salt in:>
+• Anorexi
+• Beer potomania, "tea-and-toast"
+
+Color/<#A336C9><För mycket salt ut:>
+• Diuretika ffa tiazider
+• Osmotisk diures (högt glukos)
+• Addison
+• Njursjukdom, cerebral saltwasting

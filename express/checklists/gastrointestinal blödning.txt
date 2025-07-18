@@ -1,0 +1,71 @@
+Title/1. Blodprov
+Text/
+Color/<#5EA35C><Hos alla:>
+• Blodgas
+• Trombocyter, PK, aPTT, fibrinogen
+• Blodgruppering
+
+
+
+Title/2. Nöd-blod?
+Text/
+Color/<#5EA35C><Indikation:>
+• SBT < 80 mm Hg eller förlust av radialispuls
+
+Color/<#a5715a><Åtgärd:>
+• 1-2 SAG 0 neg blod IV/IO varmt via Fluido
+• Vid förväntad massiv transfusion: beställ ATP 72950
+
+
+
+Title/3. Läkemedel
+Text/
+Color/<#5EA35C><• Massiv blödning:> Fibrinogen 2 g IV
+Color/<#5EA35C><• Ca < 1,1:> Kalciumglukonat 100 mg/ml 10 ml IV
+Color/<#5EA35C><• Övre GI-blödning:> Nexium 80 mg IV sedan 8 mg/tim IV
+Color/<#5EA35C><• Leversjukdom:> Terlipressin 2 mg IV + Cefotaxime 1 g IV
+
+
+
+Title/4. Vid antikoagulantia
+Text/
+Color/<#5EA35C><• Waran:> Ocplex 2000 E IV + Konakion 10 mg IV
+Color/<#5EA35C><• Xarelto/Eliquis:> Ocplex 2000 E IV
+Color/<#5EA35C><• Pradaxa:> Ocplex 2000 E IV eller Praxbind 5 g IV över 5 min
+Color/<#5EA35C><• Heparin/LMWH:> Protamine sulfate 50 mg IV
+Color/<#5EA35C><• Trombyl/NSAID:> Desmopressin 15 µg/ml 1 ml (50 kg) - 2 ml (100 kg) SC
+
+
+
+Title/5. V-sond?
+Text/
+Color/<#5EA35C><Indikation:>
+• Upprepade kräkningar
+
+Color/<#A336C9><Notera:>
+• V-sond har dålig sensitivitet som diagnostiskt medel
+
+
+
+Title/6. KAD?
+Text/
+Color/<#5EA35C><Indikation:>
+• Vid chock, för att följa timdiures
+
+
+
+Title/7. Övriga åtgärder?
+Text/
+Color/<#5EA35C><Hos alla:>
+• Förebygg hypotermi
+
+
+
+Title/8. Vidare handläggning
+Text/
+Color/<#5EA35C><• Allvarlig GI-blödning:> Akut endoskopi eller Op 
+Color/<#5EA35C><• Allvarlig nedre GI-blödning:> DT-buk med angiografi
+Color/<#5EA35C><• Massiv blödning:> 4:4:1 SAG : Plasma : Trombocyter
+
+Color/<#A336C9><Notera:>
+• Trombocyter ges EJ vid Fluido

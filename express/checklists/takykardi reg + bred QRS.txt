@@ -1,70 +1,102 @@
-Title/1. ABCDE
+Title/1. Hyper- hypokalemi?
 Text/
-• B: respiratory insufficiency? Pulmonary oedema?
-• C: blood pressure? Shock?
-• D: level of consciousness?
-• E: fever? Leg swelling?
+InternalLink/<• Hyperkalemi><hyperkalemi>
 
-Consider
-• Oxygen 10 L/min
-• Large PVC
+InternalLink/<• Hypokalemi><hypokalemi>
 
 
-Title/2. Emergent Cardioversion?
+
+Title/2. Intox natrium-kanalblockad?
 Text/
-Indication: severe symptoms (resp insufficiency, shock) due to the tachycardia
-
-Contraindication: tachycardia and instability secondary to another condition (e.g. sepsis, pulmonary embolism) 
-
-• Sedation with Propofol 0.5 mg/ml or Ketamine 1 mg/kg IV over 1 min
-
-• SYNCHRONIZE
-
-• 200 J (2 J/kg)
-
-• If refractory:  Amiodarone 300 mg in glucose 50 mg/ml 100 ml IV over 10 min then reattempt cardioversion
+InternalLink/<• Intox natrium-kanalblockad><natrium-kanalblockad>
 
 
-Title/3. EKG
+
+Title/3. VT?
 Text/
-Talar för VT:
-• Negative or positive concordance
-• AV dissociation, capture beat, fusion beat
+Color/<#A336C9><VA dissociation bekräftar VT:>
+• P vågor oberoende av QRS-komplex
+• Capture beat, fusion beat
+
+Color/<#A336C9><Talar för VT:>
+• Positiv konkordans: QRS positiva V1-V6
+• Negativ konkordans: QRS negativa V1-V6
+• Extrem axel: QRS negativa in I och aVF
 • QRS > 160 msec
-• Extreme axis (negative in I and II)
-• RS (onset R to nadir S) in precordial lead > 100 msec
+• RS > 100 msec i ≥ 1 av V1-V6 
+InternalLink/<• VT vs SVT><vt vs svt>
+
+Color/<#A336C9><Talar för SVT med grenblock:>
+• Tidigare EKG: grenblock med samma QRS-mönster
 
 
 
-Title/4. Lewis Lead?  Esophageal EKG?
+Title/4. Akut elkonvertering?
 Text/
-• Right arm electrode on 2nd ICS right sternal border
-• Left arm electrode on 4th ICS right sternal border
-• Increase amplitude to 20 mm/mV
-• Record EKG, look for the P wave in lead I
+Color/<#5EA35C><Indikation:>
+Misstänkt VT och ≥ 1 av:
+• Hypoxemi
+• Chock
+• Medvetandesänkning
 
-Alternative:  esophageal EKG
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Elkonvertering><elkonvertering>
+
+Color/<#A336C9><Notera:>
+• Bäst att bekräfta VA-dissociation innan elkonvertering
 
 
 
-Title/5. Hyperkalemia?  Hypokalemia?
+Title/5. Lewis Lead?
 Text/
-• Hyperkalemia can cause wide QRS complexes.  Treatment with antiarrhythmics can be fatal.
+Color/<#5EA35C><Indikation:>
+• Identifiera VA-dissociation genom att tydliggöra P-vågor
 
-• Hypokalemia and suspected VT:  Magnesium Sulphate 8 mmmol (Addex-Magnesium 1 mmol/ml 8 ml) IV over 2 min
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Lewis lead><lewis lead>
 
 
 
-Title/6. Na-Channel blockade?
+Title/6. Esofagus-EKG?
 Text/
-• Poisoning with Na-channel blockers (e.g. tricyclics) can cause wide QRS complexes
-• Treatment with antiarrhythmics can be fatal
+Color/<#5EA35C><Indikation:>
+• Identifiera VA-dissociation genom att tydliggöra P-vågor
+
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Esofagus-EKG><esofagus-EKG>
 
 
 
-Title/7. Ventricular Tachycardia?
+Title/7. Handläggning misstänkt VT
 Text/
-Two options:
-• Amiodarone 300 mg in Glucose 50 mg/ml IV over 30 min
+Color/<#a5715a><Val:>
+• Amiodaron 300 mg i Glucose 50 mg/ml 250 ml IV över 30 min
+InternalLink/<• Elkonvertering><elkonvertering>
 
-• Cardioversion (see point 2)
+Color/<#a5715a><Vidare handläggning:>
+• Inläggning HIA/arytmi med telemetri
+• HIA-jour 71414
+
+
+
+Title/8. Handläggning misstänkt SVT/AVRT
+Text/
+• Se InternalLink/<Takykardi regelbunden + smal QRS><takykardi regelbunden + smal QRS>
+
+
+
+Title/ Om takykardi reg + bred
+Text/
+Color/<#A336C9><Differentialdiagnos:>
+• VT (80% av fall; > 90% vid tidigare hjärtinfarkt)
+
+• SVT (sinustakykardi/fladder/EAT/AVNRT) +
+- Grenblock
+- Accessorisk ledningsbana
+- Hyperkalemi
+- Intox natrium-kanalblockad
+
+• AVRT antidrom
+
+Color/<#A336C9><Notera:>
+• Bäst för patient att bekräfta om VA-dissociation föreligger: kan avgöra om patienten får ICD

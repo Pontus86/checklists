@@ -1,0 +1,45 @@
+Title/1. Larm
+Text/
+Color/<#a5715a><Val:>
+• Anestesilarm 77900
+• ÖNH 71061
+• Hjärtstopp larm 50000
+
+
+
+Title/2. Medvetslös patient?
+Text/
+Color/<#a5715a><Åtgärder:>
+1. HLR
+2. Laryngoskopi
+3. Dra ut kroppen med MaGill tång; annars
+4. Intubera, putta kroppen in i hö bronk, ventilera vä lunga
+5. InternalLink/<Coniotomi><coniotomi> om kroppen sitter fast i larynx
+
+
+
+Title/3. Ineffektiv hosta? Kan ej prata?
+Text/
+Color/<#a5715a><Åtgärder:>
+1. Ryggdunkningar x 5
+2. Buktryck x 5
+3. Upprepa tills förbättrad eller medvetslös
+
+Color/<#0014ff><Barn < 1 år eller höggravid:>
+• Bröstkompressioner x 5 istället för buktryck
+
+
+
+Title/4. Effektiv hosta? Kan prata?
+Text/
+Color/<#a5715a><Åtgärder:>
+• Syrgas mask 15 L/min
+• Förbered i fall tillståndet försämras
+
+
+
+Title/5. Fortsatt vård
+Text/
+Color/<#a5715a><Åtgärder:>
+Color/<#5EA35C><• Röntgentätt föremål:> lungröntgen (bedside?)
+Color/<#5EA35C><• Misstänkt kropp kvar i luftvägen:> bronkoskopi

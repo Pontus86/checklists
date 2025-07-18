@@ -1,0 +1,44 @@
+Title/1. Larma
+Text/
+Color/<#a5715a><Val:>
+• Extra personal 78700
+• Väktare 71743
+• Polis 112
+
+
+
+Title/2. Sedering
+Text/
+Color/<#a5715a><Val IM:>
+• Midazolam 5 mg/ml 1 ml IM
+• Ketanest 25 mg/ml 5 ml IM
+
+Color/<#a5715a><Val IV:>
+• Diazepam 5 mg/ml 1 ml IV över 1 min
+• Ketanest 5 mg/ml 5 ml IV över 1 min
+• Propofol 10 mg/ml 5 ml IV över 30 sek
+
+Color/<#A336C9><Påslagstid:>
+• Midazolam IM: 10 min
+• Ketanest IM: 5 min
+
+• Diazepam IV: 2 min
+• Ketanest IV: 1 min
+• Propofol IV: 30 sek
+
+
+
+Title/3. Somatiska orsaker
+Text/
+Color/<#a5715a><Leta efter somatiska orsaker:>
+• Hypoxi
+• Hypoglykemi
+• Ischemi
+• Intox
+• Smärta (e.g. urinretention)
+
+
+
+Title/Lagstiftning
+Text/
+InternalLink/<• Vård utan samtycke><vård utan samtycke>

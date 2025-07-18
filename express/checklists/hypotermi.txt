@@ -1,0 +1,82 @@
+Title/1. Bekräfta & gradera
+Text/
+Color/<#a5715a><Åtgärd:>
+• Mät temperatur med rektaltermoteter/IVA-kateter
+
+Color/<#A336C9><Gradering:>
+• Mild: 32-35°C
+• Måttlig: 28-32°C
+• Svår: < 28°C
+• Uttalad: < 20-24°C
+
+
+
+Title/2. Arytmirisk
+Text/
+Color/<#a5715a><Åtgärd:>
+• Hjärtövervakning
+
+Color/<#f40b1a><Risk:>
+• Undvik fysiska stötar (t ex vid förflyttning) som kan utlösa arytmier 
+
+
+
+Title/3. Internuppvärmning?
+Text/
+Color/<#5EA35C><Indikationer:>
+• Svår hypotermi < 28°C
+• Måttlig hypotermi 28-32°C refraktär till externuppvärmning
+
+Color/<#a5715a><Åtgärder:>
+• Ringer-Acetat 40-42°C IV
+• Varm befuktat syrgas
+• ECMO: THIVA 77971
+
+Color/<#a5715a><Sköljning intraperitonealt:>
+• NaCl 20 ml/kg värmd till 42°C intraperitonealt under 20 min
+• Dräneras och upprepas vid behov
+
+Color/<#a5715a><Sköljning i pleurarummet:>
+• NaCl 250 ml värmd till 42°C intrapleuralt under 20 min
+• Dräneras och upprepas vid behov
+
+
+
+Title/4. Externuppvärmning, aktiv?
+Text/
+Color/<#5EA35C><Indikationer:>
+• Måttlig hypotermi 28-32°C
+• Mild hypotermi 32-35°C refraktär till passiv externuppvärmning
+
+Color/<#a5715a><Åtgärder:>
+• Värmefilt
+• Bair hugger
+
+Title/5. Externuppvärmning, passiv?
+Text/
+Color/<#5EA35C><Indikation:>
+• Mild hypotermi 32-35°C
+
+Color/<#a5715a><Åtgärder:>
+• Borttagning blöta kläder
+• Filt
+• Warmt rum
+
+Title/ Differentialdiagnos
+Text/
+Color/<#A336C9><Kall omgivning:>
+• Blöta kläder ökar värmeförlust
+
+Color/<#A336C9><Nedsatt värmeproduktion, centralgenes:>
+• CNS-patologi
+• Addisonkris, myxödem
+• Allvarlig bakteriell/viral infektion
+
+Color/<#A336C9><Nedsatt värmeproduktion, perifergenes:>
+• Chock
+• Parkinsons sjukdom
+• Kolinergt toxidrom
+
+Color/<#A336C9><Ökad värmeförlust:>
+• Neurogenchock
+• Brännskador

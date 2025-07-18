@@ -1,22 +1,25 @@
 ChapterTitle/<AIRWAY>
 Anafylaxi
 Angioödem
-Övre luftväg främmande kropp
-----------------------------------------
+Främmande kropp luftväg
+
 ChapterTitle/<BREATHING>
 Astmaanfall
-COVID-19
 Epiglottit
-Kol exacerbation
-Influenza
+KOL-exacerbation
+Lungemboli
 Lungödem
 Pneumoni
-----------------------------------------
-ChapterTitle/<CIRCULATION>
+
+ChapterTitle/<ARYTMI>
+Förmaksflimmer
+Torsade de pointes
+
+ChapterTitle/<BLODTRYCK>
 Addisonkris
 Anafylaxi
-Aortadissektion
 Blödningschock
+Gastrointestinal blödning
 Hjärttamponad
 Hypertensiv kris
 Kardiogen chock
@@ -24,9 +27,22 @@ Lungemboli
 Neurogen chock
 Sepsis
 Övertrycks pneumothorax
-----------------------------------------
+
 ChapterTitle/<DISABILITY>
-Ökat intrakraniellt tryck
+Bakteriell meningit
+Herpesencefalit
 Krampanfall
-----------------------------------------
-ChapterTitle/<EXPOSURE>
+Leverencefalopati
+Myxödemkoma
+Ökat intrakraniellt tryck
+Orbitalt kompartmentsyndrom
+
+ChapterTitle/<GLUKOS>
+DKA
+HHS
+
+ChapterTitle/<SMÄRTA>
+Aortadissektion
+Rupturerad AAA
+Spontan bakteriell peritonit
+STEMI-OMI

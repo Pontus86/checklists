@@ -1,0 +1,92 @@
+Title/1. Airway Management?
+Text/
+• Nasogastric tube placement and nasogastric suction prevents pulmonary aspiration in the obtunded patient and can remove recently ingested fruit juice and sweetened soft drinks that can exacerbate the hyperglycemia when absorbed from the gastrointestinal tract.
+
+• Endotracheal intubation should be avoided if possible since a transient rise in pCO2 may cause cerebrospinal fluid pH to decrease and contribute to worsening of cerebral edema.
+
+
+
+Title/2. Shock/Severe Volume Depletion?
+Text/
+• Adults with shock/severe volume depletion: 0.9% saline 1-2 L/hr IV during first 1-2 hrs
+
+• Children with shock: 0.9% saline 10 ml/kg aliquot boluses. >3 boluses rarely required
+
+• Children with severe volume depletion: 0.9% saline 10-20 ml/kg over 1-2 hours. Under other circumstances, large amounts of initial fluid therapy should be avoided (increased risk of cerebral edema)
+
+
+
+Title/3. Fluid
+Text/
+• Adults: Ringer's acetate 500 ml/hr over 4 hrs, then 250 ml/hr. The fluid deficit (3-6 liters) should be replaced within 24 hours
+
+• Children: the fluid deficit should be replaced evenly over 48 hours to reduce the risk of cerebral edema. The amount of fluid to be given is the sum of the estimated fluid deficit (on average 7%) and the daily maintenance fluids for two days (100 ml/kg/d for the first 10 kg, 50 ml/kg/d for the next 10 kg, 20 ml/kg/d for each kilogram > 20 kg) minus the initial fluid bolus. Current weight in the ED should be used for calculations. For example, if a 15 kg child is 10% dehydrated, the child should receive 100 mg/kg x 15 kg (1500 ml) + 1250 ml (maintenance fluid day 1) + 1250 ml (maintenance fluid day 2) over 48 hours, i.e. roughly 80 ml/hr. The rate should seldom exceed 1.5 - 2 times the daily maintenance requirement rate. The initial fluid during the first 4-6 hours should be a crystalloid (e.g. normal saline, Ringer's lactate). The recommended fluid beyond that is 0.9% or 0.45% saline with added potassium, depending on the effective osmolality. Oral fluid may replace IV fluid when tolerated.
+
+
+
+Title/4. Potassium
+Text/
+• Adults: Potassium is added to the infusion once plasma potassium is < 5.3 and diuresis is established, usually with the second liter of saline. If the patient is normo- or hypokalemic on presentation, potassium should be added immediately, at a concentration of 10-40 mmol/L. The maximum rate of potassium infusion is 40 mmol/h (usually 20 mmol/h). The goal is to maintain a potassium between 4 and 5 mmol/L
+
+•Text/Children: potassium should be added to the infusate (20-40 mmol/L) as long as the patient is not both hyperkalemic and anuric. The maximum recommended rate of potassium infusion is 0.5 mmol/kg/h.
+
+
+
+Title/5. Insulin
+Text/
+• Adults: insulin should be withheld if the potassium is < 3.3 mmol/L. There is no advantage with an initial insulin bolus, but an initial intravenous insulin bolus of 0.1 U/kg can be given as a bridge to insulin infusion. The standard infusion is 0.1 U/kg/h of regular or short-acting insulin (e.g. aspart [Novorapid®] 50 U in 49.5 ml 0.9% NaCl 7 ml/h). Equivalent duration of ketoacidosis was found with subcutaneous boluses of rapid-acting insulin analogues (lispro [Humalog®]) or aspart [Novorapid®]) (e.g. 0.2 U/kg SC every 2h) compared to short-acting insulin IV 0.1 U/kg/h, but intravenous insulin has a more rapid onset and a shorter half-life than subcutaneous insulin and is easier to titrate.
+
+• Children: insulin should be administered 1-2 hours after the onset of fluid therapy. An initial insulin bolus is not recommended, since it may increase the risk of cerebral edema and hypokalemia. The recommended initial insulin rate is 0.05-0.1 U/kg/hr IV. 50 units of regular insulin may be added to 50 ml of 0.9% saline to make a 1 U/ml solution. Hourly or two-hourly subcutaneous or intramuscular short- or rapid-acting insulin administration is an option in patients with preserved peripheral circulation, at roughly 0.1 U/hr
+
+• Once the ketoacidosis has resolved (pH > 7.3, HCO3 > 15 mmol/L, closure of the anion gap) and oral intake is tolerated, usual S/C insulin therapy may be resumed. An overlap of 1-2 hours between intravenous and subcutaneous insulin is recommended
+
+
+
+Title/6. Glucose
+Text/
+• Adults: 5% glucose infusion should be initiated, targeting a plasma glucose level of 12-14 mmol/L if the glucose is < 15 mmol/L and residual metabolic acidosis is present
+
+• Children: 5% glucose, even 10% glucose, should be added to the 0.45 - 0.9% saline infusion to prevent hypoglycemia when the glucose level has fallen to < 15 mmol/L and residual metabolic acidosis is present. Glucose may also be added to the infusion if the blood glucose level falls very rapidly (> 5 mmol/L/hr) following initial fluid therapy
+
+
+
+Title/7. Precipitant
+Text/
+• Inadequate insulin therapy and infection are the most common precipitants. Consider giving empirical antibiotics
+
+• Recurrent episodes of DKA in the absence of fever / vomiting suggest non-compliance
+
+
+
+Title/8. Admission and Monitoring
+Text/
+• Adults: assessments as often as every 2 hours. Patients with mild metabolic derangement who tolerate PO fluids do not require admission
+
+• Children with severe DKA (long symptom duration, hypoperfusion, depressed consciousness) or with increased risk of developing cerebral edema (< 5 years old, severe acidosis, low pCO2, high blood urea nitrogen) should be admitted to an intensive care unit or unit with corresponding level of monitoring. As a rule, pediatric patients with DKA should have hourly assessments and adjustments of therapy
+
+
+
+Title/9. Effective Osmolality
+Text/
+• A rapid drop in effective serum osmolarity can lead to cerebral edema. The type and composition of fluid can be altered to prevent a too rapid decrease in effective osmolality. Osmolarity can be maintained by continuing treatment with 0.9% saline and by adding glucose and potassium to the infusion
+
+• Adults: plasma osmolarity be lowered no faster than 3 mmol/kg/h in order to avoid cerebral edema. Continued use of 0.9% saline is recommended if the corrected sodium is low or if the rate of fall of effective serum osmolarity is ≥ 3 mmol/kg/hr. Switching to 0.45% saline is recommended if the corrected sodium is normal or high and the rate of fall of effective serum osmolarity is < 3 mmol/kg/hr . Corrected sodium is calculated by adding 2.4 mmol/L to the serum Na for each incremental rise of 5.5 mmol/L of serum glucose above a standard serum glucose value of 5.5 mmol/L.
+
+• Children among whom the risk of cerebral edema is greatest, some recommend that effective osmolality not be permitted to decrease during the first 15 hours of treatment. Potassium chloride, 30-40 mmol/L, added to 0.9% saline, results in a solution with an effective osmolality that is close to the initial effective osmolality of the urine of children with ketoacidosis.
+
+Monitoring and Therapy Adjustment in Diabetic Ketoacidosis
+Assessments*	Treatments-Adults	Treatments-Children
+1-Hydration: blood pressure, heart rate, urine output	Ringer's acetate 500 ml/hr over 4 hours, then 250 ml/hr. The fluid deficit should be replaced within 24 hours	Estimated fluid deficit + daily maintenance fluids for two days over 48 hours. 0.9% saline.
+2-Potassium	Potassium (10-40 mmmol/L) added to the infusion if K < 5.3 and diuresis etablished	Potassium (20-40 mmol/L) added to the infusion unless both hyperkalemic and anuric
+3-Acidosis: pH, HCO3, anion gap	Insulin IV (or SC) 0.1 U/kg/h unless K < 3.3 mmol/L until acidosis is resolved	Insulin IV (or SC or IM) 0.05-0.1 U/kg/hr until acidosis is resolved
+4-Glucose	5% or 10% glucose IV if glucose < 15 mmol/L and residual acidosis	5% or 10% glucose IV if glucose < 15 mmol/L and residual acidosis
+5-Effective osmolality: 2 x Na + Glucose	0.45% saline, 0.9% saline, Ringer's acetate, and/or adding a glucose infusion to limit a drop in effective osmolarity to < 3 mOsm/kg/hr	0.45% and 0.9% saline and/or adding a glucose infusion to maintain effective osmolarity over the first 15 hours
+* Hourly or every other hour initially
+
+Title/10. Bicarbonate Therapy?
+Text/
+• Adults: some recommend bicarbonate therapy in adults with shock or with a pH < 6.9-7.0, e.g. 100 ml of 5% NaHCO3- (60 mmol) administered over 1 hr
+
+• Children: bicarbonate is not recommended except as treatment for life-threatening hyperkalemia (association between bicarbonate therapy and cerebral edema in children)
+
+

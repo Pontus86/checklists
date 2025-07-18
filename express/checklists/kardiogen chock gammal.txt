@@ -1,0 +1,79 @@
+Title/1. Syrgas?
+Text/
+Color/<#5EA35C><Indikation:>
+• SpO2 < 90%
+
+Color/<#a5715a><Val:>
+• Mask med reservoar 10-15 L/min
+• Oxymask 1-10 L/min
+
+
+
+Title/2. Kristalloid?
+Text/
+Color/<#5EA35C><Indikation:>
+• Vid högersidig svikt kan försiktig beh förbättra BT
+
+Color/<#f40b1a><Risker:>
+• Vid vänstersidig svikt: försämring av lungödem utan bättre cardiac output
+• Vid högersidig svikt: försämring av vänsterkammar preload
+
+Color/<#a5715a><Åtgärd:>
+• Ringer-Acetat 250 ml IV bolus sedan utvärdering
+
+
+
+Title/3. Riktade åtgärder
+Text/
+InternalLink/<• STEMI-OMI><stemi-omi>
+InternalLink/<• Bradykardi><bradykardi>
+InternalLink/<• Hyperkalemi><hyperkalemi>
+InternalLink/<• Intox kalciumantagonist betablockerare><kalciumantagonist - betablockerare>
+Color/<#5EA35C><• Takykardi:> Överväg elkonvertering
+Color/<#5EA35C><• Papillärmuskelruptur> HIA 71414 (akut echo?) Thorax 71879 (akut OP?)
+Color/<#5EA35C><• Kardiotoxiskt läkemedel:> Intralipid 200 mg/ml 100 ml IV över 1 min Color/<#0014ff><(1,5 ml/kg)>
+
+Color/<#A336C9><Notera:>
+• Lipofila läkemedel toxiska för myokardiet inkluderar tricycliska antidepressiva, Verapamil, Cardizem, Propranolol, Atenolol, Metoprolol, Tegretol
+
+
+
+Title/4. Noradrenalin?
+Text/
+Color/<#5EA35C><Indikation:>
+• SBP < 85 mm Hg
+• Chock-hypoperfusion
+
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Noradrenalin infusion><sprutpump doser> 0,1 µg/kg/min, titrera till MAP ≥ 65 mm Hg
+
+
+
+Title/5. Dobutamin?
+Text/
+Color/<#5EA35C><Indikation:>
+• Dålig cardiac output efter korrigering av MAP
+
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Dobutamin infusion><sprutpump doser> 2.5 - 20 µg/kg/min
+
+
+
+Title/6. Vasodilatator?
+Text/
+Color/<#5EA35C><Indikation:>
+• Nitroprussid kan minska HK och VK afterload, förbättra cardiac output och paradoxalt förbättra BT.
+
+Color/<#a5715a><Åtgärd:>
+• HIA jour 71414. Startdos Nitroprussid 0,5 mg/kg/min
+
+
+
+Title/7. IABP/ECMO/LVAD
+Text/
+Color/<#5EA35C><Indikation:>
+• IABP, ECMO, LVAD kan vara en "bro" tills spontan förbättring eller kirurgi
+
+Color/<#a5715a><Åtgärd:>
+• HIA jour 71414
+• THIVA 77971

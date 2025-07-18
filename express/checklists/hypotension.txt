@@ -1,0 +1,160 @@
+Title/1. Ringer-Acetat
+Text/
+Color/<#a5715a><Infart:>
+• PVC x 2
+
+Color/<#a5715a><Val om svårstucken:>
+• Ultraljudsledd PVK
+• IO-nål
+
+Color/<#a5715a><Kristalloid:>
+• Ringer-Acetat 500 ml bolus IV/IO Color/<#0014ff><(10 mg/kg)>
+
+
+
+Title/2. Adrenalin?
+Text/
+Color/<#5EA35C><Indikation:>
+• SBT < 70 mm Hg
+• Ingen radialispuls
+
+Color/<#a5715a><Val 1:>
+1. Adrenalin Color/<#f40b1a><0,1 mg/ml> 1 ml i en 10 ml spruta
+2. Späd med 9 ml NaCl
+3. Ge 2 ml (20 µg) IV/IO
+4. Upprepa var 2:a min vid behov
+
+Color/<#a5715a><Val 2:>
+• Adrenalin Color/<#f40b1a><1 mg/ml> 0,5 ml IM Color/<#0014ff><(10 µg/kg)>
+• Upprepa efter 3 min vid behov
+
+
+
+Title/3. EKG
+Text/
+Color/<#A336C9><Notera:>
+• Ischemi?
+• Arytmi?
+
+Color/<#A336C9><Länkar ischemi:>
+InternalLink/<• Sgarbossa-1><sgarbossa-1>
+InternalLink/<• Sgarbossa-2><sgarbossa-2>
+InternalLink/<• Hyperakut T-våg><hyperakut T-vag>
+InternalLink/<• Posterior OMI><posterior omi>
+InternalLink/<• III & aVL><iii & avl>
+InternalLink/<• STEMI-OMI><stemi omi>
+
+Color/<#A336C9><Länkar arytmi:>
+InternalLink/<• Bradykardi><bradykardi>
+InternalLink/<• Takykardi regelbunden + smala QRS><takykardi regelbunden + smal qrs>
+InternalLink/<• Takykardi regelbunden + breda QRS><takykardi regelbunden + bred qrs>
+InternalLink/<• Takykardi oregelbunden + smala QRS><takykardi oregelbunden + smal qrs>
+InternalLink/<• Takykardi oregelbunden + breda QRS><takykardi oregelbunden + bred qrs>
+
+
+
+Title/4. Blodgas
+Text/
+Color/<#A336C9><Notera:>
+• Kalium?
+• Laktat?
+• Anjongap?
+• Glukos?
+• Hb?
+
+Color/<#A336C9><Länkar:>
+InternalLink/<• Hyperkalemi><hyperkalemi>
+InternalLink/<• Hypokalemi><hypokalemi>
+
+
+
+Title/5. Ultraljud hjärta + IVC
+Text/
+Color/<#A336C9><Hjärta:>
+• Perikardvätska med högerkammar kollaps?
+• Högerkammare > Vänsterkammare? D-sign?
+• Dålig kontraktilitet?
+
+Color/<#A336C9><IVC:>
+• > 20 mm?
+• Minskning vid inandning < 50%?
+
+Color/<#A336C9><Länk:>
+InternalLink/<• Ultraljud lungemboli><ultraljud lungemboli>
+
+
+
+Title/6. Ultraljud övrigt
+Text/
+Color/<#A336C9><RUQ/LUQ:>
+• Pleuravätska (empyem)?
+• Intraperitoneal vätska (blödning)?
+• Hydronefros (avstängd pyelit)?
+• Gallsten/kolecystit?
+
+Color/<#A336C9><Bukaorta:>
+• Aneurysm > 5 cm?
+
+Color/<#A336C9><Lungor:>
+• Lungsliding? Lung-point?
+• B-lines?
+• Konsolidering?
+
+
+
+Title/7. Övriga prov
+Text/
+Color/<#5EA35C><Allmänna prov:>
+• Vita, CRP
+• Trombocyter, PK, aPTT
+• Troponin
+
+Color/<#5EA35C><Kvinna < 50 år + chock UNS:>
+• Urinsticka gravtest
+
+Color/<#A336C9><Överväg:>
+• KAD för timdiures
+• Kapillärt CRP
+
+
+
+Title/8. Förebygg hypotermi
+Text/
+Color/<#a5715a><Åtgärder:>
+• Filt
+• Varma IV vätskor
+• Avlägsna blöta kläder
+
+
+
+Title/9. Differentialdiagnos
+Text/
+Color/<#A336C9><Hypovolem:>
+InternalLink/<• Blödning><blodningschock> (InternalLink/<rupturerad AAA><rupturerad aaa>)
+• Icke-blödning (diarré, diures, third-spacing)
+
+Color/<#A336C9><Obstruktiv:>
+InternalLink/<• Lungemboli><lungemboli>
+InternalLink/<• Tamponad ><tamponad> (InternalLink/<aortadissektion?><aortadissektion>)
+InternalLink/<• Övertrycks pneumothorax><overtrycks pneumothorax>
+
+Color/<#A336C9><Kardiogen:>
+InternalLink/<• Kardiogen chock><kardiogen chock>
+• Strukturell (papillarmuskelruptur?)
+• Intox (InternalLink/<kalciumantagonist - betablockerare><kalciumantagonist - betablockerare>)
+
+Color/<#A336C9><Distributiv:>
+InternalLink/<• Sepsis><sepsis>
+InternalLink/<• Anafylaxi><anafylaxi>
+InternalLink/<• Addisonkris><addisonkris>
+InternalLink/<• Neurogen chock><neurogen chock>
+
+
+
+Title/10. Vasopressor?
+Text/
+Color/<#5EA35C><Indikation:>
+• SBP < 80 mm Hg trots krystalloid och åtgärder riktade mot orsaken
+
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Noradrenalin infusion><sprutpump doser>

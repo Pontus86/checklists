@@ -1,0 +1,125 @@
+Title/1. Oxygen?
+Text/
+Indication: patients with potential inhalation injuries (CO can lead to false normal SpO2)
+
+• Oxygen 10-15 L/min via mask with reservoir, or 100% FiO2 via CPAP/endotracheal tube
+
+
+
+Title/2. Analgesia?
+Text/
+Indication: second degree burns are very painful
+
+• Morphine 2-4 mg IV boluses (0.1 mg/kg for children) or Fentanyl 50 µg/ml 1 ml (50 µg) in each nostril for adults (1.5 µg/kg corresponding to 0.15 ml for each 10 kg in each nostril) or S-Ketamine 25 mg/ml 0.3 mg/kg IM
+
+
+
+Title/3. Crystalloid
+Text/
+Indication: all initially. Subsequent rate should be guided by urinary output
+
+•Text/Ringer (warm) 1 L (20 ml/kg) IV (or via IO through burnt skin if necessary) over 30 min
+
+
+
+Title/4. Early Endotracheal Intubation?
+Text/
+Indications: stridor, resp distress, new onset hoarsness, oropharyngeal blisters or edema, deep burns lower face/neck. Using nasopharyngoscope: supraglottic area beefy red/sooty
+
+•Text/Use 7.5 tube to allow for later bronchoscopy. Consider fiberoptic intubation
+
+
+
+Title/5. Irrigation?
+Text/
+Indication: prolonged irrigation with water/NS cornerstone of chemical burn management
+
+Contraindication: burning elemental metal (Na, Li, K, Mg, Al, Ca) fragments
+
+• Dry chemical particles should be brushed away before irrigation
+• Cooling of thermal burns with tap water at 12° to 18°C or the application of moist dressings is only indicated during the first 20 min post-burn (risk of inducing hypothermia)
+
+
+
+Title/6. Blood & Urine Tests
+Text/
+• Blood gases with co-oxymetry (CO-Hb, Met-Hb)
+• Electrolytes, potassium, lactate
+• Myoglobin and CK if rhabomyolysis is suspected
+• Cyanid levels can be ordered to confirm cyanid intoxication at a later time
+• Medication/alcohol/toxin levels in the setting of suspected poisoning
+• Pregnancy test for fertile women
+
+
+
+Title/7. CPAP?
+Text/
+Indication: carbon monoxide poisoning (CO-Hb > 10%). The mainstay of treatment is 100% O2. Delivering O2 via CPAP insures an FiO2 of 100% +/- more rapid CO washout.
+
+• CPAP with 100% oxygen and 5 cm H2O
+
+
+
+Title/8. Hydroxycobalamin?
+Text/
+Suggestive findings: suspected CN poisoning—enclosed space, burnt textiles/plastics, altered mental status, unexplained hypotension, soot in mouth or nose, lactate > 8 mmol/L
+
+• Hydroxycobalamin (Cyanokit®) 5 g (200 ml) for adults IV over 15 min
+
+
+
+Title/9. Methemoglobinemia?
+Text/
+Indication: Met-Hb > 30% or Met-Hb 20-30% + symptomatic (e.g. lethargy)
+
+• Methylene blue 2 mg/kg IV over 5 min
+
+
+
+Title/10. Estimate Second and Third Degree Burn Surface Area
+Text/
+• Body surface area (BSA) of small burns: area covered by the patient’s palm and fingers correspond to 1% of BSA. For larger burns, use "rule of nines" or Lund-Browder diagram
+	Head	Front torso	Back	Arm	Leg	Perineum
+Adult	9%	18%	18%	9%	18%	1%
+1 year old	18%	18%	18%	9%	13.5%	1%
+•	Pictures may be taken and sent to burn center
+•	Electrical burns may yield deceptively little superficial evidence of trauma despite the presence of substantial deep injury
+
+
+
+Title/11. Escharotomy?
+Text/
+Indications: inability to adequately ventilate due to chest eschar restriction, absent or decreases pulses; burns do not necessarily need to be circumferential
+
+• Bilateral midaxillary incisions from axilla to lower ribs with connecting incision across the lower chest. Escharotomy with scalpel or cautery down to the fat in the eschar
+
+
+
+Title/12. Dressing
+Text/
+• First degree burns: no local care other than topical anesthetics
+• Second degree burns: occlusive dressings that support a moist healing environment (e.g. Mepitel or Mepilex Ag) +/- antibiotic ointment. Dressing can be left on for 2-3 days
+• Blisters < 6 mm left intact, otherwise snip the top with scissors & remove dead tissue
+• Plastic wrap prevents hypothermia and loss of moisture
+• Consider tetanus booster
+
+
+
+Title/13. Prevent Hypothermia
+Text/
+Indications: all
+
+
+
+Title/14. Urinary Bladder Catheter
+Text/
+Indications: severe burns; to follow diuresis/guide fluid therapy +/- measure temperature
+
+• Consider using a temperature-sensing indwelling urinary catheter
+
+
+
+Title/15. Admission
+Text/
+• Transfer to burn unit depending on total BSA (> 20% adult, > 10% child), burn depth, areas involved (especially the face, hands, feet, perineum, joints), cause of the burn (electrical, chemical), presence of inhalation injury and the patient's age and comorbidities
+•	In CO poisoning, discuss hyperbaric oxygen with regional poison control center

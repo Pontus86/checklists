@@ -1,42 +1,57 @@
-ChapterTitle/<ALLMÄN>
-Hjärtstopp, icke-traumatisk
-Hjärtstopp, traumatisk
+ChapterTitle/<URAKUT>
+Hjärtstopp
+Hjärtstopp, traumatiskt
 Trauma nivå 1
+Crashing
 Nyfödda
-Samtycke
-Aggressiv - Agiterad
 
 ChapterTitle/<AIRWAY>
 Övre luftvägshinder
-----------------------------------------
+Trakeostomi ocklusion
+
 ChapterTitle/<BREATHING>
-Hemoptys
-Hypoxemi-lågt SpO2
-----------------------------------------
-ChapterTitle/<CIRCULATION>
-Lågt blodtryck - chock
+Hypoxemi
+
+ChapterTitle/<BLODTRYCK>
+Hypotension
+Hypertensiv kris
+
+ChapterTitle/<ARYTMI>
 Bradykardi
-Takykardi
-Takykardi reg + smal QRS
-Takykardi reg + bred QRS
-Takykardi oreg + smal QRS
-Takykardi oreg + bred QRS
-----------------------------------------
+Takykardi reg + smal qrs
+Takykardi reg + bred qrs
+Takykardi oreg + smal qrs
+Takykardi oreg + bred qrs
+
 ChapterTitle/<DISABILITY>
-Medvetanderubbning
+Agiterad - Aggressiv
 Krampanfall
-----------------------------------------
+Medvetanderubbning
+Tillfällig medvetslöshet
+
 ChapterTitle/<EXPOSURE>
 Hypotermi
 Hypertermi
-----------------------------------------
-ChapterTitle/<ELEKTROLYTER>
+Brännskada - rökgasinhalation
+
+ChapterTitle/<INTOXIKATION>
+Intox allmänt
+Natrium-kanalblockad
+Kalium-kanalblockad
+Kalciumantagonist - Betablockerare
+Lokalbedövning (LAST)
+
+ChapterTitle/<BLODPROV>
 Hyponatremi
-Hypernatremi
 Hypokalemi
-Hyperkalemi
 Hypocalcemi
-Hypercalcemi
-----------------------------------------
-ChapterTitle/<INTOXIKATIONER>
-intoxikation allmänt
+Hypoglykemi
+
+Hypernatremi
+Hyperkalemi
+Hyperkalcemi
+Hyperglykemi
+
+ChapterTitle/<SMÄRTA>
+Bröstsmärta
+Buksmärta

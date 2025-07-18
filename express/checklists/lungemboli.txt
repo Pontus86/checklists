@@ -1,55 +1,146 @@
-Title/1. Crystalloids?
+Title/1. Hjärtstopp?
 Text/
-• Modest fluid challenges (500 ml) followed by reevaluations are recommended
+Color/<#a5715a><Åtgärder:>
+• 50000 + HLR
+• Adrenalin 0,1 mg/ml 10 ml IV bolus
+• Actilys 50 mg IV bolus
+• ECMO? THIVA 77971
+• Actilys 50 mg upprepas efter 15 min
 
-• Aggressive fluid therapy can impair RV function.
+Color/<#A336C9><Notera:>
+• Fallrapport återställda patienter efter 90 min HLR
 
 
-Title/2. Vasopressors?
+
+Title/2. Syrgas?
 Text/
-• Noradrenalin or Adrenalin may be of value in patients with PE and shock/hypotension
+Color/<#5EA35C><Indikation:>
+• SpO2 < 95%
 
-• Adrenalin 0.1 mg/ml 1 ml diluted with 9 ml saline. Give 1 ml (10 µg) every 2-5 min
- 
-• See Vasoactive Medications
+Color/<#a5715a><Åtgärd:>
+• Mask med reservoar 10-15 L/min
 
-Title/3. Endotracheal Intubation?
+Color/<#A336C9><Notera:>
+• Syrgas vasodilaterar lungkärl
+
+
+
+Title/3. Adrenalin/Noradrenalin?
 Text/
-• Ketamine or etomidate are preferable to induction agents that depress cardiac function or reduce preload if endotracheal intubation is required because of impending respiratory failure
+Color/<#5EA35C><Indikationer:>
+• SBP < 85 mm Hg
+• Bradykardi
+• Hotande hjärtstopp
 
-• Low tidal volumes (approximately 6 mL/kg lean body weight) are recommended to keep the end-inspiratory plateau pressure < 30 cm H2O to minimize the reduction of venous return brought on by increased intrathoracic pressure.
+Color/<#a5715a><Som push-dose pressor:>
+InternalLink/<• Push-dose pressor><push-dose pressor>
 
-Title/4. Unfractionated Heparin
+Color/<#a5715a><Som infusion:>
+InternalLink/<• Sprutpump doser><sprutpump doser>
+
+
+
+Title/4. Actilys?
 Text/
-Indication: unfractionated heparin is the recommended initial anticoagulant in patients with high-risk PE
+Color/<#5EA35C><Indikationer:>
+• SBP < 85 mm Hg
+• Bradykardi, hotande hjärtstopp
 
-• Unfractionated heparin 80 U/kg IV bolus (or 5,000 U) followed by an infusion of 18 U/kg/hr if the patient is hemodynamically affected but not in extremis. The infusion can be continued during thrombolysis infusion with rt-PA
+Color/<#f40b1a><"Absoluta" kontraindikationer:>
+• Hemorragisk stroke
+• Ischemisk stroke inom 6 mån
+• Hjärn-, spinal eller storkirurgi inom 3 veckor
+• Hjärntumör
+• Aktiv allvarlig blödning
 
-Title/5. Diagnostic Confirmation?
+Color/<#a5715a><Åtgärd:>
+• Actilys 10-20 mg IV bolus
+
+Color/<#A336C9><Notera:>
+• Därefter infusion Actilys 50-90 mg över 90 min beroende på vikt och blödningsrisk
+
+
+
+Title/5. Endotrakeal intubation?
 Text/
-Indication: diagnostic confirmation with CT is recommended for the stabilized patient
+Color/<#5EA35C><Indikationer:>
+• Hjärtstopp
+• Allvarlig hypoxemi som inte kan hävas
 
-Contraindication: patient too unstable to leave the ED and immediate CT angiography may not be available.  Under these circumstances, unequivocal signs of RV pressure overload and dysfunction in a haemodynamically compromised patient justify emergency thrombolysis without further testing
+Color/<#f40b1a><Risker:>
+• Sederingsutlöst vasodilatation
+• Nedsatt preload från övertrycksventilation
 
-Title/6. Thrombolysis
+Color/<#a5715a><Sedering:>
+• Ketanest 5 mg/ml 0,25 mg/kg IV
+
+Color/<#a5715a><Tidalvolym:>
+• 6 mL/kg
+
+Color/<#a5715a><Tryck vid inandning:>
+• < 30 cm H2O
+
+Color/<#A336C9><Notera:>
+• Intubation bör helst undvikas!
+
+
+
+Title/6. Heparin?
 Text/
-Indication: systemic thrombolysis is recommended given the high-risk of PE-related in-hospital or 30-days mortality.
+Color/<#5EA35C><Indikation:>
+• Misstänkt submassiv lungemboli, innan DT thorax
 
-"Absolute" contraindications:
-• Hemorrhagic stroke or stroke of unknown origin at any time
-• Ischaemic stroke within the preceding 3 months
-• Central nervous system damage or neoplasms
-• Recent major trauma/surgery/head injury in the preceding 3 weeks
-• Gastrointestinal bleeding within the last month
+Color/<#f40b1a><Kontraindikation:>
+• Fått Actilys
 
-Recombinant tissue plasminogen activator (rt-PA; Actilys®) recommended regimens:
-• 100 mg over 2 hours
-• Very unstable:  10-20 mg IV push followed by 80-90 mg IV over 2 hours
-• Cardiac arrest or impending respiratory arrest: 0.6 mg/kg IV over 10 min, max dose 50 mg, CPR, repeat once after 15 min
+Color/<#a5715a><Åtgärd:>
+• Heparin 5000 E IV bolus (80 E/kg)
 
-Title/7. Embolectomy / ECMO
+
+
+Title/7. DT Thorax?
 Text/
-• Surgical embolectomy or percutaneous catheter-delivered therapy (clot fragmentation and aspiration combined with local thrombolysis) are therapeutic options for patients for whom thrombolysis is contraindicated or deemed too risky, who fail to respond to thrombolysis
+Color/<#5EA35C><Indikation:>
+• Bekräfta lungemboli
 
-• Extracorporeal Membrane Oxygenation (ECMO) is another possibility as a bridge to surgical embolectomy or spontaneous improvement.  ECMO:  _____________
+Color/<#f40b1a><Risk:>
+• Akut försämring/hjärtstopp under transport eller på röntgen
 
+Color/<#a5715a><Åtgärd:>
+• Plan vid ev hemodynamisk försämring
+
+
+
+Title/8. Embolektomi?
+Text/
+Color/<#5EA35C><Indikationer:>
+• Massiv lungemboli med absolut kontraindikation till Actilys
+• Intermediär risk med kontraindikation till Actilys och derangerad fysiologi, t ex behov av high-flow
+• Clot in transit
+• Svikt till Actilys-behandling
+
+Color/<#a5715a><Åtgärd:>
+• HIA 71414
+
+
+
+Title/9. ECMO?
+Text/
+Color/<#5EA35C><Indikationer:>
+• Absolut kontraindikation till Actilys
+• Svikt till Actilys-behandling
+
+Color/<#a5715a><Åtgärd:>
+• THIVA 77971
+
+
+
+Title/Om massiv lungemboli
+Text/
+Color/<#A336C9><Ultraljud:>
+InternalLink/<• Hjärta & IVC><ultraljud lungemboli>
+• Proximal DVT
+
+Color/<#A336C9><EKG:>
+• Negativa T-vågor V1-V4 + III
+• Högergren block

@@ -1,0 +1,96 @@
+Title/1. Odlingar
+Text/
+Color/<#a5715a><Åtgärd:>
+• Blododling x 2
+• Urinodling
+• Nasofarynxodling
+
+
+
+Title/2. Blodprov
+Text/
+Color/<#a5715a><Åtgärd:>
+• Vita, Diff, CRP
+• Trombocyter, PK, aPTT
+
+
+
+Title/3. Betapred
+Text/
+Color/<#a5715a><Åtgärd:>
+• Betapred 8 mg IV Color/<#0014ff><(0,12 mg/kg)>
+
+
+
+Title/4. LP?
+Text/
+Color/<#f40b1a><Kontraindikationer LP generellt:>
+• Trombocyter < 30
+• PK > 1,6
+• Behandling med Waran, DOAC, Plavix, Clopidogrel
+• Känd koagulopati (hemofili, von Willebrand)
+• Infektion på insticksstället
+
+Color/<#f40b1a><Kontraindikationer LP före DT-hjärna:>
+• Medvetslös eller snabb sjunkande medvetandegrad
+• Epileptiskt anfall (generell/fokal) inom 1 tim
+• Central CNS bortall (hemipares, hemianopsi)
+
+
+
+Title/5. Aciklovir
+Text/
+Color/<#5EA35C><Indikation:>
+• Ges även om LP inte kan utföras direkt
+• Ges Color/<#A336C9><före> ev DT-hjärna
+
+
+Color/<#a5715a><Ätgärd:>
+• Aciklovir 10 mg/kg IV
+
+
+
+Title/6. Antibiotika?
+Text/
+Color/<#5EA35C><Indikation:>
+• Potentiell bakteriell meningit
+• Ges inom 15 min oavsett om LP kan utföras
+
+Color/<#a5715a><Val:>
+• Meronem 2 g IV
+• Cefotaxim 3 g IV + Ampicillin 3 g IV
+
+
+
+Title/7. DT-hjärna
+Text/
+Color/<#5EA35C><Indikation:>
+• På liberala grunder efter påbörjad behandling
+
+
+
+Title/8. Planering för LP?
+Text/
+Color/<#5EA35C><Indikation:>
+• LP bör helst genomföras inom 1-2 tim av antibiotika
+
+
+
+Title/Om herpesencefalit
+Text/
+Color/<#5EA35C><Klinik:>
+Akut eller subakut debut av
+• Medvetanderubbning
+• Somnolens
+• Personlighetsförändring
+
+Color/<#5EA35C><Följande stödjer diagnos:>
+• Feber inom 72 timmar av symtomdebut
+• Fokalneurologi
+• Krampanfall
+
+
+
+Title/Medvetanderubbning
+Text/
+InternalLink/<• Övriga orsaker till medvetanderubbning><medvetanderubbning>

@@ -1,0 +1,63 @@
+Title/1. Blodprov
+Text/
+Color/<#5EA35C><Som regel:>
+• ACTH
+• Kortisol
+• TSH
+• T4
+
+Title/2. Initial behandling
+Text/
+Color/<#a5715a><Åtgärder:>
+• Solucortef 100 mg IV
+• Piperacillin-Tazobaktam 4 IV
+• Levotyroxin 300 µg IV späd i NaCl 0,9%
+
+Color/<#A336C9><Notera:>
+• Vid utebliven tillgång till Levotyroxin IV ges 1 mg av krossade Levaxin via V-sond
+
+
+
+Title/3. Vidare behandling
+Text/
+• Inläggning AMA (IVA)
+• Endokrin konsult
+
+Se även InternalLink/<Medvetanderubbning><medvetanderubbning>
+
+
+
+Title/Om myxödemkoma
+Text/
+Color/<#5EA35C><Sammanhang:>
+• Äldre patient med känd hypotyreoidism som
+• slutat ta Levaxin; eller
+• varit utsatt för infektion, skada, myokardischemi, kirurgi, stroke, kyla, opioider
+
+Color/<#5EA35C><Airway:>
+• Ärr från tyreoideakirurgi?
+
+Color/<#5EA35C><Breathing:>
+• Hypoventilation
+
+Color/<#5EA35C><Circulation:>
+• Bradykardi
+• Diastolisk hypertension med smal pulstryck
+• Hypotension kan ibland förekomma
+
+Color/<#5EA35C><Disability:>
+• Medvetanderubbning (förvirring till koma)
+• Fokal eller generaliserad krampanfall kan förekomma
+
+Color/<#5EA35C><Exposure:>
+• Kall torr hud
+• Svullnad av ögonlock, ansikte, tunga, händer
+• Hypotermi
+
+Color/<#5EA35C><Blodgas:>
+• Hyperkapné
+• Hypoglykemi
+• Hyponatremi (50% av fall)
+
+Color/<#5EA35C><Ultraljud:>
+• Perikardvätska kan förekomma

@@ -1,0 +1,176 @@
+Title/1. Syrgas?
+Text/
+Color/<#5EA35C><Indikation:>
+• Potentiell rökgasinhalation (SpO2 falskt högt med CO-intox)
+
+Color/<#a5715a><Val:>
+• 10 L/min via mask with reservoir
+• FiO2 100% via CPAP/endotrakeal tub
+
+
+
+Title/2. Smärtlindring?
+Text/
+Color/<#5EA35C><Indikation:>
+• 2:a grads brännskada väldigt smärtsam
+
+Color/<#a5715a><Val:>
+• Se under Fakta
+
+
+
+Title/3. Ringer-Acetat?
+Text/
+Color/<#5EA35C><Indikation:>
+• 2:a eller 3:a grads brännskada > 20% kroppsyta
+
+Color/<#a5715a><Åtgärd:>
+• Ringer-Acetat (varm) 1000 ml IV genom obränd/bränd hud eller IO över 30 min Color/<#0014ff><(20 ml/kg)>
+
+Color/<#A336C9><Notera:>
+• Infusionstakt titreras till urinproduktion (> 0,5 ml/kg/tim), undvik övervätskning
+
+
+
+Title/4. Endotrakeal intubation?
+Text/
+Color/<#5EA35C><Indikation:>
+• Ökad andningsarbete (t ex användning accessoriska muskler)
+• Stridor, heshet
+• Blåsor/ödem i orofarynx/supraglottiskt, djupa brännskador över nedre ansikte/hals
+
+Color/<#a5715a><Åtgärder:>
+• Överväg fiberintubering
+• Använd ≥ 7,5 tub för att möjliggöra bronkoskopi i senare skede
+
+
+
+Title/5. Borsta-spola?
+Text/
+Color/<#a5715a><Borsta:>
+• Borsta bort torra kemiska partiklar utan att exponera vårdpersonal
+
+Color/<#5EA35C><Spola: indikation>
+• Kemiska brännskador
+
+Color/<#f40b1a><Spola: kontraindikation:>
+• Metalfragment (Na, Li, K, Mg, Al, Ca) 
+
+Color/<#a5715a><Åtgärd:>
+• Ljummet vatten (undvik hypotermi) i > 20 min
+
+
+
+Title/6. Blod- & urinprov
+Text/
+Color/<#5EA35C><Som regel:>
+• Blodgas (CO-Hb? Met-Hb? Laktat?)
+• CK, myoglobin om potentiell rhabdomyolys
+• Cyanid kan beställas för senare bekräftelse
+• Läkemedel/etanol/salicylat/paracetamol vid misstänkt intox
+• Gravtest hos fertila kvinnor
+
+
+
+Title/7. CPAP?
+Text/
+Color/<#5EA35C><Indikation:>
+• Kolmonoxid intox (CO-Hb > 10%)
+
+Color/<#a5715a><Åtgärd:>
+• PEEP 5 cm och FiO2 100%
+
+
+
+Title/8. Cyanokit?
+Text/
+Color/<#5EA35C><Talar för cyanidförgiftning:>
+• Laktat > 8 mmol/L
+• Brand i instängd lokal, textil/plast
+• Medvetandesänkning, hypotension
+
+Color/<#a5715a><Åtgärd:>
+• Cyanokit 5 g (200 ml) IV över 15 min Color/<#0014ff><(3 ml/kg)>
+
+
+
+Title/9. Metylenblått?
+Text/
+Color/<#5EA35C><Indikation:>
+• Met-Hb > 30%
+• Met-Hb 20-30% + symptomatisk (e.g. slö)
+
+Color/<#f40b1a><Kontraindikationer:>
+• Nitratinducerad Met-Hb under behandling av cyanidförgiftning
+• Met-Hb på grund av kloratförgiftning
+• Känd NADPH-brist
+
+Color/<#a5715a><Åtgärd:>
+• Metylenblått (Metyltioniniumklorid) 2 mg/kg IV över 5 min
+
+
+
+Title/10. Brännskadans yta
+Text/
+Color/<#a5715a><Uppskata ytan av 2:a + 3:e grads brännskada:>
+• Handflata + adducerade fingrar: 1%
+• Huvud: 9% (vuxna) — 18% (1 år)
+• Bål-fram: 18% (vuxna) — 18% (1 år)
+• Bål-bak: 18% (vuxna) — 18% (1 år)
+• Arm: 9% (vuxna) — 9% (1 år)
+• Ben: 18% (vuxna) — 13,5% (1 år)
+
+Color/<#A336C9><Notera:>
+• 1:a grad: solbränna, inga blåsor, normal CRT, smärtsam
+• 2:a grad ytlig: blött, klara blåsor, normal CRT, jätte smärtsam
+• 2:a grad djup: mindre blött, blodblåsor, nedsatt CRT, mindre smärtsam
+• 3:e grad djup: vit, torr, ingen CRT, ingen känsel
+
+CRT = Capillary Refill Time
+
+
+Title/11. Eskarotomi-Fasciotomi?
+Text/
+Color/<#5EA35C><Indikation:>
+• Svårt att ventilera pga brännskador på bålen
+• Misstänkt kompartmentsyndrom i extremiteterna
+
+Color/<#a5715a><Åtgärd:>
+• Incision genom bränd hud med skalpell ner till fetnivå (eskarotomi) eller djupare genom muskelfascianivån (fasciotomi)
+• Bilaterala incisioner i mittaxillärlinje från axill till nedre revben + transvers incision vid klavikellinjen och över nedre bröstkorg
+• Lateralt + medialt i extremiteterna
+
+Color/<#A336C9><Notera:>
+• Brännskadan måste inte vara cirkumferentiell
+• Eskarotomi är sällan indicerad inom 6 timmar av brännskadan
+• Fasciotomi oftast vid elektriska brännskador till extremiteterna
+
+InternalLink/<Eskarotomi-Fasciotomi><eskarotomi-fasciotomi>
+
+
+
+Title/12. Omläggning-KAD-Hypotermi
+Text/
+Color/<#a5715a><Omläggning:>
+• 1:a grads brännskada: ingen särskild
+• 2:a grads brännskada:  Mepilex Ag (i brännskadelåda) eller rent filt för stora ytor
+• Blåsor ≤ 5 mm lämnas, blåsor ≥ 6 mm klipps
+
+Color/<#a5715a><KAD:>
+• Vid svår brännskada (följa timdiures/temp—överväga IVA-kateter)
+
+Color/<#a5715a><Förebygg hypotermi:>
+• Ökad värmeförlust genom skadad hud
+
+
+
+Title/13. Vidare handläggning
+Text/
+Color/<#5EA35C><Brännskadeenhet:>
+• 3:a grads brännskada
+• 2:a grads brännskada > 20% kroppsyta vuxna, > 10% barn
+• ansikte, händer, fötter, perineum, stora leder
+• kemiska och elektriska brännskador
+
+Color/<#5EA35C><Hyperbarbehandling:>
+• Giftinformation 010-456 6719

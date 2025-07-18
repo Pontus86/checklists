@@ -1,0 +1,93 @@
+Title/1. Larma
+Text/
+Color/<#a5715a><Val:>
+• Hjärtstopp vuxen/gravid/barn
+• Anestesilarm 77900
+• ÖNH 71061
+
+
+Title/2. Coniotomi?
+Text/
+Color/<#5EA35C><Indikation:>
+• Allvarlig hypoxemi + kan ej ventilera
+
+Color/<#a5715a><Sedering-Val:>
+• Ketanest 5 mg/ml 5 ml IV
+• Ketanest 25 mg/ml 5 ml IM
+
+Color/<#a5715a><Coniotomi:>
+InternalLink/<• Stab-twist-bougie-tube><coniotomi>
+
+Title/3. Torakostomi?
+Text/
+Color/<#5EA35C><Indikation:>
+• Misstänkt övertryckspneumothorax
+
+Color/<#a5715a><Åtgärder:>
+1. Incision med skalpell i säkra triangeln
+2. Punktera genom pleura med peang
+
+
+Title/4. Intraosseösnål?
+Text/
+Color/<#5EA35C><Indikation:>
+• Ingen IV-infart
+
+Color/<#a5715a><Val:>
+• Tibia: 1 cm distal/medial om tuberositas
+InternalLink/<• Humerus:><intraosseos nal humerus> arm adducerad, inåt roterad; anterolateralt i caput humeris
+
+
+Title/5. Vätska?
+Text/
+Color/<#5EA35C><Indikationer:>
+• Lågt blodtryck
+• Ingen radialispuls
+
+Color/<#a5715a><Val:>
+• Ringer-Acetat 500 ml IV bolus
+• 0 neg blod vid misstänkt InternalLink/<blödning><blodningschock>
+
+
+Title/6. Push-dose adrenalin?
+Text/
+Color/<#5EA35C><Indikation:>
+• Kritiskt lågt blodtryck
+
+Color/<#a5715a><Åtgärd:>
+1. Adrenalin Color/<#f40b1a><0,1 mg/ml> 1 ml i en 10 ml spruta
+2. Späd med 9 ml NaCl
+3. Ge 2 ml (20 mcg) IV/IO Color/<#0014ff><(1 ml)>
+4. Upprepa var 2:a min vid behov
+
+
+
+Title/7. Kalcium?
+Text/
+Color/<#5EA35C><Indikation:>
+• InternalLink/<Hyperkalemi><hyperkalemi> + chock
+
+Color/<#a5715a><Åtgärd:>
+• Kalciumglukonat 100 mg/ml 30 ml IV/IO bolus Color/<#0014ff><(0,3 ml/kg)>
+
+
+
+Title/8. Trombolys?
+Text/
+Color/<#5EA35C><Indikation:>
+• Misstänkt massiv InternalLink/<lungemboli><lungemboli>
+
+Color/<#a5715a><Åtgärd:>
+• Actilys 10 mg IV/IO bolus, upprepas vid behov
+
+
+
+Title/Om "Crashing"
+Text/
+Color/<#5EA35C><Checklista avsedd för följande sammanhang:>
+
+• Patienten verkar akut döende
+• Läkaren har knappt någon info om patienten/aning om diagnosen
+
+Color/<#a5715a><Fokus vid checklistan:>
+• Potentiella akuta ABC-räddningsåtgärder

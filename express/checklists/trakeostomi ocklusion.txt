@@ -1,0 +1,114 @@
+Title/1. Hjärtstopp?
+Text/
+Color/<#5EA35C><Indikation:>
+• Medvetslös + andas ej
+
+Color/<#a5715a><Kalla på hjälp:>
+• 50000
+• ÖNH 71709
+
+Color/<#a5715a><Vidare handläggning:>
+Color/<#A336C9><• 5. Ta bort inre kanyl>
+
+
+ 
+
+Title/2. Larma
+Text/
+Color/<#5EA35C><Indikation:>
+• Trakeostomi och A/B problem
+
+Color/<#a5715a><Åtgärd:>
+• ÖNH 71709
+
+
+
+Title/3. Lyssna/titta mun + stoma
+Text/
+Color/<#a5715a><Åtgärd:>
+• Bedöm var luften passerar
+
+
+
+Title/4. Syrgas mun + stoma
+Text/
+Color/<#a5715a><Åtgärder:>
+• 15 L/min via mask över mun
+• 15 L/min via mask över stoma
+
+
+
+Title/5. Ta bort inre kanyl
+Text/
+Color/<#5EA35C><Indikation:>
+• Alla med inre kanyl och potentiell A/B problem
+
+Color/<#a5715a><Åtgärd:>
+• Spara kanylen
+• Kan behövas för övertrycksventilation
+
+
+
+Title/6. För in sugkateter
+Text/
+Color/<#5EA35C><Indikation:>
+• För att bekräfta att yttre kanyl är öppen
+
+Color/<#a5715a><Åtgärd:>
+• För in sugkateter genom trak-tuben
+
+Color/<#a5715a><Om du KAN föra in katetern>
+• Sug max 5-10 sek i taget
+• Ventilera vid behov genom trak-tuben med blåsa
+• Kan INTE ventilera: Color/<#A336C9><7. Ta bort yttre kanyl>
+• Patienten förbättras: Color/<#A336C9><10. Vid förbättring>
+
+Color/<#a5715a><Om du INTE kan föra in katetern>
+• Kuffa ur trak-tuben om kuffen finns
+• Patienten blir inte bättre: Color/<#A336C9><7. Ta bort yttre kanyl>
+• Patienten förbättras: Color/<#A336C9><10. Vid förbättring>
+
+
+
+Title/7. Ta bort yttre kanyl
+Text/
+Color/<#5EA35C><Indikation:>
+• Eftersom kanylen kan hamnat fel och obstruera luftvägen
+
+
+
+Title/8. Ventilera via mun eller stoma
+Text/
+Color/<#5EA35C><Indikation:>
+• Kvarstående otillräcklig ventilation
+
+Color/<#a5715a><Ventilera via mun:>
+• Ockludera stoma med kompresser eller händer
+• Två-person mask ventilation över munnen
+• Bekräfta ventilation med kapnometer
+
+Color/<#a5715a><Ventilera via stoma:>
+• Barn mask eller larynxmask omkring stoma
+• Bekräfta ventilation med kapnometer
+
+
+
+Title/9. Intubation via stoma
+Text/
+Color/<#5EA35C><Indikation:>
+• Kvarstående otillräcklig ventilation
+
+Color/<#a5715a><Val:>
+• ET tub 6 över fiberlaryngoskop
+• ET tub 6 över bougie
+
+
+
+Title/10. Vid förbättring
+Text/
+Color/<#5EA35C><Indikation:>
+• Patienten blivit bättre, ev partiell obstruktion
+
+Color/<#a5715a><Åtgärder att överväga:>
+• Droppa 2-3 ml NaCl ned i trakeostomi för att lösa upp slemmet, sug igen
+• Nebulisera 5 ml NaCl via munnen eller stoma för att lösa upp slemmet

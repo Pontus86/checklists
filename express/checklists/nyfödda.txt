@@ -1,29 +1,35 @@
 Title/1. Initiala åtgärder
 Text/
-1-Torka barnet i 30 sekunder
+Color/<#a5715a><Åtgärd:>
+• Torka barnet i 30 sekunder
 
-2-Om effektiv egen andning + HF > 100/min:  inga åtgärder förutom förebygga hypotermi
+Color/<#a5715a><Om effektiv egen andning + HF över 100/min:>
+• Bebis på moderns mage (förebygg hypotermi)
+• Avnavling efter 1 min (klippa navelsträng 5 cm från bebisen)
 
-3-Avnavling efter 1 min
-
-4-På moderns mage
 
 
 Title/2. Airway
 Text/
-• Huvudet i neutral läge, duk under axlarna vid behov
+Color/<#a5715a><Åtgärder:>
+• Duk under axlarna
+• Huvudet i neutralt läge
 
-• Ingen sug
+Color/<#A336C9><Notera:>
+• Sug enbart om livlös + tjock mekonium
 
 
 
 Title/3. Breathing
 Text/
-• Ventilera med rumsluft 30-60/min
+Color/<#5EA35C><Indikation:>
+• Inadekvat egen andning
 
+Color/<#a5715a><Åtgärder:>
+• Ventilera med rumsluft 30-60/min
 • Bekräfta effektiv ventilation (bröstkorgsexpansion)
 
-Vid ineffektiv ventilation:
+Color/<#a5715a><Vid ineffektiv ventilation:>
 • Haklyft
 • Byt maskstorlek
 • Näskantarell/svalgtub/larynxmask
@@ -33,32 +39,38 @@ Vid ineffektiv ventilation:
 
 Title/4. Circulation
 Text/
-Vid hjärtfrekvens < 60/min trots effektiv ventilation > 1 min:
+Color/<#5EA35C><Indikation:>
+• Hjärtfrekvens < 60/min trots effektiv ventilation i > 1 min
 
+Color/<#a5715a><Åtgärder:>
 • 3:1 kompression:ventilation (90:30/min)
-
 • Ventilera med 100% syrgas
-
-• Kontrollera hjärtfrekvens var 30:e sek, avbryt om HF > 60/min
+• Kontrollera hjärtfrekvens var 30:e sek
+• Avbryt kompressioner om HF > 60/min
 
 
 
 Title/5. Drugs
 Text/
-Vid kvarstående hjärtfrekvens < 60/min:
+Color/<#5EA35C><Indikation:>
+• Kvarstående hjärtfrekvens < 60/min
 
-• Adrenalin 0,1 mg/ml 0,3 ml via navelven eller IO
-
-• Ringer eller 0 neg blod 30 ml bolus via navelven eller IO
-
-• Naloxon 0,4 mg/ml 0,5 ml IM vid misstänkt opioidpåverkan
-
-• Glukos 50 mg/ml 10 ml via navelven eller IO
+Color/<#a5715a><Åtgärder:>
+• Color/<#A336C9><Adrenalin> Color/<#f40b1a><0,1 mg/ml> 0,3 ml via navelven eller IO
+• Color/<#A336C9><Ringer-Acetat> eller 0 neg blod 30 ml bolus via navelven eller IO
+• Color/<#A336C9><Naloxon> 0,4 mg/ml 0,5 ml IM vid misstänkt opioidpåverkan
+• Color/<#A336C9><Glukos> 50 mg/ml 10 ml via navelven eller IO
 
 
 
 Title/6. End
 Text/
-• Avbryt ventilation när (effektiv egen andning + HF > 100/min)
+Color/<#5EA35C><Indikation:>
+• Effektiv egen andning + HF > 100/min
+Color/<#a5715a><Åtgärd>
+• Avbryt ventilation
 
-• Avbryt HLR om > 20 min återupplivning och inga livstecken
+Color/<#5EA35C><Indikation:>
+• Över 20 min återupplivning + inga livstecken
+Color/<#a5715a><Åtgärd>
+• Avbryt HLR

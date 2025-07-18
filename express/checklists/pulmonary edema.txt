@@ -1,0 +1,135 @@
+Title/1. Upright position
+Text/
+• Elevate the hed of the bed
+
+
+
+Title/2. Oxygen?
+Text/
+Indication:
+• SpO2 < 90%
+
+Choice:
+• Mask with reservoar 10-15 L/min
+• Oxymask 1-15 L/min
+• Mask without reservoar 5-10 L/min
+• Nasal prongs 1-4 L/min
+
+
+
+Title/3. Nitroglycerin?
+Text/
+Indications:
+• SBT > 160 mm Hg (hypertensive pulmonary edema)
+• Acute mitral or aortic insufficiency
+
+Contraindications:
+• SBT < 110 mm Hg
+• Severe mitral or aortic stenosis
+• Viagra use within 12 hours
+
+Choice:
+• Nitroglycerin 1 spray sublingual (0,4 mg) every 2nd min
+• Nitroglycerin 1 mg/ml 0,5 mg bolus IV every 3rd min
+• Nitroglycerin 1 mg/ml 10 ml + 40 ml NaCl (200 µg/ml) 1.5 µg/kg/min (100 ug/min)
+
+
+
+Title/4. CPAP/NIV?
+Text/
+Color/<#5EA35C><Indications:>
+• Persisting resp distress (SpO2 < 90%, resp rate > 25)
+• Elevated CO2
+
+Color/<#f40b1a><Contraindications:>
+• SBP < 85 mm Hg
+• Vomiting
+• Pneumothorax, unclear subcutaneous emphysema
+• Severely decreased level of consciousness
+• Recent upper airway or gastrointestinal surgery
+
+Color/<#a5715a><Flow-Safe:>
+• CPAP 4 cm H2O
+• Add IPAP 8 cm H2O if elevated CO2, fatigue
+
+Color/<#a5715a><Hamilton:>
+• PEEP/CPAP 4 cm H2O
+• Add P-Support 4 cm H2O if elevated CO2, fatigue
+
+
+
+Title/5. Furix?
+Text/
+Contraindication:
+• SBT < 90 mm Hg
+
+Risk:
+• Hypotension if severe aortic stenos
+
+Measure:
+• Furix 40 mg IV om patienten inte står på diuretika
+• Furix dygnets dos IV om patienten redan står på diuretika (t ex 80 mg IV om Furix 40 mg x 2)
+
+
+
+Title/6. CPAP/NIV adjustment
+Text/
+SpO2 stiger ej:
+• Öka FiO2 upp till 100% vid behov
+• Öka PEEP/CPAP 2 cm H2O var 4 min
+
+pCO2 sjunker ej:
+• Öka IPAP/P-support 2 cm H2O var 4 min
+• Max IPAP (PEEP + P-Support) 20 cm H2O
+
+Larm Hamilton:
+• Tryck på "Larm" knappen
+• Höj övre gräns för minutvolym "ExpMinVol L/min" vb
+
+
+
+Title/7. Intubation?
+Text/
+Indikationer:
+• Hypoxi och/eller hyperkapné utan svar på CPAP/NIV
+• Utmattning
+• Nedsatt medvetandegrad, kan ej skydda luftvägen
+
+Val:
+• Narkos 78880
+• Anestesilarm 77900
+
+
+
+Title/8. Blood Tests
+Text/
+• Pro-BNP
+• Troponin
+
+
+
+Title/9. Precipitant?
+Text/
+Överväg:
+• Akut hjärtischemi
+• Akut strukturellt problem (t ex papillarmuskelruptur)
+
+
+Title/10. Other Measures
+Text/
+• Överväg KAD för att följa diures
+• Klexane 40 mg SC x 1 om ej på antikoagulantia
+
+
+Title/11. Morphine?
+Text/
+Indikation:
+• Svår ångest
+
+Rekommenderas ej rutinmässigt:
+• Påverkar andning och medvetandegrad
+• Associerad med ökad mortalitet
+
+Åtgärder:
+• Morfin 2 mg IV
+• Primperan 10 mg IV

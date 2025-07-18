@@ -1,41 +1,61 @@
-Title/1. Call ENT and/or Anesthesia
+Title/1. Larm?
 Text/
-Call ENT and/or anesthesia if epiglottitis is suspected
+Color/<#a5715a><Val:>
+• ÖNH 71061
+• Anestesilarm 77900
 
 
 
-Title/2. Avoid Aggravating Measures
+Title/2. Förberedelser
 Text/
-Direct examination or manipulation of the pharynx should be avoided
+Color/<#a5715a><Åtgärder:>
+• Låt patienten sitta, "sniffing position"
+• Undvik direkt undersökning av svalget
+• Syrgas mask 10 L/min
+• Beredskap för fiberlaryngoskopi, intubation, InternalLink/<coniotomi><coniotomi> eller jet ventilation
 
-Patients assuming the sniffing position should not be laid flat
 
 
-
-Title/3. Equipment
+Title/3. Fiberlaryngoskopi
 Text/
-Ensure that equipment required for bag-valve-mask ventilation, endotracheal intubation and cricothyrotomy (adults) or needle cricothyrotomy (children) is available
+Color/<#a5715a><Åtgärder:>
+1. Bedöv nasofarynx med Lidokain/Nafazolin (luftvägsvagn, övre lådan)
+2. Applicera Clear-Vue linsmedel (luftvägsvagn, övre lådan)
 
 
 
-Title/4. Flexible Laryngoscopy
+Title/4. Endotrakeal intubation?
 Text/
-Flexible laryngoscopy is the diagnostic procedure of choice
+Color/<#5EA35C><Faktorer vid beslut:>
+• Graden av inflammation av epiglottis
+• Kliniskt förlopp under senaste 5 timmar
+• Immunbrist, diabetes
 
 
 
-Title/5. Endotracheal Intubation?
+Title/5. Antibiotika
 Text/
-The decision to intubate depends on epiglottitis severity, clinical course (increased severity of the past 4-6 hours) and the presence of immunocompromise or diabetes
+Color/<#a5715a><Åtgärd:>
+• Cefotaxim 2 g IV
+
+Color/<#0014ff><Barn:>
+• Cefotaxim 50 mg/kg upp till 2 g IV
 
 
-
-Title/6. Antibiotics
+Title/6. Inläggning
 Text/
-Cefotaxime or Ceftriaxone 1-2 g IV (50-100 mg/kg) are first-line antibiotics
+Color/<#a5715a><Val:>
+• IVA
+• AVA med tätt övervakning/intubationsberedskap
 
 
 
-Title/7. Admission
+Title/Om epiglottit
 Text/
-Unintubated patients are often admitted to the ICU for close monitoring
+Color/<#A336C9><Symtom:>
+• Dyspné
+• Dysfoni (dämpad röst)
+• Dregel (talar för hotande förlust av luftväg)
+• Dysfagi + ont i halsen
+• Stridor
+• Feber (saknas hos 50% av vuxna)

@@ -1,2 +1,40 @@
-Title/
-I/04_fakta/sprutpump doser.png
+Title/Noradrenalin
+Text/
+• Color/<#A336C9><Noradrenalin 1 mg/ml> 2 ml i en 50 ml spruta
+• Späd med 48 ml NaCl eller Glukos 50 mg/ml
+• Lösning = 40 µg/ml
+• Initial infusionstakt 0,1 µg/kg/min
+• Bolus 5-10 µg
+
+Title/Adrenalin
+Text/
+• Color/<#A336C9><Adrenalin 1 mg/ml> 2 ml i en 50 ml spruta
+• Späd med 48 ml NaCl eller Glukos 50 mg/ml
+• Lösning = 40 µg/ml
+• Låg infusionstakt 0,02 µg/kg/min
+• Hög infusionstakt 0,5 µg/kg/min
+• Bolus 5-10 µg
+
+Title/Dobutamin
+Text/
+• Color/<#A336C9><Dobutamin 12,5 mg/ml> 8 ml i en 50 ml spruta
+• Späd med 42 ml NaCl eller Glukos 50 mg/ml
+• Lösning = 2 mg/ml
+• Låg infusionstakt 2,5 µg/kg/min
+• Hög infusionstakt 20 µg/kg/min
+
+Title/Isoprenaline
+Text/
+• Color/<#A336C9><Isoprenaline 0,2 mg/ml> 1 ml i en 50 ml spruta
+• Späd med 49 ml NaCl eller Glukos 50 mg/ml
+• Lösning = 4 µg/ml
+• Låg infusionstakt 0,001 µg/kg/min
+• Hög infusionstakt 0,1 µg/kg/min
+
+Title/Nitroglycerin
+Text/
+• Color/<#A336C9><Nitroglycerin 1 mg/ml> 10 ml i en 50 ml spruta
+• Späd med 10 ml NaCl eller Glukos 50 mg/ml
+• Lösning = 200 µg/ml
+• Ischemi: 0,25 µg/kg/min
+• Hypertensiv lungödem: 2,5-5 µg/kg/min

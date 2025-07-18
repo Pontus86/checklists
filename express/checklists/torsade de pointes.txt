@@ -1,0 +1,97 @@
+Title/1. Defibrillering?
+Text/
+Color/<#5EA35C><Indikation:>
+• Medvetandeförlust
+
+Color/<#a5715a><Åtgärd:>
+• 200 J osynkroniserad
+
+
+
+
+Title/2. Magnesium
+Text/
+Color/<#a5715a><Åtgärd:>
+1-Hämta Glukos 50 mg/ml 100 ml
+2-Tillägg Addex-Magnesium 1 mmol/ml 10 ml
+3-Ge lösningen IV över 10 min
+
+Color/<#0014ff><Barn:>
+• Ge 20 ml för varje 10 kg
+
+
+
+
+Title/3. Atropin?
+Text/
+Color/<#5EA35C><Indikation:>
+• Hjärtfrekvens mellan TdP episoder < 60/min
+
+Color/<#a5715a><Åtgärd:>
+• Atropin 0,5 mg/ml 2 ml IV
+
+
+
+
+Title/4. Isoprenalin?
+Text/
+Color/<#5EA35C><Indikation:>
+• Hjärtfrekvens mellan TdP episoder < 60/min trots Atropin
+
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Isoprenalin infusion><sprutpump doser>
+
+
+
+Title/5. Kalium?
+Text/
+Color/<#5EA35C><Indikation:>
+• Kalium < 4,5 mmol/L
+
+Color/<#a5715a><Åtgärd:>
+1-NaCl 1000 ml + Addex-KCl 2 mmol/ml 20 ml
+2-Ges med infusionspump över 2-4 timmar (max hastighet 20 mmol/tim)
+
+Color/<#A336C9><Mål:>
+• Kalium 4,5-5 mmol/L
+
+
+
+Title/6. Utredningar
+Text/
+Color/<#5EA35C><Som regel:>
+• Blodgas (K, Ca)
+• Magnesium
+• Troponin
+• EKG i sinus
+
+
+
+Title/7. Utlösande faktor?
+Text/
+Color/<#A336C9><Överväg:>
+• Läkemedel som förlänger QT:
+- Antiarytmika
+- Antidepressiva: tricykliska, SSRI
+- Antipsykotiska
+- Antihistaminer
+- Antibiotika: erytromycin, kinoloner, svampmedel
+- Metadon, kloroxin
+
+• Hypokalemi, hypocalcemi, hypomagnesiemi
+
+• Myokardischemi
+
+
+
+Title/8. Telemetri
+Text/
+Color/<#5EA35C><Inläggning med telemetri:>
+• QTc > 450 msec vid intox med högrisk läkemedel
+• QTc > 450 msec vid övriga intox
+
+Color/<#A336C9><Högrisk läkemedel:>
+• Sotalol
+• Citalopram
+• Metadon
+• Klorokin

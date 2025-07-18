@@ -1,0 +1,125 @@
+Title/1. Akuta konsulter?
+Text/
+Color/<#5EA35C><Torakotomi:>
+• Thorax primärjour 71879
+• Thorax Op sternumsåg 71688
+• THIVA-jour 77971
+
+Color/<#5EA35C><Gravid över 20v/fundus ovan navel:>
+InternalLink/<• Förbered perimortem sectio><perimortem sectio>
+• Förlossningsjour 72501
+• Neojour 78580
+
+Color/<#0014ff><Barn:>
+InternalLink/<• HLR barn läkemedel><hlr barn lakemedel>
+• Barn IVA-jour 78484
+
+Color/<#5EA35C><Blodcentralen:>
+• Beställ transfusionspaket 72950
+
+
+
+Title/2. Sign-In
+Text/
+• Tidigare sjukdomar/läkemedel
+• Ambulansrapport
+
+Color/<#A336C9><Akutläkare:>
+• Bäckengördel på brits?
+• Bilateral torakostomi
+• Ultraljud hjärta: tamponad, kontraktioner?
+• Blodgas femoralt +/- CVK
+
+Color/<#A336C9><Akutens sjuksköterska:>
+• Förbered Fluido
+• IO nål humerus
+
+Color/<#A336C9><Teamleader:>
+• Beslut om massiv transfusion
+• Beslut om torakotomi
+
+
+
+Title/3. Mekaniska åtgärder mot blödning
+Text/
+Color/<#5EA35C><Arm/ben:>
+• Tourniquet
+
+Color/<#5EA35C><Sårskada:>
+• Tryckförband
+• Packa såret
+• Införa Foley och blåsa upp ballong
+
+Color/<#5EA35C><Nedre buk/bäcken/ljumske:>
+• Externkompression proximal bukaorta med knytnäve/knä
+• Bäckengördel
+
+
+
+Title/4. Reversibla orsaker—LÄS HÖGT!
+Text/
+• Är luftvägen öppen? Vad är endtidalt CO2?
+• Har vi tryckpneumothorax?
+• Har vi tamponad?
+• Slår hjärtat?
+• Ska vi påbörja blodtransfusion?
+• Ska vi göra torakotomi?
+
+
+
+Title/5. Blodtransfusion
+Text/
+• Noll negativt blod varmt via Fluido (10 ml/kg)
+• Beställ tranfusionspaket blodcentralen 72950
+• Trombocyter ges så tidigt som möjligt (EJ via Fluido)
+• Sikta på 4 SAG:4 FFP:1 trombocyter
+
+
+
+Title/6. Läkemedel
+Text/
+Color/<#A336C9><Allmänt:>
+• Cyklokapron 2 g IV över 10 min
+• Fibrinogen (Riastap) 2 g IV
+• Vid Ca < 1,1: Kalciumglukonat 100 mg/ml 10 ml
+
+Color/<#0014ff><Barn:>
+• Cyklokapron 30 mg/kg
+• Fibrinogen 30 mg/kg
+• Kalciumglukonat 0,3 ml/kg
+
+Color/<#A336C9><Antikoagulantia:>
+Color/<#5EA35C><• Waran:> Ocplex 2000 E IV + Konakion 10 mg IV
+Color/<#5EA35C><• Xarelto/Eliquis:> Ocplex 2000 E IV
+Color/<#5EA35C><• Pradaxa:> Ocplex 2000 E IV eller Praxbind 5 g IV över 5 min
+Color/<#5EA35C><• Heparin/LMWH:> Protamin sulfate 50 mg IV
+
+Color/<#A336C9><Trombocythämmare:>
+Color/<#5EA35C><• Trombyl/NSAID:> Desmopressin 15 ug/ml
+50 kg: 1 ml SC
+100 kg: 2 ml SC
+
+
+
+Title/7. Vid ROSC
+Text/
+Color/<#a5715a><Val:>
+• OP (vanlig OP-sal, hybridsal vid angiografi/coiling)
+• CT
+• IVA
+
+
+
+Title/8. Avbryta återupplivning
+Text/
+Color/<#f40b1a><Kriterium för att avbryta:>
+• Skador ej förenliga med överlevnad
+
+Color/<#f40b1a><Dålig prognos:>
+• Inga livstecken > 15 min
+
+Color/<#5EA35C><Polisen kontaktas för rättsmedicinsk obduktion:>
+• Olyckor
+• Våld
+• Misstänkt mord eller självmord
+• Inre befäl 010-5615075

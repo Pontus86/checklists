@@ -1,0 +1,163 @@
+Title/1. Agiterad - Aggressiv?
+Text/
+InternalLink/<• Agiterad eller aggressiv patient><agiterad - aggressiv>
+
+
+
+Title/2. Svår hypotension?
+Text/
+Color/<#a5715a><Val:>
+• Ringer-Acetat bolus IV/IO
+• Adrenalin 20 µg IV (InternalLink/<Push-dose pressor><push-dose pressor>)
+• NaHCO3 200 mg IV
+• Intralipid 200 mg/ml 100 ml IV
+• ECMO: THIVA 77971
+
+
+
+Title/3. Naloxon?
+Text/
+Color/<#5EA35C><Indikation:>
+• Potentiell opioidintox och hypoventilation
+
+Color/<#a5715a><Åtgärd:>
+1-Naloxon 0,4 mg/ml 1 ml i en 10 ml spruta
+2-Späd med 9 ml NaCl (lösningen blir 0,04 mg/ml)
+3-Ge 2 ml (0,08 mg) IV
+4-Vänta 2 min på effekt, upprepa vid behov
+
+Color/<#A336C9><Mål:>
+• Normalisera andning, ej väcka helt
+
+
+
+Title/4. Anamnes & ABCDE
+Text/
+Color/<#a5715a><MAPLES:>
+• Tidigare intox?
+• Barn i hushåll?
+
+Color/<#a5715a><Anamnes:>
+• Vilka preparat?
+• När?
+• Varför?
+• Vem ringde ambulans?
+• Hur mår du fysiskt/psykiskt nu?
+
+Color/<#a5715a><ABCDE:>
+• Övriga tillstånd än intox?
+• Temp > 40°C? InternalLink/<Hypertermi><hypertermi>
+
+
+
+Title/5. EKG
+Text/
+Color/<#A336C9><• AV-block?>
+InternalLink/<Intoxikation med kalcium-antagonist/beta-blockerare><kalciumantagonist - betablockerare>
+
+Color/<#A336C9><• Breda QRS?>
+InternalLink/<Intoxikation med natrium-kanalblockerare><natrium-kanalblockad>
+
+Color/<#A336C9><• Förlängd QTc?>
+InternalLink/<Intoxikation med kalium-kanalblockerare><kalium-kanalblockad>
+
+
+
+Title/6. Blodprov & urinprov
+Text/
+Color/<#a5715a><Blodgas:>
+• Glukos?
+• Anjongap?
+• Kalium?
+
+Color/<#a5715a><Paracetamol:>
+• Nivån mäts 4 tim efter känd intagstid
+• Annars screening på liberala grunder
+
+Color/<#a5715a><Överväg:>
+• Etanol
+• CK/myoglobin (rhabdomyolys)
+• Leverprov, PK, aPTT (levertoxin)
+• Salicylat, etylenglykol, metanol (medvetslös + ökat anjongap)
+• Läkemedel patienten står på (t ex litium, antiepileptika)
+
+Color/<#a5715a><Urinprov:>
+• Bladderscan, överväg KAD (antikolinerg effekt)
+• Gravtest hos kvinnor i fertilålder
+• Urintox screen (vägleder dock sällan akut omhändertagande)
+
+
+
+Title/7. Giftinformation?
+Text/
+Color/<#a5715a><Val:>
+• https://giftinformation.se/lakare/
+• 010-456 6719
+
+
+
+Title/8. Kol?
+Text/
+Color/<#5EA35C><Indikation:>
+• Inom 1 tim av intag
+• Liberalt vid farlig intox utan motgift
+
+Color/<#f40b1a><Kontraindikation:>
+• Aspirationsrisk
+
+Color/<#a5715a><Val:>
+• Kol 50 g PO Color/<#0014ff><(1 g/kg)>
+• Kol 50 g via V-Sond efter endotrakeal intubation Color/<#0014ff><(1 g/kg)>
+
+
+
+Title/9. Tiamin?
+Text/
+Color/<#5EA35C><Indikationer:>
+• Kroniskt alkoholmissbruk
+• Anorexi
+• Gastric bypass med dålig compliance
+
+Color/<#a5715a><Åtgärd:>
+• Tiamin (vitamin B1) 300 mg IV
+
+
+
+Title/10. Vårdintyg?
+Text/
+Color/<#5EA35C><Indikation-samtliga:>
+1-Allvarlig psykisk störning (självmordstankar, impulskontrollstörning; ej enbart missbruk)
+2-Oundgängligt behov av psykiatrisk dygnetsruntvård
+3-Motsätter sig vård / vård kan ej ges med samtycke
+
+Color/<#a5715a><Åtgärder:>
+1-Leg läkare får enligt Lag (1991:1128):
+- hindra patienten från att lämna vårdinrättningen
+- tvångssedera
+- tvångsmedicinera för akuta tillstånd
+2-Googla "Vårdintyg blankett", fyll i online
+3-Om inget akut somatiskt tillstånd: överför till psykiatri med ambulans
+4-Polis medföljer om patienten är våldsam - handräcknings blankett hos DASK
+
+
+
+Title/11. Child-Check?
+Text/
+Color/<#5EA35C><Indikation:>
+• Barn (< 18 år) i hushåll + en av följande:
+- missbruk / intox
+- misshandel / självskada
+- mental sjukdom
+
+Color/<#a5715a><Åtgärd:>
+• Fyll i Child-Check blankett, ge till sekreteraren
+
+
+
+Title/12. Avstämning
+Text/
+Color/<#a5715a><Plan:>
+• Somatisk behandling?
+• Duration av observation?
+• Monitoreringsbehov?
+• Om vårdintyg: plan om patienten försöker avvika

@@ -1,0 +1,127 @@
+Title/1. Blödningschock?
+Text/
+Color/<#5EA35C><Indikation:>
+• SBT < 80 mm Hg eller förlust av radialispulsen
+
+InternalLink/<Handläggning><blodningschock>
+
+
+
+Title/2. Blodprov
+Text/
+• Blodgruppering och -bastest
+• Vita, trombocyter, PK, aPTT
+• Retikulocyter, MCV, Bilirubin
+• Järn, TIBC, Ferritin
+• B12, Folat
+
+
+
+Title/3. Inhämta information
+Text/
+• MAPLES
+• Vita, trombocyter, PK, aPTT
+• Retikulocyter, MCV, Bilirubin
+• Järn, TIBC, Ferritin
+• B12, Folat
+
+
+
+• Hb < 80 g/L + en av följande:
+- pågående blödning
+- dyspné, bröstsmärta eller svimfärdiget
+- SBT < 90 mm Hg
+
+Color/<#a5715a><Åtgärd:>
+• 1-2 SAG 0 negativt blod IV
+• Ges helt varm via Fluido
+
+
+
+Title/3. Massiv Transfusion Protokoll?
+Text/
+Color/<#5EA35C><Indikation:>
+• Hb < 50 g/L
+
+Color/<#a5715a><Åtgärd:>
+• 7xxxx Blodbank: besällning ATP (akut transfusionspacket)
+
+
+
+
+• Tidigare Na-värden?
+• MAPLES
+• Anamnes: vätskebalans (intag och förlust)
+• ABCDE
+• Plasma osmolaritet (Rutin/Akut1 grönremiss)
+• Urin Na + Urin osmolaritet (Special 3 remiss)
+
+Color/<#a5715a><Åtgärd:>
+• Ringer-Acetat 1000 ml IV över 4h
+
+
+Title/3. Kristalloidbehandling?
+Text/
+Color/<#5EA35C><Indikation:>
+• Intravaskulär volymbrist
+
+Color/<#a5715a><Åtgärd:>
+• Ringer-Acetat 1000 ml IV över 4h
+
+
+
+Title/4. Vätskekarens?
+Text/
+Color/<#5EA35C><Indikation:>
+• Varken encefalopati eller volymbrist
+
+Color/<#a5715a><Åtgärd:>
+• < 800 ml PO intag/dygn
+
+
+
+Title/5. Differentialdiagnos
+Text/
+Color/<#5EA35C><För mycket vatten in:>
+• Polydyspsi
+
+Color/<#5EA35C><För lite vatten ut:>
+• Ökat ADH:
+- intravaskulärvolym brist
+- hjärtsvikt
+- cirrhos
+- nefrotiskt syndrom
+
+• SIADH:
+- lungpatologi
+- hjärnpatologi
+- cancer
+- läkemedel
+- sekundär adrenalinsuff
+
+Color/<#5EA35C><För lite salt in:>
+• Anorexi
+• Beer potomania, "tea-and-toast"
+
+Color/<#5EA35C><För mycket salt ut:>
+• Diuretika ffa tiazider
+• Osmotisk diures (högt glukos)
+• Addison
+• Njursjukdom, cerebral saltwasting
+
+
+
+
+Title/6. Vidare vård
+Text/
+Color/<#a5715a><Åtgärder:>
+• Riktade utredningar/behandlingar mot misstänkt orsak
+
+• Inläggning vid
+- Na < 120 mmol/L
+- Symtomgivande hyponatremi
+- Risk för snabb Na-ändring
+
+• Vid inläggning: kontroll av Na var 2-6:e tim + överväg timdiures
+
+• Sikta på Na ändring ≤ 8 mmol/L/dygn

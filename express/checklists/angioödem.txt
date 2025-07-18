@@ -1,40 +1,157 @@
-Title/1. Adrenalin IM?
+Title/1. Livshot—Larm? 
 Text/
-Indikation: laryngeal swelling and airway obstruction. Adrenalin does not work as well in bradykinin-mediated as opposed to histamine-medicated angioedema
+Color/<#5EA35C><Tecken på livshot:>
+• Lufthunger
+• Onormal röst (stridor, hes, dämpad)
 
-Adrenalin 1 mg/ml 0.5 ml IM (0.15 mg or 10 µg/kg in children). The dose may be repeated every 10-15 minutes if necessary
+Color/<#a5715a><Val:>
+• Anestesilarm 77900
+• ÖNH 71061
+• Hjärtstopp larm
 
 
-
-Title/2. ENT and/or Anesthesia?
+Title/2. Syrgas?
 Text/
-Indikation: call ENT and/or anesthesia in the setting of threatened upper airway
+Color/<#5EA35C><Indikationer:>
+• Lufthunger
+• Stridor, hes eller dämpad röst
+• SpO2 < 95%
+
+Color/<#a5715a><Val:>
+• Mask med reservoar 15 L/min
+• Näsgrimma 15 L/min kan läggas till under masken
 
 
 
-Title/3. Selective Bradykinin B2 Receptor Antagonist (Icatibant)?
+
+Title/3. Adrenalin IM?
 Text/
-Indikation: acute attack of hereditary angioedema. Also ACE-inhibitor induced
+Color/<#5EA35C><Indikationer:>
+• Lufthunger
+• Stridor, hes eller dämpad röst
+• SpO2 < 95%
+• Svullnadskänsla i svalget
 
-Icatibant (Fyrazir®) 30 mg SC showed a faster resolution of ACE-inhibitor induced angioedema compared with Prednisolone 500 mg IV + Clemastine 2 mg IV
+Color/<#a5715a><Åtgärd:>
+• Adrenalin Color/<#f40b1a><1 mg/ml> 0,5 ml IM
+• Upprepas var 5:e min vid behov
+
+Color/<#0014ff><Barn:>
+• Adrenalin Color/<#f40b1a><1 mg/ml> 0,15 ml IM
+
+Color/<#A336C9><Notera:>
+• Effektiv vid histamin-medierad angioödem (symmetrisk svullnad, urticaria, klåda)
+• Ineffektiv vid bradykinin-utlöst angioödem (hereditär, ACE-hämmare, fokal svullnad, ej klåda)
 
 
 
-Title/4. C1-esterase inhibitor (Berinert®)?  FFP?
+
+Title/4. Coniotomi?
 Text/
-Indikation: acute attack of hereditary angioedema. Also ACE-inhibitor induced
+Color/<#5EA35C><Indikation:>
+Hotande hypoxisk hjärtstopp (samtliga):
+• Stridor
+• Lufthunger
+• Sjunkande SpO2
+• Inget svar på adrenalin
 
-Berinert® 1000 IE slow IV infusion (20 IE/kg)
+Color/<#a5715a><Åtgärder:>
+1. Ketanest 5 mg/ml 10 ml IV över 1 min
+2. Klorhexidin över membranet
+3. InternalLink/<Coniotomi><coniotomi> under spontan andning
 
-FFP is an alternative to a C1-esterase inhibitor. Same dose as for coagulation disorders
+Color/<#0014ff><Barn:>
+• Ketanest 5 mg/ml 1 ml för varje 10 kg; ges IV över 1 min
 
 
 
-Title/5. Antihistamines & Corticosteroids?
+Title/5. Fiberlaryngoskopi
 Text/
-Indikation: in the setting of antihistamine-induced angioedema (urticaria, pruritus)
+Color/<#5EA35C><Indikation:>
+• Bedöma graden larynxödem / bakre tungsvullnad
 
-Desloratadine (Aerius®) 10 mg PO (6-12 years old 5 mg, < 6 years 2.5 mg)
+Color/<#a5715a><Åtgärder:>
+1. Bedöva nasofarynx med Lidokain/Nafazolin (luftvägsvagn, övre lådan)
+2. Applicera Clear-Vue linsmedel (luftvägsvagn, övre lådan)
 
-Betamethasone 8 mg PO or IV (0.1 mg/kg for children)
 
+
+
+Title/6. Intubation?
+Text/
+Color/<#5EA35C><Indikationer:>
+• Stridor, hes eller dämpad röst
+• Dregel
+• Tilltagande larynxödem / bakre tungsvullnad
+
+Color/<#a5715a><Åtgärder:>
+• Fiberintubation
+• Beredskap för InternalLink/<coniotomi><coniotomi>
+
+
+
+
+Title/7. Cyklokapron?
+Text/
+Color/<#5EA35C><Indikation:>
+• Bradykinin-medierad (hereditär, ACE-hämmare, fokal svullnad, ej klåda)
+
+Color/<#a5715a><Åtgärd:>
+• Cyklokapron 100 mg/ml 10 ml IV över 10 min
+
+Color/<#A336C9><Notera:>
+• Cyklokapron = Stratagen = Tranexamsyra
+
+
+
+
+Title/8. Berinert eller Fyrazir?
+Text/
+Color/<#5EA35C><Indikation:>
+• Bradykinin-medierad (hereditär, ACE-hämmare, fokal svullnad, ej klåda)
+• Kontakt med ÖNH 71061 gällande beslut
+
+Color/<#a5715a><Val:>
+• Berinert 1000 - 1500 IE (20 IE/kg, avrunda till närmast 500 IE) långsam IV infusion
+• Fyrazir 30 mg SC
+
+Color/<#A336C9><Notera:>
+• Tar 30 min för effekt
+• Vid snabb försämring: endotrakeal intubation
+
+
+
+Title/9. FFP?
+Text/
+Color/<#5EA35C><Indikation:>
+• Bradykinin-medierad, Berinert eller Fyrazir indicerade dock ej tillgängliga
+
+Color/<#a5715a><Åtgärd:>
+• Blodbank 72950
+• 2 enheter färsk frusen plasma IV
+• Kan upprepas
+
+Color/<#A336C9><Notera:>
+• Beredskap för intubation, då FFP ibland kan förvärra angioödemet 
+
+
+
+
+Title/10. Tavegyl & Betapred?
+Text/
+Color/<#5EA35C><Indikation:>
+• Histamin-medierad angioödem (klåda, utslag)
+
+Color/<#a5715a><Åtgärder:>
+• Tavegyl 1 mg/ml 2 ml IV
+• Betapred 4 mg/ml 2 ml IV
+
+
+
+
+Title/11. Observation
+Text/
+Color/<#A336C9><Allmänt:>
+• Beror på graden av luftvägspåverkan och förloppet
+
+• Bradykinin-medierad angioödem kan progrediera över loppet av timmar och läkemedel tar > 30 min innan effekt

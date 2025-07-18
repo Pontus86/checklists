@@ -1,0 +1,92 @@
+Title/1. Aortic Dissection?
+Text/
+Aortic dissection can occlude a coronary artery (most often the right). Consider acute CT in patients with sudden onset of sharp retrosternal chest pain. Withhold antiplatelet and anticoagulant therapy. Bedside ultrasound may reveal pericardial fluid +/- dilated aortic root.
+
+
+
+Title/2. Type 2 myocardial ischemia?
+Text/
+Treat the cause of the type 2 infarction / ischemia, e.g. volume, cardioversion, antibiotics.
+
+
+
+Title/3. RV STEMI?
+Text/
+• Opioids, nitrates, and beta blockers: use with caution due to their potential impact on preload (opioids and nitrates), heart rate and contractility (beta blockers)
+
+• An increase in vagal tone caused by insertion of a bladder catheter can acutely decrease preload and lead to cardiogenic shock.
+
+
+
+Title/4. Oxygen?
+Text/
+• Oxygen by mask or nasal prongs to patients who are hypoxic (SpO2 < 95%), breathless or have acute heart failure.
+
+
+
+Title/5. Morphine?
+Text/
+Indication: to decrease pain and the sympathetic activation that causes vasoconstriction and increases the workload of the heart.
+
+Relative contraindication: SBP < 110 mm Hg, right ventricular infarction
+
+• Morphine 4 mg IV 
+• Consider concurrent antiemetics.
+
+
+
+Title/6. Nitroglycerin?
+Text/
+Indication:
+• SL nitrates can be used to control anginal symptoms
+• Routine use not recommended
+
+
+
+Title/7. Acetylsalicylic acid?
+Text/
+Indication:
+
+Contraindications:
+• Allergy
+• Suspected aortic dissection
+
+• Acetylsalicylic acid 150 - 300 mg orally (including chewing) or 80 - 150 mg IV prior PCI
+• Acetylsalicylic acid 150 - 500 mg orally or 250 mg IV prior to fibrinolysis
+
+
+
+
+Title/8. Heparin?
+Text/
+• Unfractionated heparin 50-70 E/kg IV bolus, max 5000 E.
+
+
+
+Title/9. Statin?
+Text/
+• Atorvastatin (Lipitor®) 80 mg PO
+
+
+
+Title/10. P2Y12 receptor inhibitors?
+Text/
+• Prior to PCI: Prasugrel (Efient®) 60 mg PO or Ticagrelor (Brilique®) 180 mg PO; Clopidogrel (Plavix®) 600 mg PO if neither is available.
+• Prasugrel is contraindicated in prior stroke/transient ischemic attack, ≥ 75 years, < 60 kg, liver disease
+• Ticagrelor is contraindicated in prior hemorrhagic stroke, liver disease
+• Prior to fibrinolysis: Clopidogrel 300 mg PO if ≤ 75 years
+
+
+
+Title/11. Beta-blockers?
+Text/
+• Early i.v. use of beta-blockers is contraindicated in patients with clinical signs of hypotension or congestive heart failure. Early use may be associated with a modest benefit in low-risk, haemodynamically stable patients.
+
+
+
+Title/12. Reperfusion therapy?
+Text/
+Indications for reperfusion therapy (PCI or fibrinolysis):
+• Symptoms < 12 hours and persistent ST-segment elevation
+• Evidence of ongoing ischemia, even if symptoms may have started >12 hours before hand, or if pain and ECG changes have been stuttering
+• Resuscitated out-of-hospital cardiac arrest patients whose initial ECG shows STEMI.

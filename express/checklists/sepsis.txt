@@ -1,125 +1,140 @@
 Title/1. Syrgas?
 Text/
-Vid frånvaro av KOL:
+Color/<#5EA35C><Mål:>
+• Ingen KOL: SpO2 > 95%
+• Vid KOL: SpO2 90%
 
-• SpO2 < 90%: syrgas 10 L/min via mask med reservoar
-• SpO2 90-95%: syrgas 3 L/min via grimma
+Color/<#a5715a><Val:>
+• Mask med reservoar 10-15 L/min
+• Oxymask 1-10 L/min
 
 
 
-Title/2. Ringer
+Title/2. Ringer-Acetat
 Text/
-• Ringer 1000 ml IV över 30 min vid utebliven lungödem
+Color/<#f40b1a><Kontraindikation:>
+• Lungödem
+
+Color/<#a5715a><Åtgärd:>
+• Ringer-Acetat 1000 ml IV över 30 min
 
 
 
-Title/3. Push Dose Pressor?
+Title/3. Push-Dose Pressor?
 Text/
-Blodtryck < 60 mm Hg
+Color/<#5EA35C><Indikation:>
+• Blodtryck < 70 mm Hg
 
-• Hämta 10 ml spruta
-• Hämta Adrenalin 0,1 mg/ml
-• Dra upp 1 ml adrenalin
-• Späd med 9 ml NaCl (lösningen blir 10 mikrog/ml)
-• Ge 2 ml (20 mikrog) IV; upprepa vb
+Color/<#a5715a><Åtgärd:>
+1. Adrenalin Color/<#f40b1a><0,1 mg/ml> 1 ml i en 10 ml spruta
+2. Späd med 9 ml NaCl
+3. Ge 2 ml (20 µg) IV
+4. Upprepa var 2:a min vb
 
 
 
 Title/4. Noradrenalin-infusion?
 Text/
-Blodtryck kvarstår < 60 mm Hg trots Ringer bolus
+Color/<#5EA35C><Indikation:>
+• Blodtryck < 80 mm Hg trots bolus Ringer-Acetat
 
-• Hämta 50 ml spruta
-• Dra upp Noradrenalin 1 mg/ml 2 ml
-• Dra upp 48 ml NaCl (lösningen blir 40 mikrog/ml)
-• Ge bolus 10 mikron
-• Börja med 0,1 mikrog/kg/min
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Noradrenalin infusion><sprutpump doser>
+
 
 
 
 Title/5. Odlingar
 Text/
-Hos alla:
+Color/<#5EA35C><Hos alla:>
 • Blododlingar x 2
 • KAD + urinodling + urinsticka
 
-Överväg:
-• Nasofarynxodling
+Color/<#A336C9><Överväg:>
+• Nasofarynxodling (bakteriell, COVID, Influenza, RSV)
 • Odling från PICC-line, sår
 • Misstänkt nekrotiserande fasciit: spruta 3 ml NaCl IM, aspirera, Strep Antigen
-• Urin Pneumokockantigen, Legionella Antigen
-
+• Urin Pneumokockantigen, Legionella Antigen (Microbial snabbtest)
 
 
 
 Title/6. Blodprov
 Text/
+Color/<#5EA35C><Hos alla:>
 • Diff
-
-• Trombocyter
-
-• PK + aPTT
-
+• Trombocyter, PK, aPTT
+• CRP
 • Leverprov + amylas
-
-• CK + myoglobin
+• Total CK + myoglobin
 
 
 
 Title/7. Antibiotika
 Text/
-Svår sepsis:
-• Piperacillin-Tazobaktam 4 g eller Meronem 2 g IV
+Color/<#5EA35C><Svår sepsis:>
+• Piperacillin-Tazobaktam 4 g IV
 
-Nekrotiserande fasciit/ toxic shock:
+Color/<#5EA35C><Nekrotiserande fasciit/ toxic shock:>
 • Tillägg av Dalacin 600 mg IV
 
-Bakteriell meningit:
+Color/<#5EA35C><Bakteriell meningit:>
 • Meronem 2 g IV
 
-Övriga sammanhang:
+Color/<#5EA35C><Övriga sammanhang:>
 • Cefotaxim 1 g IV
 
 
 
-Title/8. Cortikosteroider?
+Title/8. Kortikosteroider?
 Text/
-Om patienten tar Prednisolon dagligen:
+Color/<#5EA35C><Indikation:>
+• Patienten står på kortikosteroid
 
-• Hydrocortisone (Solu-Cortef®) 100 mg IV
-• Dubblera daglig cortikosteroid om temp 38-39ºC
-• Tripplera daglig cortikosteroid om temp > 39ºC
+Color/<#a5715a><Åtgärder:>
+• Hydrokortison (Solu-Cortef®) 100 mg IV
+• Dubblera daglig kortikosteroid om temp 38-39ºC
+• Tripplera daglig kortikosteroid om temp > 39ºC
 
 
 
 Title/9. Source Control
 Text/
-Överväg:
-• empyem
-• tarmperforation, tarmischemi
-• avstängd pyelit, kolangit
-• necrotizerande fasciit (inkl Fourniers gangrän)
-• böld, septisk artrit
-• tampong
+Color/<#A336C9><Överväg:>
+• Empyem
+• Tarmperforation, tarmischemi
+• Avstängd pyelit, kolangit
+• Nekrotiserande fasciit inkl Fourniers gangrän
+• Böld, septisk artrit
+• Tampong
 
-Överväg
-• ultraljud
-• CT
+Color/<#A336C9><Överväg:>
+• Ultraljud:
+- empyem?
+- hydronefros?
+- kolecystit?
+- böld?
+• DT-thorax/buk/bäcken
 
 
 
 Title/10. Blodtransfusion
 Text/
-Om Hb < 70-80 g/L
+Color/<#5EA35C><Indikation:>
+• Hb < 70-80 g/L
+
+Color/<#a5715a><Åtgärder:>
+• Blodgruppering - bastest
+• Beställ SAG
 
 
 
-Title/11. Inläggning IVA
+Title/11. Inläggning IVA?
 Text/
-• SpO2 < 90 % trots O2 15L/min via mask med reservoar
-
-• Andningsfrekvens > 30/min trots 15 L/min O2 via mask med reservoar
-
-• Blodtryck < 80 mm Hg trots Ringer + noradrenalin-infusion
-
+Color/<#5EA35C><Allmänna indikationer:>
+• SpO2 < 90 % trots O2 15L/min
+• Andningsfrekvens > 30/min trots O2 15 L/min
+• Blodtryck < 80 mm Hg trots Ringer-Acetat och Noradrenalin-infusion
 • Stigande laktat
+
+Color/<#f40b1a><Kontraindikation:>
+• Noll IVA

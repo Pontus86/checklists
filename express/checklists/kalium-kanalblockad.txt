@@ -1,0 +1,110 @@
+Title/Giftinformation
+Text/
+• 010-456 6719
+• https://giftinformation.se/lakare/
+
+
+
+Title/1. Torsade de pointes?
+Text/
+InternalLink/<Torsade de pointes><torsade de pointes>
+
+
+
+Title/2. Magnesium?
+Text/
+Color/<#5EA35C><Indikationer:>
+• QTc > 550 msec
+
+• QTc > 450 msec + intag av
+- Metadon
+- Sotalol
+- Klorokin
+- Kinin
+- Disopyramid
+- Citalopram
+
+Color/<#a5715a><Åtgärd:>
+• Addex-Magnesium 1 mmol/ml 10 ml IV över 5 min
+
+
+
+Title/3. Kalcium?
+Text/
+Color/<#5EA35C><Indikation:>
+• Hypokalcemi
+
+Color/<#a5715a><Åtgärd:>
+• Kalciumglukonat 100 mg/ml 10 ml IV över 5 min Color/<#0014ff><(0,2 ml/kg)>
+• Upprepas tills calcium har normaliserats
+
+
+
+Title/4. Isoprenalin?
+Text/
+Color/<#5EA35C><Indikationer:>
+• Hjärtfrekvens < 60 + QTc > 550 msec
+
+• Hjärtfrekvens < 60 + QTc > 450 msec + intag av 
+- Metadon
+- Sotalol
+- Klorokin
+- Kinin
+- Disopyramid
+- Citalopram
+
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Isoprenalin infusion><sprutpump doser>
+• Titreras till hjärtfrekvens > 80/min
+
+
+
+Title/5. Kalium infusion?
+Text/
+Color/<#5EA35C><Indikation:>
+• Kalium < 4,5 mmmol/L
+
+Color/<#a5715a><Åtgärd:>
+1-NaCl 1000 ml + Addex-KCl 2 mmol/ml 20 ml
+2-Ges med infusionspump över 2-4 timmar (max hastighet 20 mmol/t)
+
+Color/<#A336C9><Mål:>
+• Kalium 4,5-5 mmol/L
+
+
+
+Title/6. Magnesium infusion?
+Text/
+Color/<#5EA35C><Indikation:>
+• QTc > 500 msec + intag av
+- Metadon
+- Sotalol
+- Klorokin
+- Kinin
+- Disopyramid
+- Citalopram
+
+Color/<#a5715a><Åtgärd:>
+1-NaCl 1000 ml + Addex-Magnesium 1 mmol/ml 20 ml
+2-Ges med infusionspump över 4 tim
+
+
+
+Title/7. Övrigt
+Text/
+• Se även InternalLink/<Allmänt om intoxikation><allmant>
+
+
+
+Title/8. Inläggning med arytmiövervakning
+Text/
+Color/<#5EA35C><Indikationer:>
+• QTc > 500 msec
+
+• QTc > 450 msec + intag av
+- Metadon
+- Sotalol
+- Klorokin
+- Kinin
+- Disopyramid
+- Citalopram

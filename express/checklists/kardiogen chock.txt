@@ -1,52 +1,55 @@
-Title/1. Oxygen
+Title/1. Syrgas?
 Text/
-Indication:  SpO2 < 90%
+Color/<#5EA35C><Indikation:>
+• SpO2 < 90%
+
+Color/<#a5715a><Val:>
+• Mask med reservoar 10-15 L/min
+• Oxymask 1-10 L/min
 
 
 
-Title/2. IV Crystalloids?
+Title/2. Riktade åtgärder
 Text/
-Indication: in RV failure, cautious IV fluid therapy may improve blood pressure
+InternalLink/<• STEMI-OMI><stemi-omi>
+InternalLink/<• Bradykardi><bradykardi>
+InternalLink/<• Hyperkalemi><hyperkalemi>
+InternalLink/<• Intox kalciumantagonist betablockerare><kalciumantagonist - betablockerare>
+Color/<#5EA35C><• Takykardi:> Överväg elkonvertering
+Color/<#5EA35C><• Papillärmuskelruptur> HIA 71414 (akut echo?) Thorax 71879 (akut OP?)
+Color/<#5EA35C><• Kardiotoxiskt läkemedel:> Intralipid 200 mg/ml 100 ml IV över 1 min Color/<#0014ff><(1,5 ml/kg)>
 
-Risks:
-• in LV failure, IV fluids may worsen pulmonary edema without improving without improving cardiac output
-• In RV failure, excessive fluid therapy may lead to hemodynamic worserning.
+Color/<#A336C9><Notera:>
+• Lipofila läkemedel toxiska för myokardiet inkluderar tricycliska antidepressiva, Verapamil, Cardizem, Propranolol, Atenolol, Metoprolol, Tegretol
 
 
 
-Title/3. Cause-Targeted Treatments?
+Title/3. Noradrenalin?
 Text/
-• STEMI:  consider ASA, Heparin and PCI (see STEMI)
+Color/<#5EA35C><Indikation:>
+• SBP < 85 mm Hg
+• Chock-hypoperfusion
 
-• Structural problems:  consider urgent thoracic surgery
-
-• Tachyarrhythmia:  consider acute cardioversion (see Tachycardia)
-
-• Bradycardia:  consider atropine, isoprenalin and transcutaneous cardiac pacing
-
-• Hyperkalemia:  consider calcium, insulin + glucose, beta-2 agonist (see Hyperkalemia)
-
-• Calcium Channel/Beta Blocker OD:  see Calcium Channel/Beta Blocker Toxidrome
-
-• Intoxication:  intravenous fat emulsion (Intralipid®) 20% 100 ml (1.5 ml/kg) IV over 1-2 minutes may be useful in the management of cardiovascular collapse caused by lipid-soluble drugs. Lipophilic drugs toxic to the myocardium include tricyclic antidpressants, Verapamil, Cardizem, Propranolol, Atenolol, Metoprolol, Carbamazepin.
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Noradrenalin infusion><sprutpump doser> 0,1 µg/kg/min, titrera till MAP ≥ 65 mm Hg
 
 
 
-Title/4. Vasopressors & inotropes
+Title/4. Dobutamin?
 Text/
-Indication: SBP < 85 mm Hg and/or hypoperfusion
+Color/<#5EA35C><Indikation:>
+• Dålig cardiac output efter korrigering av MAP
 
-• Noradrenalin 1 mg/ml 2 ml in 48 ml saline = 40 µg/ml. Initial infusion rate 0.1 µg/kg/min.  Target MAP ≥ 65 mm Hg
-• Dobutamine 12.5 mg/ml 8 ml in 42 ml saline = 2 mg/ml. Infusion 2.5 - 20 µg/kg/min if poor cardiac function after MAP corrected
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Dobutamin infusion><sprutpump doser> 2.5 - 20 µg/kg/min
 
 
 
-Title/5. Vasodilators
+Title/5. Mekaniskt stöd?
 Text/
-• Nitroprusside (start dose 0.5 mg/kg/min) can reduce RV and LV afterload, resulting in improved stroke volume and, in certain cases, a paradoxical increase in blood pressure.
+Color/<#5EA35C><Indikation:>
+• IABP, Impella eller ECMO kan vara en "bro" tills spontan förbättring eller kirurgi
 
-
-
-Title/6. IABP/ECMO/LVAD
-Text/
-• Intraaortic Balloon Pump (IABP), ExtraCorporeal Membrane Oxygenation (ECMO) or LV Assist Devices (LVAD) may be used as "bridge to recovery" until surgical measures or recovery of myocardial contractility (e.g. in the setting of mechanical problems, severe myocarditis, takotsubo cardiomyopathy, or poisoning with a calcium channel blocker)
+Color/<#a5715a><Åtgärd:>
+• HIA jour 71414
+• THIVA 77971

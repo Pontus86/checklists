@@ -1,86 +1,87 @@
-Title/1. Mechanical Hemostatic Measures?
+Title/1. Mekaniska åtgärder?
 Text/
-• Wound:  pressure dressing, tourniquet
-• Pelvic ring fracture: pelvic binder
-• Severe intrathoracic: acute thoracotomy
-• Severe pelvic/abdominal: proximal external aortic compression (knee)
-• Severe vaginal bleed: proximal external aortic compression (knee), bimanual uterus, compression, balloon tamponade of uterus
-• Femur fracture: reduction and traction splint
+Color/<#5EA35C><Sårskada:>
+• Tryckförband
+• Packa såret
+• Införa Foley, blåsa upp ballong
+
+Color/<#5EA35C><Arm/ben:>
+• Tourniquet
+
+Color/<#5EA35C><Bäcken/ljumske/nedre buk:>
+• Bäckengördel
+• Externkompression proximal bukaorta med knytnäve eller knä
+
+Color/<#5EA35C><Vagina:>
+• Externkompression proximal bukaorta med knytnäve eller knä
+• Bimanuell kompression av livmodern
+
+Color/<#5EA35C><Thorax:>
+• Torakotomi
 
 
-
-Title/2. Initial Blood Tests
+Title/2. Blodprov
 Text/
-• pH, BE, HCO3-, lactate, Hb, electrolytes; thrombocytes, INR, aPTT, fibrinogen, blood type
+Color/<#5EA35C><Hos alla:>
+• Blodgas
+• Trombocyter, PK, aPTT, Fibrinogen
+• Blodgruppering & bastest
 
 
-
-Title/3. Target Blood Pressure
+Title/3. Nöd-blod?
 Text/
-• SBP 80-90 mm Hg
-• SBP > 100 mm Hg if traumatic brain injury or spinal cord injury
+Color/<#5EA35C><Indikationer:>
+• SBT < 80 mm Hg eller förlust av radialispuls
+• SBT < 100 mm Hg vid traumatisk hjärnskada eller ryggmärgsskada
+
+Color/<#a5715a><Åtgärd:>
+• 1-2 SAG 0 neg blod IV/IO varmt via Fluido
+• Vid förväntad massiv transfusion: beställ ATP 72950
 
 
 
-Title/4. Crystalloids?
+Title/4. Läkemedel
 Text/
-Indication: until pRBCs are available, max 1 liter
+Color/<#5EA35C><• Hos alla:> Cyklokapron 2 g IV över 10 min Color/<#0014ff><(30 mg/kg)>
+Color/<#5EA35C><• Massiv blödning:> Fibrinogen 2 g IV Color/<#0014ff><(30 mg/kg)>
+Color/<#5EA35C><• Ca < 1,1:> Kalciumglukonat 100 mg/ml 10 ml IV Color/<#0014ff><(0,3 ml/kg)>
+Color/<#5EA35C><• Postpartum blödning:> Oxytocin (Syntocinon) 8,3 µg/ml 1 ml (5 IE) IV över 1 min
 
-• Ringer’s acetate
-• 0.9% NaCl if severe head trauma
 
 
-
-Title/5. pRBC
+Title/5. Vid antikoagulantia
 Text/
-Indication: suspected massive haemorrhage
-
-• O neg blood for fertile women
-• O neg or pos blood for others
-• 1-2 units WARM via rapid infuser
-• Activate major haemorrhage protocol if > 2 pRBC
-
+Color/<#5EA35C><• Waran:> Ocplex 2000 E IV + Konakion 10 mg IV
+Color/<#5EA35C><• Xarelto/Eliquis:> Ocplex 2000 E IV
+Color/<#5EA35C><• Pradaxa:> Ocplex 2000 E IV eller Praxbind 5 g IV över 5 min
+Color/<#5EA35C><• Heparin/LMWH:> Protamine sulfate 50 mg IV
+Color/<#5EA35C><• Trombyl/NSAID:> Desmopressin 15 µg/ml 1 ml (50 kg) - 2 ml (100 kg) SC
 
 
-Title/6. Drugs
+
+Title/6. Kateter/drän/tub?
 Text/
-• Cyklokapron 2 g (30 mg/kg) IV över 10 min om trauma < 3h or icke-GI blödning
-• Fibrinogen (Riastap) 2 g (30 mg/kg) IV om massiv blödning
-• Kalcium glukonat 100 mg/ml 10 ml om Ca < 1,15 (0,3 ml/kg)
-
-• Vid Waran: Ocplex 2000 IE IV (80 ml) + Konakion 10 mg IV
-• Vid Xarelto/Eliquis: Ocplex 2000 IE IV (80 ml)
-• Vid Pradaxa: Ocplex 2000 IE IV (80 ml) eller Idarucizumab 5 g IV över 5 min
-• Vid Trombyl/NSAID: Desmopressin 15 ug/ml 1 ml (50 kg)  - 2 ml (100 kg) SC
-• Vid ofraktionerad heparin/LMWH: Protamine sulfate 50 mg
-
-• If upper GI bleed:  Nexium 80 mg IV
-• If upper GI bleed + liver disease:  Terlipressin 2 mg IV + Cefotaxime 1 g IV
-• If post-partum hemorrhage:  Oxytocin (Syntocinon) 8.3 ug/ml 1 ml (5 IE) IV over 1 min
+Color/<#A336C9><Överväg:>
+• KAD för timdiures
+• Toraxdrän vid hemothorax
+• Endotrakeal intubation för att säkra luftväg
 
 
 
-Title/7. Tubes?
+Title/7. Övriga åtgärder?
 Text/
-• Foley catheter to follow hourly diuresis
-• Chest tube for suspected hemothorax. > 1 L blood loss suggests need for surgery
-• Nasogastric tube may confirm upper GI-bleed but poor sensitivity
-• Endotracheal intubation to secure the airway (caution hypotension)
+Color/<#5EA35C><• Hos alla:> förebygg hypotermi
+Color/<#5EA35C><• Öppen fraktur:> Ekvacillin 2 g IV Color/<#0014ff><(barn ≤ 20 kg: 50 mg/kg)>
+Color/<#5EA35C><• Penetrerande våld buk:> Pip-Taz 4 g IV
 
 
 
-Title/8. Additional Measures?
+Title/8. Vidare handläggning
 Text/
-• Prevent/correct hypothermia
-• Antibiotics, e.g. Cloxacillin (Ekvacillin®) 2 g IV (≤ 20 kg:  50 mg/kg) for open extremity fractures
-• Tetanus prophylaxis for open wounds (diTeBooster® 0.5 ml IM)
+Color/<#5EA35C><• Massiv blödning:> 4:4:1 SAG:Plasma:Trombocyter
+Color/<#5EA35C><• Bäckenblödning:> hybridsal, angiografi och embolisering
+Color/<#5EA35C><• Hemothorax över 1 L blodutbyte:> OP
+InternalLink/<• Rupturerad AAA><rupturerad aaa>
 
-
-
-Title/9. Further Management
-Text/
-• Massive Hemorrhage Protocol:  administer thrombocytes when available (not through rapid infuser).  Administer FFP, target 2:1:1 pRCB:FFP:Thrombocytes over coming hours.
-• Laparotomy/thoracotomy for on-going intraabdominal/intrathoracic hemorrhage
-• Angiography and embolization/EVAR for pelvic bleeding/ruptured AAA
-• Endoscopy for patients with significant upper or lower gastrointestinal bleeding
-• CT if unknown bleeding source AND patient stabilized after initial resuscitation
+Color/<#A336C9><Notera:>
+• Trombocyter ges EJ via Fluido

@@ -1,22 +1,35 @@
-Title/1. Fluid?
+Title/1. Vätska?
 Text/
-Indication: of value if the patient is also hypovolemic
+Color/<#5EA35C><Indikation:>
+• Om patienten samtidigt är hypovolem
 
-• Ringer's acetate 500 ml IV bolus (10 ml/kg)
+Color/<#a5715a><Åtgärd:>
+• Ringer-Acetate 500 ml IV bolus
+
+Color/<#0014ff><Barn:>
+• Ringer-Acetate 10 ml/kg IV bolus
 
 
 
-Title/2. Pericardiocentesis?
+Title/2. Pericardiocentes?
 Text/
-Indications for pericardiocentesis, ideally utrasound-guided:
-• "Medical" tamponade where pericardial fluid has gradually developed
+Color/<#5EA35C><Indikationer:>
+• Medicinsk tamponad där perikardvätskan har gradvis samlats
+• Kirurgisk tamponad om torakotomi ej aktuellt eller som bro till torakotomi
 
-• Traumatic cardiac arrest if thoracotomy is not possible
-
-• "Surgical" tamponade as a bridge to thoracotomy. However, in this setting, pericardiocentesis will likely provide only temporary improvement since on-going bleeding will cause a rapid reaccumulation of blood in the pericardium
-
+Color/<#a5715a><Åtgärd:>
+• InternalLink/<Perikardiocentes><perikardiocentes>
 
 
-Title/3. Acute thoracotomy?
+
+Title/3. Akut torakotomi?
 Text/
-Indication: acute thoracotomy is indicated for "surgical" tamponade, i.e. when cardiac tamponade occurs following trauma, aortic dissection or free-wall rupture
+Color/<#5EA35C><Indikation:>
+Kirurgisk tamponad, t ex:
+• Posttraumatisk perikardtamponad
+• Aortadissektion
+• Hjärtmuskelruptur
+
+Color/<#a5715a><Åtgärd:>
+• 71879-Primärjour thorax
+• 71688-Thorax Op sternumsåg

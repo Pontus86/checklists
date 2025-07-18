@@ -1,0 +1,44 @@
+Title/Naloxon Vuxen
+Text/
+• Color/<#A336C9><Naloxon 0,4 mg/ml> 1 ml i en 10 ml spruta
+• Späd med 9 ml NaCl
+• Lösning = 40 µg/ml
+• Ge 2 ml IV eller IM
+
+Color/<#A336C9><Notera:>
+• Målet är att förbättra andning, ej normalisera medvetande
+
+Title/Naloxon Barn
+Text/
+• Color/<#A336C9><Naloxon 0,4 mg/ml> 1 ml i en 10 ml spruta
+• Späd med 9 ml NaCl
+• Lösning = 40 µg/ml
+• Ges IV eller IM
+
+Color/<#A336C9><Dos: 2 µg/kg>
+• 1 år (10 kg)   0,5 ml
+• 3 år (15 kg)   0,7 ml
+• 5 år (20 kg)   1 ml
+• 8 år (30 kg)   1,5 ml
+• 10 år (40 kg)  2 ml
+• 13 år (50 kg)  2,5 ml
+
+Title/Lanexat Vuxen
+Text/
+• Color/<#A336C9><Flumazenil 0,1 mg/ml> 2 ml IV
+
+Color/<#A336C9><Notera:>
+• Vid krampanfall: Propofol 40 mg IV
+
+Title/Lanexat Barn
+Text/
+• Color/<#A336C9><Flumazenil 0,1 mg/ml>
+
+Color/<#A336C9><Dos: 10 µg/kg, max 0,2 mg>
+• 2 mån (5 kg)   0,5 ml
+• 1 år (10 kg)   1 ml
+• 3 år (15 kg)   1,5 ml
+• 5 år (20 kg)   2 ml
+• 8 år (30 kg)   2 ml
+• 10 år (40 kg)  2 ml
+• 13 år (50 kg)  2 ml

@@ -1,66 +1,93 @@
-Title/1. Target Mean Arterial Pressure
+Title/1. Kristalloid?
 Text/
-• MAP should be kept > 90 mm Hg to ensure optimal spinal cord perfusion
+Color/<#5EA35C><Indikation:>
+• Initial behandling av chock
+
+Color/<#f40b1a><Risk:>
+• Övervätskning kan leda till lungödem och ryggmärgsödem
+
+Color/<#a5715a><Åtgärd:>
+• Ringer-Acetat 500 ml IV bolus
 
 
 
-Title/2. Crystalloids?
+Title/2. Atropin?
 Text/
-Indication: initial shock management
+Color/<#5EA35C><Indikationer:>
+• Bradykardi
+• Före ingrepp som kan öka vagaltonus (t ex endotrakeal intubation)
 
-Risk: overzealous fluid resuscitation may lead to pulmonary edema, impaired ventilation and cord edema which may impair tissue perfusion
-
-• Crystalloid bolus
-
+Color/<#a5715a><Åtgärd:>
+• Atropin 0,5 mg/ml 2 ml IV
 
 
-Title/3. Atropine?
+
+Title/3. Noradrenalin?
 Text/
-Indication: bradycardia
+Color/<#5EA35C><Indikation:>
+• MAP < 90 mm Hg
 
-• Atropine 0.5 mg IV should be given prior to procedures that stimulate the vagus (e.g. oropharyngeal suctioning, endotracheal intubation) since these procedures may lead to profound bradycardia.
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Noradrenalin infusion><sprutpump doser>
+
+Color/<#A336C9><Notera:>
+• Behåll MAP > 90 mm Hg för att tillgodose optimal perfusion av ryggmärgen
 
 
 
-Title/4. Prevention of hypothermia?
+Title/4. KAD
 Text/
-Indication: patients with neurogenic shock may easily become hypothermic.
+Color/<#5EA35C><Indikationer:>
+• Risk för urinretention
+• För att följa timdiures
 
 
 
-Title/5. Vasopressors?
+Title/5. Förebygga hypotermi
 Text/
-Indication: a vasopressor should be added if necessary to maintain MAP ≥ 85 - 90 mm Hg.
-
-• Noradrenalin, Adrenalin:  agents with both alpha- and beta-agonist properties such as norepinephrine, epinephrine and dopamine are preferred given their chronotropic activity.
-
+Color/<#5EA35C><Indikationer:>
+• Neurogen chock medför ökad risk för hypotermi
 
 
-Title/6. Bladder Catheterization
+
+Title/6. Pacemaker?
 Text/
-Indication: the bladder should be catheterized due to the risk of urinary retention and to follow urinary output
+Color/<#5EA35C><Indikationer:>
+• Bradykardi trots atropin och vasopressor-kronotrop
 
 
 
-Title/7. Pacemaker?
+Title/7. Inläggning
 Text/
-Indication: bradycardia refractory to atropine
+• NIVA
 
 
 
-Title/8. Admission
+Title/8. MR
 Text/
-• Patients with severe neurogenic shock should be admitted to the neuroICU for monitoring of CVP.  Contact the neurosurgeon.
+• MR bäst för att utreda ryggmärgsskada
 
 
 
-Title/9. MR
+Title/Kortikosteroider?
 Text/
-• MR is the modality of choice to investigate suspected spinal cord pathology.
+• Ej rekommenderade vid akut skada till ryggmärgen
 
 
 
-Title/Therapies of Unproven Benefit
+Title/Om neurogen chock
 Text/
-• Corticosteroids for the treatment of acute spinal cord injury are not recommended
+Color/<#A336C9><Patofysiologi:>
+• Bilateral påverkan av sympaticusbanor över T1-T4 nivån
 
+Color/<#A336C9><Breathing:>
+• Paradoxala rörelser av bröstkorgen - bukandning
+
+Color/<#A336C9><Circulation:>
+• Hypotension, bradykardi
+
+Color/<#A336C9><Disability:>
+• Tetra- eller parapares, Horners, sensorisk nivå
+
+Color/<#A336C9><Exposure:>
+• Hud warm och torr, hypotermi, priapism

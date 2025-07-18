@@ -1,0 +1,75 @@
+Title/1. Bensodiazepin?
+Text/
+Color/<#5EA35C><Indikation:>
+• Agiterad patient (t ex vid intox)
+
+Color/<#a5715a><Val:>
+• Diazepam 5 mg IV
+• Midazolam 5 mg IM
+• Upprepas vid behov
+
+
+
+Title/2. Externa åtgärder?
+Text/
+Color/<#5EA35C><Indikation:>
+• Temp > 40,5°C (risk för vävnadsskada)
+
+Color/<#a5715a><Val:>
+• Patientens kläder tas bort
+• Handsprit eller vatten på kroppen + fläck
+• Ispåsar mot axiller/ljumskar
+• Isbad: likpåse fylls med vatten + is upp till mittaxillärlinjen
+
+
+
+Title/3. Interna åtgärder?
+Text/
+Color/<#5EA35C><Indikation:>
+• Temp > 40,5°C trots externa åtgärder
+
+Color/<#a5715a><Åtgärd:>
+• Ringer-Acetat 1 L 4°C IV (minskar kärntemp hos vuxen med 1°C)
+
+
+
+Title/4. Prov
+Text/
+Color/<#5EA35C><Som regel:>
+• Blodgas
+• Vita, trombocyter, PK, aPTT (risk för DIC)
+• Leverprov (risk för leversvikt)
+• CK, myoglobin (risk för rabdomyolys)
+
+Color/<#A336C9><Överväg:>
+• Salicylat-nivå
+• Paracetamol-nivå
+• TSH/T4
+• Blododlingar
+
+
+
+Title/5. Måltemperatur
+Text/
+• Minska snabbt kärntemperatur till 38-39°C
+• Därefter monitorera temperatur med IVA-kateter
+
+
+
+Title/Differentialdiagnos
+Text/
+Color/<#A336C9><Omgivning:>
+• Varm
+• Fuktig (mindre evaporering)
+• Instängd (ingen luftcirkulation)
+
+Color/<#A336C9><Ökad värmeproduktion:>
+• Infektion, stroke (via hypotalamus)
+• Ansträngning, krampanfall
+• Malignt hypertermi, malignt neuroleptika syndrom
+• Intox: sympatomimetiskt, serotonergt, antikolinergt, salicylat
+• Thyroid storm, pheochromocytom
+
+Color/<#A336C9><Nedsatt värmeförlust:>
+• Intravaskulär vätskebrist (intorkning, diarré)
+• Antikolinergika (nedsatt svett)

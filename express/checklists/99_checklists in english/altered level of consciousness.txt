@@ -1,0 +1,152 @@
+Title/1. Severe agitation?
+Text/
+Indikation för akut sedering:
+• Svårt sjuk + svårt agiterad
+
+Val IM:
+• Esketamin 25 mg/ml 5 ml IM
+• Midazolam 5 mg/ml 1 ml IM (effekt efter 10 min)
+
+Val IV:
+• Esketamin 5 mg/ml 5 ml IV över 1 min
+• Midazolam 1 mg/ml 1 ml IV över 1 min (effekt efter 2 min)
+
+
+
+Title/2. Glucose?
+Text/
+Val vid hypoglykemi:
+• Glukos 300 mg/ml 30 ml IV (Glukos 50 mg/ml 4 ml/kg)
+• Glukagon 1 mg IM
+
+Vid hyperglykemi:
+• Kapillära ketoner > 3? Länk till DIAGNOS/Diabetesketoacidos
+• (2 x Na) + Glu > 320? Länk till DIAGNOS/Hyperglykemiskt hyperosmolärt syndrom
+
+
+
+Title/3. Naloxone?
+Text/
+Indikation:
+• Potentiell opioidintox och hypoventilation
+
+Åtgärd:
+1-Dra upp Naloxon 0,4 mg/ml 1 ml i en 10 ml spruta
+2-Späd med 9 ml NaCl (lösningen blir 0,04 mg/ml)
+3-Ge 2 ml (0,08 mg) IV
+4-Målet är att normalisera andning, ej väcka helt patienten. Vänta 2 minuter på effekt, upprepa vid behov
+
+
+
+Title/4. Sodium?
+Text/
+Suggests hyponatremic encephalopathy:
+• Na < 120 mmol/L + decreased LOC/seizure
+
+Measure:
+1-Fetch NaCl 0.9% 250 ml
+2-Add Addex-Sodium 4 mmol/ml 20 ml (yields NaCl 3%)
+3-Give all 270 ml IV over 10 min
+4-Measure Na-concentration
+5-Repeat as needed to raise Na-concentration by 5 mmmol/L
+
+See Hyponatremia
+
+
+
+Title/5. Status epilepticus?
+Text/
+Vid misstänkt partiellt eller icke-konvulsivt status, överväg följande:
+• Diazepam 10 mg IV (0,2 mg/kg)
+• Keppra 3 g IV över 10 min (60 mg/kg) 
+• Propofol 1 mg/kg IV
+• Mät koncentration av anti-epileptiska läkemedel
+
+Se även DIAGNOS/DISABILITY/Status epilepticus
+
+
+
+Title/6. Meningoencephalitis?
+Text/
+Talar för bakteriell meningit/herpes encefalit:
+• Feber + medvetanderubbning + (nackstyv eller fokala neurobortfall)
+
+Åtgärder:
+• Blododlingar x 2
+• Överväg LP, se INGREPP/Lumbalpunktion för kontraindikationer
+• Betapred 4 mg/ml 2 ml IV (0,15 mg/kg)
+• Meronem 2 g
+• Acyklovir 10 mg/kg IV (500 mg/m^2)
+
+
+
+Title/7. Sepsis?
+Text/
+• Låg tröskel för att överväga sepsis hos äldre med medvetanderubbning
+
+• Se DIAGNOS/CIRCULATION/Sepsis
+
+
+
+Title/8. Wernicke's encephalopathy?
+Text/
+Wernickes encefalopati kan föreligga vid ≥ 2 av:
+• näringsbrist (kronisk alkohol, gastric bypass, ätstörning)
+• ögonrörelsestörningar
+• cerebellär dysfunktion
+• medvetanderubbning/minnesstörning
+
+Initial behandling:
+• Tiamin 500 mg IV
+• Vid uttalad nystagmus, ataxi eller konfusion: Addex-Magnesium 1 mmol/ml 20 ml i NaCl 0,9% 500 ml IV över 30 min
+
+
+
+Title/9. Other metabolic disturbances?
+Text/
+HYPERKALCEMI?
+• NaCl 1000 ml IV
+
+ADDISONKRIS?
+• ACTH + Kortisol + TSH + T4
+• Solucortef 100 mg IV
+
+MYXÖDEMKOMA?
+• ACTH + Kortisol + TSH + T4
+• Solucortef 100 mg IV
+• Piperacillin-Tazobaktam 4 IV
+• Endokrin konsult
+• Levotyroxin 300 mikrog IV späd i NaCl 0,9% (vid utebliven tillgång ges 1 mg av krossade Levaxin eller Euthyrox via V-sond) VAD HAR VI TILLGÅNG TILL PÅ AKUTEN?
+
+LEVERENCEFALOPATI?
+• Leverprov + albumin + PK
+• Överväg GI-blödning och spontan bakteriell peritonit (feber + förvirring + buksmärta + ascites)
+
+SPONTAN BAKTERIELL PERITONIT?
+• Om ultraljud visar ascites: paracentes, dra upp 2 x 20 ml och skicka för
+- odlingar aerob + anaerob (bytt nål innan flaskorna fylls)
+- diff
+- albumin + protein + glukos + LD + amylas + bilirubin
+• Blododlingar x 2
+• Cefotaxim 2 g IV
+
+
+
+Title/10. Endotracheal intubation?
+Text/
+Indikation:
+• Djup medvetandesänkning utan snabb reversibel orsak
+
+
+
+Title/11. CT-head?
+Text/
+Indikationer:
+• Fokala bortfall
+• Ingen annan uppenbar orsak till medvetanderubbning
+
+Överväg:
+• DT-hjärna: blödning, ischemi?
+• DT-angiografi halskärl + intrakraniella kärl: dissektion, ocklusion?
+• DT-perfusion om patienten är potentiell kandidat för trombolys/trombektomi
+• DT-angiografi venösfas vid misstänkt sinustrombos

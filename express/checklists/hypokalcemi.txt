@@ -1,0 +1,39 @@
+Title/1. Information att inhämta
+Text/
+Color/<#a5715a><Blodprov:>
+• Total kalcium
+• PTH
+• 25-OH-Vitamin D
+• Magnesium
+• Fosfat
+
+Color/<#a5715a><EKG:>
+• AV-block?
+• Förlängd QTc?
+• T-vågs invertering?
+
+
+
+Title/2. Svår hypokalcemi?
+Text/
+Color/<#5EA35C><Indikationer:>
+• Muskelkramp i händer och fötter, laryngospasm
+• Epileptiskt anfall (fokalt eller generaliserat)
+• Förlängd QTc
+• Ioniserad Ca < 0,8
+
+Color/<#f40b1a><Kontraindikation:>
+• Känd hyperfosfatemi
+
+Color/<#a5715a><Åtgärder:>
+• Kalciumglukonat 100 mg/ml 20 ml IV över 10 min
+• Addex-Magnesium 1 mmol/ml 8 ml IV över 10 min
+
+
+
+Title/3. Vidare vård
+Text/
+Color/<#a5715a><Åtgärder:>
+• EKG-övervakning tills joniserad Ca > 0,8 och normal QTc
+• Calcitugg 500 mg 2x2 PO
+• Omkontroll av Ca

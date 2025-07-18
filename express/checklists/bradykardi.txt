@@ -1,88 +1,99 @@
 Title/1. Hjärtstopp?
-Text/  
+Text/
+Color/<#a5715a><Initiala åtgärder:>
 • HLR
+• Adrenalin Color/<#f40b1a><0,1 mg/ml> 10 ml IV bolus Color/<#0014ff><(10 µg/kg)>
 
-• Adrenalin 0,1 mg/ml 10 ml (10 µg/kg) IV/IO bolus
-
-• Se Hjärtstopp
+Color/<#a5715a><Val:>
+InternalLink/<• Hjärtstopp><hjartstopp>
+InternalLink/<• Hjärtstopp, traumatiskt><hjartstopp, traumatiskt>
 
 
 
 Title/2. Syrgas?
 Text/
-Indikation: hypoxemi
+Color/<#5EA35C><Indikation:>
+• SpO2 < 90%
 
-• O2 10 L/min via mask
+Color/<#a5715a><Åtgärd:>
+• 10-15 L/min via mask med reservoir
 
 
 
 Title/3. Adrenalin?
 Text/
-Indikation: medvetandesänkning + hypotension (pre-hjärtstopp)
+Color/<#5EA35C><Indikation-samtliga:>
+• Medvetandesänkt
+• Lågt blodtryck
 
-• Adrenalin 1 mg/ml 0,5 mg (10 µg/kg) IM; upprepa vid behov
+Color/<#a5715a><Val 1:>
+1. Adrenalin Color/<#f40b1a><0,1 mg/ml> 1 ml i en 10 ml spruta
+2. Späd med 9 ml NaCl
+3. Ge 2 ml (20 µg) IV bolus
+4. Upprepa var 2:a min
 
-Om inget svar:
-• Hämta Adrenalin 0.1 mg/ml
-• Hämta 10 ml spruta
-• Dra upp 1 ml Adrenalin (100 µg)
-• Späd med 9 ml NaCl (ger en 10 µg/ml lösning)
-• Ge 2 ml (20 µg) IV bolus till både vuxna och barn; upprepa vb
+Color/<#a5715a><Val 2:>
+• Adrenalin Color/<#f40b1a><1 mg/ml> 0,5 ml IM Color/<#0014ff><(10 µg/kg)>
+• Upprepa vid behov
 
 
 
 Title/4. Externpacing?
 Text/
-Indikation: medvetandesänkning + hypotension + inget svar på adrenalin
+Color/<#5EA35C><Indikation-samtliga:>
+• Medvetandesänkt
+• Lågt blodtryck
+• Inget svar på adrenalin
 
-• Börja med 100 mA och frekvens 60/min
-
-• Känn efter femoralispuls (capture?), titrera upp eller ner ström
-
-• Ketamin 10 mg/ml 1 mg/kg IV över 1 min for dissociation
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Externpacing><externpacing>
 
 
 
 Title/5. Atropin?
 Text/
-Indikation: symptomatic (e.g. presyncope, dyspnea)
+Color/<#5EA35C><Indikationer:>
+• Presynkope
+• Dyspné
+• Övriga bradykardi-utlösta symtom
 
-• Atropine 0.5 mg/ml 0.5 mg (20 µg/kg) IV (can repeat up to 3 mg in adults)
+Color/<#a5715a><Åtgärd:>
+• Atropin 0,5 mg/ml 2 ml IV Color/<#0014ff><(20 µg/kg)>
+• Kan upprepas, sammanlagt 3 mg hos vuxna
 
 
 
-Title/6. Isoprenalin?
+Title/6. Isoprenaline?
 Text/
-Indikation: symptomatic + not responding to atropine
+Color/<#5EA35C><Indikation-samtliga:>
+• Bradykardi-utlösta symtom
+• Inget svar på Atropin
 
-• Isoprenaline 0.2 mg/ml 2 ml in 48 ml saline = 8 µg/ml
-
-• Infusion rate 0.05 µg/kg/min	
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Isoprenaline infusion><sprutpump doser>
+• Börja med 0,05 µg/kg/min
 
 
 
 Title/7. Särskilda orsaker?
 Text/
-• Acquire 12-lead EKG, bedside blood tests, history
+Color/<#A336C9><Överväg:>
+• Myokardischemi: HIA-jour 71414
+InternalLink/<• Hyperkalemi><hyperkalemi>
+InternalLink/<• Hypoglykemi><hypoglykemi>
+InternalLink/<• Intox kalciumantagonist - betablockerare><kalciumantagonist - betablockerare>
+• Digoxin-förgiftning: Digitalisantikroppar?
 
-• Myocardial ischemia: Theophylline 100-200 mg by slow IV infusion may be considered in the setting of inferior myocardial infarction, cardiac transplant or spinal cord injury
+Color/<#a5715a><Giftinfo:>
+• 010-456 6719
+• https://giftinformation.se/lakare/
 
-• Hyperkalemia: Calcium Gluconate 100 mg/ml 30 ml (0.3 ml/kg) IV over 5 min + see Hyperkalemia
 
-• Hypoglycemia: Glucose 300 mg/ml 30 ml (Glucose 100 mg/ml 2 ml/kg) IV
 
-• Calcium Channel/Beta Blocker poisoning: Calcium Gluconate 100 mg/ml 30 ml IV over 5 min + see Calcium Channel/Beta Blocker poisoning?
 
-• Digoxin Poisoning: Digoxin-specific antibody (Fab) fragments
-
- 
-Title/8. Transvenöspacing, PCI?
+Title/8. Transvenöspacing, PCI, ECMO?
 Text/
-• Discuss with cardiologist  
-
-
-
-Title/9. ECMO?
-Text/
-• Rescue therapy of last resort
-
+Color/<#A336C9><Överväg:>
+• Transvenöspacing: HIA-jour 71414
+• PCI: HIA-jour 71414
+• ECMO: THIVA 77971

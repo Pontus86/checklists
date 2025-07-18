@@ -1,0 +1,70 @@
+Title/1. Resuscitation Fluid
+Text/
+• Adults: 0.9% saline 1-2 liters is recommended if the patient is in shock
+
+• Children: 0.9% saline 20 ml/kg bolus is recommended. Additional fluid boluses should be given if needed to restore peripheral circulation
+
+
+
+Title/2. Fluid Repletion
+Text/
+• Adults: 0.9% saline 1-1.5 L may be given during the first hour and a total of 3-4 L given during the first 4 hours. The type and rate of fluid thereafter should be individualized depending on vital signs, electrolyte levels and urinary output. In patients with chronic renal insufficiency, overhydration will lead to congestive pulmonary edema. The role of fluid therapy for these patients is limited; instead, insulin should be administered to shift glucose, fluid and potassium back into the intracellular space.
+
+• Children: 0.45 - 0.75% saline should be administered after the initial fluid bolus to replace the deficit over 24-48 hrs, the goal being a gradual decline in serum sodium and serum osmolarity. A fluid deficit of 12-15% is expected. Replacement of urinary losses is recommended.
+
+
+
+Title/3. Potassium Repletion
+Text/
+• Adults: if the initial potassium is < 3.3 mmol/L, potassium replacement should begin immediately at a rate of up to 40 mmol/L/hr. Otherwise, potassium replacement is initiated once urinary output is assured and the potassium is < 5 mmol/L.
+
+• Children: Potassium (40 mmol/L) should be added to the replacement fluid as soon as the serum potassium is within the normal range and adequate renal function has been established.
+
+
+
+Title/4. Insulin
+Text/
+• Insulin therapy should be delayed until hemodynamic stability is achieved and withheld if the serum potassium is < 3.3 mmol/L.
+
+• Adults: American guidelines recommend insulin 0.1 U/kg/h IV after rehydration and correction of hypokalemia. UK guidelines recommend 0.05 U/kg/h IV if the patient has 3-β-hydroxybutyrate concentrations >1.0 mmol/L or if the rate of glucose drop is < 5 mmol/L/h.
+
+• Children: insulin should be administered when serum glucose is no longer declining by > 3 mmol/L/h with fluid therapy alone. At this point, insulin is administered at the rate of 0.025 - 0.05 U/kg/hr. The dose should be titrated to obtain a decline in serum glucose of 3-4 mmol/L/h.
+
+
+
+Title/5. Underlying Cause
+Text/
+• Inadequate insulin therpy and infection are the most common precipitating factors in patients with HHS. Other precipitating factors include pancreatitis, myocardial infarction, cerebrovascular accident, drugs (e.g. corticosteroids, thiazides). 
+
+
+
+Title/6. Admission & Monitoring
+Text/
+• Adults: should receive careful monitoring and therapeutic adjustments initially
+
+• Children: should be admitted to ICU or unit with corresponding level of monitoring
+
+
+ 
+Title/7. Effective Osmolality & Corrected Serum Sodium
+Text/
+• Adults: the effective osmolarity should not be decreased by more than 3 mOsm/kg/h in order to avoid the risk of cerebral edema (especially in young patients). The type and composition of fluid can be altered to prevent a too rapid decrease in effective osmolality. Osmolality can be lowered about by switching from 0.9% saline to 0.45%. Osmolarity can be maintained by continuing treatment with 0.9% saline and by adding glucose to the infusion. Adding potassium to the infusion will also increase the osmolarity of the infusion.
+
+• Children: the sodium concentration in fluids should be adjusted to promote a gradual decline in corrected serum sodium concentration. Corrected sodium is calculated by adding 2.4 mmol/L to the serum Na for each incremental rise of 5.5 mmol/L of serum glucose above a standard serum glucose value of 5.5 mmol/L. A target decline of 0.5 mmol/L/h after initial fluid resuscitation is recommended.
+
+
+
+Title/8. Glucose
+Text/
+• Adults: an infusion of 5% glucose should be started once the glucose level reaches 16 mmol/L.
+• Children: if there is a continued rapid fall in serum glucose after the first few hours (> 5mmol/L/hr), consider adding 2.5% or 5% glucose to the rehydration infusion.
+
+
+Monitoring and Therapy Adjustment in Hyperglycemic Hyperosmolar Syndrome
+Assessments*	Treatments-Adults	Treatments-Children
+1-Hydration: blood pressure, heart rate, urine output	3-4 L 0.9% saline during the first 4 hours. Half of fluid deficits during first 12 hrs, half during subsequent 12-24 hrs	0.45 - 0.75% saline with the goal to replace fluid deficits over 24-48 hrs
+2-Potassium	Potassium up to 40 mmol/L added to the infusion if K < 5.0 and diuresis etablished	Potassium (40 mmmol/L) added to the infusion if K within normal range and diuresis etablished
+3-Insulin	Insulin IV 0.1 U/kg/hr until glucose < 16 mmol/L, then 0.05 U/kg/hr	Insulin 0.025 - 0.05 U/kg/hr once the glucose is no longer dropping by > 3 mmol/L/h; titrated to obtain a decline of 3-4 mmol/L/h
+4-Glucose	5% glucose IV when glucose < 16 mmol/L	2.5% or 5% glucose IV if serum glucose declines by > 5 mmol/L/hr after the first few hours
+5-Effective osmolality and corrected serum sodium	0.45% saline, 0.9% saline, Ringer's acetate, and/or adding a glucose infusion to preserve a drop in effective osmolarity < 3 mOsm/kg/hr.	Target a corrected serum sodium decrease of 0.5 mmol/L/h after initial fluid resuscitation
+* hourly or every other hour initially

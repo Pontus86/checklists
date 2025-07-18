@@ -1,93 +1,113 @@
-Title/1. Information att inhämta
+Title/1. Kalcium?
 Text/
+Color/<#5EA35C><Indikation:>
+K > 6,0 mmol/L + ≥ 1 av:
+• Breda QRS-komplex
+• Bradykardi
+• Arytmi
+
+Color/<#a5715a><Åtgärd:>
+• Kalciumglukonat 100 mg/ml 30 ml IV över 5 min Color/<#0014ff><(0,3 ml/kg)>
+• Upprepas efter 10 min om EKG-indikation kvarstår
+
+
+Title/2. Hemolys?
+Text/
+Color/<#A336C9><Överväg:>
+• Falskt förhöjt K-värde (t ex vid normala EKG + Krea)?
+• Ny blodgas
+
+
+
+Title/3. Beta-2 agonist?
+Text/
+Color/<#5EA35C><Indikation:>
+• K > 6,5 mmol/L
+
+Color/<#a5715a><Val:>
+• Ventoline 2 mg/ml 5 ml NEB
+• Bricanyl 0,5 mg/ml 1 ml SC
+
+Color/<#0014ff><Barn:>
+Color/<#5EA35C><• < 25 kg:> Ventoline 2 mg/ml 1 ml NEB
+Color/<#5EA35C><• 25-50 kg:> Ventoline 2 mg/ml 2,5 ml NEB
+
+
+
+Title/4. Insulin/Glukos?
+Text/
+Color/<#5EA35C><Indikation:>
+• K > 6,0 mmol/L
+
+Color/<#a5715a><Åtgärder:>
+• Lispro eller Aspart 10 E i Glukos 50 mg/ml 500 ml IV över 15 min
+Color/<#5EA35C><• Hyperglykemi:> ge enbart insulin IV över 15 min
+Color/<#5EA35C><• Glukos < 7 mmol/L:> ge därefter Glukos 50 mg/ml 500 ml IV över 4 tim för att förebygga hypoglykemi
+
+Color/<#0014ff><Barn:>
+• Lispro/Humalog eller Aspart/Novorapid 0,1 E/kg i Glukos 50 mg/ml 2 ml/kg IV över 15 min
+
+
+
+Title/5. Natriumbikarbonat?
+Text/
+Color/<#5EA35C><Indikation:>
+• K > 6,0 mmol/L och pH < 7,2
+
+Color/<#f40b1a><Risk:>
+• Lungödem
+
+Color/<#a5715a><Åtgärder:>
+• Natriumbikarbonat 50 mg/ml 200 ml IV
+
+
+
+Title/6. Information att inhämta
+Text/
+Color/<#a5715a><Inhämta:>
 • EKG
-
 • MAPLES
-
+• Bladderscan
 • Blodgas
-
-• Om misstänkt cellsönderfall: CK, Myoglobin, Kalcium, Fosfat, Urat
-
-
-Title/2. Kalcium?
-Text/
-Indikation: K > 6.0 mmol/L OCH en av följande:
-• breda QRS-komplex
-• bradykardi
-• arytmi
-
-Risk: nekros om Kalciumklorid 10% extravaserar; använd CVK eller stor PVK
-
-• Kalciumglukonat 10% 30 ml (0,3 ml/kg) IV över 5 min
-	ELLER
-• Kalciumklorid 10% 10 ml (0,1 ml/kg) IV över 5 min
-
-• Upprepa efter 10 min om EKG-indikationer kvarstår
-
-
-
-Title/3. Insulin/Glukos?
-Text/
-Indikation: K > 6.0 mmol/L
-
-• Kortverkande insulin (t ex Novorapid) 10 E i Glukos 50 mg/ml 500 ml IV över 15 min
-
-• Vid hyperglykemi: 10 E i 100 ml 0,9% NaCl IV över 15 min 
-
-• Om initial Glukos < 7 mmol/L: Glukos 50 mg/ml 500 ml IV över 5 tim för att förebygga hypoglykemi
-
-• Barn: 0,1 E/kg med Glukos 50 mg/ml infusion 2 ml/kg
-
-
-
-
-Title/4. Beta-2 Agonist?
-Text/
-Indikation: K > 6.5 mmol/L
-
-• Salbutamol (Albuterol) 10-20 mg neb
-	ELLER
-• Terbutalin (Bricanyl) 0,5 mg/ml 1 ml SC
-
-• Barn < 25 kg: Salbutamol 2,5 mg neb
-
-• Barn 25-50 kg: Salbutamol 5 mg neb
-
-
-
-Title/5. Kalium bindning?
-Text/
-Indikation: K > 6.0 mmol/L
-
-• Natriumzirkoniumcyklosilikat (Lokelma) 10 g x3/dag PO
-ELLER
-• Patiromer (Veltassa) 8,4 g/dag PO
-ELLER
-• Natriumpolystyrensulfonat (Resonium) 15 g x3/dag PO
-
-
-
-Title/6. Hemodialys?
-Text/
-Indikationer:
-• livshotande hyperkalemi
-• hyperkalemi refraktär till medicinsk behandling
-• terminal njursvikt
-• oligurisk akut njursvikt (< 400 mL urin/dag)
-• markant cellsönderfall (t ex svår rabdomyolys)
+Color/<#5EA35C><• Misstänkt cellsönderfall:> CK-totalt, Myoglobin
 
 
 
 Title/7. Diuretika?
 Text/
-Indikation: tillräcklig njurfunktion
+Color/<#f40b1a><Kontraindikation:>
+• Avancerad njursvikt
 
-• Furosemid 40-80 mg IV tillsammans med 0,9% NaCl infusion
+Color/<#a5715a><Åtgärd:>
+• Furix 40 mg IV med-utan 0,9% NaCl infusion
 
 
 
-Title/8. Vidare handläggning
+Title/8. Hemodialys?
 Text/
-• Mäta om Kalium och Glukos 2 timmar efter behandlingsstart
+Color/<#5EA35C><Indikationer:>
+• Livshotande hyperkalemi
+• Hyperkalemi refraktär till medicinsk behandling
+• Terminal njursvikt
+• Oligurisk akut njursvikt (< 400 mL urin/dag)
+• Markant cellsönderfall (t ex svår rhabdomyolys)
 
-• Åtgärder riktade mot orsaken till hyperkalemi (t ex seponera läkemedel, KAD)
+
+
+Title/9. Kalium bindning?
+Text/
+Color/<#5EA35C><Indikation:>
+• K > 6,0 mmol/L
+
+Color/<#a5715a><Åtgärd:>
+• Lokelma 10 g x 3/dag PO
+
+
+
+
+Title/10. Vidare handläggning
+Text/
+Color/<#a5715a><Åtgärder:>
+• Mäta om Kalium och Glukos om 2 tim
+
+• Åtgärda orsaken till hyperkalemi (t ex seponera läkemedel, KAD)

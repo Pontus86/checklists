@@ -1,77 +1,113 @@
 Title/1. Åtgärd 1
 Text/
-Indikation: indikation
+Color/<#5EA35C><Indikation:>
+Color/<#5EA35C><Indikationer:>
+Color/<#5EA35C><Talar för:>
+Color/<#5EA35C><Mål:>
+Color/<#5EA35C><Hos alla:>
+• Indikation 1
 
-Kontraindikation:  kontraindikation eller risk
+Color/<#f40b1a><Kontraindikation:>
+Color/<#f40b1a><Kontraindikationer:>
+Color/<#f40b1a><Relativ kontraindikation:>
+Color/<#f40b1a><Risk:>
+• Kontraindikation 1
 
+Color/<#a5715a><Åtgärd:>
+Color/<#a5715a><Åtgärder:>
+Color/<#a5715a><Val:>
+Color/<#a5715a><Val vid pre-medicinering:>
+Color/<#a5715a><Mål:>
 • Läkemedel styrka dos route tid
+
+Color/<#A336C9><Notera:>
+Color/<#A336C9><Överväg:>
+Color/<#A336C9><Tolkning:>
+• Notera
 
 
 
 Title/2. Åtgärd 2
 Text/
-Indikation: indikation
+Color/<#5EA35C><Indikation:>
+Color/<#5EA35C><Indikationer:>
+Color/<#5EA35C><Talar för:>
+Color/<#5EA35C><Mål:>
+Color/<#5EA35C><Hos alla:>
+• Indikation 1
 
-Kontraindikation:  kontraindikation eller risk
+Color/<#f40b1a><Kontraindikation:>
+Color/<#f40b1a><Kontraindikationer:>
+Color/<#f40b1a><Relativ kontraindikation:>
+Color/<#f40b1a><Risk:>
+• Kontraindikation 1
 
-Läkemedel styrka dos route tid
+Color/<#a5715a><Åtgärd:>
+Color/<#a5715a><Åtgärder:>
+Color/<#a5715a><Val:>
+Color/<#a5715a><Val vid pre-medicinering:>
+Color/<#a5715a><Mål:>
+• Läkemedel styrka dos route tid
+
+Color/<#A336C9><Notera:>
+Color/<#A336C9><Överväg:>
+Color/<#A336C9><Tolkning:>
+• Notera
 
 
 
 Title/3. Åtgärd 3
 Text/
-Indikation: indikation
+Color/<#5EA35C><Indikation:>
+Color/<#5EA35C><Indikationer:>
+Color/<#5EA35C><Talar för:>
+Color/<#5EA35C><Mål:>
+Color/<#5EA35C><Hos alla:>
+• Indikation 1
 
-Kontraindikation:  kontraindikation eller risk
+Color/<#f40b1a><Kontraindikation:>
+Color/<#f40b1a><Kontraindikationer:>
+Color/<#f40b1a><Relativ kontraindikation:>
+Color/<#f40b1a><Risk:>
+• Kontraindikation 1
 
-Läkemedel styrka dos route tid
+Color/<#a5715a><Åtgärd:>
+Color/<#a5715a><Åtgärder:>
+Color/<#a5715a><Val:>
+Color/<#a5715a><Val vid pre-medicinering:>
+Color/<#a5715a><Mål:>
+• Läkemedel styrka dos route tid
+
+Color/<#A336C9><Notera:>
+Color/<#A336C9><Överväg:>
+Color/<#A336C9><Tolkning:>
+• Notera
 
 
 
 Title/4. Åtgärd 4
 Text/
-Indikation: indikation
+Color/<#5EA35C><Indikation:>
+Color/<#5EA35C><Indikationer:>
+Color/<#5EA35C><Talar för:>
+Color/<#5EA35C><Mål:>
+Color/<#5EA35C><Hos alla:>
+• Indikation 1
 
-Kontraindikation:  kontraindikation eller risk
+Color/<#f40b1a><Kontraindikation:>
+Color/<#f40b1a><Kontraindikationer:>
+Color/<#f40b1a><Relativ kontraindikation:>
+Color/<#f40b1a><Risk:>
+• Kontraindikation 1
 
-Läkemedel styrka dos route tid
+Color/<#a5715a><Åtgärd:>
+Color/<#a5715a><Åtgärder:>
+Color/<#a5715a><Val:>
+Color/<#a5715a><Val vid pre-medicinering:>
+Color/<#a5715a><Mål:>
+• Läkemedel styrka dos route tid
 
-
-
-Title/5. Åtgärd 5
-Text/
-Indikation: indikation
-
-Kontraindikation:  kontraindikation eller risk
-
-Läkemedel styrka dos route tid
-
-
-
-Title/6. Åtgärd 6
-Text/
-Indikation: indikation
-
-Kontraindikation:  kontraindikation eller risk
-
-Läkemedel styrka dos route tid
-
-
-
-Title/7. Åtgärd 7
-Text/
-Indikation: indikation
-
-Kontraindikation:  kontraindikation eller risk
-
-Läkemedel styrka dos route tid
-
-
-
-Title/8. Åtgärd 8
-Text/
-Indikation: indikation
-
-Kontraindikation:  kontraindikation eller risk
-
-Läkemedel styrka dos route tid
+Color/<#A336C9><Notera:>
+Color/<#A336C9><Överväg:>
+Color/<#A336C9><Tolkning:>
+• Notera

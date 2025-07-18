@@ -1,0 +1,64 @@
+
+Title/1. Ringer's Acetate
+Text/
+• Ringer's Acetate up to 2 liters IV bolus
+
+
+
+Title/2. Atropine
+Text/
+• Atropine 1 mg IV (0.02 mg/kg in children with a minimum dose of 0.1 mg) in the setting of bradycardia. Can repeate dose every 3 minutes to a total of 3 mg (0.03-0.04 mg/kg)
+
+
+
+Title/3. Calcium
+Text/
+• Calcium Gluconate 100 mg/ml 30 ml IV over 5 min (0.3-0.6 ml/kg). Can be repeated every 15th min up to three times
+
+OR:
+
+• Calcium Chloride 100 mg/ml 20 ml IV. More caustic, may cause tissue necrosis if it extravasates. Given ideally via a central catheter or a large-bore antecubital peripheral line
+
+
+
+Title/4. Noradrenalin
+Text/
+• The initial rate of Noradrenalin infusion is 0.1 µg/kg/min. Titrate up to 1 µg/kg/min
+
+
+
+Title/5. Insulin-Glucose
+Text/
+• Glucose 500 mg/ml 50 ml IV bolus followed by regular insulin 1 U/kg IV
+• Thereafter insulin infusion 1 U/kg/h and Glucose 100 mg/ml infusion 200 ml/h 
+• Measure glucose every 15 min and adjust glucose infusion
+• Measure potassium every 15 min and initiate potassium infusion if K < 3.5 mEq/L
+• Titrate up insulin infusion by 0.25-0.5 U/kg/h every 15 min based on POCUS findings; patients may require up to 10 U/kg/h
+
+
+
+Title/6. Glucagon
+Text/
+• Glucagon 5 mg IV (50 µg/kg to children). Can repeat after 10 min. Highly emetogenic
+
+
+
+Title/7. Lipid Therapy
+Text/
+• Lipid emulsion (Intralipid® 20%) 100 ml IV over 1 min (1 ml/kg for child)
+• An infusion of 0.25-0.5 mL/kg/min is given thereafter for 30-60 min
+
+
+
+Title/8. Rescue Therapy
+Text/
+• If the above measures are insufficient to correct cardiovascular collapse, consider transvenous pacing (does not improve inotropy), intraoartic balloon pump, ECMO
+
+
+
+Title/9. Further Management
+Text/
+• Gastric lavage for patients who present within 1-2 hours after a dangerous intoxication
+• Activated charcoal should be administered (50 g for adults, 1 g/kg for children) unless the patient may not be able to protect their airway
+• Whole bowel irrigation should be considered in the setting of sustained- or extended-release preparations
+• Patients should be admitted to a setting with continuous cardiovascular monitoring. Patients who have taken sustained-release CCB should be observed for > 24 hours.

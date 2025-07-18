@@ -1,53 +1,110 @@
-Title/1. Oxygen?
+Title/1. Syrgas?
 Text/
-Indication: SpO2 < 90%
+Color/<#5EA35C><Indikation:>
+• SpO2 < 90%
 
-• Nasal prongs, face mask or mask with reservoir depending on response to therapy
+Color/<#a5715a><Val:>
+• Mask med reservoar 10-15 L/min
+• Oxymask 1-10 L/min
 
 
 
-Title/2. Crystalloid?
+Title/2. Ringer-Acetat?
 Text/
-Indication: SBT < 100 mm Hg
+Color/<#5EA35C><Indikation:>
+• SBT < 100 mm Hg
 
-• Ringer 500 ml IV bolus
+Color/<#a5715a><Åtgärd:>
+• Ringer-Acetat 500 ml IV bolus
 
 
 
-Title/3. NIPPV?
+Title/3. CPAP/NIV?
 Text/
-Indication: acute hypoxemic respiratory failure (Grade 2 recommendation)
+Color/<#5EA35C><Indikationer:>
+• Hypoxemi trots syrgas
+• Respiratorisk acidos
 
-Contraindication:  severely impaired consciousness or inability to cooperate; high aspiration risk or inability to clear secretions
+Color/<#f40b1a><Relativa kontraindikationer:>
+• SBP < 85 mm Hg
+• Djup medvetandesänkning
+• Stora volymer luftvägssekret
+• Kräkningar
+• Pneumothorax, oklart subkutant emfysem
+• Nyligen övreluftväg- / övre-GI-kirurgi
+
+Color/<#a5715a><FlowSafe:>
+• CPAP 4 cm H2O
+Color/<#5EA35C><• Hyperkapné, utmattning:> tillägg IPAP 8 cm H2O
+
+Color/<#a5715a><Hamilton:>
+• PEEP/CPAP 4 cm H2O
+Color/<#5EA35C><• Hyperkapné, utmattning:> tillägg P-Support 4 cm H2O
+• P-ramp 150 msec
+• ETS (Expiratory Trigger Sensitivity) 50%
 
 
 
-Title/4. Endotracheal intubation?
+Title/4. Utredningar
 Text/
-Indication: inability by other means to maintain oxygenation and ventilation
+Color/<#5EA35C><Som regel:>
+• Blododlingar x 2
+• POCUS (empyem?)
+
+Color/<#A336C9><Överväg:>
+• Nasofarynx odling
+• PCR för SARS-CoV-2, influenza, RSV
+• PCR för mycoplasma/chlamydia pneumoniae
+• Urin antigen för pneumocock/legionella
 
 
 
-Title/5. Diagnostic Tests
+Title/5. Antibiotika
 Text/
-• Chest x-ray?
-• Blood cultures x 2
-• Nasopharyngeal and sputum cultures?
-• Urine pneumococcal Ag?
-• Urine legionella Ag?
-• Sars-CoV-2 PCR?
-• Influenza PCR?	
-• PCR mycoplasma/chlamydia pneumoniae?
+Color/<#5EA35C><Septisk chock + allvarlig bakomliggande lungsjukdom:>
+• Piperacillin/tazobaktam 4 g IV + Levofloxacin 750 mg IV
+
+Color/<#5EA35C><Septisk chock:>
+• Cefotaxim 2 g IV + Levofloxacin 750 mg IV
+
+Color/<#5EA35C><Insjuknande i anslutning till influenza:>
+• Cefotaxim 2 g IV
+
+Color/<#5EA35C><Misstänkt atypisk pneumoni:>
+• Benzylpenicillin 3 g IV + Doxycyklin 200 mg PO
+• Vid PC-allergi: Levofloxacin 750 mg IV
+
+Color/<#5EA35C><I övrigt:>
+• Benzylpenicillin 3 g IV
+• Vid PC-allergi: Levofloxacin 750 mg IV
 
 
 
-Title/6. Antibiotics
+Title/6. NIV justering
 Text/
-• Cefotaxime
+Color/<#5EA35C><SpO2 stiger ej:>
+• Öka FiO2
+• Öka PEEP/CPAP 2 cm H2O var 4 min
+
+Color/<#5EA35C><pCO2 sjunker ej:>
+• Öka IPAP/P-support 2 cm H2O var 4 min
+• Max IPAP (PEEP + P-Support) 20 cm H2O
+
+Color/<#5EA35C><Larm Hamilton:>
+• Tryck på "Larm" knappen
+• Höj övre gräns för minutvolym "ExpMinVol L/min" vb
+
+Color/<#5EA35C><Kurva:>
+• P-ramp overshoot: minska p-ramp
+• Double-triggering: höja p-ramp +/- P-support
 
 
 
-Title/7. Disposition
+Title/7. Endotrakeal intubation?
 Text/
-• Out-patient if Pneumonia Severity Index (PSI) Risk Class I, II +/- III (see Dyspnea)
-• ICU if ≥ 5 points SMART-COP (≥ 33% risk of requiring intensive respiratory or vasopressor support)
+Color/<#5EA35C><Indikation:>
+• Lågt SpO2 och högt CO2 trots syrgas och NIV
+
+Color/<#a5715a><Val:>
+• Anestesilarm 77900
+• MIG-bedömning 72784

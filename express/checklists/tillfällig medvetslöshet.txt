@@ -1,0 +1,74 @@
+Title/1. ABCDE, EKG, Blodgas
+Text/
+Color/<#A336C9><Blodgas:>
+• Glukos?
+• Na, Ca?
+• Laktat?
+
+Color/<#A336C9><EKG:>
+• AV-block?
+• Breda QRS?
+• ST-T: ischemi?
+• QTc > 500 msec?
+
+
+
+Title/2. Anamnes
+Text/
+Color/<#A336C9><Före episoden:>
+• Omständigheter och aktivitet?
+• Synrubbning, illamående, smärta, hjärtklappning? 
+
+Color/<#A336C9><Under episoden:>
+• Ryckningar: antal, bilateralt synkroniserade?
+• Hudfärg: blek, blå?
+• Skalltrauma?
+• Duration?
+
+Color/<#A336C9><Efter episoden:>
+• Förlängd återhämtning?
+• Smärta?
+
+
+
+Title/3. Tillstånd att överväga
+Text/
+Color/<#A336C9><Överväg:>
+• Arytmi
+InternalLink/<• Aortadissektion><aortadissektion>
+InternalLink/<• Lungemboli><lungemboli>
+InternalLink/<• Rupturerad bukaortaaneurysm><rupturerad aaa>
+• Blödning i övrigt (t ex ektopisk graviditet)
+• Subaraknoidal blödning
+InternalLink/<• Epileptiskt anfall><krampanfall>
+
+
+
+Title/Om tillfälligt medvetslöshet
+Text/
+Color/<#A336C9><Definition:>
+• Debut: snabb
+• Medvetslös: ingen reaktion för röst, amnesi
+• Motorkontroll: förlust (t ex ramlar om stående)
+• Duration: kort
+• Återställd: komplett, spontant
+
+Color/<#A336C9><Differentialdiagnostik:>
+• Synkope
+• Epileptisk anfall
+• Commotio
+
+Title/Om synkope
+Text/
+Color/<#A336C9><Definition:>
+• Tillfällig medvetandeförlust
+• Orsakad av hypoperfusion till hjärna
+
+Color/<#A336C9><Differentialdiagnostik synkope:>
+• Neurogen
+• Ortostatisk
+• Arytmi
+• Klaffel
+• Lungemboli
+• Aortadissektion
+• Blödning

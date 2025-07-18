@@ -1,2 +1,39 @@
-Title/
-I/04_fakta/push-dose pressor.png
+Title/Adrenalin
+Text/
+• Color/<#A336C9><Adrenalin 1 mg/ml> 1 ml i en 10 ml spruta
+• Späd med 9 ml NaCl
+• Lösning = 10 µg/ml
+• Ge 2 ml IV var 2-5 min
+
+Color/<#A336C9><Notera:>
+• Vasopressor (alpha effekt)
+• Inotrop och kronotrop (beta effekter)
+
+Title/Noradrenalin
+Text/
+• Color/<#A336C9><Noradrenalin 1 mg/ml> 1 ml i 100 ml NaCl
+• Lösning = 10 µg/ml
+• Ge 2 ml IV var 2-5 min
+
+Color/<#A336C9><Notera:>
+• Vasopressor (alpha effekt, mer än adrenalin)
+• Inotrop och kronotrop (beta effekter, mindre än adrenalin)
+
+Title/Efedrin
+Text/
+• Color/<#A336C9><Efedrin 50 mg/ml> 1 ml i en 10 ml spruta
+• Späd med 9 ml NaCl
+• Lösning = 5 mg/ml
+• Ge 2 ml IV var 2-5 min
+
+Color/<#A336C9><Notera:>
+• Inotrop och kronotrop (beta effekter)
+
+Title/Fenylefrin
+Text/
+• Color/<#A336C9><Fenylefrin 0,1 mg/ml> i en 5 ml spruta
+• Ge 1 ml IV var 2-5 min
+
+Color/<#A336C9><Notera:>
+• Vasopressor (alpha effekt)
+• Ingen beta effekt (reflex bradykardi förekommer)

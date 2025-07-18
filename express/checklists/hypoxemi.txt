@@ -1,77 +1,208 @@
-Title/1. Åtgärd 1
+Title/1. Syrgas + EtCO2
 Text/
-Indikation: indikation
+Color/<#a5715a><Syrgas-Val:>
+• Mask med reservoar 10-15 L/min
+• Oxymask 1-10 L/min
 
-Kontraindikation:  kontraindikation eller risk
+Color/<#a5715a><Vid SpO2 < 75%:>
+• Mask med reservoar 15 L/min
+OCH
+• Näsgrimma 15 L/min under masken
 
-Läkemedel styrka dos route tid
+Color/<#a5715a><EtCO2-Val:>
+• Näsgrimma (orange)
+• Mellan blåsa och mask/tub/LMA (gul)
 
 
 
-Title/2. Åtgärd 2
+Title/2. Ketanest?
 Text/
-Indikation: indikation
+Color/<#5EA35C><Indikation:>
+• Svårt agiterad + lågt SpO2
 
-Kontraindikation:  kontraindikation eller risk
+Color/<#a5715a><Val:>
+• Ketanest 5 mg/ml 5 ml IV över 1 min
+• Ketanest 25 mg/ml 5 ml IM
 
-Läkemedel styrka dos route tid
+Color/<#A336C9><Notera:>
+• Ketanest IV: 1 min till effekt
+• Ketanest IM: 5 min till effekt
 
 
 
-Title/3. Åtgärd 3
+Title/3. Övre luftvägshinder?
 Text/
-Indikation: indikation
+Color/<#5EA35C><Ej intuberad-talar för:>
+• Stridor
+• Snarkande
+• Svullen tunga
+• Lågt EtCO2
 
-Kontraindikation:  kontraindikation eller risk
+Color/<#5EA35C><Intuberad-talar för:>
+• Inget EtCO2 (fel tubläge)
+• Sugkateter kan ej passeras i tuben (ocklusion)
 
-Läkemedel styrka dos route tid
+Color/<#a5715a><Åtgärder-Val:>
+• Om intuberad: extubera
+• Anestesilarm 77900
+• ÖNH 71061
+InternalLink/<• Övre luftvägshinder><ovre luftvagshinder>
 
 
 
-Title/4. Åtgärd 4
+Title/4. Manuell ventilation/Naloxon?
 Text/
-Indikation: indikation
+Color/<#5EA35C><Indikation (punkter tillsammans):>
+• Låg andningsfrekvens
+• Nedsatt tidal volym
+• Medvetandesänkt
+• SpO2 < 85% trots 15 L/min syrgas
 
-Kontraindikation:  kontraindikation eller risk
+Color/<#a5715a><Ventilation:>
+• Mask och blåsa 2-person teknik
 
-Läkemedel styrka dos route tid
+Color/<#a5715a><Naloxon:>
+1-Naloxon 0,4 mg/ml dra upp 1 ml i 10 ml spruta
+2-Späd med 9 ml NaCl
+3-Ge 2 ml (0,08 mg) IV
+4-Upprepa varannan min vid behov
+
+Color/<#A336C9><Mål med Naloxon:>
+• Normalisera andning
+• Ej väcka patienten helt
 
 
 
-Title/5. Åtgärd 5
+Title/5. Ultraljud + blodgas + EKG
 Text/
-Indikation: indikation
+Color/<#A336C9><Ultraljud:>
+• R1-R4
+• L1-L4
+• Hjärta (subxiphoidalt initialt)
+• IVC (+/- vena jugularis interna)
 
-Kontraindikation:  kontraindikation eller risk
+Color/<#A336C9><Blodgas:>
+• pCO2?
 
-Läkemedel styrka dos route tid
+Color/<#A336C9><EKG:>
+• Ischemi?
+• Arytmi?
 
 
-
-Title/6. Åtgärd 6
+Title/6. NIV
 Text/
-Indikation: indikation
+Color/<#5EA35C><Indikation:>
+• SpO2 < 85% trots åtgärder ovan
 
-Kontraindikation:  kontraindikation eller risk
+Color/<#f40b1a><Kontraindikationer:>
+• Pneumothorax, oklart subkutant emfysem
+• Medvetslös (relativ kontraindikation)
+• Frekventa kräkningar
+• Lågt blodtryck (relativ kontraindikation)
+• Nylig övre luftvägs- eller gastrointestinal kirurgi
 
-Läkemedel styrka dos route tid
+Color/<#a5715a><FlowSafe:>
+• CPAP 5 cm H2O
+• IPAP 5 cm H2O
+
+Color/<#a5715a><Hamilton:>
+• PEEP/CPAP 5 cm H2O
+• P-Support 5 cm H2O
 
 
 
-Title/7. Åtgärd 7
+Title/7. Pneumothorax / Pleuravätska?
 Text/
-Indikation: indikation
+Color/<#5EA35C><Ultraljud vid pneumothorax:>
+• Frånvaro av lung-sliding
+• Lung-point (diagnostisk; saknas vid stor pneumothorax)
 
-Kontraindikation:  kontraindikation eller risk
+Color/<#5EA35C><Ultraljud vid pleuravätska:>
+• Vätska + spine-sign
 
-Läkemedel styrka dos route tid
+Color/<#a5715a><Överväg:>
+• Bedside lungröntgen för att bekräfta pneumothorax
+• Secalon-T (grå: 16G = 5F) 130 mm 
+• I säkra triangeln eller där vätskespalt tjockast
+• Upp till 1,5 L kan tömmas på en gång
+• Via Seldinger wire kan Secalon ersättas med 12F drän
 
 
 
-Title/8. Åtgärd 8
+Title/8. Lungödem?
 Text/
-Indikation: indikation
+Color/<#5EA35C><Ultraljud vid lungödem:>
+• Bilaterala B-lines
+• Nedsatt hjärtkontraktilitet
+• IVC > 2 cm + kollaps < 50%; halsvenstas
 
-Kontraindikation:  kontraindikation eller risk
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Lungödem><lungodem>
 
-Läkemedel styrka dos route tid
+
+
+Title/9. Lungemboli?
+Text/
+Color/<#5EA35C><Talar för:>
+• Lågt blodtryck
+• EKG: negativa T-vågor V1-V4 + III; högergrenblock
+InternalLink/<• Ultraljud vid massiv lungemboli><ultraljud lungemboli>
+
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Lungemboli><lungemboli>
+
+
+
+Title/10. KOL-exacerbation / Astmaanfall?
+Text/
+Color/<#5EA35C><Talar för:>
+• Förlängd expiration i förhållande till inspiration
+• Expiratoriska biljud / silent chest
+• Förhöjt EtCO2 / pCO2 vid KOL
+
+Color/<#a5715a><Åtgärder:>
+InternalLink/<• KOL-exacerbation><kol-exacerbation>
+InternalLink/<• Astmaanfall><astmaanfall>
+
+
+
+Title/11. Pneumoni?
+Text/
+Color/<#5EA35C><Talar för pneumoni:>
+• Fokala fynd vid lungauskultation / ultraljud
+• Feber
+
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Pneumoni><pneumoni>
+
+
+
+Title/12. NIV justering
+Text/
+Color/<#5EA35C><SpO2 stiger ej:>
+• Öka FiO2
+• Öka PEEP/CPAP 2 cm H2O var 4 min
+
+Color/<#5EA35C><pCO2 sjunker ej:>
+• Öka IPAP/P-support 2 cm H2O var 4 min
+• Max IPAP (PEEP + P-Support) 20 cm H2O
+
+Color/<#5EA35C><Larm Hamilton:>
+• Tryck på "Larm" knappen
+• Höj övre gräns för minutvolym "ExpMinVol L/min" vb
+
+Color/<#5EA35C><Kurva:>
+• P-ramp overshoot: minska p-ramp
+• Double-triggering: höja p-ramp +/- P-support
+
+
+
+Title/Falskt lågt SpO2
+Text/
+Color/<#A336C9><Kan förekomma vid:>
+• Dålig perfusion
+• Nagellack
+• Methemoglobinemi
+
+Color/<#a5715a><Åtgärd:>
+• Överväg arteriell blodgas

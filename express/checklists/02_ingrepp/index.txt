@@ -1,16 +1,24 @@
-ChapterTitle/<HJÄRTSTOPP NIVÅ-1 TRAUMA>
-Torakotomi
+ChapterTitle/<HJÄRTSTOPP och NIVÅ-1 TRAUMA>
 Perimortem sectio
-----------------------------------------
+
 ChapterTitle/<AIRWAY>
-Övre luftvägshinder
 Coniotomi
-----------------------------------------
+
 ChapterTitle/<CIRCULATION>
 Intraosseös nål humerus
-----------------------------------------
+Elkonvertering
+Externpacing
+Perikardiocentes
+
 ChapterTitle/<DISABILITY>
-Lumbalpunktion
 Lateral kantotomi
+Ventrikelsköljning
+Intranasalt läkemedel
 
+ChapterTitle/<EXPOSURE>
+Eskarotomi-fasciotomi
 
+ChapterTitle/<EKG>
+Esofagus-EKG
+Lewis lead
+Valsalva

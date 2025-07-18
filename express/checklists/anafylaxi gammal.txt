@@ -1,0 +1,200 @@
+Title/1. Livshot—Larm? 
+Text/
+Green/<Tecken på livshot:>
+• Kan knappt andas/ventileras
+• Ingen radialispuls
+• Medvetandesänkt/medvetslös
+
+Val:
+• 50000
+• Anestesilarm 77900
+
+
+
+Title/2. Livshot—Adrenalin IV?
+Text/
+Green/<Indikationer:>
+• Kan knappt andas/ventileras
+• Ingen radialispuls
+• Medvetandesänkt/medvetslös
+
+Åtgärd:
+• Adrenalin 0,1 mg/ml 1 ml IV över 30 sek
+
+Barn:
+1. Hämta Adrenalin 0,1 mg/ml (ampull på 10 ml)
+2. Dra upp 1 ml i en 10 ml spruta
+3. Späd med 9 ml NaCl (ger en lösning på 10 ug/ml)
+
+• 6-12 år: 4 ml IV
+• 1-5 år: 2 ml IV
+• < 1 år: 1 ug/kg IV
+
+
+
+Title/3. Livshot—Intubation?
+Text/
+Green/<Livshotande bronkospam (samtliga):>
+• Medvetandesänkt/medvetslös
+• Knappt spontana andetag
+• SpO2 < 80% eller omätbar
+
+Åtgärd:
+1. Celocurin eller Esmeron 1,5 mg/kg IV
+2. Endast ett försök till endotrakeal intubation, annars coniotomi
+3. EtCO2 för att bekräfta tubplacering
+4. Manuell övertrycksventilation med blåsa
+5. Lateral kompression av bröstkorgen för att underlätta expiration
+
+
+
+Title/4. Adrenalin intramuskulärt (IM)
+Text/
+Vuxen:
+• Adrenalin 1 mg/ml 0,5 ml IM anterolateralt i låret
+
+Barn, Adrenalin 1 mg/ml:
+• 6-12 år: 0,3 ml IM
+• 1-5 år: 0,15 ml IM
+• < 1 år: 10 ug/kg
+
+Upprepning:
+• Var 5:e min
+
+
+
+Title/5. Utlösande faktor?
+Text/
+• Avbryt infusion av läkemedel/blodprodukt
+• Ta bort utlösande ämne
+
+
+
+Title/6. Planläge/Sidoläge?
+Text/
+Green/<Indikationer:>
+• Lågt blodtryck
+• Svimfärdig
+
+Red/<Kontraindikation:>
+• Patienten vill vara sittande
+
+Val:
+• Planläge
+• Sidoläge vid illamående
+• Vänstersidoläge om höggravid
+
+
+
+Title/7. Syrgas
+Text/
+• Syrgas ≥ 10 L/min via mask med reservoar
+
+
+
+Title/8. Övre luftvägsåtgärd?
+Text/
+Green/<Indikationer:>
+• Stridor
+• Tungsvullnad
+
+Åtgärder:
+• Anestesilarm 77900, ÖNH 71061
+• Adrenalin 1 mg/ml 1 ml nebuliserad
+• Se Problem/AIRWAY/Övre luftvägshinder
+
+
+
+Title/9. Ventoline?
+Text/
+Green/<Indikation:>
+• Bronchospasm/ronchi
+
+Red/<Risk:>
+• Hypokalemi
+
+Åtgärd:
+• Ventoline 2 mg/ml 2,5 ml (1 ampul) nebuliserad
+• Kan ges till patient i sidoläge
+
+
+
+Title/10. Ringer-Acetat?
+Text/
+Green/<Indikationer:>
+• Lågt blodtryck
+• Takykard
+
+Åtgärd:
+• Ringer-Acetat 1000 ml IV bolus (20 ml/kg)
+
+
+
+Title/11. Adrenalin intravenöst (IV)?
+Text/
+Green/<Indikation:>
+• Svåra symtom trots Adrenalin IM x 2
+
+Red/<Risk:>
+• Arytmi (EKG monitorering)
+
+Åtgärd:
+1. Hämta Adrenalin 0,1 mg/ml (ampull på 10 ml)
+2. Dra upp 1 ml i en 10 ml spruta
+3. Späd med 9 ml NaCl (ger en lösning på 10 ug/ml)
+4. Ge 2 ml (20 ug) IV bolus
+5. Upprepad var 2:a min vid behov
+
+
+
+Title/12. Glukagon intravenöst (IV)?
+Text/
+Green/<Indikation:>
+• Svåra symtom + svarar ej till adrenalin (pga beta-blockerare?)
+
+Red/<Risk:>
+• Kräkning
+
+Åtgärd:
+1. Hämta Glucagon 1 mg/ml
+2. Spruta vätskan in i flaskan för att lösa upp pulvern
+3. Dra upp lösningen I EN VANLIG 2 ml SPRUTA
+4. Injicera vätskan (1 ml) IV över 1 min
+5. Upprepa vid behov. Hos vuxna kan man ge upp till 5 mg
+
+
+
+Title/13. Atropin?
+Text/
+Green/<Indikation:>
+• Paradoxal bradykardi
+
+Åtgärd:
+• Atropin 0,5 mg/ml 2 ml IV
+• Upprepa vid behov. Hos vuxna kan man ge upp till 3 mg
+
+
+
+Title/14. Tavegyl?
+Text/
+Green/<Indikation:>
+• Klåda/nässelutslag
+
+Åtgärd:
+• Tavegyl 1 mg/ml 2 ml IV
+
+
+
+Title/15. Betapred
+Text/
+• Betapred 4 mg/ml 2 ml IV
+
+
+
+Title/16. Observation
+Text/
+Green/<Om patienten fått adrenalin IM:>
+• Minst 4 timmar sedan adrenalin
+
+Green/<Vid svåra symtom:>
+• Minst 10 timmar

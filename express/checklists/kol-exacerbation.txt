@@ -1,0 +1,111 @@
+Title/1. Syrgas?
+Text/
+Color/<#5EA35C><Indikation:>
+• SpO2 < 88%
+
+Color/<#a5715a><Val:>
+• Mask med reservoar 10-15 L/min
+• Oxymask 1-10 L/min
+• Näsgrimma 1-4 L/min
+
+Color/<#A336C9><Mål:>
+• SpO2 88%
+
+
+
+Title/2. NIV?
+Text/
+Color/<#5EA35C><Indikationer:>
+• Svår respiratorisk acidos
+• Svår dyspné/ansträngd andning/utmattning
+
+Color/<#f40b1a><Kontraindikationer:>
+• Pneumothorax, oklart subkutant emfysem
+• Medvetslös
+• Frekventa kräkningar
+• Uttalad hemodynamisk instabilitet
+• Nylig övre luftvägs- eller gastrointestinal kirurgi
+
+Color/<#a5715a><FlowSafe:>
+• CPAP 5 cm H2O
+• IPAP 10 cm H2O
+
+Color/<#a5715a><Hamilton:>
+• PEEP/CPAP 5 cm H2O
+• P-Support 5 cm H2O
+• P-ramp 100 msec
+• ETS (Expiratory Trigger Sensitivity) 80%
+
+
+
+Title/3. Nebuliserad bronkodilaterande
+Text/
+Color/<#a5715a><Val:>
+• Via nebuliseringsmask driven av luft eller syrgas
+• Vid FlowSafe i CPAP mode (koppla T-stycke mellan masken och resten)
+• Vid Hamilton (ersätt HME-filtret med T-stycke, koppla till gult uttag)
+
+Color/<#a5715a><Åtgärder:>
+• Ventoline 2 mg/ml 2,5 ml NEB
+• Atrovent 0,25 mg/ml 2 ml NEB
+
+Color/<#A336C9><Notera:>
+• FlowSafe: kan ej inhalera i BiLevel mode
+
+
+
+Title/4. EtCO2
+Text/
+Color/<#a5715a><Val:>
+• Via näsgrimma ("orange" slang; pendel övre låda)
+• Om NIV: koppla "gul" slang (pendel övre låda) till masken
+
+
+
+Title/5. NIV justering
+Text/
+Color/<#5EA35C><SpO2 stiger ej:>
+• Öka FiO2
+• Öka PEEP/CPAP 2 cm H2O var 4 min
+
+Color/<#5EA35C><pCO2 sjunker ej:>
+• Öka IPAP/P-support 2 cm H2O var 4 min
+• Max IPAP (PEEP + P-Support) 20 cm H2O
+
+Color/<#5EA35C><Larm Hamilton:>
+• Tryck på "Larm" knappen
+• Höj övre gräns för minutvolym "ExpMinVol L/min" vb
+
+Color/<#5EA35C><Kurva:>
+• P-ramp overshoot: minska p-ramp
+• Double-triggering: höja p-ramp +/- P-support
+
+
+
+Title/6. Endotrakeal intubation?
+Text/
+Color/<#5EA35C><Indikationer:>
+• Massiv aspiration
+• Livshotande hypoxemi, andningsuppehåll
+• Hemodynamisk instabilitet
+• Djup medvetandesänkning, svår agitation
+
+Color/<#a5715a><Val:>
+• Anestesilarm 77900
+• MIG-bedömning 72784
+
+
+
+Title/7. Kortikosteroider
+Text/
+Color/<#a5715a><Åtgärd:>
+• Betapred 4 mg/ml 2 ml IV
+
+
+
+Title/8. Antibiotika
+Text/
+Color/<#a5715a><Val:>
+• Doxyferm 200 mg PO
+• Amimox 750 mg PO
+• Cefotaxim 1 mg IV

@@ -1,97 +1,136 @@
-Title/1. Cervical-Spine Stabilisation?
+Title/1. Halsrygg stabilisering?
 Text/
-Indication: potential cervical spine injury in the setting of trauma.
+Color/<#5EA35C><Indikation:>
+• Potentiell fraktur
 
-• Stabilization of the cervical spine, manually initially.
+Color/<#a5715a><Åtgärd:>
+• Manuell stabilisering
 
 
 
-Title/2. Oxygen?
+Title/2. Syrgas?
 Text/
-Indication: SpO2 < 95%.  As PO2 decreases, cerebral vessels dilate to maintain oxygen delivery and vasogenic edema may ensue, thereby increasing ICP.
+Color/<#5EA35C><Indikation:>
+• SpO2 < 95%
 
-• Oxygen 10 L/min via mask with reservoir to maintain SpO2 > 95%.  
+Color/<#a5715a><Val:>
+• Mask med reservoar 10-15 L/min
+• Oxymask 1-10 L/min
 
 
 
 Title/3. Ventilation?
 Text/
-Indication: hypoventilation should be avoided in all patients with increased intracranial pressure.  Hyperventilation is indicated for patients showing clear signs of increase ICP (e.g. fixed dilated pupil) as a bridge to more durable therapy and not as a routine measure in all head-injured patients.
+Color/<#5EA35C><Indikation:>
+• EtCO2 > 6 kPa
 
-• Ventilate with mask or via endotracheal tube.
-
-• Capnometry or transcutaneous carbon dioxide measurement.
-
-• Target EtCO2 5 kPa (37.5 mm Hg) as default.
-
-• Target EtCO2 3.5 kPa (26 mm Hg) if fixed dilated pupil.
+Color/<#a5715a><Åtgärd:>
+• 2-person ventilation med mask och blåsa
+• Mål EtCO2 5 kPa
+• Mål EtCO2 3,5 kPa vid ljusstel pupill
 
 
 
-Title/4. Normal Saline?
+Title/4. Natriumklorid?
 Text/
-Indication: SBP < 110 mm Hg.  A MAP > 80 mm Hg, corresponding to a SBP > 100 mm Hg, should be maintained to avoid decreased cerebral blood flow (CBF), leading in turn to vasodilation, increased ICP and further decrease in cerebral perfusion pressure (CPP) (penumbra areas are very susceptible to even temporary falls in SBP).
+Color/<#5EA35C><Indikation:>
+• SBP < 110 mm Hg
 
-• Normal Saline 500 ml IV bolus.  Hypotonic solutions should be avoided since they may exacerbate cerebral edema.
+Color/<#a5715a><Åtgärd:>
+• Natriumklorid 500 ml IV bolus
+
+Color/<#A336C9><Notera:>
+• Undvik Ringer-Acetat och Glukos 50 mg/ml (hypotona lösningar)
 
 
 
-Title/5. Vasopressors?
+Title/5. Vasopressor?
 Text/
-Indication:  if normal saline is insufficient to maintain SBP > 110 mm Hg
+Color/<#5EA35C><Indikation:>
+• SBP < 110 mm Hg trots NaCl bolus
 
-• Vasopressors are safe in most patients with increased ICP.
+Color/<#a5715a><Åtgärd:>
+1. Noradrenalin 1 mg/ml 2 ml + 48 ml NaCl
+2. Start 0,1 µg/kg/min
+3. Bolus 5-10 µg
 
 
 
-Title/6. Facilitate Venous Return
+Title/6. Intubation?
 Text/
-• Elevating the head of the bed by 30° promotes cerebral venous outflow and is thought to decrease ICP without decreasing CPP or CBF
+Color/<#5EA35C><Indikation:>
+• Medvetslös, kan ej skydda luftväg
 
-• Reverse Trendelenburg position is an alternative to elevating the head of the bed
+Color/<#a5715a><Pre-medicinering-val:>
+• Fentanyl 100 µg IV långsamt
+• Adrenalin 20 µg IV vid hypotension 
 
-• Head neutral position, excessive flexion/rotation of the cervical spine should be corrected
+Color/<#a5715a><Paralys-val:>
+• Celocurin 1,5 mg/kg IV
+• Esmeron 1,2 mg/kg IV
 
-• Cervical collars should be removed to avoid venous congestion
+Color/<#a5715a><Vid sederingsbehov post-intubation:>
+• Propofol 10 µg/kg/min IV
 
 
 
-Title/7. Seizure Management
+Title/7. Huvudläge
 Text/
-Indication:  suspected seizure. Seizures increase cerebral metabolic rate and ICP.
+Color/<#a5715a><Åtgärder:>
+• Höja huvudändan av sängen 30° alternativt omvänd Trendelenburg
+• Huvudet i neutralt läge
+• Seponera eventuell halskrage
 
-• Diazepam 10 mg IV (0.2 mg/kg) or Midazolam 10 mg IM (0.2 mg/kg) initially (see Status Epilepticus for further management).
 
 
-
-Title/8. Fever Management
+Title/8. Krampanfall?
 Text/
-Indication:  temperature > 37.7°C.  Fever should be avoided since it increases metabolic rate by 10% per degree Celsius and is a potent vasodilator.
+Color/<#5EA35C><Indikation:>
+• Epileptiskt anfall eller misstänkt epileptiskt anfall
 
-• Paracetamol 1 g IV and/or physical cooling measures.
+Color/<#a5715a><Åtgärd:>
+• Stesolid 10 mg IV Color/<#0014ff><(0,2 mg/kg)>
+• Keppra 60 mg/kg IV
+InternalLink/<• Krampanfall><krampanfall>
 
-• Consider antibiotics in the setting of suspected infection.
 
 
-
-Title/9. Hypertonic Saline?
+Title/9. Paracetamol?
 Text/
-Indication:  unconscious + fixed dilated pupil (i.e. impending brain hernation).  Osmotic agents exert their effect by extracting water from the neurons where the blood-brain-barrier is intact.  Blood hyperosmolarity must be maintained until the underlying cause has been addressed, otherwise the gradient for water transfer is reversed, resulting in rebound increase in intracranial pressure.
+Color/<#5EA35C><Indikation:>
+• Temp > 37,7°C
 
-• Add 20 ml of NaCl concentrate 4 mmol/ml (i.e. 80 mmol) to a 250 ml bag of normal saline (NaCl 0.9%).  This yields a 270 ml solution containing 120 mmol of NaCl, i.e. a 2.94% NaCl solution.  Administer 275 ml IV of NaCl 3% over 5 minutes (2-4 ml/kg for children).
+Color/<#a5715a><Åtgärd:>
+• Paracetamol 1 g IV
+• Antibiotika vid misstänkt infektion
 
 
 
-Title/10. Corticosteroids?
+Title/10. Hyperton natriumklorid?
 Text/
-Indication:  known brain tumor or CNS-infection (but not traumatic brain injury, stroke)
+Color/<#5EA35C><Indikation:>
+• Medvetslös + ljusstel pupill
 
-• Betamethasone 4 mg/ml 4 ml IV
+Color/<#a5715a><Åtgärd:>
+1. Natriumklorid 250 ml + 20 ml Addex Natrium (NaCl 4 mmol/ml)
+2. Ge lösningen (270 ml) IV över 5 min Color/<#0014ff><(3 ml/kg)>
 
 
 
-Title/11. Head CT
+Title/11. Betapred?
 Text/
-Indication:  all.
+Color/<#5EA35C><Indikation:>
+• Känd hjärntumör
+• Känd/misstänkt intrakraniell infektion
 
-• Urgent non-contrast head CT
+Color/<#a5715a><Åtgärd:>
+• Betapred 4 mg/ml 4 ml IV
+
+
+
+Title/12. DT
+Text/
+Color/<#a5715a><Åtgärd:>
+• DT-hjärna
+• DT-angio halskärl och intrakraniella kärl: "dissektion?"
+• DT-halsrygg vid skalltrauma

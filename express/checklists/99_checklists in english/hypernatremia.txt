@@ -1,0 +1,24 @@
+Title/1. Information to get
+Text/
+• Urine osmolarity
+• Urine sodium
+
+
+
+Title/2. Marked Hypovolemia?
+Text/
+• NaCl 0.9% 500 ml IV bolus
+• Reassess volume status, remeasure [Na].
+
+
+
+Title/3. Acute Hypernatremia (i.e. Salt Poisoning)
+Text/
+• Glucose 5% 500 ml IV bolus + Water PO/NG +/- hemodialysis. [Na] + [Glu] every 2h.
+
+
+
+Title/4. Initial Treatment & Follow-Up
+Text/
+• NaCl 0.9% (154 mmol/L), Ringer’s (134 mmol/L Na + 4 mmol/L K) or Glucose 5% + NaCl 80 mmol/L + KCl 40 mmol/L depending on [Na] and desired rate of fluid repletion.
+• Measure [Na] initially every 4 hours, target [Na] drop ≤ 10 mmol/L/24 hours

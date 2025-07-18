@@ -1,0 +1,169 @@
+Title/1. Akuta konsulter?
+Text/
+
+Color/<#5EA35C><ECMO:>
+• Ung patient
+• Hypotermi
+• Massiv lungemboli
+• THIVA-jour 77971 (KONTROLL)
+
+Color/<#5EA35C><Gravid över 20v/fundus ovan navel:>
+InternalLink/<• Förbered perimortem sectio><perimortem sectio>
+• Förlossningsjour 72501
+• Neojour 78580
+
+Color/<#0014ff><Barn:>
+InternalLink/<• HLR barn läkemedel><hlr barn lakemedel>
+• Barn IVA-jour 78484
+
+
+
+Title/2. Sign-In
+Text/
+• Tidigare sjukdomar/läkemedel
+• Ambulansrapport
+
+Color/<#5EA35C><Akutläkare:>
+• Ultraljud hjärta: tamponad, kontraktioner?
+• Blodgas femoralt +/- CVK
+• DVT? Pneumothorax?
+
+Color/<#5EA35C><Akutens sjuksköterska:>
+• PVK, IO nål humerus
+• Läkemedel
+
+Color/<#5EA35C><Teamleader:>
+• Rytmanalys, def
+• Ordinerar läkemedel
+• Läser högt genom checklista reversibla orsaker
+
+
+Title/3. VF/pVT
+Text/
+Color/<#a5715a><Läkemedel:>
+• Cordarone 300 mg IV bolus efter 3:e def
+• Adrenalin 1 mg IV bolus efter 3:e def
+• Cordarone 150 mg IV bolus efter 5:e def
+
+Color/<#a5715a><Refraktär VF/VT:>
+• Seponera LUCAS, manuell kompression
+• Stockvänd, lägg till plattor anteroposteriort
+• Deffa med 0.5 sekundersmellanrum
+• Xylocard 20 mg/ml 5 ml IV bolus
+
+Color/<#0014ff><Barn:>
+• Cordarone IV bolus efter 3:e def
+• Adrenalin IV efter 3:e def
+• Cordarone IV bolus efter 5:e def
+Internal link till "Barn-HLR-Doser"
+
+
+
+Title/4. Reversibla orsaker—LÄS HÖGT!
+Text/
+• Är luftvägen öppen? Vad är endtidal CO2?
+• Har vi tryckpneumothorax?
+• Har vi tamponad?
+• Har vi massiv blödning?
+• Har vi massiv lungemboli?
+• Har vi intox?
+• Vad är Kalium? Kalcium? Glukos?
+
+
+
+Title/5. Åtgärder—Mekaniska orsaker
+Text/
+InternalLink/<Lungemboli:><lungemboli>
+• Actilys 50 mg IV bolus
+• Actilys 50 mg ytterligare efter 15 min
+• Överväg ECMO (THIVA-jour 77971 KONTROLL)
+• Överväg HLR i upp till 90 min
+
+Color/<#5EA35C><Tryckpneumothorax/hemothorax:>
+• Torakostomi safe triangle (scalpel och peang)
+
+Color/<#5EA35C><Tamponad:>
+• Perikardiocentes
+• Torakotomi
+
+
+
+Title/6. Åtgärder—Metabola orsaker
+Text/
+InternalLink/<Hyperkalemi:><hyperkalemi>
+• Kalciumglukonat 100 mg/ml 30 ml IV bolus Color/<#0014ff><(0,3 ml/kg)>
+
+InternalLink/<Hypokalemi:><hypokalemi>
+• Addex-Magnesium 1 mmol/ml 10 ml späd med 10 ml NaCl IV över 5 min
+• Addex-Kaliumklorid 2 mmol/ml 10 ml späd med 10 ml NaCl IV över 10 min
+
+InternalLink/<Hypokalcemi:><hypokalcemi>
+• Kalciumglukonat 100 mg/ml 30 ml IV bolus Color/<#0014ff><(0,3 ml/kg)>
+
+InternalLink/<Hypotermi:><hypotermi>
+• Avstå från läkemedel om Temp < 30°C
+• Dubblera interval mellan adrenalin om Temp 30-35°C
+• NaCl 20 ml/kg värmd till 42°C intraperitonealt i 20 min, dränera/upprepa
+• NaCl 250 ml värmd till 42°C intrapleuralt i 20 min, dränera/upprepa
+• ECMO: THIVA-jour 77971
+
+
+
+Title/7. Åtgärder—Toxiska orsaker
+Text/
+Color/<#5EA35C><Giftinformation:>
+• 010-456 6719
+
+Color/<#5EA35C><Opioid:>
+• Naloxon 2 mg IV
+
+InternalLink/<Natrium-kanalblockad:><natrium-kanalblockad>
+• NaBic 50 mg/ml 200 ml IV Color/<#0014ff><(3 ml/kg)>
+
+InternalLink/<Kalciumantagonist - betablockerare:><kalciumantagonist - betablockerare>
+• Kalciumglukonat 100 mg/ml 30 ml IV Color/<#0014ff><(0,3 ml/kg)>
+• Glukos 300 mg/ml 50 ml IV bolus
+• Lispro eller Aspart 1 E/kg IV bolus
+
+Color/<#A336C9><Överväg:>
+• Intralipid 200 mg/ml 100 ml IV över 1 min Color/<#0014ff><(1,5 ml/kg)>
+• ECMO: THIVA-jour 77971
+
+
+
+Title/8. ROSC
+Text/
+InternalLink/<Noradrenalin infusion:><sprutpump doser>
+• Noradrenalin 1 mg/ml 2 ml med 48 ml koksalt = 40 µg/ml
+• Bolus 10 µg
+• Initial infusion 0,1 µg/kg/min
+
+Color/<#5EA35C><PCI vid:>
+• VF/pVT
+• STEMI
+
+Color/<#A336C9><Överväg:>
+• DT-hjärna: blödning?
+• DT-thorax: pneumothorax?
+
+
+
+Title/9. Avbryta återupplivning
+Text/
+Color/<#f40b1a><Dåliga omständigheter:>
+• Ej bevittnat
+• Ej bystander HLR
+• Ej defibrillerbar rytm
+
+Color/<#f40b1a><Dåliga svar på HLR:>
+• HLR > 40 min
+• Asystole
+• Ingen hjärtverksamhet vid ultraljud
+• Endtidalt CO2 < 1,3 kPa
+
+Color/<#a5715a><Rättsmedicinsk obduktion vid:>
+• Misstänkt mord eller självmord
+• Olycka
+• Misstänkt fel inom sjukvård
+• Helt oväntat dödsfall
+• Inre befäl 010-5615075

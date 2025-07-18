@@ -1,0 +1,75 @@
+Title/1. Information att inhämta
+Text/
+Color/<#a5715a><Blodprov:>
+• Blodgas
+• PTH
+• 25-OH-Vitamin D
+
+Color/<#a5715a><EKG om joniserat Ca över 1,7 mmol/L>
+Följande kan förekomma:
+• Arytmi
+• PQ-förlängning
+• Bred QRS
+• ST-höjning
+• Kort QTc
+
+
+
+Title/2. Hjärtövervakning
+Text/
+Color/<#5EA35C><Indikation:>
+• Joniserat Ca > 1,7 mmol/L
+
+
+
+Title/3. Natriumklorid
+Text/
+Color/<#5EA35C><Indikation:>
+• Joniserat Ca > 1,5 mmol/L
+
+Color/<#a5715a><Åtgärd:>
+• NaCl 1000 ml IV över 4 tim
+• Anpassa infusion till övriga sjukdomar (t ex hjärtsvikt)
+• Mål: diures 100-150 ml/tim
+
+
+
+Title/4. Kalcitonin?
+Text/
+Color/<#5EA35C><Indikation:>
+• Joniserat Ca > 1,7 mmol/L
+
+Color/<#a5715a><Åtgärd:>
+• Kalcitonin (Miacalcic) 100 E/ml 0,3 ml IM (4 E/kg)
+
+
+
+Title/5. Zoledronsyra?
+Text/
+Color/<#5EA35C><Indikation:>
+• Joniserat Ca > 1,7 mmol/L
+
+Color/<#a5715a><Åtgärd:>
+• Zoledronsyra 4 mg IV över 15 min
+• Dosen reduceras vid Kreatininclearance < 60 ml/min
+
+
+
+Title/6. Seponera läkemedel
+Text/
+Color/<#a5715a><Seponera:>
+• Tiazider
+• Kalciumtabletter
+• Kosttillskott som innehåller Kalcium, Vit D, Vit A
+
+
+
+Title/7. Vidare vård
+Text/
+Color/<#5EA35C><Joniserat Ca över 1,7 mmol/L eller medvetandepåverkan:>
+• Inläggning med hjärtövervakning
+• Hemodialys vid svår refraktär hyperkalcemi
+
+Color/<#5EA35C><Joniserat Ca under 1,5 mmol/L och inga symptom:>
+• Dricka 8 glas vatten per dygn
+• Uppföljning i primärvården

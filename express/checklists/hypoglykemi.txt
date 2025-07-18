@@ -1,0 +1,44 @@
+Title/1. Svåra symtom?
+Text/
+Color/<#a5715a><Glukos IV:>
+• Glukos 300 mg/ml (30%) 30 ml IV
+Color/<#0014ff><• Glukos 50 mg/ml (5%) 4 ml/kg IV>
+Color/<#0014ff><• Sedan Glukos 50 mg/ml (5%) 8 ml/kg/tim IV>
+
+Color/<#a5715a><Glukagon IM:>
+• Glukagon 1 mg IM
+Color/<#0014ff><• Glukagon 1 mg IM om över 6 år>
+Color/<#0014ff><• Glukagon 0,5 mg IM om under 6 år>
+
+Color/<#a5715a><Övriga åtgärder:>
+• Tiamin 300 mg IV vid alkoholmissbruk, undernäring
+• Octreotide 100 µg IM eller SC vid sulfonylurea överdos (Mindiab, Daonil, Amaryl) Color/<#0014ff><(1 µg/kg)>
+
+
+
+Title/2. Milda symtom?
+Text/
+Color/<#a5715a><Åtgärd:>
+• Druvsockertablett PO
+
+
+
+Title/3. Differentialdiagnos
+Text/
+Color/<#A336C9><För mycket insulin:>
+• Överdos med exogen insulin
+• Överdos med sulfonylurea eller repaglinid
+
+Color/<#A336C9><Övriga orsaker:>
+• Sepsis
+• Addison
+• Undernäring (anorexi)
+• Overdos alkohol, betablockerare
+
+
+
+Title/4. Monitorering
+Text/
+Color/<#a5715a><Åtgärd:>
+• Nytt glukos om 15-30 min
+• Vidare handläggning beror på orsaken

@@ -1,0 +1,79 @@
+Title/1. Hjärtstopp?
+Text/
+Color/<#a5715a><Magnesium:>
+• Addex-Magnesium 1 mmol/ml 10 ml späd med 10 ml NaCl IV över 5 min
+
+Color/<#a5715a><Kalium:>
+• Addex-Kaliumklorid 2 mmol/ml 10 ml späd med 10 ml NaCl IV över 10 min
+
+Color/<#A336C9><Notera:>
+• Kaliumklorid ges helst via CVK eller prox PVK
+
+
+
+Title/2. Livshotande arytmi?
+Text/
+Color/<#a5715a><Magnesium:>
+• Addex-Magnesium 1 mmol/ml 10 ml späd med 10 ml NaCl IV över 10 min
+
+Color/<#a5715a><Kalium:>
+• Addex-Kaliumklorid 2 mmol/ml 10 ml späd med 250 ml NaCl IV över 15 min
+
+Color/<#A336C9><Notera:>
+• Kaliumklorid ges helst via CVK eller prox PVK
+
+
+ 
+Title/3. Långsam K + Mg infusion?
+Text/
+Color/<#5EA35C><Indikation:>
+• Kalium < 3,0 mmol/L
+
+Color/<#a5715a><Åtgärd:>
+• 1000 ml NaCl med tillägg av
+-Addex-Kaliumklorid 2 mmol/ml 20 ml
+-Addex-Magnesium 1 mmol/ml 20 ml
+
+• Ges IV över 4 tim (infusionspump)
+
+
+
+Title/4. Kaleorid PO?
+Text/
+Color/<#5EA35C><Indikation:>
+• Kalium < 3,5 mmol/L
+
+Color/<#a5715a><Åtgärd:>
+• Kaleorid 750 mg x 2-4 PO
+
+Color/<#A336C9><Notera:>
+• K kan substitueras IV och PO samtidigt
+
+
+
+Title/5. Hjärtmonitorering?
+Text/
+Color/<#5EA35C><Indikation:>
+• Telemetri så länge K < 2,5 mmol/L
+
+
+
+Title/6. Prov
+Text/
+Color/<#a5715a><• EKG:>
+- Förlängd QTc?
+- U-vågor (oftast V4-V6)?
+
+Color/<#a5715a><• Serum-Magnesium>
+
+
+
+Title/7. Uppföljning Kalium
+Text/
+Color/<#a5715a><Åtgärd:>
+• Nytt K var 2:a tim
+
+Color/<#A336C9><Notera:>
+Risk för överkorrigering vid
+• Njursvikt
+• Hypokalemi utlöst av shift (resp alkalos, beta-agonist, tyreotoxisk periodisk paralys)

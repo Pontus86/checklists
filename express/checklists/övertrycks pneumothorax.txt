@@ -1,7 +1,38 @@
-Title/1. Needle Decompression
+Title/1. Dekompression
 Text/
-• Needle insertion anterior axillary line 4th or 5th intercostal space
+Color/<#a5715a><Plats:>
+• Säkra triangeln (mittaxillärlinjen kraniellt om bröstvårtan)
 
-Title/2. Chest Tube
+Color/<#a5715a><Val:>
+• PVK
+• Nål från CVK-kit (hjärtstoppsvagn)
+• Skalpel + peang (thoraxgaller)
+
+
+
+Title/2. Drän
 Text/
-• Chest tube in triangle of safety prevents reaccumulation of pressure in pleural space
+• 12F Cook
+
+
+
+Title/Om övertryckspneumothorax
+Text/
+Color/<#A336C9><Sammanhang:>
+Övertrycksventilation efter/vid
+• Trauma mot bröstkorgen, HLR
+• CVK vena jugularis interna eller subklavia
+• Svår astma/KOL
+
+Color/<#A336C9><Airway:>
+• Halsvenstas
+• Trakealdeviation (sent fynd)
+
+Color/<#A336C9><Breathing:>
+• Hypoxemi
+• Svårt att ventilera
+• Asymmetriska bröstkorgsrörelser
+• Nedsatta andningsljud
+
+Color/<#A336C9><Ultraljud:>
+• Frånvaro lungsliding

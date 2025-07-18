@@ -1,23 +1,57 @@
-Sign In
-Sign Out
-----------------------------------------
-ChapterTitle/<VUXEN>
-Agiterad
-Smärta vuxen
-Procedursedering vuxen
-----------------------------------------
 ChapterTitle/<BARN>
 WETBAG
-Smärta barn
-Procedursedering barn
-----------------------------------------
+HLR barn läkemedel
+Vitalparametrar barn
+
+ChapterTitle/<SMÄRTA 0-8 ÅR>
+Smärta barn intranasalt
+Smärta barn per os
+Smärta barn intravenöst
+Smärta barn intramuskulärt
+
+ChapterTitle/<PROCEDURSEDERING 0-8 ÅR>
+PSA barn intranasalt
+PSA barn intramuskulärt
+PSA barn intravenöst
+
+ChapterTitle/<SMÄRTA ≥ 8 ÅR>
+Smärta vuxen inhalerat
+Smärta vuxen per os
+Smärta vuxen intravenöst
+Smärta vuxen intramuskulärt
+
+ChapterTitle/<PROCEDURSEDERING ≥ 8 ÅR>
+PSA vuxen intravenöst
+PSA vuxen inhalerat
+PSA vuxen intramuskulärt
+
+ChapterTitle/<VUXEN>
+Agiterad - Aggressiv
+
 ChapterTitle/<MOTGIFTER>
-Naloxone & Lanexat
-----------------------------------------
+Naloxon och Lanexat
+
 ChapterTitle/<CHOCK>
 Push-dose pressor
 Sprutpump doser
-----------------------------------------
+
+ChapterTitle/<DISABILITY>
+RLS
+GCS
+
+ChapterTitle/<EKG>
+VT vs SVT-1
+VT vs SVT-2
+Sgarbossa-1
+Sgarbossa-2
+Hyperakut T-vag
+Posterior omi
+III & aVL
+
+ChapterTitle/<ULTRALJUD>
+Ultraljud lungemboli
+
 ChapterTitle/<ÖVRIGT>
-Samtycke
+Vård utan samtycke
 NEWS2
+RSI

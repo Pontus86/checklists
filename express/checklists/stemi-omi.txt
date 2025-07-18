@@ -1,0 +1,114 @@
+Title/1. Syrgas?
+Text/
+Color/<#5EA35C><Indikation:>
+• SpO2 < 90%
+
+Color/<#a5715a><Val:>
+• Mask med reservoar 10-15 L/min
+• Oxymask 1-10 L/min
+
+
+
+Title/2. Aortadissektion?
+Text/
+Color/<#A336C9><Notera:>
+• Överväg aortadissektion vid urakut debut av skarp svår smärta
+• Notera dock att aortadissektion ger nästan aldrig STEMI på EKG (enbart 0,5%)
+
+
+
+Title/3. Typ 2 infarkt?
+Text/
+Color/<#A336C9><Överväg typ 2 infarkt sekundärt till:>
+• Sepsis
+• Anemi
+• Arytmi
+
+
+
+Title/4. Akut PCI?
+Text/
+Color/<#5EA35C><Indikation:>
+• Misstänkt STEMI-OMI
+
+Color/<#a5715a><Åtgärd:>
+• HIA-jour 71414
+
+
+
+Title/5. Trombyl?
+Text/
+Color/<#5EA35C><Indikation:>
+• Misstänkt STEMI-OMI
+
+Color/<#f40b1a><Kontraindikationer:>
+• Allergi
+• Misstänkt aortadissektion
+
+Color/<#a5715a><Åtgärd:>
+• Trombyl 75 mg x 4 PO
+
+
+
+
+Title/6. Heparin?
+Text/
+Color/<#5EA35C><Indikation:>
+• Misstänkt STEMI-OMI
+
+Color/<#a5715a><Åtgärd:>
+• Heparin 50-70 E/kg IV bolus, max 5000 E
+
+
+
+Title/7. Lipitor?
+Text/
+Color/<#5EA35C><Indikation:>
+• Misstänkt STEMI-OMI
+
+Color/<#a5715a><Åtgärd:>
+• Atorvastatin (Lipitor) 80 mg PO
+
+
+
+Title/8. Nitroglycerin?
+Text/
+Color/<#5EA35C><Indikation:>
+• Smärta
+• Rekommenderas ej rutinmässigt
+
+Color/<#f40b1a><Relativ kontraindikation:>
+• SBT < 100 mm Hg
+
+Color/<#a5715a><Åtgärd:>
+• Nitroglycerin 1 puff SL
+
+
+
+Title/9. Morfin?
+Text/
+Color/<#5EA35C><Indikation:>
+• Svår smärta
+• Rekommenderas ej rutinmässigt
+
+Color/<#f40b1a><Relativ kontraindikation:>
+• SBT < 100 mm Hg
+
+Color/<#a5715a><Åtgärder:>
+• Morfin 10 mg/ml 0,4 ml IV
+
+
+
+Title/Om STEMI-OMI
+Text/
+• ST-höjningar > 1 mm i 2 intilliggande avledningar
+• ST-höjningar i V2-V3:
+- ≥ 1,5 mm hos kvinnor
+- ≥ 2 mm hos män > 40 år
+- ≥ 2,5 mm hos män < 40 år
+
+InternalLink/<• Sgarbossa-1><sgarbossa-1>
+InternalLink/<• Sgarbossa-2><sgarbossa-2>
+InternalLink/<• Hyperakut T-våg><hyperakut T-vag>
+InternalLink/<• Posterior OMI><posterior omi>
+InternalLink/<• III & aVL><iii & avl>

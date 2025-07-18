@@ -1,0 +1,92 @@
+Title/1. Lågt blodtryck - chock?
+Text/
+Color/<#a5715a><Åtgärd:>
+• Ringer-Acetat 500 ml IV bolus Color/<#0014ff><(10 mg/kg)>
+
+
+
+Title/2. Ringer-Acetat
+Text/
+Color/<#a5715a><Åtgärd:>
+• Ringer-Acetat 1000 ml IV över 2 tim Color/<#0014ff><(10 mg/kg över 2 tim)>
+
+
+
+Title/3. Kalium
+Text/
+Color/<#f40b1a><Kontraindikationer:>
+• Kalium > 5,3 mmmol/L
+• Chock, ingen diures
+
+Color/<#a5715a><Kalium infusion:>
+1. Kaliumklorid 2 mmol/ml 20 ml tilläggs NaCl 1000 ml
+2. Markera påsen "Tillägg 40 mmol KCl"
+3. Infusion 1020 ml över 4 tim
+
+
+
+Title/4. Insulin
+Text/
+Color/<#f40b1a><Kontraindikation:>
+• Kalium < 3,3 mmmol/L
+
+Color/<#a5715a><Förbered insulin infusion:>
+1. Hämta 50 ml spruta
+2. Dra upp Lispro/Humalog eller Aspart/Novorapid 100 E/ml 0,5 ml (50 E)
+3. Späd med 49,5 ml NaCl
+4. Markera sprutan "Insulin 1 E/ml"
+
+Color/<#a5715a><Val 1: påbörja infusion>
+1. Infusion 0,1 E/kg/tim (80 kg: 8 ml/tim)
+2. VSSI motsvarande 2 timmar
+
+Color/<#a5715a><Val 2: bolus som bro till infusion>
+• 0,05 E/kg IV bolus (80 kg: 4 E = 4 ml)
+
+
+
+Title/5. Glukos
+Text/
+Color/<#5EA35C><Indikation:>
+• Glukos < 15 mmol/L
+
+Color/<#a5715a><Åtgärd:>
+• Glukos 50 mg/ml 1000 ml IV över 2 tim
+
+
+
+Title/6. Utlösande faktor
+Text/
+Color/<#A336C9><Överväg:>
+• Infektion: antibiotika?
+• Insulinpump problem / non-compliance?
+
+
+
+Title/7. Vidare handläggning
+Text/
+• Inläggning på AVA (IVA)
+
+• Ny blodgas varannan timme och justering av:
+- Vätska (som regel Ringer-Acetat 500 ml/tim i 4 timmar sedan 250 ml/tim)
+- Kalium-infusion
+- Insulin-infusion
+- Glukos-infusion
+
+• Effektiv osmolaritet = (2 x Na) + glukos
+- Målet är minskning på < 3 mmol/L/tim
+- Vid för snabb minskning ges/höjs glukos-infusion eller byt till Glukos 100 mg/ml
+
+
+
+Title/Om diabetesketoacidos
+Text/
+Color/<#5EA35C><Talar för DKA (samtliga):>
+• Känd typ 1 diabetes eller hyperglykemi
+• Kapillära ketoner > 3 mmol/L
+• Ingen annan förklaring för ketoner (alkohol, svält)
+
+Color/<#A336C9><Notera:>
+• Glukos kan vara < 12 mmol/L, särskilt vid användning av SGLT2-hämmare (Forxiga, Jardiance)
+• pH kan vara > 7,35 vid samtidig metabol alkalos från kräkning/intorkning
+• HCO3/BE kan vara normala vid samtidig metabol alkalos

@@ -1,0 +1,92 @@
+Title/1. Patientlag (2014:821)?
+Text/
+Color/<#5EA35C><Indikation:>
+• Om patientens vilja på grund av medvetslöshet Color/<#A336C9><eller av någon annan orsak> inte kan utredas
+
+Color/<#a5715a><Åtgärd:>
+• Vård som behövs för att avvärja fara som allvarligt hotar patientens liv eller hälsa får ges enligt Patientlag 4 kap 4 §
+
+Color/<#A336C9><Exempel:>
+• Patient som är förvirrad på grund av misstänkt hjärnblödning kan sederas utan samtycke för att kunna genomgå akut DT-hjärna
+
+
+
+Title/2. LPT (1991:1128)?
+Text/
+Color/<#5EA35C><Kriterier:>
+Color/<#A336C9><1-Allvarlig psykisk störning:>
+- psykos (oavsett orsak)
+- svår depression med självmordstankar
+- svår personlighetsstörning med impulskontrollstörning
+- svår anorexia nervosa
+Color/<#f40b1a><- missbruk, utvecklingsstörning, demens betraktas ej som "allvarlig psykisk störning">
+
+Color/<#A336C9><2-Oundgängligt behov av psykiatrisk vård> inklusive farlig för annans persons säkerhet eller fysiska eller psykiska hälsa
+
+Color/<#A336C9><3-Motsätter sig vård> eller att det finns grundad anledning att anta att vården inte kan ges med patientens samtycke (t ex pga bipolär sjukdom)
+
+Color/<#a5715a><Åtgärder:>
+• Leg läkare får utfärda vårdintyg och innan intagningsbeslut:
+- hindra patienten från att lämna vårdinrättningen
+- ge nödvändig behandling vid överhängande fara för patientens liv eller hälsa
+
+
+
+Title/3. Presumerad samtycke?
+Text/
+Color/<#5EA35C><Indikation:>
+• Om patienten inte bedöms beslutskapabel (t ex svår demens)
+
+Color/<#a5715a><Åtgärd:>
+• Man kan motivera behandling mot patientens vilja enligt "presumerat" eller "hypotestiskt" samtycke
+• Det finns dock inget stöd i lagen för det
+
+
+
+Title/4. Patienten är ett barn
+Text/
+Color/<#5EA35C><• Grundregel: >vårdnadshavare har både rätt och skyldighet att bestämma gällande vård och behandling som rör barnet
+
+Color/<#A336C9><• Om vårdnadshavare motsätter att barnet får livsnödvändig behandling: >kontakta hemorts sociala jouren eller 112 (begär socialtjänstens beredskap)
+
+Color/<#A336C9><• Barnets inställning >till den aktuella vården ska tillmätas betydelse i förhållande till hans eller hennes ålder och mognad enligt Patientlag (2014:821) 4 kap 3 §. Det innebär att ett barn kan bedömas lämpligt att fatta egna beslut redan innan 18 års ålder
+
+
+
+
+
+Title/5. Anhöriga/Förvaltare
+Text/
+Color/<#5EA35C><• Anhöriga och andra närstående> har inte några rättsliga befogenheter att agera som ställföreträdare för en vuxen person
+
+Color/<#5EA35C><• Förvaltare eller god man> kan inte samtycka till vård och omsorg mot den enskildes vilja
+
+
+
+
+Title/6. Nödrätt?
+Text/
+Color/<#5EA35C><Indikation:>
+• Fara hotar liv eller hälsa?
+
+Color/<#a5715a><Åtgärder:>
+• Åtgärder (som annars skulle vara brottsliga) får göras enligt Brottsbalk (1962:700) 24 kap 4 §
+• Vilka åtgärders om gäller specificeras ej i lagtexten, utan proportionaliteten till angreppet gäller
+
+Color/<#A336C9><Exempel:>
+• Man får hålla fast en patient som försöker allvarligt skada sig själv enligt Nödrätt
+
+
+
+Title/7. Nödvärn?
+Text/
+Color/<#5EA35C><Indikation:>
+• Brottsligt angrepp på person/egendom?
+
+Color/<#a5715a><Åtgärder:>
+• Åtgärder (som annars skulle vara brottsliga) får göras enligt Brottsbalk (1962:700) 24 kap 1 §
+• Vilka åtgärders om gäller specificeras ej i lagtexten, utan proportionaliteten till angreppet gäller
+
+Color/<#A336C9><Exempel:>
+• Man får hålla fast en patient som river akutrummet och förstör utrustning
+• Se InternalLink/<Agiterad-aggressiv patient><agiterad - aggressiv>

@@ -1,0 +1,108 @@
+Title/Giftinformation
+Text/
+• 010-456 6719
+• https://giftinformation.se/lakare/
+
+
+
+Title/1. Ringer-Acetat?
+Text/
+Color/<#5EA35C><Indikation:>
+• SBT < 110
+
+Color/<#a5715a><Åtgärd:>
+• Ringer-Acetat 500 ml IV bolus Color/<#0014ff><(10 ml/kg)>
+
+
+
+Title/2. NaHCO3?
+Text/
+Color/<#5EA35C><Indikationer:>
+• QRS > 100 msec
+• SBT < 110 trots Ringer-Acetat bolus
+• Ventrikulär arytmi
+
+Color/<#a5715a><Åtgärd:>
+• NaHCO3 50 mg/ml 200 ml IV bolus Color/<#0014ff><(3 ml/kg)>
+• Kan upprepas efter 5 min
+
+
+
+Title/3. Magnesium?
+Text/
+Color/<#5EA35C><Indikation:>
+• Ventrikulär arytmi trots 2 behandlingar med NaHCO3
+
+Color/<#a5715a><Åtgärd:>
+• Addex-Magnesium 1 mmol/ml 10 ml IV över 2 min
+
+
+
+Title/4. Vasopressor?
+Text/
+Color/<#5EA35C><Indikation:>
+• Kritiskt lågt blodtryck
+
+Color/<#a5715a><Åtgärder:>
+InternalLink/<• Adrenalin som push-dose pressor><push-dose pressor>
+InternalLink/<• Noradrenalin som infusion><sprutpump doser>
+
+
+
+Title/5. Hyperventilation?
+Text/
+Color/<#5EA35C><Indikation:>
+• Allvarlig intox + pH < 7,50 trots NaHCO3 behandling
+
+Color/<#a5715a><Åtgärd:>
+• Hyperventilera med mål pH 7,50 - 7,55
+
+
+
+Title/6. NaCl 3%?
+Text/
+Color/<#5EA35C><Indikation:>
+• Lågt blodtryck trots behandlingar ovan
+
+Color/<#a5715a><Åtgärd:>
+1-Hämta NaCl 100 ml
+2-Lägg till Addex-Natriumklorid 4 mmol/L 10 ml
+3-Ge hela lösningen (110 ml) IV över 5 min
+4-Upprepa efter 10 min vid behov
+
+
+
+Title/7. Krampanfall?
+Text/
+Color/<#a5715a><1:a linjens behandling (val):>
+• Diazepam 10 mg IV
+• Midazolam 10 mg IM
+
+Color/<#a5715a><2:a linjens behandling:>
+• Propofol 0,5 mg/kg IV
+
+
+
+Title/8. Sistalinjen
+Text/
+Color/<#a5715a><Val:>
+• InternalLink/<Externpacing><externpacing>
+• Intralipid 200 mg/ml 100 ml IV över 1 min Color/<#0014ff><(1,5 ml/kg)>. Kan upprepas x 2
+• ECMO: THIVA 77971
+• Lidokain 1,5 mg/kg IV
+
+
+
+Title/9. Övrigt
+Text/
+• Se även InternalLink/<Allmänt om intoxikation><allmant>
+
+
+
+Title/10. Vidare vård
+Text/
+Color/<#A336C9><Överväg:>
+• Samtidig kalium-kanalblockad (förlängd QTc)? InternalLink/<Intox kalium-kanalblockad><kalium-kanalblockad>
+
+Color/<#a5715a><Inläggning:>
+• Telemetri och QRS-bredd monitorering

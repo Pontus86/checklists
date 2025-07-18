@@ -1,0 +1,79 @@
+Title/1. SYMPTOMS
+Text/
+• Patients may present with fatigue, constipation, leg cramps, weakness, ascending paralysis, cardiac arrhythmias.
+
+Title/2. INVESTIGATIONS
+Text/
+• EKG: Arrhythmias? Prolonged QTc? U waves? Increased risk in patients on antiarrhythmics, e.g. digoxin and sotalol
+• Serum Magnesium: Hypomagnesemia?
+
+Title/3. ELECTROCARDIOGRAM
+Text/
+O	•	Arrhythmias, especially if the patient is taking digoxin: premature supraventricular and ventricular beats, sinus bradycardia, paroxysmal atrial or junctional tachycardia, atrioventricular block
+•	Mild PR prolongation
+•	Cardiac arrest: PEA, asystole, pVT, VF
+S	•	ST-segment depression
+T 	•	T-wave flattening or inversion
+•	QTc prolongation
++	•	U waves, often seen in V4-V6
+
+Title/4. Fast Potassium Chloride Infusion?
+Text/
+• Indication: unstable arrhythmias where cardiac arrest is considered imminent. 
+• Potassium 20 mmol (Addex®-Kaliumklorid 2 mmol/ml 10 ml in 250 ml NaCl) IV over 10 min (ideally via a central vein catheter).
+• The dose can be followed up by an infusion of Potassium 10 mmol over 10 minutes.
+
+Title/5. Fast Magnesium Sulphate Infusion?
+Text/
+• Indication: ventricular tachycardia and severe hypokalemia. 
+• Magnesium Sulphate 2.5 g (10 mmol) (Addex®-Magnesium 1 mmol/ml 10 ml mixed with 10 ml NaCl 0.9%) IV over 10 min.
+• The dose may be repeated after 10-15 min.
+• Hypomagnesemia is very common in patients with hypokalemia, magnesium administration may be the fastest way to decrease the risk of malignant arrhythmias. 
+
+ 
+Title/6. Slow Potassium Chloride and Magnesium Sulphate Infusion < 3.0 mmol/L
+Text/
+• Indication: [K] < 3.0 mmol/L
+• Potassium Chloride 40 mmol (Addex®-Kaliumklorid 2 mmol/ml 20 ml) + Magnesium Sulfate 10 mmol (Addex®-Magnesium 1 mmol/ml 10 ml) in 1 L NaCl 0.9% IV over 4 hours, ideally with an infusion pump. KCl infusion rate is thus 10 mmol/hr.
+• The maximum recommended KCl infusion rate is 20 mmol/hr. Two peripheral infusions at the rate of 10 mmol/hr may be given.
+• Patients receiving KCl infusion require in addition 10-20 mmol Magnesium daily.
+
+Title/7. Oral Potassium Chloride
+Text/
+• Indication: [K] < 3.5 mmol/L
+• Potassium Chloride PO.  Oral and IV supplementation may be carried out simultaneously. The recommended dose is Potassium Chloride 40 mEq PO three to four times per day. Kaleorid depottablett à 750 mg contains 10 mEq Kalium, can give 2-4 tabletts PO initially.
+
+Title/8. Heart Monitoring
+Text/
+• Continuous cardiac monitoring is recommended as long as the K is < 2.5 mmol/L
+
+Title/9. Monitor Serum Potassium
+Text/
+• Monitor serum potassium initially every 2-4 hours. Risk of hyperkalemia (i.e. over-correction) especially in patients with GFR < 30 ml/min and in patients for whom the hypokalemias was caused by shift (se table below).
+
+Title/10. Further Care
+Text/
+• Kaleorid depottablett à 750 mg (10 mEq KCl) 2-3 x 3-4 daily PO
+• Emgesan 250 mg 1x2 PO daily for several days if severe hypokalemia
+• Patients with K ≥ 3.0 mmol/L can usually be follow-up in the primary care setting
+
+Title/11. DIFFERENTIAL DIAGNOSIS OF HYPOKALEMIA
+Text/
+Pathophysiology	Examples
+Decreased potassium intake	•	Poor dietary intake
+• Geophagia
+Shift (extracellular to intracellular)	•	Alkalosis
+• Insulin e.g. treatment of diabetic ketoacidosis
+•	Adrenalin (exogenous and endogenous)
+•	Beta-adrenergics (e.g. when treating asthma exacerbations)
+•	Hypokalemic or thyrotoxic periodic paralysis
+Increased potassium loss	Renal	•	Diuretics, osmotic diuresis, diabetes insipidus
+•	High aldosterone:
+o	Primary hyperaldosteronism e.g. Conn' syndrome
+o	Secondary to intravascular volume depletion
+•	Renal tubular acidosis
+•	Licorice ingestion, chewing tobacco
+•	Hypomagnesemia
+	Gastro-intestinal	•	Vomiting, nasogastric suction
+•	Diarrhea, malabsorption, laxative abuse, enema abuse
+Pseudohypokalemia	•	Acute leukemia

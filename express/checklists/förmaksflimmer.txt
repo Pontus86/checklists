@@ -1,77 +1,111 @@
-Title/1. Åtgärd 1
+Title/1. Utlösande faktor?
 Text/
-Indikation: indikation
+Color/<#A336C9><Överväg:>
+• Hypovolemi/blödning
+• Lungemboli
+• Myokardischemi
+• Sepsis
+• Intoxikation
+• Abstinens
+• Tyreotoxikos
+• Hypokalemi, hypocalcemi, hypomagnesiemi
 
-Kontraindikation:  kontraindikation eller risk
-
-Läkemedel styrka dos route tid
-
+Color/<#a5715a><Åtgärd:>
+• Vid snabb flim/fladder sekundärt till tillstånd ovan: behandla tillståndet, ej takykardin 
 
 
-Title/2. Åtgärd 2
+
+Title/2. Elkonvertering?
 Text/
-Indikation: indikation
+Color/<#5EA35C><Indikation (punkter tillsammans):>
+• Paroxysmal flim/fladder
+• Duration < 24 tim eller antikoagulantia ≥ 3 veckor
 
-Kontraindikation:  kontraindikation eller risk
+Color/<#f40b1a><Kontraindikationer:>
+• Stroke/TIA inom 6 månader
+• Mekanisk hjärtklaff
 
-Läkemedel styrka dos route tid
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Elkonvertering><elkonvertering>
 
 
 
-Title/3. Åtgärd 3
+Title/3. Brinavess 1/2?
 Text/
-Indikation: indikation
+Color/<#5EA35C><Indikation (punkter tillsammans):>
+• Förmaksflimmer (ej förmaksfladder)
+• Duration < 48 tim eller antikoagulantia ≥ 3 veckor
+• Alternativ till elkonvertering
 
-Kontraindikation:  kontraindikation eller risk
+Color/<#f40b1a><Kontraindikationer:>
+• Stroke/TIA inom 6 månader eller mekanisk hjärtklaff
+• Hjärtsvikt medelsvår (andfådd vid lätt fysisk aktivitet) eller svår (andfådd i vila)
+• AKS inom 30 dagar
+• Svår aortastenos
+• SBT < 100 mm Hg
+• QT-tid > 440 ms (QTc-tid > 500 ms)
+• Svår bradykardi, AV-block II eller AV-block III och ingen pacemaker
+• Antiarytmika Klass I eller Klass III (t ex Amiodaron) inom senaste 4 tim
 
-Läkemedel styrka dos route tid
 
 
-
-Title/4. Åtgärd 4
+Title/4. Brinavess 2/2?
 Text/
-Indikation: indikation
+Color/<#a5715a><Förbereda infusion:>
+• Brinavess 20 mg/ml 25 ml (1 ampull) + NaCl 100 ml = 125 ml à 4 mg/ml
+• Ges via volympump
 
-Kontraindikation:  kontraindikation eller risk
+Color/<#a5715a><Infusion #1:>
+• Brinavess 3 mg/kg (0,75 ml/kg) IV över 10 min
 
-Läkemedel styrka dos route tid
+Color/<#a5715a><Infusion #2:>
+• Om förmaksflimmer fortsätter 15 min efter infusion #1
+• Brinavess 2 mg/kg (0,5 ml/kg) IV över 10 min
 
 
 
-Title/5. Åtgärd 5
+Title/5. TEE?
 Text/
-Indikation: indikation
+Color/<#5EA35C><Indikation (punkter tillsammans):>
+• Snar återställning till sinus önskvärt
+• Duration > 24 tim och antikoagulantia < 3 veckor
 
-Kontraindikation:  kontraindikation eller risk
-
-Läkemedel styrka dos route tid
-
+Color/<#a5715a><Åtgärd:>
+• 71414 (HIA-jour)
 
 
-Title/6. Åtgärd 6
+
+Title/6. Seloken?
 Text/
-Indikation: indikation
+Color/<#5EA35C><Indikation:>
+• Frekvenskontroll som initialt mål
 
-Kontraindikation:  kontraindikation eller risk
+Color/<#f40b1a><Kontraindikationer:>
+• Systoliskt BT < 100
+• Känd LVEF < 40%
+• Svår astma
 
-Läkemedel styrka dos route tid
+Color/<#a5715a><Åtgärd:>
+• Seloken 5 mg IV
 
 
 
-Title/7. Åtgärd 7
+Title/7. Digoxin?
 Text/
-Indikation: indikation
+Color/<#5EA35C><Indikation (punkter tillsammans):>
+• Frekvenskontroll som initialt mål
+• Seloken kontraindicerad eller otillräcklig effekt
 
-Kontraindikation:  kontraindikation eller risk
-
-Läkemedel styrka dos route tid
-
+Color/<#a5715a><Åtgärd:>
+• Digoxin 0,5 mg IV
 
 
-Title/8. Åtgärd 8
+
+Title/8. Amiodaron?
 Text/
-Indikation: indikation
+Color/<#5EA35C><Indikationer:>
+• Utebliven frekvenskontroll med Seloken och/eller Digoxin
+• Istället för Seloken hos patienter med EF < 40%
 
-Kontraindikation:  kontraindikation eller risk
-
-Läkemedel styrka dos route tid
+Color/<#a5715a><Åtgärd:>
+• Amiodaron 50 mg/ml 6 ml i Glukos 50 mg/ml 250 ml IV över 30 min

@@ -1,0 +1,92 @@
+Title/1. Anamnes
+Text/
+Color/<#a5715a><Bakgrund:>
+• Tidigare sjukdomar
+• Läkemedel
+
+Color/<#a5715a><Aktuellt:>
+• O: hur snabbt (sek/min/tim) till max intensitet?
+• P: var sitter smärtan? storlek? utstrålning?
+• Q: tryckande? rivande/skarp? brännande?
+• R: värre med inandning?
+• S: värst smärta någonsin?
+• T: tidigare liknande episoder?
+• +: dyspné? ensidigt bensymtom?
+
+
+
+Title/2. Aortadissektion?
+Text/
+InternalLink/<Handläggning><aortadissektion>
+
+Color/<#A336C9><Riskfaktorer:>
+• Tidigare dissektion
+• Marfans/Ehlers-Danlos
+• Nyligen klaff-op  
+
+Color/<#A336C9><Anamnes:>
+• O: max smärta direkt
+• P: retrosternal, utstrålning mot ryggen, migrerande
+• Q: rivande, skärande
+• S: svår smärta
+
+Color/<#A336C9><Status:>
+• Lågt blodtryck
+• Pulsdeficit
+• Neurobortfall
+
+Color/<#A336C9><Ultraljud:>
+• SX: perikardvätska
+• PLAX: dilaterad aortarot (> 4 cm), aortainsufficiens
+• A5C: aortainsufficiens
+• Bukaorta, suprasternal: intimal flap
+
+
+
+Title/3. Lungemboli?
+Text/
+InternalLink/<Handläggning><lungemboli>
+
+Color/<#A336C9><Riskfaktorer:>
+• Tidigare lungemboli/DVT
+• Cancer
+• Nyligen opererad
+
+Color/<#A336C9><Skyddsfaktorer:>
+• Waran/DOAK
+
+Color/<#A336C9><EKG:>
+• Negativa T-vågor V1-V4 + III
+• Högergren block
+
+Color/<#A336C9><Ultraljud:>
+InternalLink/<• Hjärta & IVC><ultraljud lungemboli>
+• Proximal DVT
+
+
+
+Title/4. STEMI-OMI?
+Text/
+InternalLink/<Handläggning><stemi-omi>
+
+Color/<#A336C9><Riskfaktor:>
+• Tidigare hjärtinfarkt
+
+Color/<#A336C9><Anamnes:>
+• P: utstrålning till käkarna och/eller armarna
+• Q: tryckande/krammande
+• R: ej pleuritisk
+
+Color/<#A336C9><STEMI:>
+• ST-höjningar > 1 mm i 2 intilliggande avledningar
+• ST-höjningar i V2-V3:
+- ≥ 1,5 mm hos kvinnor
+- ≥ 2 mm hos män > 40 år
+- ≥ 2,5 mm hos män < 40 år
+
+Color/<#A336C9><OMI:>
+InternalLink/<• Sgarbossa-1><sgarbossa-1>
+InternalLink/<• Sgarbossa-2><sgarbossa-2>
+InternalLink/<• Hyperakut T-våg><hyperakut T-vag>
+InternalLink/<• Posterior OMI><posterior omi>
+InternalLink/<• III & aVL><iii & avl>

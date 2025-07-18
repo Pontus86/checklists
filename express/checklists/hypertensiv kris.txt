@@ -1,76 +1,61 @@
-Title/1. Hypertensive Myocardial Ischemia
+Title/1. Myokardischemi?
 Text/
-• IV vasodilator (e.g. Nitroglycerin)
+Color/<#a5715a><Åtgärder:>
+InternalLink/<• Nitroglycerin infusion><sprutpump doser>
+• Tillägg vid behov av beta-blockerare IV:
+- Seloken 1 mg/ml 5 ml IV
+- Trandate (Labetalol) 5 mg/ml 4 ml IV
 
-• If insufficient effect, add IV beta-blockers (Labetalol, Esmolol, Metoprolol)
 
 
-
-Title/2. Hypertensive Pulmonary Edema
+Title/2. Hypertensiv lungödem?
 Text/
-• IV vasodilator (Nitroglycerin, Nitroprusside)
-
-• Add loop diuretics (Furosemide) if volume overloaded (e.g. associated renal failure)
-
-• See Cardiogenic Pulmonary Edema
+InternalLink/<• Lungödem><lungodem>
 
 
 
-Title/3. Aortic Dissection
+Title/3. Aortadissektion?
 Text/
-• See Aortic Dissection
+InternalLink/<• Aortadissektion><aortadissektion>
 
 
 
-Title/4. Hypertensive Emergency During Pregnancy
+Title/4. Gravid?
 Text/
-• Treat if SBP > 160 mm Hg or DBP > 110 mm Hg.  Labetalol IV, target SBT 140-160 mm Hg and DBP 90-110 mm Hg, max MAP reduction 25% over the first two hours
+Color/<#5EA35C><Indikationer:>
+• SBP > 160 mm Hg
+• DBP > 110 mm Hg
 
-• Magnesium sulfate 5 g (Addex®-Magnesium 1 mmol/ml 20 ml) IV over 5 minutes loading dose 
+Color/<#a5715a><Åtgärd:>
+• Addex-Magnesium 1 mmol/ml 20 ml IV över 5 min
+
+• Trandate (Labetalol) 5 mg/ml 4 ml IV sedan 4-16 ml var 10:e min vb med mål:
+- SBT 140-160 mm Hg
+- DBP 90-110 mm Hg
+- Max MAP reduktion 25% över första 2 timmar
 
 
 
-Title/5. Sympathomimetic Crisis / Cocaine-Amphetamine Toxicity
+Title/5. Intox sympatomimetika?
 Text/
-• If agitated: benzodiazepines IV (e.g. Diazepam 5 mg IV, repeat as needed)
+Color/<#5EA35C><Agiterad-aggressiv:>
+• Stesolid 5 mg IV, upprepa vid behov
+• Se även InternalLink/<agiterad-aggressiv><agiterad - aggressiv>
+• Vid utebliven blodtryckssänkning trots benso: InternalLink/<Nitroglycerin infusion><sprutpump doser>
 
-• Nitroprusside or phentolamine IV.  Avoid beta-blockers (which may lead to unopposed alpha receptor stimulation and ischemia)
+Color/<#A336C9><Notera:>
+• Traditionellt rekommenderas att undvika beta-blockerare i detta sammanhang
 
 
 
-Title/6. Hypertensive Neurological Emergencies
+
+Title/6. Neurologiskt tillstånd?
 Text/
-• Treatment depends on CT-head findings and whether patient is candidate for thrombolysis
+Color/<#a5715a><Åtgärd:>
+• Trandate (Labetalol) 5 mg/ml 4 ml IV sedan 4-16 ml var 10:e min vb
 
-• The diagnosis of hypertensive encephalopathy is usually made retrospectively
-
-
-
-Title/Nitroprusside Dosage
-Text/
-• Infusion 0.3 μg/kg/min, increase up to 10 μg/kg/min
-
-
-
-Title/Nitroglycerin Dosage
-Text/
-• Bolus 0.4 mg SL every 60 seconds; or 2 mg bolus IV q3min
-
-• Infusion 10–20 μg/min, titrade rapidly up to 200 μg/min
-
-
-
-Title/Labetalol Dosage
-Text/
-• Bolus 20 mg IV initially then 20-80 mg q10 min to total dose 300 mg
-
-• Infusion 0.5 to 2 mg/min
-
-
-
-Title/Esmolol Dosage
-Text/
-• Bolus	0.5 mg/kg over 1 min
-
-• Infusion 50 μg/kg/min, titrade up to 300 μg/kg/min
-
+Color/<#a5715a><Mål:>
+Color/<#5EA35C><• Spontan intrakraniell blödning:> SBP < 140-180 mm Hg
+Color/<#5EA35C><• Subaraknoidalblödning:> SBP < 140-180 mm Hg
+Color/<#5EA35C><• Stroke, kandidat för actilys:> SBP < 185 mm Hg och DBP < 110 mm Hg
+Color/<#5EA35C><• Stroke, ej kandidat för actilys:> BP minskning med 15% över 24 tim

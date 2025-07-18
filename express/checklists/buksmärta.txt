@@ -1,0 +1,51 @@
+Title/1. Anamnes
+Text/
+Color/<#a5715a><Bakgrund:>
+• Tidigare sjukdomar
+• Läkemedel
+
+Color/<#a5715a><Aktuellt:>
+• O: hur snabbt (sek/min/tim) till max intensitet?
+• P: var sitter smärtan? storlek? utstrålning?
+• Q: tryckande? rivande/skarp? brännande?
+• R: värre med inandning?
+• S: värst smärta någonsin?
+• T: tidigare liknande episoder?
+
+Title/2. Utredningar
+Text/
+Color/<#a5715a><Ultraljud:>
+• RUQ: fri vätska? hydronefros? gallsten? kolecystit?
+• LUQ: fri vätska? hydronefros?
+• Bukaorta: aneurysm?
+• Suprapubiskt: fri vätska? urinretention?
+• Buk: tunntarmsileus?
+
+Color/<#a5715a><Blodprov:>
+• Blodgas
+• Vita, CRP, trombocyter, PK, aPTT
+• Leverprov, amylas
+
+
+Title/3. Diagnoser att överväga
+Text/
+Color/<#A336C9><Buksmärta + chock:>
+InternalLink/<• Rupturerad bukaortaaneurysm><rupturerad aaa>
+• Rupturerad ektopisk graviditet
+• Perforation (t ex ulcus) och sepsis
+• Kolangit, svår pankreatit
+
+Color/<#A336C9><Svår buksmärta med plötslig debut:>
+InternalLink/<• Aortadissektion><aortadissektion>
+• Mesenterisk ischemi
+• Perforation
+• Ovarial/testistorsion
+• Pankreatit (subakut)
+
+
+Title/4. Åtgärder att överväga
+Text/
+Color/<#A336C9><Överväg:>
+• Blodgruppering + bastest
+• Piperacillin-Tazobaktam 4 g IV
+• DT buk prio 1 med IV kontrast (oavsett Krea)

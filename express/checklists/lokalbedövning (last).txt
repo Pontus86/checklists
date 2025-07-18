@@ -1,0 +1,93 @@
+Title/1. Hjärtstopp?
+Text/
+Color/<#a5715a><Åtgärder:>
+• HLR
+• Adrenalin 0,1 mg/ml enbart 1 ml (0,1 mg) åt gången
+• Amiodaron 50 mg/ml 6 ml (300 mg) IV bolus vid VT
+• Intralipid 200 mg/ml 100 ml IV över 1 min Color/<#0014ff><(1,5 mg/kg)>
+• Intralipid kan upprepas x 2 med 5 min interval
+• ECMO? THIVA 77971
+
+
+
+Title/2. Syrgas
+Text/
+Color/<#5EA35C><Indikation:>
+• Alla (hypoxi potentierar toxicitet)
+
+Color/<#a5715a><Åtgärd:>
+• 15 L/min via mask med reservoar
+
+
+
+Title/3. Ventilation?
+Text/
+Color/<#5EA35C><Indikation:>
+• Hypoventilation (acidemi potentierar toxicitet)
+
+Color/<#a5715a><Åtgärd:>
+• Två-person ventilation med mask och blåsa
+
+
+
+Title/4. Intralipid?
+Text/
+Color/<#5EA35C><Indikationer:>
+• Kardiovaskulär: hypertoni, hypotoni, arytmi
+• Neurologisk: krampanfall, medvetanderubbning
+
+Color/<#a5715a><Åtgärd:>
+• Intralipid 200 mg/ml 100 ml IV över 1 min Color/<#0014ff><(1,5 mg/kg)>
+• Upprepa vid behov x 2 med 5 min interval
+• Infusion 15 ml/kg/tim, kan höjas till 30 ml/kg/tim vid kvarstående hemodynamisk instabilitet
+• Max kumulativ dos: 12 ml/kg (800 ml för 70 kg vuxen)
+
+
+
+Title/5. Krampanfall?
+Text/
+Color/<#a5715a><Första linje:>
+• Diazepam 10 mg IV Color/<#0014ff><(0,2 mg/kg)>
+
+Color/<#a5715a><Andra linje:>
+• Keppra (Levetiracetam) 60 mg/kg (max 4,5 g) IV över 10 min
+
+Color/<#f40b1a><Undvik:>
+• Proepanutin (blockerar Na kanaler)
+• Propofol (risk för hypotension)
+
+
+
+Title/6. Natriumbikarbonat?
+Text/
+Color/<#5EA35C><Indikation:>
+• Breda QRS komplex
+
+Color/<#a5715a><Åtgärd:>
+• Natriumbikarbonat 50 mg/ml 200 ml IV bolus Color/<#0014ff><(3 mg/kg)>
+
+
+
+Title/7. Methylenblått?
+Text/
+Color/<#5EA35C><Indikation:>
+• Methemoglobinemi
+
+Color/<#a5715a><Åtgärd:>
+• Methylenblått 1-2 mg/kg IV
+
+
+Title/Om LAST
+Text/
+Color/<#5EA35C><Symtom:>
+• Parestesi kring munnen, av tungan, metallsmak
+• Syn- och hörselrubbning
+
+Color/<#5EA35C><Kardiovaskulär:>
+• Hypertoni, hypotoni
+• Takykardi, VT
+• Bradykardi, asystole
+
+Color/<#5EA35C><Neurologisk:>
+• Medvetandesänkning, agitation
+• Krampanfall

@@ -1,0 +1,35 @@
+Title/1. DKA?
+Text/
+Color/<#5EA35C><Talar för DKA (samtliga):>
+• Känd typ 1 diabetes eller hyperglykemi
+• Kapillära ketoner > 3 mmol/L
+• Ingen annan förklaring för ketoner (alkohol, svält)
+
+InternalLink/<Diabetesketoacidos><dka>
+
+
+
+Title/2. HHS?
+Text/
+Color/<#5EA35C><Talar för HHS:>
+• (Na x 2) + glukos ≥ 310 mmol/L
+
+InternalLink/<Hyperglykemiskt hyperosmolart syndrom><hhs>
+
+
+
+Title/3. Varken DKA eller HHS
+Text/
+Color/<#a5715a><Åtgärd:>
+• Inga urakuta åtgärder mot hyperglykemin är motiverade
+
+Color/<#A336C9><Överväg:>
+• Infektion: antibiotika?
+• Infarkt (t ex hjärtinfarkt, stroke)
+• Inflammation (t ex pankreatit)
+• Non-compliance/insulinpump dysfunktion
+
+Color/<#5EA35C><Nyupptäckt diabetes:>
+• Prov: C-peptid, HbA1C, GAD-antikroppar
+• Kontakt diabetes konsult
+• Jourtid: Lispro/Humalog eller Aspart/Novorapid 4 E SC om Kalium > 3,3 mmol/L

@@ -1,0 +1,169 @@
+Title/1. Hjärtstopp?
+Text/
+Color/<#a5715a><Åtgärder:>
+• 50000 + HLR
+• Adrenalin 0,1 mg/ml 10 ml IV bolus
+• Actilys 50 mg IV bolus
+• ECMO? THIVA 77971
+• Actilys 50 mg upprepas efter 15 min
+
+Color/<#A336C9><Notera:>
+• Fallrapport återställda patienter efter 90 min HLR
+
+
+
+Title/2. Syrgas?
+Text/
+Color/<#5EA35C><Indikation:>
+• SpO2 < 95%
+
+Color/<#a5715a><Åtgärd:>
+• Mask med reservoar 10-15 L/min
+
+Color/<#A336C9><Notera:>
+• Syrgas vasodilaterar lungkärl
+
+
+
+Title/3. Push-dose pressor?
+Text/
+Color/<#5EA35C><Indikationer:>
+• SBP < 85 mm Hg
+• Bradykardi
+• Hotande hjärtstopp
+
+
+
+Color/<#a5715a><Push-dose:>
+1. Adrenalin Color/<#f40b1a><0,1 mg/ml> 1 ml i en 10 ml spruta
+2. Späd med 9 ml NaCl
+3. Ge 2 ml (20 µg) IV
+4. Upprepa var 2:a min vb
+
+Color/<#a5715a><Infusion:>
+1. Adrenalin Color/<#f40b1a><1 mg/ml> 2 ml + NaCl 48 ml i 50 ml spruta
+2. Takt 0,5 µg/kg/min IV, titrera till MAP > 65 mm Hg
+
+
+
+Title/4. Actilys?
+Text/
+Color/<#5EA35C><Indikationer:>
+• SBP < 85 mm Hg
+• Bradykardi, hotande hjärtstopp
+
+Color/<#f40b1a><"Absoluta" kontraindikationer:>
+• Hemorragisk stroke
+• Ischemisk stroke inom 3 mån
+• Hjärn- eller spinalkirurgi inom 3 veckor
+• Aktiv allvarlig blödning
+• Vaskulär malformation t ex AVM
+
+Color/<#a5715a><Åtgärd:>
+• Actilys 20 mg IV bolus
+
+Color/<#A336C9><Notera:>
+• Därefter infusion Actilys 50-80 mg över 90 min
+
+
+
+Title/5. Nitroglycerin nebuliserad?
+Text/
+Color/<#5EA35C><Indikationer:>
+Följande  trots åtgärder ovan:
+• SBP < 85 mm Hg
+• Bradykardi, hotande hjärtstopp
+
+Color/<#a5715a><Åtgärd:>
+• Nitroglycerin 1 mg/ml 5 ml nebuliserad över 15 min
+
+Color/<#A336C9><Notera:>
+• Patienter med massiv lungemboli dör pga cirkulatorisk kollaps orsakad av vasokonstriktion av lungkärl. Nitroglycerin nebuliserad dilaterar lungkärl.
+
+
+
+Title/6. Endotrakeal intubation?
+Text/
+Color/<#5EA35C><Indikationer:>
+• Hjärtstopp
+• Allvarlig hypoxemi som inte kan hävas
+
+Color/<#f40b1a><Risker:>
+• Sederingsutlöst vasodilatation
+• Nedsatt preload från övertrycksventilation
+
+Color/<#a5715a><Sedering:>
+• Ketanest 5 mg/ml 0,25 mg/kg IV
+
+Color/<#a5715a><Tidalvolym:>
+• 6 mL/kg
+
+Color/<#a5715a><Tryck vid inandning:>
+• < 30 cm H2O
+
+Color/<#A336C9><Notera:>
+• Intubation bör helst undvikas!
+
+
+
+Title/7. Heparin?
+Text/
+Color/<#5EA35C><Indikation:>
+• Misstänkt submassiv lungemboli
+
+Color/<#f40b1a><Kontraindikation:>
+• Fått Actilys
+
+Color/<#a5715a><Åtgärd:>
+• Heparin 5000 E IV bolus (80 E/kg)
+
+
+
+Title/8. DT Thorax?
+Text/
+Color/<#5EA35C><Indikationer:>
+• Bekräfta lungemboli
+• Utvärdera högerkammarpåverkan
+• Möjliggöra embolektomi
+
+Color/<#f40b1a><Risk:>
+• Akut försämring/hjärtstopp under transport eller på röntgen
+
+Color/<#a5715a><Åtgärd:>
+• Plan vid ev hemodynamisk försämring
+
+
+
+Title/9. Embolektomi?
+Text/
+Color/<#5EA35C><Indikationer:>
+• Massiv lungemboli med absolut kontraindikation till Actilys
+• Intermediär risk med kontraindikation till Actilys och derangerad fysiologi, t ex behov av high-flow
+• Clot in transit
+• Svikt till Actilys-behandling
+
+Color/<#a5715a><Åtgärd:>
+• HIA 71414
+
+
+
+Title/10. ECMO?
+Text/
+Color/<#5EA35C><Indikationer:>
+• Absolut kontraindikation till Actilys
+• Svikt till Actilys-behandling
+
+Color/<#a5715a><Åtgärd:>
+• THIVA 77971
+
+
+
+Title/Om massiv lungemboli
+Text/
+Color/<#A336C9><Ultraljud:>
+InternalLink/<• Hjärta & IVC><ultraljud lungemboli>
+• Proximal DVT
+
+Color/<#A336C9><EKG:>
+• Negativa T-vågor V1-V4 + III
+• Högergren block

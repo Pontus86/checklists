@@ -1,0 +1,74 @@
+Title/1. Urinprov
+Text/
+Color/<#a5715a><Prov:>
+• Urin Na
+• Urin osmolaritet
+
+
+
+Title/2. Chock?
+Text/
+Color/<#5EA35C><Indikation:>
+• Uttalad hypovolemi/hypotension/chock
+
+Color/<#a5715a><Initiala åtgärder:>
+• NaCl 0,9% 500 ml IV bolus
+• Omvärdera kliniskt, mät om Na
+
+Color/<#a5715a><Fortsatta åtgärder:>
+• Överväg upprepad bolus beroende på kliniken
+• Max Na ändring 10 mmol/L/dygn
+• Man kan ge bolus NaCl med samma koncentration Na som i serum utan att ändra serumkoncentration
+• NaCl 170 mmol/L kan tillverkas genom att lägga till Addex-NaCl 4 mmol/ml 2 ml till 500 ml NaCl 0,9%
+
+
+
+Title/3. Akut hypernatremi?
+Text/
+Color/<#5EA35C><Indikation:>
+• Akut hypernatremi (saltförgiftning)—snabb Na korrigering motiveras för att förebygga demyelinolys
+
+Color/<#a5715a><En eller fler av följande:>
+• Glukos 5% 500 ml IV bolus
+• Kranvatten PO eller via V-sond
+• Hemodialys
+
+Color/<#a5715a><Uppföljning:>
+• Na, K och glukos varannan timme
+
+
+
+Title/4. Varken chock eller akut hypernatremi
+Text/
+Color/<#A336C9><Princip:>
+• Välj vätsketyp och infusionstakt utifrån graden av hypernatremi och graden av hypovolemi
+• NaCl 0,9% (154 mmol/L) 500 ml/tim x 2 tim förväntas ej korrigera Na för snabbt  
+
+Color/<#a5715a><Val av vätska:>
+• NaCl 0,9%: 154 mmol/L av Na
+• Ringer-Acetat: 138 mmol/L av Na
+• Glukos 50 mg/ml + NaCl 80 mmol/L + KCl 40 mmol/L = 120 mmol/L av Na
+
+Color/<#a5715a><Uppföljning:>
+• Mät om Na initialt var 4:e timme och justera vätsketyp/infusionstakt
+• Max ändring Na 10 mmol/L/dygn
+
+Title/Differentialdiagnos
+Text/
+Color/<#A336C9><För lite vatten in:>
+• Törstrubbning
+• Ej tillgång till vatten
+
+Color/<#A336C9><För mycket vatten ut:>
+• Tarm: kräkning, V-sond, diarré, laxantia
+• Njur: diuretika, hyperglykemi, post-renal, diabetes insipidus (litium: mät ADH), etanol, sylfonylurea
+• Hud: feber, brännskada
+
+Color/<#A336C9><För mycket salt in:>
+• PO: salttabletter
+• IV: hyperton NaCl, Natriumbikarbonat (NaHCO3 50 mg/ml motsvarar NaCl 3%)
+
+Color/<#A336C9><För lite salt ut:>
+• Conns syndrom
+• Cushings syndrom
+• Ektopisk ACTH (lungcancer) 

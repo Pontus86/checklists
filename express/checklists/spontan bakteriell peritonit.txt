@@ -1,0 +1,65 @@
+Title/1. Blodprov
+Text/
+Color/<#5EA35C><Som regel:>
+• Vita, CRP
+• Blododlingar x 2
+• Albumin (ljusgrönkork rör)
+• LD (guldgulkork rör)
+• Glukos (rosakork rör)
+• Protein (ljusgrönkork rör + allmän remiss)
+
+Color/<#A336C9><Notera:>
+• Albumin, LD och glukos rör skickas till baslabet med akut/remiss 1
+• Protein rör skickas till baslabet med allmän vit remisss; skickas vidare till Malmö
+
+Title/2. Paracentes
+Text/
+Color/<#a5715a><Paracentes:>
+• Identifiera med ultraljud stället med bredast spalt ascites
+• Stick med 21 G intramuskulär "grön" nål
+• Dra upp ascites i två 50 ml sprutor (stort förråd Skåp 21) och två 10 ml sprutor
+
+Color/<#A336C9><Notera:>
+• Förhöjd PK är INGEN kontraindikation till paracentes
+
+
+
+Title/3. Analys av ascites
+Text/
+Color/<#a5715a><Ascites biokemi:>
+• Använd en 50 ml spruta för att fylla rosakork rör och ljusgrönkork rör med 7 ml ascites var
+• Sätt patientetiketter på rören och på en 10 ml spruta med ascites
+• Allmän vitt remiss: beställ albumin + protein + LD + amylas + bilirubin + glukos
+
+Color/<#a5715a><Ascites odlingar:>
+• Sätt en färsk rosa nål på den 50 ml sprutan som har använts för biokemiska analyser
+• Fyll först den aeroba flaskan (blå topp) med 5-10 ml
+• Fyll därefter den anaeroba flaskan (rosa topp) med 5-10 ml
+• Mikrobiologi remiss
+
+Color/<#a5715a><Ascites celler och diff:>
+• Ascites i lilakork rör (EDTA)
+• Allmän vitt remiss: "Ascites: Diff? Neutrofiler?"
+
+Color/<#a5715a><Skicka prov>
+• Till baslab omgående med hjälp av servicemedarbetare
+
+
+
+Title/4. Initial behandling
+Text/
+• Cefotaxim 2 g IV var 8:e timme
+• Seponera eventuella beta-blockerare
+• Albumin 200 g/L 1.5 g/kg max 100 g IV
+
+
+
+Title/Om spontan bakteriell peritoni
+Text/
+Color/<#5EA35C><Misstänk vid:>
+Patient med cirrhos som utvecklar:
+• Feber 69%
+• Buksmärta 59%
+• Förvirring 54%
+• Bukömhet 49%
+• Hypotension 21%

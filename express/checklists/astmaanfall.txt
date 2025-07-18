@@ -1,102 +1,187 @@
-
-Title/1. Ketamine/Esketamine?
+Title/1. Livshot—Larm? 
 Text/
-Indication: severely agitated, non-cooperative patient with life-threatening asthma
+Color/<#5EA35C><Indikation:>
+• Kan knappt andas + medvetandesänkt
 
-IV access: Ketamine 10 mg/ml or Esketamine 5 mg/ml 10 ml IV over 30 sec
+Color/<#a5715a><Val:>
+• Anestesilarm 77900
+• Hjärtstopp larm 50000
 
-No IV access: Ketamine 50 mg/ml or Esketamine 25 mg/ml 3 ml IM in each thigh antero-laterally (total 6 ml)
 
 
-
-Title/2. Oxygen?
+Title/2. Livshot—Adrenalin?
 Text/
-Indication: SpO2% < 93%
+Color/<#5EA35C><Indikation:>
+• Kan knappt andas + medvetandesänkt
 
-Oxygen via mask or nebuliser to maintain SpO2% 94-98%
+Color/<#a5715a><Åtgärd:>
+• Adrenalin Color/<#f40b1a><0,1 mg/ml> 1 ml IV över 30 sek
+
+Color/<#0014ff><Barn:>
+1. Hämta Adrenalin Color/<#f40b1a><0,1 mg/ml>
+2. Dra upp 1 ml i en 10 ml spruta
+3. Späd med 9 ml NaCl
+
+• 6-12 år: 4 ml IV/IO
+• 1-5 år: 2 ml IV/IO
+• < 1 år: 1 ml IV/IO
 
 
-Title/3. Inhaled Beta-2 Agonist
+
+Title/3. Livshot—Intubation?
 Text/
-Indication: first-line therapy
+Color/<#5EA35C><Indikation:>
+• Andas ej + medvetslös
 
-Salbutamol 5 mg Neb (< 5 years 2.5 mg). Repeated doses can be given every 20 min.  Nebulized therapy may be more effective when delivered continuously (i.e. 15 mg by continuous nebulization over one hour) and is recommended in severe cases
+Color/<#a5715a><Åtgärder:>
+1. Celocurin eller Esmeron 1,5 mg/kg IV
+2. Intubation Color/<#f40b1a><endast 1 försök> annars InternalLink/<coniotomi><coniotomi>
+3. EtCO2 för att bekräfta tubplacering
+4. Övertrycksventilation med blåsa
+5. Lateral kompression av bröstkorgen för att underlätta expiration
+
+
+Title/4. Ketanest?
+Text/
+Color/<#5EA35C><Indikation:>
+• Svår agitation + livshotande astmaanfall
+
+Color/<#a5715a><Har PVK:>
+• Ketanest 5 mg/ml 6 ml IV över 1 min
+
+Color/<#a5715a><Har EJ PVK:>
+• Ketanest 25 mg/ml 6 ml IM (3 ml i varje lår)
+
+
+
+Title/5. Syrgas?
+Text/
+Color/<#5EA35C><Indikation:>
+• SpO2% < 95%
+
+Color/<#a5715a><Åtgärder:>
+• Syrgas mask 15 L/min
+• Grimma 15 L/min kan läggas till under masken
+
+
+
+
+Title/6. Ventoline
+Text/
+Color/<#f40b1a><Risk:>
+• Hypokalemi
+
+Color/<#a5715a><Åtgärd:>
+• Ventoline 2 mg/ml 2,5 ml Neb
+• Upprepa var 20 min eller ge oavbrutet vb
+
+Color/<#0014ff><Barn < 5 år:>
+• Ventoline 2 mg/ml 1 ml Neb
 
  
 
-Title/4. Non-Inhaled Adrenergic Therapy?
+Title/7. Beta-agonist?
 Text/
-Indication: in cases of severe or near-fatal asthma, the resulting hypoventilation may prevent effective delivery of nebulized beta-2 agonists. Adrenergic therapy can be given by alternative routes.
+Color/<#5EA35C><Indikation:>
+• Svårt astmaanfall
 
-One of the following options:
-• Adrenalin 1 mg/ml 0.5 ml (10 µg/kg) IM in the thigh antero-laterally
-• Terbutaline (Bricanyl®) 0.5 mg/ml 0.5 ml (10 µg/kg) SC every 20 min x 3
-• Terbutaline (Bricanyl®) 0.5 mg/ml 1 ml + 9 ml NaCl IV over 5 min
-• Salbutamol (Ventoline® 2 mg/ml) 0.25 mg (15 µg/kg) IV slowly
+Color/<#a5715a><Val:>
+• Adrenalin Color/<#f40b1a><1 mg/ml> 0,5 ml IM
+• Bricanyl 0,5 mg/ml 0,5 ml SC var 20 min x 3
+• Bricanyl 0,5 mg/ml 1 ml + 9 ml NaCl: 10 ml IV över 5 min
+• Ventoline 2 mg/ml 1 ml + 9 ml NaCl: 1 ml IV över 1 min
+
+Color/<#0014ff><Barn:>
+• Adrenalin Color/<#f40b1a><1 mg/ml> i insulinspruta
+• 6-12 år: 0,3 ml IM
+• 1-5 år: 0,2 ml IM
+• < 1 år: 0,1 ml IM
 
 
-Title/5. Ipratropium Bromide
+
+Title/8. Atrovent
 Text/
-Indication: the addition of inhaled short-acting anticholinergics to inhaled short-acting beta agonists reduced reduced hospitalisation and improved pulmonary function
+Color/<#a5715a><Åtgärd:>
+• Atrovent 0,25 mg/ml 2 ml Neb
+• Upprepa var 20 min vb
 
-Ipratropium bromide 0.5 mg Neb (< 5 years 0.25 mg). Repeated doses can be given every 20 min
+Color/<#0014ff><Barn < 5 år:>
+• Atrovent 0,25 mg/ml 1 ml Neb
 
 
 
-Title/6. Non-Invasive Postive Pressure Ventilation?
+Title/9. NIV?
 Text/
-Indication: uncertain benefit. Recommended for 5-10 min to avoid endotracheal intubation
+Color/<#5EA35C><Indikation:>
+• Vid svårt astmaanfall för att undvika intubation
 
-IPAP/EPAP 8 cm/3 cm H2O. Continue bronchodilator therapy through NIPPV
+Color/<#a5715a><Åtgärd:>
+• EPAP 3 cm H2O
+• P-support 5 cm H2O
+• P-ramp 100 msec
+• Samtidig nebuliserad behandling
 
 
 
-Title/7. Magnesium Sulphate?
+Title/10. Magnesium?
 Text/
-Indication: life-threatening asthma exacerbations or exacerbations that remain severe after one hour of intensive bronchodilator therapy
+Color/<#5EA35C><Indikationer:>
+• Livshotande anfall
+• Svåra symtom trots 1 timmes intensiv behandling
 
-Contraindicated in renal insufficiency
+Color/<#f40b1a><Kontraindikation:>
+• Njursvikt
 
-Magnesium Sulphate 2 g (Addex®-Magnesium 1 mmol/ml 8 ml) (40 mg/kg) in 100 ml normal saline IV over 20 min
+Color/<#a5715a><Åtgärd:>
+• Addex-Magnesium 1 mmol/ml 10 ml i 100 ml NaCl IV över 20 min
+
+Color/<#0014ff><Barn:>
+• Addex-Magnesium 1 mmol/ml 2 ml för varje 10 kg
 
 
 
-Title/8. Endotracheal Intubation & ICU admission?
+Title/11. Intubation
 Text/
-Indications:
-• persisting/worsening hypoxaemia
-• worsening hypercapnia
-• severe agitation
-• progressive exhaustion
-• decreasing level of consciousness
-• silent chest
+Color/<#5EA35C><Indikationer:>
+• Kvarstående/förvärrande hypoxemi
+• Tilltagande hyperkapné
+• Svår agitation
+• Utmattning
+• Nedsatt medvetandegrad
+• Silent chest
 
-RSI:
-• Ketamine 2 mg/kg
-• Succinylcholine 1.5 mg/kg or rocuronium 1.2 mg/kg
+Color/<#a5715a><Åtgärder:>
+• Ketanest 1 mg/kg IV
+• Celocurin 1,5 mg/kg eller Esmeron 1,2 mg/kg IV
 
 
 
-Title/9. Potassium and Fluid Therapy?
+Title/12. Kalium, Ringer?
 Text/
-Indication: dehydration, hypovolemia, hypokalemia. Beta-blockers exacerbate hypoK
+Color/<#5EA35C><Indikationer:>
+• Hypovolemi
+• Hypokalemi
 
-Ringer's acetate 500 ml IV bolus (10 mg/kg)
+Color/<#a5715a><Åtgärder:>
+Color/<#5EA35C><• Hypovolemi:> Ringer-Acetate 500 ml IV bolus
+Color/<#5EA35C><• Hypokalemi:> NaCl 1000 ml med 40 mmol KCl IV över 4 tim
 
-NaCl 0.9% 1000 ml with 40 mol KCl IV over 4 hours
+Color/<#0014ff><Barn:>
+• Ringer-Acetate 10 ml/kg IV bolus
 
 
-
-Title/10. Corticosteroids?
+Title/13. Kortikosteroid?
 Text/
-Indication: in cases of severe exacerbations, exacerbation despite ongoing glucocorticoid therapy or exacerbation that does not fully resolve after treatment with beta agonists
+Color/<#5EA35C><Indikation:>
+• Alla förutom lindriga kortvariga anfall
 
-Prednisone 40-60 mg PO (1 mg/kg) or Hydrocortisone 150-200 mg IV (4 mg/kg) or Betamethasone 8 mg PO or IV.  Effect of corticosteroids takes several hours to develop
+Color/<#a5715a><Åtgärd:>
+• Betapred 8 mg PO eller IV
 
 
 
-Title/11. Admission?
+Title/14. Inläggning?
 Text/
-• Patients who have not experienced substantial improvement after 4-6 hrs of care in the ED
-• Patients whose PEF is < 40% of predicted or of personal best
-• Patients whose PEF is 40-70% and for whom return to home is considered unsafe
+Color/<#5EA35C><Indikationer:>
+• Ingen förbättring efter 5 tim beh
+• PEF < 40% förväntad

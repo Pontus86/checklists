@@ -1,133 +1,173 @@
 Title/1. Svår agitation?
 Text/
-Svårt sjuk + svårt agiterad:
+Color/<#5EA35C><Indikation för akut sedering:>
+• Svårt sjuk + svårt agiterad
 
-• IM Ketamin 50 mg/ml 5 ml
-• IM Midazolam 5 mg/ml 1 ml (effekt efter 10 min)
+Color/<#a5715a><Val IM:>
+• Midazolam 5 mg/ml 1 ml IM
+• Ketanest 25 mg/ml 5 ml IM
 
-• IV Ketamin 10 mg/ml 5 ml över 1 min
-• IV Midazolam 1 mg/ml 1 ml över 1 min (effekt efter 2 min)
+Color/<#a5715a><Val IV:>
+• Diazepam 5 mg/ml 1 ml IV över 1 min
+• Ketanest 5 mg/ml 5 ml IV över 1 min
+
+Color/<#A336C9><Notera:>
+• Midazolam IM: 10 min till effekt
+• Ketanest IM: 5 min till effekt
+
+• Diazepam IV: 2 min till effekt
+• Ketanest IV: 1 min till effekt
 
 
 
 Title/2. Glukos?
 Text/
-Vid hypoglykemi:
-• IV Glukos 300 mg/ml 30 ml (100 mg/ml 2 ml/kg) IV
-• IM Glukagon 1 mg
+InternalLink/<• Hypoglykemi><hypoglykemi>
 
-Vid hyperglykemi:
-• DKA?
-• HHS?
+InternalLink/<• Hyperglykemi><hyperglykemi>
 
 
 
 Title/3. Naloxon?
 Text/
-Potentiell opioidintox och hypoventilation
+Color/<#5EA35C><Indikation:>
+• Potentiell opioidintox och hypoventilation
 
-• Hämta en 10 ml spruta
-• Dra upp 1 ml av Naloxon 0,4 mg/ml 1 ml
-• Späd med 9 ml NaCl (lösningen blir 0,04 mg/ml)
-• Ge 2 ml (0,08 mg) IV
-• Vänta 2 minuter på effekt, upprepa vid behov
-• Målet är att normalisera andning, ej väcka helt patienten
+Color/<#a5715a><Åtgärd:>
+1-Naloxon 0,4 mg/ml 1 ml i en 10 ml spruta
+2-Späd med 9 ml NaCl (lösningen blir 0,04 mg/ml)
+3-Ge 2 ml (0,08 mg) IV
+4-Vänta 2 min på effekt, upprepa vid behov
+
+Color/<#A336C9><Mål:>
+• Normalisera andning
+• Ej väcka patienten helt
 
 
 
 Title/4. Natrium?
 Text/
-Na < 120 mmol/L  + medvetandesänkning/kramp
+Color/<#5EA35C><Indikation:>
+• Na < 120 + medvetslös/somnolent
 
-• Hämta NaCl 0,9% 250 ml
-• Lägg till Addex Na 4 mmol/ml 20 ml (lösningen blir NaCl 3%)
-• Ge 270 ml IV över 10 min
-• Ta om Na-koncentration
-• Upprepa vid behov för att höja Na-koncentration med 5 mmmol/L
+Color/<#a5715a><Tillverka NaCl 3%:>
+• NaCl 0,9% 250 ml
+• Tillsätt Addex-Natrium 4 mmol/ml 20 ml
+
+Color/<#a5715a><Administera NaCl 3%:>
+• Ge hela 270 ml IV över 15 min Color/<#0014ff><(4 ml/kg)>
+• Upprepa mätning av Na
+• Mål: höja Na med 5 mmol/L
+• Ge ytterligare NaCl 3% 270 ml IV vb
+
+Se även InternalLink/<Hyponatremi><hyponatremi>
 
 
 
 Title/5. Status epilepticus?
 Text/
-Vid partiellt eller icke-konvulsivt status:
+Color/<#5EA35C><Misstänkt partiellt eller icke-konvulsivt status:>
+Överväg följande:
+• Diazepam 10 mg IV Color/<#0014ff><(0,2 mg/kg)> 
+• Keppra (Levetiracetam) 60 mg/kg IV över 10 min 
+• Propofol 0,5 mg/kg IV
+• Mät koncentration av anti-epileptiska läkemedel
 
-• Koncentration av anti-epileptiska läkemedel
-• Diazepam 10 mg IV (0,2 mg/kg)
-• Keppra 3 g IV över 10 min (60 mg/kg) 
-• Propofol 1 mg/kg IV
+Se även InternalLink/<Krampanfall><krampanfall>
 
 
 
 Title/6. Meningoencefalit?
 Text/
-Vid Feber + medvetanderubbning + (nackstyv eller fokala neurobortfall):
+InternalLink/<• Bakteriell meningit><bakteriell meningit>
 
-• Blododlingar x 2
-• Överväg LP
-• Betapred 4 mg/ml 2 ml IV (0,15 mg/kg)
-• Meronem 2 g
-• Acyklovir 10 mg/kg IV (500 mg/m^2)
+InternalLink/<• Herpesencefalit><herpesencefalit>
 
 
 
 Title/7. Sepsis?
 Text/
-Vid feber + medvetanderubbning:
-
-• Se Diagnos/Circulation/Sepsis
+InternalLink/<• Sepsis><sepsis>
 
 
 
-Title/8. Tiamin?
+Title/8. Wernickes encefalopati?
 Text/
-Wernickes encefalopati kan föreligga vid ≥ 2 av
-- näringsbrister (kronisk alkohol, gastricbypass, ätstörning)
-- ögonrörelsestörningar
-- cerebellär dysfunktion
-- medvetanderubbning/minnesstörning
+Color/<#5EA35C><Kan föreligga vid ≥ 2 av:>
+• Näringsbrist (kronisk alkohol, gastric bypass, ätstörning)
+• Ögonrörelsestörningar
+• Cerebellär dysfunktion
+• Medvetanderubbning/minnesstörning
 
-• Tiamine 500 mg IV
+Color/<#a5715a><Åtgärder:>
+• Tiamin 300 mg IV
+Color/<#5EA35C><• Uttalad nystagmus, ataxi eller konfusion:> Addex-Magnesium 1 mmol/ml 20 ml i NaCl 0,9% 500 ml IV över 30 min
 
 
-Title/9. Övriga metabola rubbningar
+
+Title/9. Övriga rubbningar?
 Text/
-Vid hyperkalcemi:
-• NaCl 1000 ml IV
+InternalLink/<• Hyperkalcemi><hyperkalcemi>
 
-Vid misstänkt Addisonkris:
-• ACTH + Kortisol + TSH + T4
-• Solucortef 100 mg IV
+InternalLink/<• Addisonkris><addisonkris>
 
-Vid misstänkt myxödemkoma (allt lågt):
-• ACTH + Kortisol + TSH + T4
-• Solucortef 100 mg IV
-• Piperacillin-Tazobaktam 4 IV
-• Endokrin konsult
-• Levotyroxin 300 mikrog IV späd i NaCl 0,9% (vid utebliven tillgång ges 1 mg av krossade Levaxin eller Euthyrox via V-sond)
+InternalLink/<• Myxödemkoma><myxodemkoma>
+
+InternalLink/<• Spontan bakteriell peritonit><spontan bakteriell peritonit>
 
 
 
-
-• Intoxikation? Abstinens?
-• organ Dysfunction: lever, djur, hjärta. Myxödemkoma? Addison?
-• Andning?  Hypoxi, hypercapné
-• Strukturell?
-
-
-
-
-Title/10. Endotracheal Intubation?
+Title/10. Endotrakeal intubation?
 Text/
-indikations:
-• Upper airway obstruction
-• Unable to adequately oxygenate (pO2)/ventilate (pCO2)
-• To secure the upper airway (e.g. prevent aspiration)
-• Anticipated course
+Color/<#5EA35C><Indikation:>
+• Djup medvetandesänkning utan snabb reversibel orsak
 
 
 
-Title/11. Head CT?
+Title/11. DT-hjärna?
 Text/
-indikation: focal neurological findings, no convincing extracranial cause
+Color/<#5EA35C><Indikationer:>
+• Fokala bortfall
+• Ingen annan uppenbar orsak till medvetanderubbning
 
-• Non-contrast head CT + contrast CT of neck and intracranial vessels (to identify dissection/occlusion)
+Color/<#A336C9><Överväg:>
+• DT-hjärna: blödning, ischemi?
+• DT-angiografi halskärl + intrakraniella kärl: dissektion, ocklusion?
+• DT-perfusion vid potentiell trombolys/trombektomi
+• DT-angiografi venösfas vid misstänkt sinustrombos
+
+Title/Om medvetanderubbning
+Text/
+Color/<#A336C9><MEDVETS-Strul:>
+Color/<#5EA35C><Metabol:>
+• Wernickes encefalopati
+• Hepatisk encefalopati
+• Uremisk encefalopati
+• Urinretention
+
+Color/<#5EA35C><Elektrolyter/Endokrin:>
+• Na, Ca
+• Addisonkris
+• Myxödemkoma
+
+Color/<#5EA35C><Diabetes:>
+• Hypoglycemi
+• DKA
+• HHS
+
+Color/<#5EA35C><Viral encefalopati - bakteriell meningit:>
+• Herpesencefalit
+• Bakteriell meningit
+• Övrigt encefaliter (t ex NMDAR-encefalit, limbisk encefalit)
+
+Color/<#5EA35C><Epileptiskt anfall:>
+• Icke-konvulsiv status epilepticus
+• Post-iktal
+
+Color/<#5EA35C><Toxin>
+
+Color/<#5EA35C><Sepsis>
+
+Color/<#5EA35C><Strukturell:>
+• Stroke
+• Hjärntumör -abscess

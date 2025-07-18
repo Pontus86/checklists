@@ -1,162 +1,169 @@
-Title/1. TORAKOTOMI / GRAVIDA / BARN / BLODCENTRALEN
+Title/1. Akuta konsulter?
 Text/
+Color/<#5EA35C><Torakotomi:>
+• Thorax primärjour 71879
+• Thorax Op sternumsåg 71688
+• THIVA-jour 77971
 
-TORAKOTOMI (77971 THIVA):
-• 71879 (primärjour thorax)
-• 71688 (thorax Op sternumsåg)
+Color/<#5EA35C><Gravid över 20v/fundus ovan navel:>
+InternalLink/<• Förbered perimortem sectio><perimortem sectio>
+• Förlossningsjour 72501
+• Neojour 78580
 
-GRAVID > 20 veckor (72501 Gyn; 78579 Förlossning; 78580 Neojour)
-• Förbered perimortem sectio
-• Förbered omhändertagande nyfödda
+Color/<#0014ff><Barn:>
+InternalLink/<• HLR barn läkemedel><hlr barn lakemedel>
+• Barn IVA-jour 78484
 
-BARN (78484 Barn IVA)
-• < 1 år: (må / 2) + 4
-• 1-4 år:  (år x 2) + 10
-• 5-14 år: (år x 4)
-
-• Blod 10 ml/kg IV bolus, upprepas
-• Cyklokapron 15 mg/kg IV bolus
-• Kalcium glukonat 100 mg/ml 0,3 ml/kg
-
-BLOD-ATP (72950)
+Color/<#5EA35C><Blodcentralen:>
+• Beställ transfusionspaket 72950
 
 
 
-
-Title/2. Rollfördelning
+Title/2. Sign-In
 Text/
-Narkos:
-• Halsrygg stabilisering
-• Ventilerar, EtCO2
-• Beredskap för intubation
+• Tidigare sjukdomar/läkemedel
+• Ambulansrapport
 
-Akutläkare:
-• Bäckengördel på bristen
-• Inspektera bröstkorg, auskultera lungorna
-• E-FAST: tamponad, lung-sliding, pleuravätska, bukvätska?
+Color/<#A336C9><Akutläkare:>
+• Bäckengördel på brits?
 • Beredskap för toraxdrän
-• Undersöka extremiteter, undersöka rygg vid stockvändning
+• Undersöker bröstkorg, auskultera lungorna
+• Ultraljud: tamponad, lung-sliding, pleuravätska, fri vätska i buken?
+• Undersöker extremiteter, rygg vid stockvändning
 
-Sjuksköterska:
-• Förbered Fluido?
+Color/<#A336C9><Akutens sjuksköterska:>
+• Förbereder Fluido?
 • Beredskap IO nål humerus
 • Blodprov
 
-Ledare:
-• PRATAR HÖGT, LÄGESRAPPORTER
-• Beslut om blod, drän, läkemedel
+Color/<#A336C9><Teamleader:>
+Beslut om
+• Torakotomi
+• Drän
+• Blodtransfusion
 
 
 
-Title/2. Tourniquet?
+Title/3. Torakotomi?
 Text/
-Indikation: svår extremitetsblödning som inte kan hävas med kompression
+Color/<#5EA35C><Indikation (punkter tillsammans):>
+• Livstecken vid skadeplats
+• Pulslös på akuten
+• Pulslöshet < 15 min
+
+Color/<#f40b1a><Kontraindikationer:>
+• Asystole + ingen tamponad
+• Skador ej förenliga med överlevnad
 
 
 
-Title/3. Toraxdrän?
+Title/4. Tourniquet? Drän? Gördel?
 Text/
-Indikation: misstänkt pneumo- hemotorax och (instabil patient eller övertrycksventilation)
+Color/<#a5715a><Tourniquet:>
+• Vid svår extremitetsblödning som inte kan hävas med kompression
+
+Color/<#a5715a><Thoraxdrän:>
+• Vid pneumo- hemotorax och instabil patient eller övertrycksventilation
+
+Color/<#a5715a><Bäckengördel:>
+• Vid högenergi våld mot bäckenet
 
 
 
-Title/4. Toracotomi?
+Title/5. Blodprov?
 Text/
-Indikation: livstecken vid skadeplats + pulslös på akuten + pulslös < 15 min
+Color/<#5EA35C><Som regel:>
+• Blodgas
+• Trombocyter
+• PK, aPTT
+• Fibrinogen
+• Blodgruppering/bastest
 
-Kontraindikation:
-1-Asystole + ingen tamponad
-2-Nonsurvivable skador 
 
 
-
-Title/5. Endotrakeal intubation?
+Title/6. 0 negativt blod?
 Text/
-Indikation: medvetslös eller kan ej skydda sin övre luftväg
+Color/<#5EA35C><Indikationer:>
+• SBT < 80 mm Hg eller förlust av radialispuls
 
-RSI:  until hypotension vid traumatisk hjärnskada
+• SBT < 110 mm Hg och traumatisk hjärnskada/ryggmärgsskada
+
+Color/<#a5715a><Åtgärd:>
+• 1-2 SAG Color/<#0014ff><(10 ml/kg)> med övertryck, t ex:
+- krama påsen med händerna
+- via Fluido 
 
 
 
-Title/6. EtCO2?
+Title/7. Endotrakeal intubation?
 Text/
-Indikation: misstänkt ökat intrakraniellt tryck/traumatisk hjärnskada
+Color/<#5EA35C><Indikationer:>
+• Medvetslös
+• Kan ej skydda sin luftväg
 
-Sikta på EtCO2 5
-
-Sikta på EtCO2 3,5 om (medvetslös + ljusstel dilateral pupill)
-
+Color/<#f40b1a><Risk:>
+• Undvik hypotension vid RSI vid traumatisk hjärnskada
 
 
-
-Title/7. Bäckengördel?
+Title/8. Ventilation vid hjärnskada?
 Text/
-Indikation: suspected pelvic ring fracture after high-energy impact
+Color/<#5EA35C><Indikation:>
+• Traumatisk hjärnskada
+
+Color/<#a5715a><Åtgärd:>
+Ventilera med målvärde:
+• EtCO2 5
+• EtCO2 3,5 om medvetslös med ljusstel dilaterad pupill
 
 
 
-Title/8. Blodprov?
+Title/9. Smärtstillning?
 Text/
-Hb, Platelets, INR, type & cross, electrolytes, glucose, lactate, creatinine, blood gases +/- fibrinogen
+Color/<#a5715a><Val:>
+• Fentanyl 50 mcg/ml 1 ml IV över 1 min Color/<#0014ff><(1 mcg/kg)>
+• Ketanest 5 mg/ml 2 ml IV över 1 min Color/<#0014ff><(0,3 mg/kg)>
 
 
 
-Title/9. 0 negativt blod?
+Title/10. Cyklokapron?
 Text/
-Indikation: hemorrhagic shock with SBP ≤ 80 mm Hg or loss of radial pulse
+Color/<#5EA35C><Indikation:>
+• Blödningschock inom 3 tim från trauma
 
-0 negative blood as default (0 positive blood can be used if patient is not a fertile woman)
+Color/<#a5715a><Åtgärd:>
+• Cyklokapron 2 g IV Color/<#0014ff><(15 mg/kg)>
 
 
 
-Title/10. Blodtrycksmål
+Title/11. Calcium?
 Text/
-SBP 80-90 mm Hg (MAP ≥ 65 mm Hg, "hypotensive resuscitation/permissive hypotens"')
+Color/<#5EA35C><Indikation:>
+• Ca joniserad < 1,1 mmol/L
 
-SBP > 100 mm Hg (MAP ≥ 80 mm Hg) if traumatic brain injury or spinal cord injury
+Color/<#a5715a><Åtgärd:>
+• Kalciumglukonat 100 mg/ml 10 ml IV Color/<#0014ff><(0,3 ml/kg)>
 
 
 
-Title/11. Smärtstillning?
+Title/12. Antibiotika?
 Text/
-Indikation: conscious patient in pain
+Color/<#5EA35C><Öppen extremitetsfraktur, enkel:>
+• Ekvacillin 2 g IV Color/<#0014ff><(50 mg/kg)>
+• Vid PC-allergi: Clindamycin 600 mg IV Color/<#0014ff><(barn ≥ 12 år)>
 
-Morphine 0.1 mg/kg IV or Ketamine 0.3 mg/kg IV or Esketamine 0.15 mg/kg IV
+Color/<#5EA35C><Öppen extremitetsfraktur större än 10 cm, med kontamination eller uttalad mjukdelsskada:>
+• Cefotaxim 2 g IV Color/<#0014ff><(50 mg/kg)>
+• Vid PC-allergi: Clindamycin 600 mg IV Color/<#0014ff><(barn ≥ 12 år)> + Nebcina 1,5 mg/kg
+
+
+Color/<#5EA35C><Penetrerande bukskada:>
+• Piperacillin-Tazobactam 4 g IV Color/<#0014ff><(100 mg/kg)>
 
 
 
-Title/12. Cyklokapron?
+Title/13. Vidare handläggning
 Text/
-Indikation: hemorrhagic shock and within 3 hours of trauma
-
-Cyklokapron 2 g IV (15 mg/kg)
-
-
-
-Title/13. Calcium?
-Text/
-Indikation: hypocalcemia; transfusion of blood products, especially if liver insufficiency
-•	Calcium Gluconate 100 mg/ml 10 ml (0.3 ml/kg) IV if ionized calcium < 1.0 mmol/L 
-
-
-
-Title/14. Antibiotics - Tetanus Prophylaxis?
-Text/
-Cloxacillin (Ekvacillin®) 2 g IV (≤ 20 kg:  50 mg/kg) for open extremity fractures
-
-Cefotaxime 1 g IV + Metronidazol 1.5 g IV for penetrating abdominal trauma
-
-Tetanus toxoid if contamined wound (diTeBooster® 0.5 ml IM)
-
-
-
-Title/15. Prevent Hypothermia
-Text/
-Indikation: alla patienter
-
-
-
-Title/16. Disposition?
-Text/
-OR vs CT
-
+Color/<#a5715a><Åtgärder och beslut:>
+• Förebygg hypotermi
+• Rörelsebegränsning?
+• OP eller DT?

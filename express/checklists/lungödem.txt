@@ -1,118 +1,142 @@
-Title/1. Upright Positioning
+Title/1. Hjärtläge
 Text/
-• Place the patient in the upright position by elevating the head of the bed
+Color/<#a5715a><Åtgärd:>
+• Höja sänghuvudet
 
 
 
-Title/2. Supplemental Oxygen?
+Title/2. Syrgas?
 Text/
-• As needed to maintain a SpO2 > 90% or a PaO2 > 8 kPa (60 mm Hg)
+Color/<#5EA35C><Indikation:>
+• SpO2 < 90%
 
-• Hyperoxia should be avoided
+Color/<#a5715a><Val:>
+• Mask med reservoar 10-15 L/min
+• Oxymask 1-10 L/min
 
 
 
-Title/3. Vasodilators?
+Title/3. Nitroglycerin?
 Text/
-Indications:
-• Severe hypertension and urgent need for afterload reduction
-• Acute mitral or aortic regurgitation
-• As adjunct to diuretics in patients with inadequate response
-• Patients with refractory HF and low cardiac output
+Color/<#5EA35C><Indikationer:>
+• SBT > 160 mm Hg (hypertensiv lungödem)
+• Akut mitralis- eller aortainsufficiens
 
-Contraindications:
-• SBP < 110 mm Hg
-• Significant mitral or aortic stenosis
-• Predominant right heart failure
-• Nitroglycerin contraindicated in the setting of recent sildenafil use
+Color/<#f40b1a><Kontraindikationer:>
+• SBT < 110 mm Hg
+• Svår mitralis- eller aortastenos
+• Viagra-bruk inom 12 tim
 
-Options:
-• Nitroglycerin 0.4 mg SL every 60 sec until BP responds and dyspnea improves
-• Nitroglycerin 1 mg/ml 0.5 mg bolus IV q3min
-• Nitroglycerin 1 mg/ml 10 ml in 40 ml saline = 200 µg/ml. 1 µg/kg/min, titrate up
+Color/<#a5715a><Val:>
+• Nitroglycerin 1 spraydos (0,4 mg) var 2:a min
+• Nitroglycerin 1 mg/ml 0,5 mg bolus IV var 3:e min
+• Nitroglycerin 1 mg/ml 10 ml + 40 ml NaCl 1 µg/kg/min titrera snabbt uppåt vb 
+
+Color/<#A336C9><Mål:>
+• SBT  130 mm Hg
 
 
 
-Title/4. Diuretics?
+Title/4. CPAP/NIV?
 Text/
-Indication: congestion (total body fluid overload)
+Color/<#5EA35C><Indikationer:>
+• Hypoxemi
+• Respiratorisk acidos
 
-Contraindication:
+Color/<#f40b1a><Kontraindikationer:>
 • SBP < 85 mm Hg
-• Caution in the setting of aortic stenosis
-• Not initially recommended in Sympathetic Crashing Acute Pulmonary Edema
+• Kräkning
+• Pneumothorax, oklart subkutant emfysem
+• Svår medvetandesänkning
+• Nylig övre luftvägs- eller GI kirurgi
 
-Dose:
-• Furosemid 40 mg IV for patients not taking diuretics
-• For patients taking oral loop diuretics, at least the whole oral daily dose given IV is recommended (e.g. ≥ 80 mg IV for a patient taking 40 mg PO twice daily)
+Color/<#a5715a><FlowSafe:>
+• CPAP 4 cm H2O
+• Tillägg IPAP 8 cm H2O vid hyperkapné, utmattning
+
+Color/<#a5715a><Hamilton:>
+• PEEP/CPAP 4 cm H2O
+• Tillägg P-Support 4 cm H2O vid hyperkapné, utmattning
+• P-ramp 150 msec?
+• ETS (Expiratory Trigger Sensitivity) 50%?
 
 
 
-Title/5. Morphine?
+Title/5. Furix?
 Text/
-Indication: anxious, restless or distressed patient
+Color/<#f40b1a><Kontraindikation:>
+• SBT < 90 mm Hg
 
-Risk: not routinely recommended, associated with increased mortality in AHF (OR 4.84)
+Color/<#f40b1a><Risk:>
+• Hypotension vid svår aortastenos
 
-• Morphine 4 mg IV along with antiemetic (e.g. Metoclopramide 10 mg IV)
+Color/<#a5715a><Åtgärd:>
+• Furix 40 mg IV om patienten inte står på diuretika
+• Furix dygnets dos IV om patienten redan står på diuretika (t ex 80 mg IV om Furix 40 mg x 2)
 
-• Alertness and respiratory effort should be monitored frequently
 
 
-
-Title/6. CPAP / NIPPV?
+Title/6. CPAP/NIV justering
 Text/
-Indications:
-• Respiratory acidosis
-• Respiratory distress and hypoxia despite above measures
+Color/<#5EA35C><SpO2 stiger ej:>
+• Öka FiO2 upp till 100% vid behov
+• Öka PEEP/CPAP 2 cm H2O var 4 min
 
-Contraindications:
-• SBP < 85 mm Hg
-• Vomiting
-• Pneumothorax
-• Depressed consciousness
+Color/<#5EA35C><pCO2 sjunker ej:>
+• Öka IPAP/P-support 2 cm H2O var 4 min
+• Max IPAP (PEEP + P-Support) 20 cm H2O
 
-Options:
-• CPAP 5 cm H2O, titrate to 15 cm if needed
-• NIPPV (10/5 cm H2O) if persisting hypercapnia, fatiguing, history of COPD
+Color/<#5EA35C><Larm Hamilton:>
+• Tryck på "Larm" knappen
+• Höj övre gräns för minutvolym "ExpMinVol L/min" vb
 
 
 
-Title/7. Endotracheal Intubation & Invasive Ventilation?
+Title/7. Intubation?
 Text/
-Indications:
-• Patients with respiratory failure (hypoxia, hypercapnia) who fail to improve despite CPAP or NIPPV
+Color/<#5EA35C><Indikationer:>
+• Hypoxi och/eller hyperkapné utan svar på CPAP/NIV
+• Utmattning
+• Nedsatt medvetandegrad, kan ej skydda luftvägen
 
-• Physical exhaustion
+Color/<#a5715a><Val:>
+• Anestesilarm 77900
+• MIG-bedömning 72784
 
-• Diminished level of consciousness and inability to protect airway
 
-
-
-Title/8. Blood Tests
+Title/8. Blodprov
 Text/
-• Plasma natriuretic peptide level (BNP, NT-proBNP or MR-proANP)
-• Troponin (High sensitivity troponin levels usually elevated)
+Color/<#a5715a><Åtgärder:>
+• Pro-BNP
+• Troponin
 
 
 
-Title/9. Cause-Specific Therapy?
+Title/9. Utlösande orsak?
 Text/
-• STEMI / NSTEMI?  See STEMI
+Color/<#A336C9><Överväg:>
+• Akut hjärtischemi, InternalLink/<STEMI-OMI><stemi-omi>
+• Akut strukturellt problem (t ex papillarmuskelruptur)
 
-• Structural problem (e.g. papillary muscle rupture)? Consider urgent thoracic surgery
 
 
-
-Title/10. Admission & Monitoring
+Title/10. Övrigt
 Text/
-• ICU admission if SaO2 < 90% despite supplemental O2, heart rate < 60 or >120 bpm, SBP < 90 mm Hg, evidence of organ hypoperfusion (e.g. diminished urine output, altered mental status)
+Color/<#a5715a><Åtgärd:>
+• Klexane 40 mg SC x 1 om ej på antikoagulantia
 
-• Loop diuretics: total IV daily dose 2.5 times the patient's previous total oral dose, administered every 12 hours.  If diuretic response is inadequate, addition of metolazone
+Color/<#A336C9><Överväg:>
+• KAD för att följa diures
 
-• Monitor blood pressure, respiratory rate, pulse, daily weights, urinary output, renal function, potassium.  Consider Bladder Catheterization
 
-• Na & fluid restriction (< 2g/day, < 2 L/day)
 
-• LMWH for thromboembolic prophylaxis 
+Title/Morfin?
+Text/
+Color/<#A336C9><Rekommenderas ej rutinmässigt:>
+• Påverkar andning och medvetandegrad
+• Associerad med ökad mortalitet
+• Kan övervägas vid svår ångest
 
+Color/<#a5715a><Åtgärder:>
+• Morfin 2 mg IV
+• Primperan 10 mg IV

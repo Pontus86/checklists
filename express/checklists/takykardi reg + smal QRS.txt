@@ -1,46 +1,166 @@
-Title/1. Consider DDx
+Title/1. Sinustakykardi?
 Text/
-• Sinus tachycardia:  < (220-age), upright P in II
-• Atrial flutter: usually around 150 bpm, 2:1 conduction
-• Ectopic atrial tachycardia: neg P in II, PR short or long
+Color/<#5EA35C><Talar för (punkter tillsammans):>
+• HF < 150 slag/min
+• 1 P-våg framför varje QRS
+• P-våg positiv i avl II
+
+Color/<#A336C9><Överväg:>
+• Hypovolemi/blödning?
+• Lungemboli?
+• Myokardischemi?
+• Sepsis?
+• Hypokalemi? Hypocalcemi? Hypomagnesiemi?
+• Intoxikation?
+• Abstinens?
+• Tyreotoxikos?
+
+
+
+Title/2. Lewis Lead?
+Text/
+Color/<#5EA35C><Indikation:>
+• Identifiera P-vågor i förhållande till QRS-komplex
+
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Lewis Lead><lewis lead>
+
+
+
+Title/3. Esofagus-EKG?
+Text/
+Color/<#5EA35C><Indikation:>
+• Identifiera P-vågor i förhållande till QRS-komplex
+
+Color/<#f40b1a><Nackdelar:>
+• Engångs elektrod kostar SEK 5000
+• Valsalva/adenosin ofta tillräcklig för att skilja mellan Fladder/EAT och AVRT/AVNRT
+
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Esofagus-EKG><esofagus-ekg>
+
+
+
+Title/4. Valsalva?
+Text/
+Color/<#5EA35C><Indikation:>
+• Bryta AVNRT/AVRT
+
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Valsalva><valsalva>
+
+Color/<#0014ff><Barn:>
+• Handske fylld med is + vatten läggs på pannan
+
+
+
+Title/5. Adenosin?
+Text/
+Color/<#5EA35C><Talar för (punkter tillsammans):>
+• Bryta AVNRT/AVRT
+• Utebliven effekt av Valsalva
+
+Color/<#f40b1a><Kontraindikationer/risker:>
+• Svår hypotoni
+• Instabil angina
+• Allvarliga biverkningar vid tidigare behandling
+• Kan utlösa brady- eller takyarytmier
+
+Color/<#a5715a><Åtgärd:>
+1. Koppla def (3-avl EKG) för att skriva ut rytmremsa
+2. Välj avl där P-vågor syns bäst
+3. Adenosin 5 mg + NaCl 10 ml IV bolus
+4. Adenosin 10 mg + NaCl 10 ml IV bolus
+5. Adenosin 15 mg + NaCl 10 ml IV bolus
+
+Color/<#0014ff><Barn:>
+1. Adenosin 100 µg/kg
+2. Adenosin 200 µg/kg
+3. Adenosin 300 µg/kg
+
+Color/<#A336C9><Tolkning:>
+• Arytmin bryts: AVNRT/AVRT
+• Tillfällig bradykardi där förmaksaktivitet syns: fladder/EAT
+• Ingen effekt alls: VT?
+
+
+
+Title/6. Elkonvertering?
+Text/
+Color/<#5EA35C><Talar för (punkter tillsammans):>
+• Kvarstående SVT (ej sinus)
+• Snar återställning till sinus önskvärt
+
+Color/<#f40b1a><Kontraindikation:>
+• Fladder > 24 tim utan antikoagulantia ≥ 3 veckor
+
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Elkonvertering><elkonvertering>
+
+
+
+Title/7. Amiodaron?
+Text/
+Color/<#5EA35C><Talar för (punkter tillsammans):>
+• Kvarstående SVT (ej sinus)
+• Snar återställning till sinus önskvärt
+• Elkonvertering ej aktuell
+
+Color/<#f40b1a><Kontraindikation:>
+• Fladder > 24 tim utan antikoagulantia ≥ 3 veckor
+
+Color/<#a5715a><Åtgärd:>
+• Amiodaron 50 mg/ml 6 ml i Glukos 50 mg/ml 250 ml IV över 30 min
+
+
+
+Title/8. TEE?
+Text/
+Color/<#5EA35C><Talar för (punkter tillsammans):>
+• Förmaksfladder > 24 tim utan antikoagulantia ≥ 3 veckor
+• Snar återställning till sinus önskvärt
+
+Color/<#a5715a><Åtgärd:>
+• HIA-jour 71414
+
+
+
+Title/9. Seloken?
+Text/
+Color/<#5EA35C><Talar för (punkter tillsammans):>
+• Kvarstående SVT (ej sinus)
+• Frekvenskontroll som initialt mål
+
+Color/<#f40b1a><Kontraindikationer:>
+• Systoliskt BT < 100
+• Känd LVEF < 40%
+• Svår astma
+
+Color/<#a5715a><Åtgärd:>
+• Seloken 5 mg IV
+
+
+
+Title/10. Digoxin?
+Text/
+Color/<#5EA35C><Indikation (tillsammans):>
+• Kvarstående SVT (ej sinus)
+• Frekvenskontroll som initialt mål
+• Seloken kontraindicerad eller otillräcklig effekt
+
+Color/<#a5715a><Åtgärd:>
+• Digoxin 0,5 mg IV
+
+
+
+Title/Om takykardi reg + smal
+Text/
+Color/<#A336C9><Differentialdiagnos:>
+• Sinustakykardi
+• Förmaksfladder
+• Ektopisk förmakstakykardi
 • AVNRT
-• AVRT orthodromic: delta wave when in sinus
+• AVRT ortodrom
 
-
-
-Title/2. Lewis Lead?  Esophageal EKG?
-Text/
-• Right arm electrode on 2nd ICS right sternal border
-• Left arm electrode on 4th ICS right sternal border
-• Increase amplitude to 20 mm/mV
-• Record EKG, look for the P wave in lead I
-
-Alternative:  esophageal EKG
-
-
-
-Title/3. Modified Valsalva?
-Text/
-Indication: can terminate AVNRT / AVRT
-
-• Patient in semi-recumbent position
-• Patient blows into a 20 ml syringe to push back plunger
-• Immediately after the strain, patient laid flat and legs raised to 45° for 15 sec
-
-Children: rubber glove filled with ice-cold water on bridge of nose
-
-
-
-Title/4. Adenosine?
-Text/
-• Use the defibrillator to print-out changes in rhythm
-• Adenosine 5 mg IV PUSH (100 ug/kg) followed by normal saline bolus
-• If no response:  Adenosine 10 mg (200 ug/kg) followed by Adenosine 15 mg (300 ug/kg)
-
-
-
-Title/5. Amiodarone?
-Text/
-Indication: paroxysmal SVT uncontrolled by adenosine or vagal manoeuvres
-
-• Amiodarone 300 mg in glucose 50 mg/ml 100 ml over 10-60 min IV
+Color/<#A336C9><Notera:>
+• 2-5% av VT har QRS-bred 110-120 msec

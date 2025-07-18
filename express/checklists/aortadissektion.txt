@@ -1,19 +1,52 @@
-Title/1. Opioid
+Title/1. Smärtstillning?
 Text/
-Indication: pain
+Color/<#5EA35C><Indikation:>
+• Smärta
 
-Risk: hypotension
+Color/<#f40b1a><Risk:>
+• Hypotension
+• Kräkning
 
-• Fentanyl 50 μg/ml 1 μg/kg IV
+Color/<#a5715a><Val:>
+• Morfin 1 mg/ml 4 ml IV över 2 min
+• Fentanyl 50 μg/ml 1 ml IV över 2 min
 
 
 
-Title/2. Blood Pressure Reduction
+Title/2. Trandate-Nitrospraj-Metoprolol?
 Text/
-Indication: reduce SBP to 100 – 120 mm Hg and HR < 60 bpm within 20 min of diagnosis
+Color/<#5EA35C><SBP över 120 + HF över 60:>
+• Trandate (Labetalol) 5 mg/ml 4 ml IV sedan 4-16 ml var 10:e min
 
-• Labetalol 5 mg/ml (Trandate®) 20 mg IV initially then 20-80 mg q10 min
+Color/<#5EA35C><SBP över 120 + HF under 60:>
+• Nitroglycerin spraj 0,4 mg SL varje min
 
-• If HR < 60 bpm and SBP > 120 mm Hg: Nitroglycerin 0.4 mg SL every 60 seconds
+Color/<#5EA35C><SBP under 120 + HF över 60:>
+• Metoprolol 5 mg IV
 
-• If HR > 60 bpm and SBP < 120 mm Hg: Metoprolol 5 mg IV
+Color/<#A336C9><Mål:>
+• SBP < 120
+• HF < 60
+
+
+
+Title/3. Vidare handläggning?
+Text/
+Color/<#a5715a><Åtgärder:>
+• DT-aorta prio 1
+• Primärjour thorax 71879
+
+Color/<#A336C9><Notera:>
+• DT-aorta görs på vitalindikation oavsett Krea
+
+
+
+Title/Om aortadissektion
+Text/
+Color/<#5EA35C><Talar för aortadissektion:>
+• Bröstsmärta + en av följande:
+- buksmärta
+- neurobortfall
+- synkope/kollaps 
+• Rivande/skärande retrosternal bröstsmärta
+• Maximal smärtintensitet inom sekunder
