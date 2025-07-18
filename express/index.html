@@ -145,9 +145,13 @@
 </div>
 </div>
 
-<div class="container card shadow p-3 mb-5 bg-white rounded" style="width: 600px; min-height:40px; margin-top: 80px">
+<div class="container card shadow p-3 mb-5 bg-white rounded" style="width: 800px; min-height:40px; margin-top: 80px">
   <div class="d-flex justify-content-between">
-    <input type="text" class="form-control me-2" id="inputUser" placeholder="177575" style="flex: 1;">
+    <div style="flex: 3; display: flex; align-items: center;">
+      <span>Patient ID:</span>
+      <div id="inputUser" style="margin-left: 5px;"></div>
+    </div>
+    
     <input type="text" id="searchBar" placeholder="Search..." class="form-control ms-2" style="flex: 4;">
     <input type="Button" id="logoutButton" value="Logga ut" class="btn btn-dark ms-2" style="flex: 1;">
   </div>

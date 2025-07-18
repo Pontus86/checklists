@@ -270,6 +270,9 @@ function ifImage(arrayOfItems){
     parentDiv.removeChild(loadingIcon);
     elem.style.display = "block";
     elem.style.visibility = 'visible'; // Make the image visible
+
+    session.addEvent(arrayOfItems);
+    session.saveChoices(events);
   }
 }
 

@@ -366,6 +366,9 @@ function ifImage(arrayOfItems){
     parentDiv.removeChild(loadingIcon);
     elem.style.display = "block";
     elem.style.visibility = 'visible'; // Make the image visible
+
+    session.addEvent(arrayOfItems);
+    session.saveChoices(events);
   }
 }
 
@@ -960,7 +963,10 @@ module.exports = {}
           //session.userRSID = rsid.input.value.trim();
           //session.physicianLevel = level.select.value;
           session.patientID = patient.input.value.trim();
+          document.getElementById('inputUser').textContent = session.patientID;
+            
           modal.style.display = 'none';
+
         
       });
   
@@ -1300,6 +1306,13 @@ class Session {
         if (this.events.length == 0) {
             this.events.push([this.getCurrentTime(), "__" + this.userRSID, "__" + this.checklist, "__" + this.patientID, "__" + this.physicianLevel, "", "", "", "", "", "", ""]);
         }
+        if (event.length == 1 && event[0].includes("I/")) {
+            console.log("Event contains 'I/'");
+            this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, "Image", "", "", "", "", "", "", "", ""]);
+            this.removeCommas();
+            return;
+        }
+
         if (event == "logout") {
             console.log("User logged out");
             this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, "Logout", "", "", this.physicianLevel, this.checklistUse,

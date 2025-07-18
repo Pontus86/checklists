@@ -32,6 +32,13 @@ class Session {
         if (this.events.length == 0) {
             this.events.push([this.getCurrentTime(), "__" + this.userRSID, "__" + this.checklist, "__" + this.patientID, "__" + this.physicianLevel, "", "", "", "", "", "", ""]);
         }
+        if (event.length == 1 && event[0].includes("I/")) {
+            console.log("Event contains 'I/'");
+            this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, "Image", "", "", "", "", "", "", "", ""]);
+            this.removeCommas();
+            return;
+        }
+
         if (event == "logout") {
             console.log("User logged out");
             this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, "Logout", "", "", this.physicianLevel, this.checklistUse,

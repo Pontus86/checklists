@@ -102,7 +102,10 @@
           //session.userRSID = rsid.input.value.trim();
           //session.physicianLevel = level.select.value;
           session.patientID = patient.input.value.trim();
+          document.getElementById('inputUser').textContent = session.patientID;
+            
           modal.style.display = 'none';
+
         
       });
   
