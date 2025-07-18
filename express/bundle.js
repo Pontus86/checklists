@@ -1304,19 +1304,21 @@ class Session {
     addEvent(event) {
         console.log(event);
         if (this.events.length == 0) {
-            this.events.push([this.getCurrentTime(), "__" + this.userRSID, "__" + this.checklist, "__" + this.patientID, "__" + this.physicianLevel, "", "", "", "", "", "", ""]);
+            this.events.push([this.getCurrentTime(), "__" + this.userRSID," " , "__" + this.checklist, "", "__" + this.physicianLevel, "", "", "", "", "", "", ""]);
         }
         if (event.length == 1 && event[0].includes("I/")) {
             console.log("Event contains 'I/'");
-            this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, "Image", "", "", "", "", "", "", "", ""]);
+            let sessionEvent = [this.getCurrentTime(), this.userRSID, this.patientID, this.checklist, "Image", "", "", "", "", "", "", "", ""];
+            this.events.push(sessionEvent);
             this.removeCommas();
             return;
         }
 
         if (event == "logout") {
             console.log("User logged out");
-            this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, "Logout", "", "", this.physicianLevel, this.checklistUse,
-                this.do_confirm, this.likert_scale, this.no_use, this.discuss]);
+            let sessionEvent = [this.getCurrentTime(), this.userRSID, this.patientID, this.checklist, "Logout", "", "", this.physicianLevel, this.checklistUse,
+                this.do_confirm, this.likert_scale, this.no_use, this.discuss]
+            this.events.push(sessionEvent);
             this.removeCommas();
             return;
         }
@@ -1324,9 +1326,11 @@ class Session {
         if (event.target.nodeName == "INPUT") {
             console.log(event)
             console.log(event.target.parentNode.parentNode.parentNode.outerText)
-            this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, "Checkbox", event.target.parentNode.parentNode.parentNode.outerText, event.target.value, "", "", "", "", "", ""]);
+            let sessionEvent = [this.getCurrentTime(), this.userRSID, this.patientID, this.checklist, "Checkbox", event.target.parentNode.parentNode.parentNode.outerText, event.target.value, "", "", "", "", "", ""];
+        
+            this.events.push(sessionEvent);
         }
-        else this.events.push([this.getCurrentTime(), this.userRSID, this.checklist, "Read", event.target.outerText, 9, "", "", "", "", "", ""]);
+        else this.events.push([this.getCurrentTime(), this.userRSID, this.patientID, this.checklist, "Read", event.target.outerText, 9, "", "", "", "", "", ""]);
         this.removeCommas();
         console.log("Sesstion events", this.events);
     }
