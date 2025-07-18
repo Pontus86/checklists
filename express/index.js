@@ -60,8 +60,6 @@ async function run() {
   });
 
 
-
-  session.setUserRSID = "177575";
   viewHomePage();
   setMenuItemsOnClickEvents(MENU_NAMES);
   let homeButton = document.getElementById("homeButton")

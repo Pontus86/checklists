@@ -156,8 +156,6 @@ async function run() {
   });
 
 
-
-  session.setUserRSID = "177575";
   viewHomePage();
   setMenuItemsOnClickEvents(MENU_NAMES);
   let homeButton = document.getElementById("homeButton")
@@ -1353,8 +1351,8 @@ class Session {
 getCurrentTime() {
   var today = new Date();
   var date = today.getFullYear() + '-' + (today.getMonth() + 1) + '-' + today.getDate();
-  var time = today.getHours() + "-" + today.getMinutes() + "-" + today.getSeconds();
-  var dateTime = date + '_' + time;
+  var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+  var dateTime = date + ' ' + time;
 
   return dateTime;
 }
