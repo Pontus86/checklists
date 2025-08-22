@@ -1202,7 +1202,6 @@ module.exports = {}
       let attempts = 0;
       let response;
       try {
-        throw new Error("Fel vid sparning!");
         while (attempts < 3) {
           response = await session.saveChoices();
           if (response && response.url && response.url.includes("upload")) {
