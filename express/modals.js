@@ -171,7 +171,7 @@
       modal.style.display = 'block';
     }
   
-    showLogoutModal(session, onSubmit) {
+    async showLogoutModal(session, onSubmit) {
       const { modal, modalContent } = this.createModalContainer();
       this.createCloseButton(modal, modalContent);
     
@@ -279,7 +279,7 @@
       submitBtn.type = 'submit';
       submitBtn.value = 'Logga ut';
     
-      form.addEventListener('submit', (event) => {
+      form.addEventListener('submit', async (event) => {
       event.preventDefault();
       const data = {
         experience: experienceSelect.value,
@@ -300,19 +300,42 @@
       console.log();
       session.addEvent("logout");
     
-      modal.style.display = 'none';
       if (onSubmit) onSubmit(data);
-      this.showTemporaryMessage("Data sparad!", "info");
-      session.saveChoices();
+      let attempts = 0;
+      let response;
+      try {
+        while (attempts < 3) {
+          response = await session.saveChoices();
+          if (response && response.url && response.url.includes("upload")) {
+            console.log("Data successfully saved after " + (attempts + 1) + " attempts.");
+            break;
+          }
+          attempts++;
+        }
+        this.showTemporaryMessage("Data sparad!", "info");
+        if (!response || !response.url || !response.url.includes("upload") || attempts >= 3) {
+          throw new Error("Fel vid sparning!");
+        }
+        setTimeout(() => {
+          window.location.reload();
+        }, 3000);
+      } catch (err) {
+        this.showTemporaryMessage("Fel vid sparning!", "info");
+        console.log("Error during save:", response ? response : "No response");
+        console.log("Attempts made:", attempts);
+        
+        // Optionally: don't reload, or offer retry
+      }
       setTimeout(() => {
-        window.location.reload();
-      }, 3000);
-      });
+        modal.style.display = 'none';
+        }, 2000);
+      
+    });
     
-      modalContent.appendChild(form);
-      //form.appendChild(feedbackBtn);
-      //form.appendChild(submitBtn);
-      modal.style.display = 'block';
+    modalContent.appendChild(form);
+    //form.appendChild(feedbackBtn);
+    //form.appendChild(submitBtn);
+    modal.style.display = 'block';
       addModalCloseOptions(modal);
 
       

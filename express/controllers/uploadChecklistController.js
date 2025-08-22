@@ -47,6 +47,20 @@ async function uploadChecklist(req, publicKey) {
     console.log("File saved");
   });
 
+  // Save a recovery copy with a random number in the filename
+  const recoveryDir = __dirname + "/../database/recovery/";
+  if (!fs.existsSync(recoveryDir)) {
+    fs.mkdirSync(recoveryDir, { recursive: true });
+  }
+  const randomSuffix = Math.floor(Math.random() * 1e9);
+  const recoveryPath = recoveryDir + name + "_" + randomSuffix + ".csv";
+  fs.writeFile(recoveryPath, csv, function (err) {
+    if (err) return console.log("Recovery file error:", err);
+    console.log("Recovery file saved:", recoveryPath);
+  });
+  return "Uploaded";
+
+
 }
 
 

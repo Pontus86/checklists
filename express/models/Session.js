@@ -84,7 +84,7 @@ class Session {
         console.log(JSON.stringify({ array: this.events }))
         console.log("data sent");
         console.log(response)
-        return response.status;
+        return response;
     }
 
 /**

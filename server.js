@@ -67,17 +67,17 @@ function setupExpressApp(CHECKLIST_ENCRYPTION_PUBLIC_KEY) {
 
       try {
         const files = await fs.promises.readdir(path.dirname(requestedPath));
-        console.log(files)
+        //console.log(files)
         const requestedFileLower = path.basename(requestedPath).toLowerCase()
         .replace(/%20/g, ' ').replace(/%c3%a5/g, 'å').replace(/%c3%a4/g, 'ä').replace(/%c3%b6/g, 'ö');
         
-        console.log(requestedFileLower)
+        //console.log(requestedFileLower)
         const found = files.find(file => file.toLowerCase() === requestedFileLower);
 
         if (found) {
           // If a case-insensitive match is found, serve the file directly
           console.log("FOUND")
-          console.log(path.join(path.dirname(requestedPath), found))
+          //console.log(path.join(path.dirname(requestedPath), found))
           return res.sendFile(path.join(path.dirname(requestedPath), found));
         }
       } catch (error) {
@@ -96,8 +96,8 @@ function setupExpressApp(CHECKLIST_ENCRYPTION_PUBLIC_KEY) {
     if (req.url == '/upload') {
       //TODO: If this req has an empty body, something went wrong with the post and we should not call uploadController,
       //but instead issue some kind of error handling.
-      uploadController.uploadChecklist(req, CHECKLIST_ENCRYPTION_PUBLIC_KEY);
-      res.send("Uploaded");
+      response = uploadController.uploadChecklist(req, CHECKLIST_ENCRYPTION_PUBLIC_KEY);
+      res.send(response);
       //TODO: 
       //Consider adding error handling and response messages when handling uploads/POST requests. 
       //Currently, when the upload is successful, 
