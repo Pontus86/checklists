@@ -112,5 +112,10 @@ crontab -e
 3. At end of file type:
 @reboot sleep 10 && authbind --deep /opt/nodejs/bin/pm2 start /home/pi/Documents/checklists/server.js --watch
 
+!Updated step 3:
+we have an autostart file instead.
+@reboot sleep 3 && /home/pi/Documents/server_autostart_on_startup.sh  >> /home/>
+
+
 4. Reboot pi to test:
 sudo reboot
