@@ -3,7 +3,6 @@ Perimortem sectio
 
 ChapterTitle/<AIRWAY>
 Coniotomi
-Jetoxygenering
 
 ChapterTitle/<BREATHING>
 NIV Hamilton
@@ -14,8 +13,6 @@ Elkonvertering
 Externpacing
 Intraosseös nål humerus
 Navelvenskateter
-Perikardiocentes
-Sprutpump
 
 ChapterTitle/<DISABILITY>
 Lateral kantotomi
