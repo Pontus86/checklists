@@ -98,5 +98,11 @@ To run forever:
       forever stop server.js
 
 
-Render-site:
+Render homepage:
+Here we deploy the program to an online service.
+The program will update based on new commits to github or forced manual updates 
+using a link which is available in the settings on the page.
+
+This is the Render-site where users gain access to the program:
 https://checklists-rpwy.onrender.com
+
