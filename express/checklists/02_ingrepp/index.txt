@@ -19,7 +19,6 @@ Sprutpump
 
 ChapterTitle/<DISABILITY>
 Lateral kantotomi
-Ventrikelsköljning
 Läkemedel intranasalt
 
 ChapterTitle/<EXPOSURE>
