@@ -1,14 +1,10 @@
-Title/1. Svåra symtom?
+Title/1. Svåra symtom-vuxna?
 Text/
 Color/<#a5715a><Glukos IV:>
 • Glukos 300 mg/ml (30%) 30 ml IV
-Color/<#0014ff><• Glukos 50 mg/ml (5%) 4 ml/kg IV>
-Color/<#0014ff><• Sedan Glukos 50 mg/ml (5%) 8 ml/kg/tim IV>
 
 Color/<#a5715a><Glukagon IM:>
 • Glukagon 1 mg IM
-Color/<#0014ff><• Glukagon 1 mg IM om över 6 år>
-Color/<#0014ff><• Glukagon 0,5 mg IM om under 6 år>
 
 Color/<#a5715a><Övriga åtgärder:>
 • Tiamin 300 mg IV vid alkoholmissbruk, undernäring
@@ -16,14 +12,26 @@ Color/<#a5715a><Övriga åtgärder:>
 
 
 
-Title/2. Milda symtom?
+Title/2. Svåra symtom-barn?
+Text/
+Color/<#a5715a><Glukos IV:>
+Color/<#0014ff><• Glukos 50 mg/ml (5%) 4 ml/kg IV>
+Color/<#0014ff><• Sedan Glukos 50 mg/ml (5%) 8 ml/kg/tim IV>
+
+Color/<#a5715a><Glukagon IM:>
+Color/<#0014ff><• Glukagon 1 mg IM om över 6 år>
+Color/<#0014ff><• Glukagon 0,5 mg IM om under 6 år>
+
+
+
+Title/3. Milda symtom?
 Text/
 Color/<#a5715a><Åtgärd:>
 • Druvsockertablett PO
 
 
 
-Title/3. Differentialdiagnos
+Title/4. Differentialdiagnos
 Text/
 Color/<#A336C9><För mycket insulin:>
 • Överdos med exogen insulin
@@ -37,7 +45,7 @@ Color/<#A336C9><Övriga orsaker:>
 
 
 
-Title/4. Monitorering
+Title/5. Monitorering
 Text/
 Color/<#a5715a><Åtgärd:>
 • Nytt glukos om 15-30 min

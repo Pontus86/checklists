@@ -1,24 +1,52 @@
-Title/1. Livshot—Larm? 
+Title/1. Adrenalin intramuskulärt
+Text/
+Color/<#a5715a><Åtgärd:>
+• Adrenalin Color/<#f40b1a><1 mg/ml> 0,5 ml IM
+• Upprepning var 5:e min vb
+
+Color/<#0014ff><Barn:>
+Adrenalin Color/<#f40b1a><1 mg/ml> i en 1 ml spruta:
+Color/<#5EA35C><• 6-12 år:> 0,3 ml IM
+Color/<#5EA35C><• 1-5 år:> 0,15 ml IM
+Color/<#5EA35C><• under 1 år:> 0,1 ml IM
+
+
+
+Title/2. Syrgas
+Text/
+Color/<#a5715a><Åtgärd:>
+• Mask med reservoar 10-15 L/min
+
+
+
+
+Title/3. Larm? 
+Text/
+Color/<#5EA35C><Indikationer:>
+• Stridor, tungsvullnad
+• Kraftigt andningspåverkad
+• Ingen radialispuls/påverkad cirkulation
+• Medvetandesänkt/medvetslös
+
+Color/<#a5715a><Åtgärd:>
+• Luftvägslarm
+
+
+
+Title/4. Livshot—Adrenalin IV?
 Text/
 Color/<#5EA35C><Tecken på livshot:>
 • Kan knappt andas/ventileras
 • Ingen radialispuls
 • Medvetandesänkt/medvetslös
 
-Color/<#a5715a><Val:>
-• Anestesilarm 77900
-• Hjärtstopp larm
-
-
-
-Title/2. Livshot—Adrenalin IV?
-Text/
 Color/<#a5715a><Åtgärd:>
-• Adrenalin Color/<#f40b1a><0,1 mg/ml> 1 ml IV över 30 sek
+• Adrenalin Color/<#f40b1a><0,1 mg/ml> 1 ml IV/IO över 30 sek
 
 Color/<#0014ff><Barn:>
 1. Adrenalin Color/<#f40b1a><0,1 mg/ml> 1 ml i en 10 ml spruta
 2. Späd med 9 ml NaCl
+Color/<#f40b1a><Då får man Adrenalin 10 ug/ml>
 
 • 6-12 år: 4 ml IV/IO
 • 1-5 år: 2 ml IV/IO
@@ -26,41 +54,23 @@ Color/<#0014ff><Barn:>
 
 
 
-Title/3. Livshot—Intubation?
+Title/5. Livshot—Intubation?
 Text/
 Color/<#5EA35C><Livshotande bronkospasm (samtliga):>
-• Medvetandesänkt/medvetslös
+• Medvetslös
 • Knappt spontana andetag
 • SpO2 < 80% eller omätbar
 
-Color/<#a5715a><Åtgärd:>
+Color/<#a5715a><Åtgärder:>
 1. Celocurin eller Esmeron 1,5 mg/kg IV
 2. Intubation Color/<#f40b1a><endast 1 försök> annars InternalLink/<coniotomi><coniotomi>
 3. EtCO2 för att bekräfta tubplacering
 4. Övertrycksventilation med blåsa
 5. Lateral kompression av bröstkorgen för att underlätta expiration
 
+Color/<#A336C9><Källa:>
+• AMAX-4
 
-
-
-Title/4. Syrgas
-Text/
-Color/<#a5715a><Åtgärd:>
-• Mask med reservoar 10-15 L/min
-
-
-
-Title/5. Adrenalin intramuskulärt (IM)
-Text/
-Color/<#a5715a><Åtgärd:>
-• Adrenalin Color/<#f40b1a><1 mg/ml> 0,5 ml IM
-• Upprepning var 5:e min vb
-
-Color/<#0014ff><Barn:>
-Adrenalin Color/<#f40b1a><1 mg/ml> i insulinspruta:
-Color/<#5EA35C><• 6-12 år:> 0,3 ml IM
-Color/<#5EA35C><• 1-5 år:> 0,15 ml IM
-Color/<#5EA35C><• under 1 år:> 0,1 ml IM
 
 
 
@@ -95,9 +105,8 @@ Color/<#5EA35C><Talar för:>
 • Tungsvullnad
 
 Color/<#a5715a><Åtgärder:>
-• Anestesilarm 77900, ÖNH 71061
 • Adrenalin Color/<#f40b1a><1 mg/ml> 1 ml + 3 ml NaCl nebuliserad
-• Beredskap för intubation eller InternalLink/<coniotomi><coniotomi>
+• Beredskap för intubation, InternalLink/<coniotomi><coniotomi> eller InternalLink/<jetoxygenering><jetoxygenering>
 
 
 
@@ -131,7 +140,7 @@ Color/<#0014ff><Barn:>
 
 
 
-Title/11. Adrenalin intravenöst (IV)?
+Title/11. Adrenalin intravenöst?
 Text/
 Color/<#5EA35C><Indikation:>
 • Svåra symtom trots Adrenalin IM x 2
@@ -140,17 +149,21 @@ Color/<#f40b1a><Risk:>
 • Arytmi (EKG monitorering)
 
 Color/<#a5715a><Åtgärd:>
-1. Adrenalin Color/<#f40b1a><0,1 mg/ml> 1 ml i en 10 ml spruta
-2. Späd med 9 ml NaCl
-3. Ge 2 ml (20 µg) IV
-4. Upprepa var 2:a min vb
+1. Ta fram en 10 ml spruta
+2. Dra upp 9 ml NaCl
+3. Dra upp Adrenalin Color/<#f40b1a><0,1 mg/ml> 1 ml
+4. Ge 2 ml (20 µg) IV/IO var 2-5 min
+
+Color/<#0014ff><Barn:>
+• 1-12 år: 2 ml IV/IO
+• < 1 år: 1 ml IV/IO
 
 
 
-Title/12. Glukagon intravenöst (IV)?
+Title/12. Glukagon intravenöst?
 Text/
 Color/<#5EA35C><Indikation:>
-• Svåra symtom + svarar ej till adrenalin (t ex pga beta-blockerare)
+• Svåra symtom + svarar ej på adrenalin (t ex pga beta-blockerare)
 
 Color/<#f40b1a><Risk:>
 • Kräkning
@@ -169,4 +182,30 @@ Color/<#5EA35C><Indikation:>
 • Kvarstående lågt blodtryck
 
 Color/<#a5715a><Åtgärd:>
-• InternalLink/<Adrenalin eller Noradrenalin infusion><sprutpump doser>
+• InternalLink/<Adrenalin infusion><sprutpump doser>
+
+
+
+Title/14. Kortikosteroid/antihistamin?
+Text/
+Color/<#5EA35C><Kortikosteroid:>
+• Vid bronkospasm och befintlig astma
+• Betapred 4 mg/ml 2 ml IV
+
+Color/<#5EA35C><Antihistamin:>
+• Vid klåda eller urticaria
+• Tavegyl 1 mg/ml 2 ml IV
+
+
+
+Title/15. Vidare handläggning
+Text/
+Color/<#5EA35C><Observation 12 tim varav 4 tim symtomfri om:>
+• Svåra symtom (hypotension, hypoxi)
+• Fått > 1 dos adrenalin
+• Anamnes på svår astma
+
+Color/<#5EA35C><Hem:>
+• Okomplicerat anfall, max 1 dos adrenalin
+• Symtomfri i > 1 timme
+• Tillgång till adrenalinpenna i hemmet

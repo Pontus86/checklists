@@ -1,11 +1,24 @@
-Title/1. Utlösande faktor?
+Title/1. Förmaksaktivitet?
 Text/
-Color/<#A336C9><Överväg:>
+Color/<#a5715a><Granska EKG:>
+• Inga P-vågor, helt oregelbunden: förmaksflimmer
+• Enformiga P-vågor: förmaksfladder/EAT med oreg AV-överledning
+• Olika P-vågor: multifokal förmakstakykardi med oreg AV-överledning
+
+Color/<#a5715a><Överväg:>
+InternalLink/<• Lewis Lead><lewis lead>
+InternalLink/<• Esofagus-EKG><esofagus-ekg>
+
+
+
+Title/2. Utlösande faktor?
+Text/
+Color/<#a5715a><Överväg:>
 • Hypovolemi/blödning
 • Lungemboli
 • Myokardischemi
-• Sepsis
-• Hypokalemi, hypocalcemi, hypomagnesiemi
+• Infektion
+• Hypokalemi, -calcemi, -magnesiemi
 • Intoxikation
 • Abstinens
 • Tyreotoxikos
@@ -15,112 +28,32 @@ Color/<#a5715a><Åtgärd:>
 
 
 
-Title/2. Förmaksaktivitet?
+Title/3. Förmaksflimmer?
 Text/
-Color/<#a5715a><Åtgärd:>
-• Granska förmaksaktivitet på EKG:
-- förmaksflimmer (inga P-vågor, helt oregelbunden)
-- förmaksfladder/EAT med oreg AV-överledning (samma P-vågor)
-- multifokal förmakstakykardi med oreg AV-överledning (olika P-vågor)
-
-Color/<#A336C9><Överväg om oklart:>
-InternalLink/<• Lewis Lead><lewis lead>
-InternalLink/<• Esofagus-EKG><esofagus-ekg> enbart i särskilda fall
+Color/<#a5715a><Handläggning:>
+InternalLink/<• Förmaksflimmer><förmaksflimmer>
 
 
 
-Title/3. Elkonvertering?
+Title/4. Förmaksfladder?
 Text/
-Color/<#5EA35C><Indikation (punkter tillsammans):>
-• Paroxysmal flim/fladder
-• Duration < 24 tim eller antikoagulantia ≥ 3 veckor
-
-Color/<#f40b1a><Kontraindikationer:>
-• Stroke/TIA inom 6 månader
-• Mekanisk hjärtklaff
-
-Color/<#a5715a><Åtgärd:>
-InternalLink/<• Elkonvertering><elkonvertering>
+Color/<#a5715a><Handläggning:>
+InternalLink/<• Handläggs som förmaksflimmer><förmaksflimmer>
 
 
 
-Title/4. TEE?
+Title/5. EAT?
 Text/
-Color/<#5EA35C><Indikation (punkter tillsammans):>
-• Snar återställning till sinus önskvärt
-• Akut elkonvertering kontraindicerad
-
-Color/<#a5715a><Åtgärd:>
-• HIA-jour 71414
+Color/<#a5715a><Handläggning:>
+InternalLink/<• Handläggs som takykardi reg + smal QRS><takykardi reg + smal qrs>
 
 
 
-Title/5. Brinavess 1/2?
+Title/6. Multifokal förmakstakykardi?
 Text/
-Color/<#5EA35C><Indikation (punkter tillsammans):>
-• Förmaksflimmer (ej förmaksfladder)
-• Duration < 48 tim eller antikoagulantia ≥ 3 veckor
-• Alternativ till elkonvertering
-
-Color/<#f40b1a><Kontraindikationer:>
-• Stroke/TIA inom 6 månader eller mekanisk hjärtklaff
-• Hjärtsvikt medelsvår (andfådd vid lätt fysisk aktivitet) eller svår (andfådd i vila)
-• AKS inom 30 dagar
-• Svår aortastenos
-• SBT < 100 mm Hg
-• QT-tid > 440 ms (QTc-tid > 500 ms)
-• Svår bradykardi, AV-block II eller AV-block III och ingen pacemaker
-• Antiarytmika Klass I eller Klass III (t ex Amiodaron) inom senaste 4 tim
-
-Title/6. Brinavess 2/2?
-Text/
-Color/<#a5715a><Förbereda infusion:>
-• Brinavess 20 mg/ml 25 ml (1 ampull) + NaCl 100 ml = 125 ml à 4 mg/ml
-• Ges via volympump
-
-Color/<#a5715a><Infusion #1:>
-• Brinavess 3 mg/kg (0,75 ml/kg) IV över 10 min
-
-Color/<#a5715a><Infusion #2:>
-• Om förmaksflimmer fortsätter 15 min efter infusion #1
-• Brinavess 2 mg/kg (0,5 ml/kg) IV över 10 min
-
-
-
-Title/7. Seloken?
-Text/
-Color/<#5EA35C><Indikation:>
-• Frekvenskontroll som initialt mål
-
-Color/<#f40b1a><Kontraindikationer:>
-• Systoliskt BT < 100
-• Känd LVEF < 40%
-• Svår astma
-
-Color/<#a5715a><Åtgärd:>
-• Seloken 5 mg IV
-
-
-
-Title/8. Digoxin?
-Text/
-Color/<#5EA35C><Indikation (punkter tillsammans):>
-• Frekvenskontroll som initialt mål
-• Seloken kontraindicerad eller otillräcklig effekt
-
-Color/<#a5715a><Åtgärd:>
-• Digoxin 0,5 mg IV
-
-
-
-Title/9. Amiodaron?
-Text/
-Color/<#5EA35C><Indikationer:>
-• Utebliven frekvenskontroll med seloken och/eller digoxin
-• Istället för seloken hos patienter med EF < 40%
-
-Color/<#a5715a><Åtgärd:>
-• Amiodaron 50 mg/ml 6 ml i Glukos 50 mg/ml 250 ml IV över 30 min
+Color/<#a5715a><Handläggning:>
+• Korrigera elektrolytrubbningar
+• Frekvensreglering vid Seloken vb
 
 
 

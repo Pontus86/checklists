@@ -1,8 +1,12 @@
 Title/1. ABCDE, EKG, Blodgas
 Text/
+Color/<#A336C9><ABCDE:>
+• Lateral tungbett?
+• Skalltrauma?
+
 Color/<#A336C9><Blodgas:>
 • Glukos?
-• Na, Ca?
+• Na, Ca, K?
 • Laktat?
 
 Color/<#A336C9><EKG:>
@@ -33,14 +37,15 @@ Color/<#A336C9><Efter episoden:>
 
 Title/3. Tillstånd att överväga
 Text/
-Color/<#A336C9><Överväg:>
+Color/<#a5715a><Överväg:>
 • Arytmi
 InternalLink/<• Aortadissektion><aortadissektion>
 InternalLink/<• Lungemboli><lungemboli>
 InternalLink/<• Rupturerad bukaortaaneurysm><rupturerad aaa>
+InternalLink/<• Gastrointestinal blödning><gastrointestinal blödning>
 • Blödning i övrigt (t ex ektopisk graviditet)
 • Subaraknoidal blödning
-InternalLink/<• Epileptiskt anfall><krampanfall>
+InternalLink/<• Krampanfall><krampanfall>
 
 
 

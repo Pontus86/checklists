@@ -11,17 +11,18 @@ Title/2. Sedering
 Text/
 Color/<#a5715a><Val IM:>
 • Midazolam 5 mg/ml 1 ml IM
-• Ketanest 25 mg/ml 5 ml IM
+• Ketanest 25 mg/ml 2-4 ml IM
 
 Color/<#a5715a><Val IV:>
 • Diazepam 5 mg/ml 1 ml IV över 1 min
-• Ketanest 5 mg/ml 5 ml IV över 1 min
-• Propofol 10 mg/ml 5 ml IV över 30 sek
+• Ketanest 5 mg/ml 2-4 ml IV över 1 min
+• Propofol 10 mg/ml 3-5 ml IV över 30 sek
 
-Color/<#A336C9><Påslagstid:>
+Color/<#A336C9><Anslagstid IM:>
 • Midazolam IM: 10 min
 • Ketanest IM: 5 min
 
+Color/<#A336C9><Anslagstid IV:>
 • Diazepam IV: 2 min
 • Ketanest IV: 1 min
 • Propofol IV: 30 sek
@@ -33,9 +34,8 @@ Text/
 Color/<#a5715a><Leta efter somatiska orsaker:>
 • Hypoxi
 • Hypoglykemi
-• Ischemi
 • Intox
-• Smärta (e.g. urinretention)
+• Smärta (e.g. ischemi, urinretention)
 
 
 

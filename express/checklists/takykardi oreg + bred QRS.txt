@@ -1,13 +1,14 @@
 Title/1. Hyper- hypokalemi?
 Text/
+Color/<#a5715a><Handläggning:>
 InternalLink/<• Hyperkalemi><hyperkalemi>
-
 InternalLink/<• Hypokalemi><hypokalemi>
 
 
 
 Title/2. Intox natrium-kanalblockad?
 Text/
+Color/<#a5715a><Handläggning:>
 InternalLink/<• Intox natrium-kanalblockad><natrium-kanalblockad>
 
 
@@ -27,12 +28,13 @@ InternalLink/<• Elkonvertering><elkonvertering>
 
 Title/4. FF + pre-excitation?
 Text/
-Color/<#5EA35C><Talar för FF + pre-excitation:>
+Color/<#A336C9><Talar för FF + pre-excitation:>
 • Nästan, dock ej helt identiska QRS-komplex
 • Förekomst av enstaka smala QRS-komplex
 
-Color/<#f40b1a><Undvik:>
-• Läkemedel eller manövrar som hämmar AV-nod
+Color/<#f40b1a><Kontraindicerade:>
+• Läkemedel som hämmar AV-nod (Seloken, Adenosin, Amiodarone)
+• Manövrar som hämmar AV-nod (Valsalva)
 
 Color/<#a5715a><Åtgärd:>
 InternalLink/<• Elkonvertering><elkonvertering>
@@ -42,30 +44,32 @@ Color/<#a5715a><Efter elkonvertering:>
 • Inläggning med telemetri för ablation
 • HIA-jour 71414
 
+Color/<#A336C9><Notera:>
+• Vid FF + pre-excitation kan AV-blockering leda till VF
 
 
 Title/5. Torsade de Pointes?
 Text/
+Color/<#a5715a><Handläggning:>
 InternalLink/<• Torsade de Pointes><torsade de pointes>
 
 
 
 Title/6. Polymorf VT (ej torsade)?
 Text/
-Color/<#a5715a><Val:>
-InternalLink/<• Elkonvertering><elkonvertering>
-• Amiodaron 300 mg i Glucose 50 mg/ml 250 ml IV över 30 min
+Color/<#a5715a><Handläggning:>
+InternalLink/<• Handläggs som VT><Ventrikeltakykardi>
 
 
 
 Title/7. FF + grenblockering?
 Text/
-Color/<#5EA35C><Talar för FF + grenblockering:>
+Color/<#A336C9><Talar för FF + grenblockering:>
 • Typisk höger- eller vänstergrenblocks mönster
-• Samma QRS-mönster när patienten är i sinusrytm
+• Samma QRS-mönster när patient i sinusrytm
 
 Color/<#a5715a><Åtgärd:>
-• Behandlas som InternalLink/<förmaksflimmer><formaksflimmer>
+• Behandlas som InternalLink/<förmaksflimmer><förmaksflimmer>
 
 
 

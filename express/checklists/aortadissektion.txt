@@ -11,42 +11,64 @@ Color/<#a5715a><Val:>
 • Morfin 1 mg/ml 4 ml IV över 2 min
 • Fentanyl 50 μg/ml 1 ml IV över 2 min
 
+Color/<#a5715a><Överväg:>
+• Ondansetron 4 mg IV
 
 
-Title/2. Trandate-Nitrospraj-Metoprolol?
+
+Title/2. Trandate-Nitro?
 Text/
 Color/<#5EA35C><SBP över 120 + HF över 60:>
 • Trandate (Labetalol) 5 mg/ml 4 ml IV sedan 4-16 ml var 10:e min
 
 Color/<#5EA35C><SBP över 120 + HF under 60:>
-• Nitroglycerin spraj 0,4 mg SL varje min
-
-Color/<#5EA35C><SBP under 120 + HF över 60:>
-• Metoprolol 5 mg IV
+• Nitroglycerin 0,4 mg SL varje min
 
 Color/<#A336C9><Mål:>
 • SBP < 120
-• HF < 60
 
 
 
-Title/3. Vidare handläggning?
+Title/3. Blodprov
 Text/
-Color/<#a5715a><Åtgärder:>
-• DT-aorta prio 1
-• Primärjour thorax 71879
+Color/<#5EA35C><Som regel:>
+• Blodgas, Vita, CRP
+• Blodgruppering och bastest
+• Trombocyter, PK, aPTT
+• TnI
 
+
+
+
+Title/4. DT-aorta prio 1
+Text/
 Color/<#A336C9><Notera:>
-• DT-aorta görs på vitalindikation oavsett Krea
+• Görs på vitalindikation oavsett Krea
+
+
+
+Title/5. Vidare handläggning
+Text/
+• Typ A dissektion: primärjour thorax 71679
+
+• Typ B dissektion: kärlkirurg i Malmö
 
 
 
 Title/Om aortadissektion
 Text/
-Color/<#5EA35C><Talar för aortadissektion:>
-• Bröstsmärta + en av följande:
-- buksmärta
+Color/<#5EA35C><Anamnes:>
+• Rivande/skärande retrosternal bröstsmärta
+
+• Maximal smärtintensitet inom sekunder
+
+• Övriga symtom:
+- buksmärta/ryggsmärta
 - neurobortfall
 - synkope/kollaps 
-• Rivande/skärande retrosternal bröstsmärta
-• Maximal smärtintensitet inom sekunder
+
+Color/<#5EA35C><Status:>
+• Blodtrycksskillnad i armarna > 20 mm Hg
+
+Color/<#5EA35C><Ultraljud:>
+• Perikardvätska, aortainsufficiens, synlig dissektionsmembran

@@ -1,7 +1,7 @@
 Title/1. Syrgas?
 Text/
 Color/<#5EA35C><Indikation:>
-• SpO2 < 90%
+• SpO2 < 92%
 
 Color/<#a5715a><Val:>
 • Mask med reservoar 10-15 L/min
@@ -33,22 +33,22 @@ Color/<#f40b1a><Relativa kontraindikationer:>
 • Pneumothorax, oklart subkutant emfysem
 • Nyligen övreluftväg- / övre-GI-kirurgi
 
-Color/<#a5715a><FlowSafe:>
-• CPAP 4 cm H2O
-Color/<#5EA35C><• Hyperkapné, utmattning:> tillägg IPAP 8 cm H2O
-
 Color/<#a5715a><Hamilton:>
-• PEEP/CPAP 4 cm H2O
-Color/<#5EA35C><• Hyperkapné, utmattning:> tillägg P-Support 4 cm H2O
-• P-ramp 150 msec
-• ETS (Expiratory Trigger Sensitivity) 50%
+• PEEP/CPAP 5 cm H2O med FiO2 100% initialt
+• P-Support 5 cm H2O vid hyperkapné, utmattning
+
+Color/<#a5715a><FlowSafe:>
+• CPAP 5 cm H2O (flöde 8 L/min syrgas)
+• IPAP 10 cm H2O vid hyperkapné, utmattning (flöde 15 L/min syrgas)
 
 
 
-Title/4. Utredningar
+Title/4. Basal utredning
 Text/
 Color/<#5EA35C><Som regel:>
+• Blodgas, Vita, CRP
 • Blododlingar x 2
+• EKG
 • POCUS (empyem?)
 
 Color/<#A336C9><Överväg:>
@@ -83,20 +83,17 @@ Color/<#5EA35C><I övrigt:>
 Title/6. NIV justering
 Text/
 Color/<#5EA35C><SpO2 stiger ej:>
-• Öka FiO2
 • Öka PEEP/CPAP 2 cm H2O var 4 min
 
 Color/<#5EA35C><pCO2 sjunker ej:>
 • Öka IPAP/P-support 2 cm H2O var 4 min
-• Max IPAP (PEEP + P-Support) 20 cm H2O
 
-Color/<#5EA35C><Larm Hamilton:>
+Color/<#f40b1a><Max tryck:>
+• IPAP (PEEP + P-Support) 20 cm H2O
+
+Color/<#5EA35C><Justering Larmgräns Hamilton:>
 • Tryck på "Larm" knappen
-• Höj övre gräns för minutvolym "ExpMinVol L/min" vb
-
-Color/<#5EA35C><Kurva:>
-• P-ramp overshoot: minska p-ramp
-• Double-triggering: höja p-ramp +/- P-support
+• Höj övre gräns för minutvolym "ExpMinVol L/min"
 
 
 
@@ -105,6 +102,5 @@ Text/
 Color/<#5EA35C><Indikation:>
 • Lågt SpO2 och högt CO2 trots syrgas och NIV
 
-Color/<#a5715a><Val:>
-• Anestesilarm 77900
-• MIG-bedömning 72784
+Color/<#a5715a><Åtgärd:>
+• Anestesilarm

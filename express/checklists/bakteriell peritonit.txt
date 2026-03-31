@@ -1,0 +1,59 @@
+Title/1. Blodprov
+Text/
+Color/<#5EA35C><Som regel:>
+• Vita, CRP
+• Blododlingar x 2
+• Albumin, leverprov
+• PK, trombocyter
+
+
+
+Title/2. Paracentes
+Text/
+Color/<#a5715a><Paracentes:>
+• Hitta bredast spalt ascites med bukproben
+• Uteslut kärl i bukväggen med linjärproben och PWI
+• Stick med 5F One-Step (dränvagn)
+• Aspirera i två 20 ml sprutor
+
+Color/<#A336C9><Notera:>
+• Förhöjd PK är ingen kontraindikation till paracentes
+
+
+
+Title/3. Analys av ascites
+Text/
+Color/<#a5715a><Fyll:>
+• Aerob flaska (grå topp)
+• Anaerob flask (lila topp)
+• Lila rör
+
+Color/<#a5715a><Beställ analyser:>
+• Ascitesodling via elab
+• Allmän vitt remiss: "Ascites: Vita, Neutrofiler?"
+
+Color/<#a5715a><Skicka prov>
+• Lila rör + vitt remiss till baslab omgående
+
+
+
+Title/4. Initial behandling
+Text/
+• Cefotaxim 2 g IV var 8:e timme
+
+
+Title/5. Vidare vård
+Text/
+Color/<#5EA35C><Om SBP bekräftas:>
+• Albumin 200 g/L 1,5 g/kg max 100 g IV
+
+
+
+Title/Om spontan bakteriell peritonit
+Text/
+Color/<#5EA35C><Överväg SBP hos patienter med cirrhos som har:>
+• Color/<#A336C9><Feber> (69% med SBP har det)
+• Color/<#A336C9><Buksmärta> (59% med SBP har det)
+• Color/<#A336C9><Förvirring> (54% med SBP har det)
+• Color/<#A336C9><Bukömhet> (49% med SBP har det)
+• Color/<#A336C9><Hypotension> (21% med SBP har det)

@@ -1,17 +1,13 @@
-Title/1. Syrgas + EtCO2
+Title/1. Syrgas
 Text/
-Color/<#a5715a><Syrgas-Val:>
+Color/<#a5715a><Val:>
 • Mask med reservoar 10-15 L/min
 • Oxymask 1-10 L/min
 
-Color/<#a5715a><Vid SpO2 < 75%:>
+Color/<#a5715a><Vid SpO2 < 80%:>
 • Mask med reservoar 15 L/min
 OCH
 • Näsgrimma 15 L/min under masken
-
-Color/<#a5715a><EtCO2-Val:>
-• Näsgrimma (orange)
-• Mellan blåsa och mask/tub/LMA (gul)
 
 
 
@@ -20,9 +16,9 @@ Text/
 Color/<#5EA35C><Indikation:>
 • Svårt agiterad + lågt SpO2
 
-Color/<#a5715a><Val:>
-• Ketanest 5 mg/ml 5 ml IV över 1 min
-• Ketanest 25 mg/ml 5 ml IM
+Color/<#a5715a><Överväg:>
+• Ketanest 5 mg/ml 2-4 ml IV över 1 min
+• Ketanest 25 mg/ml 2-4 ml IM
 
 Color/<#A336C9><Notera:>
 • Ketanest IV: 1 min till effekt
@@ -32,40 +28,38 @@ Color/<#A336C9><Notera:>
 
 Title/3. Övre luftvägshinder?
 Text/
-Color/<#5EA35C><Ej intuberad-talar för:>
+Color/<#5EA35C><Symtom:>
 • Stridor
 • Snarkande
 • Svullen tunga
 • Lågt EtCO2
 
-Color/<#5EA35C><Intuberad-talar för:>
+Color/<#5EA35C><Symtom om intuberad:>
 • Inget EtCO2 (fel tubläge)
-• Sugkateter kan ej passeras i tuben (ocklusion)
+• Sugkateter kan ej passeras i tuben
 
-Color/<#a5715a><Åtgärder-Val:>
-• Om intuberad: extubera
-• Anestesilarm 77900
-• ÖNH 71061
-InternalLink/<• Övre luftvägshinder><ovre luftvagshinder>
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Övre luftvägshinder><övre luftvägshinder>
 
 
 
-Title/4. Manuell ventilation/Naloxon?
+Title/4. Hypoventilation?
 Text/
-Color/<#5EA35C><Indikation (punkter tillsammans):>
+Color/<#5EA35C><Symtom:>
 • Låg andningsfrekvens
 • Nedsatt tidal volym
 • Medvetandesänkt
-• SpO2 < 85% trots 15 L/min syrgas
+• Högt pCO2
 
 Color/<#a5715a><Ventilation:>
 • Mask och blåsa 2-person teknik
 
 Color/<#a5715a><Naloxon:>
-1-Naloxon 0,4 mg/ml dra upp 1 ml i 10 ml spruta
-2-Späd med 9 ml NaCl
-3-Ge 2 ml (0,08 mg) IV
-4-Upprepa varannan min vid behov
+1-Ta en 10 ml spruta
+2-Dra upp 9 ml NaCl
+3-Dra upp Naloxon 0,4 mg/ml 1 ml
+4-Ge 2 ml (0,08 mg) IV
+5-Upprepa vb varannan min
 
 Color/<#A336C9><Mål med Naloxon:>
 • Normalisera andning
@@ -73,23 +67,7 @@ Color/<#A336C9><Mål med Naloxon:>
 
 
 
-Title/5. Ultraljud + blodgas + EKG
-Text/
-Color/<#A336C9><Ultraljud:>
-• R1-R4
-• L1-L4
-• Hjärta (subxiphoidalt initialt)
-• IVC (+/- vena jugularis interna)
-
-Color/<#A336C9><Blodgas:>
-• pCO2?
-
-Color/<#A336C9><EKG:>
-• Ischemi?
-• Arytmi?
-
-
-Title/6. NIV
+Title/5. NIV?
 Text/
 Color/<#5EA35C><Indikation:>
 • SpO2 < 85% trots åtgärder ovan
@@ -99,45 +77,56 @@ Color/<#f40b1a><Kontraindikationer:>
 • Medvetslös (relativ kontraindikation)
 • Frekventa kräkningar
 • Lågt blodtryck (relativ kontraindikation)
-• Nylig övre luftvägs- eller gastrointestinal kirurgi
+• Nylig övre luftvägs- eller GI-kirurgi
 
-Color/<#a5715a><FlowSafe:>
+InternalLink/<Hamilton><NIV Hamilton>
+• PEEP/CPAP 5 cm H2O
+• P-Support 5 cm H2O
+
+InternalLink/<FlowSafe><NIV FlowSafe>
 • CPAP 5 cm H2O
 • IPAP 5 cm H2O
 
-Color/<#a5715a><Hamilton:>
-• PEEP/CPAP 5 cm H2O
-• P-Support 5 cm H2O
+
+
+Title/6. Ultraljud + blodgas + EKG
+Text/
+Color/<#A336C9><Ultraljud:>
+• R1 + R4
+• L1 + L4
+• Hjärta
+• IVC eller vena jugularis
+• Prox DVT
+
+Color/<#A336C9><Blodgas:>
+• pCO2?
+
+Color/<#A336C9><EKG:>
+• Ischemi?
+• Arytmi?
 
 
 
 Title/7. Pneumothorax / Pleuravätska?
 Text/
-Color/<#5EA35C><Ultraljud vid pneumothorax:>
-• Frånvaro av lung-sliding
-• Lung-point (diagnostisk; saknas vid stor pneumothorax)
-
-Color/<#5EA35C><Ultraljud vid pleuravätska:>
-• Vätska + spine-sign
-
-Color/<#a5715a><Överväg:>
-• Bedside lungröntgen för att bekräfta pneumothorax
-• Secalon-T (grå: 16G = 5F) 130 mm 
-• I säkra triangeln eller där vätskespalt tjockast
-• Upp till 1,5 L kan tömmas på en gång
-• Via Seldinger wire kan Secalon ersättas med 12F drän
+Color/<#a5715a><Pneumothorax:>
+• Vid chock: nåldekompression i safe triangle
+• Annars: bedside lungröntgen för att bekräfta pneumothorax
+• Vid bekräftad pneumothorax: pigtail 8F i safe triangle + Heimlichventil
 
 
+Color/<#a5715a><Pleuravätska:>
+• Pigtail 8F
+• ≥ 12F vid empyem/blod
 
 Title/8. Lungödem?
 Text/
-Color/<#5EA35C><Ultraljud vid lungödem:>
+Color/<#5EA35C><Talar för:>
 • Bilaterala B-lines
-• Nedsatt hjärtkontraktilitet
-• IVC > 2 cm + kollaps < 50%; halsvenstas
+• Nedsatt vänsterkammarfunktion
 
 Color/<#a5715a><Åtgärd:>
-InternalLink/<• Lungödem><lungodem>
+InternalLink/<• Lungödem><lungödem>
 
 
 
@@ -145,7 +134,8 @@ Title/9. Lungemboli?
 Text/
 Color/<#5EA35C><Talar för:>
 • Lågt blodtryck
-• EKG: negativa T-vågor V1-V4 + III; högergrenblock
+• DVT-status
+• Negativa T-vågor V1-V4 + III; högergrenblock
 InternalLink/<• Ultraljud vid massiv lungemboli><ultraljud lungemboli>
 
 Color/<#a5715a><Åtgärd:>
@@ -153,14 +143,15 @@ InternalLink/<• Lungemboli><lungemboli>
 
 
 
-Title/10. KOL-exacerbation / Astmaanfall?
+Title/10. KOL-ex/Astmaanfall?
 Text/
 Color/<#5EA35C><Talar för:>
 • Förlängd expiration i förhållande till inspiration
 • Expiratoriska biljud / silent chest
-• Förhöjt EtCO2 / pCO2 vid KOL
+• Vid KOL: förhöjt pCO2
+• Vid astma: normalt/förhöjt pCO2 allvarligt
 
-Color/<#a5715a><Åtgärder:>
+Color/<#a5715a><Åtgärd:>
 InternalLink/<• KOL-exacerbation><kol-exacerbation>
 InternalLink/<• Astmaanfall><astmaanfall>
 
@@ -177,7 +168,19 @@ InternalLink/<• Pneumoni><pneumoni>
 
 
 
-Title/12. NIV justering
+Title/12. Falskt lågt SpO2?
+Text/
+Color/<#A336C9><Kan förekomma vid:>
+• Dålig perfusion
+• Nagellack
+• Methemoglobinemi
+
+Color/<#a5715a><Överväg:>
+• Arteriell blodgas
+
+
+
+Title/13. NIV justering
 Text/
 Color/<#5EA35C><SpO2 stiger ej:>
 • Öka FiO2
@@ -185,7 +188,9 @@ Color/<#5EA35C><SpO2 stiger ej:>
 
 Color/<#5EA35C><pCO2 sjunker ej:>
 • Öka IPAP/P-support 2 cm H2O var 4 min
-• Max IPAP (PEEP + P-Support) 20 cm H2O
+
+Color/<#f40b1a><Max tryck:>
+• IPAP (PEEP + P-Support) 20 cm H2O
 
 Color/<#5EA35C><Larm Hamilton:>
 • Tryck på "Larm" knappen
@@ -194,15 +199,3 @@ Color/<#5EA35C><Larm Hamilton:>
 Color/<#5EA35C><Kurva:>
 • P-ramp overshoot: minska p-ramp
 • Double-triggering: höja p-ramp +/- P-support
-
-
-
-Title/Falskt lågt SpO2
-Text/
-Color/<#A336C9><Kan förekomma vid:>
-• Dålig perfusion
-• Nagellack
-• Methemoglobinemi
-
-Color/<#a5715a><Åtgärd:>
-• Överväg arteriell blodgas

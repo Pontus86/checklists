@@ -1,28 +1,18 @@
 Title/1. Kristalloid?
 Text/
 Color/<#5EA35C><Indikation:>
-• Initial behandling av chock
+• MAP < 90 mm Hg
 
 Color/<#f40b1a><Risk:>
 • Övervätskning kan leda till lungödem och ryggmärgsödem
 
 Color/<#a5715a><Åtgärd:>
 • Ringer-Acetat 500 ml IV bolus
+• Upprepas vid behov
 
 
 
-Title/2. Atropin?
-Text/
-Color/<#5EA35C><Indikationer:>
-• Bradykardi
-• Före ingrepp som kan öka vagaltonus (t ex endotrakeal intubation)
-
-Color/<#a5715a><Åtgärd:>
-• Atropin 0,5 mg/ml 2 ml IV
-
-
-
-Title/3. Noradrenalin?
+Title/2. Noradrenalin?
 Text/
 Color/<#5EA35C><Indikation:>
 • MAP < 90 mm Hg
@@ -35,6 +25,18 @@ Color/<#A336C9><Notera:>
 
 
 
+Title/3. Atropin?
+Text/
+Color/<#5EA35C><Indikationer:>
+• Bradykardi
+• Före ingrepp som kan öka vagaltonus (t ex endotrakeal intubation)
+
+Color/<#a5715a><Åtgärd:>
+• Atropin 0,5 mg/ml 1 ml IV
+• Kan upprepas upp till 3 mg
+
+
+
 Title/4. KAD
 Text/
 Color/<#5EA35C><Indikationer:>
@@ -43,35 +45,28 @@ Color/<#5EA35C><Indikationer:>
 
 
 
-Title/5. Förebygga hypotermi
+Title/5. Förebygg hypotermi
 Text/
 Color/<#5EA35C><Indikationer:>
 • Neurogen chock medför ökad risk för hypotermi
 
 
 
-Title/6. Pacemaker?
+
+Title/6. Vidare vård
 Text/
-Color/<#5EA35C><Indikationer:>
-• Bradykardi trots atropin och vasopressor-kronotrop
+• Inläggning på NIVA i första hand
+• MR för att utreda ryggmärgsskada
+• Pacemaker vid bradykardi trots vasoaktiva läkemedel/atropin
 
-
-
-Title/7. Inläggning
-Text/
-• NIVA
-
-
-
-Title/8. MR
-Text/
-• MR bäst för att utreda ryggmärgsskada
+Color/<#A336C9><Notera:>
+• Behåll MAP > 90 mm Hg för att tillgodose optimal perfusion av ryggmärgen
 
 
 
 Title/Kortikosteroider?
 Text/
-• Ej rekommenderade vid akut skada till ryggmärgen
+• Ej rekommenderat vid akut ryggmärgsskada
 
 
 
@@ -90,4 +85,4 @@ Color/<#A336C9><Disability:>
 • Tetra- eller parapares, Horners, sensorisk nivå
 
 Color/<#A336C9><Exposure:>
-• Hud warm och torr, hypotermi, priapism
+• Hud varm och torr, hypotermi, priapism

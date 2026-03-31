@@ -21,62 +21,80 @@ Color/<#f40b1a><Risk:>
 
 
 
-Title/3. Internuppvärmning?
+Title/3. Allmänna åtgärder
 Text/
-Color/<#5EA35C><Indikationer:>
-• Svår hypotermi < 28°C
-• Måttlig hypotermi 28-32°C refraktär till externuppvärmning
-
 Color/<#a5715a><Åtgärder:>
-• Ringer-Acetat 40-42°C IV
-• Varm befuktat syrgas
-• ECMO: THIVA 77971
+• Borttagning av blöta eller kalla kläder
+• Varma filtar
 
-Color/<#a5715a><Sköljning intraperitonealt:>
+
+
+Title/4. Värmefilt?
+Text/
+Color/<#5EA35C><Indikation:>
+• Hypotermi < 32°C
+
+Color/<#a5715a><Åtgärd:>
+• Värmefilt (Ready-Heat)
+
+
+
+Title/5. Varm vätska?
+Text/
+Color/<#5EA35C><Indikation:>
+• Hypotermi < 28°C
+
+Color/<#a5715a><Åtgärd:>
+• Ringer-Acetat 40-42°C IV
+
+
+
+Title/6. Åtgärder att överväga
+Text/
+Color/<#5EA35C><Indikation:>
+• Hypotermi < 28°C
+
+Color/<#a5715a><Varm befuktat syrgas (Optiflow)>
+
+Color/<#a5715a><ECMO (THIVA 77971)>
+
+Color/<#a5715a><Sköljning intraperitonealt>
 • NaCl 20 ml/kg värmd till 42°C intraperitonealt under 20 min
 • Dräneras och upprepas vid behov
 
-Color/<#a5715a><Sköljning i pleurarummet:>
+Color/<#a5715a><Sköljning i pleurarummet>
 • NaCl 250 ml värmd till 42°C intrapleuralt under 20 min
 • Dräneras och upprepas vid behov
 
 
 
-Title/4. Externuppvärmning, aktiv?
+Title/7. Prov
 Text/
-Color/<#5EA35C><Indikationer:>
-• Måttlig hypotermi 28-32°C
-• Mild hypotermi 32-35°C refraktär till passiv externuppvärmning
+Color/<#5EA35C><Att överväga:>
+• Blodgas, Vita, CRP
+• Trombocyter, PK, aPTT
+• CK, myoglobin
+• TSH, T4, ACTH, Cortisol
+• EKG
 
-Color/<#a5715a><Åtgärder:>
-• Värmefilt
-• Bair hugger
 
-Title/5. Externuppvärmning, passiv?
-Text/
-Color/<#5EA35C><Indikation:>
-• Mild hypotermi 32-35°C
 
-Color/<#a5715a><Åtgärder:>
-• Borttagning blöta kläder
-• Filt
-• Warmt rum
 
 Title/ Differentialdiagnos
 Text/
-Color/<#A336C9><Kall omgivning:>
+Color/<#A336C9><Kall omgivning>
 • Blöta kläder ökar värmeförlust
 
-Color/<#A336C9><Nedsatt värmeproduktion, centralgenes:>
+Color/<#A336C9><Nedsatt värmeproduktion, centralgenes>
 • CNS-patologi
 • Addisonkris, myxödem
 • Allvarlig bakteriell/viral infektion
 
-Color/<#A336C9><Nedsatt värmeproduktion, perifergenes:>
+Color/<#A336C9><Nedsatt värmeproduktion, perifergenes>
 • Chock
 • Parkinsons sjukdom
 • Kolinergt toxidrom
 
-Color/<#A336C9><Ökad värmeförlust:>
+Color/<#A336C9><Ökad värmeförlust>
 • Neurogenchock
 • Brännskador

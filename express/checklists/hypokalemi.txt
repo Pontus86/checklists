@@ -1,41 +1,42 @@
 Title/1. Hjärtstopp?
 Text/
-Color/<#a5715a><Magnesium:>
-• Addex-Magnesium 1 mmol/ml 10 ml späd med 10 ml NaCl IV över 5 min
+1. Addex-Kaliumklorid 2 mmol/ml 10 ml (20 mmol) IV över 2 min
 
-Color/<#a5715a><Kalium:>
-• Addex-Kaliumklorid 2 mmol/ml 10 ml späd med 10 ml NaCl IV över 10 min
+2. Addex-Kaliumklorid 2 mmol/ml 5 ml (10 mmol) IV över 2 min
 
-Color/<#A336C9><Notera:>
-• Kaliumklorid ges helst via CVK eller prox PVK
+3. Addex-Magnesium 1 mmol/ml 10 ml (10 mmol) IV över 2 min
 
 
 
 Title/2. Livshotande arytmi?
 Text/
+Color/<#a5715a><Kalium:>
+1. Addex-Kaliumklorid 2 mmol/ml 10 ml (20 mmol) i 250 ml NaCl IV över 10 min
+2. Addex-Kaliumklorid 2 mmol/ml 5 ml (10 mmol) i 250 ml NaCl IV över 10 min
+
 Color/<#a5715a><Magnesium:>
 • Addex-Magnesium 1 mmol/ml 10 ml späd med 10 ml NaCl IV över 10 min
 
-Color/<#a5715a><Kalium:>
-• Addex-Kaliumklorid 2 mmol/ml 10 ml späd med 250 ml NaCl IV över 15 min
-
 Color/<#A336C9><Notera:>
-• Kaliumklorid ges helst via CVK eller prox PVK
+• Kaliumklorid 20 mmol/250 ml NaCl kan ges via perifer venkateter
 
 
  
 Title/3. Långsam K + Mg infusion?
 Text/
 Color/<#5EA35C><Indikation:>
-• Kalium < 3,0 mmol/L
+• Kalium < 3,0 mmol/L och ingen livshotande arytmi
 
 Color/<#a5715a><Åtgärd:>
 • 1000 ml NaCl med tillägg av
--Addex-Kaliumklorid 2 mmol/ml 20 ml
--Addex-Magnesium 1 mmol/ml 20 ml
+-Addex-Kaliumklorid 2 mmol/ml 20 ml (40 mmol)
+-Addex-Magnesium 1 mmol/ml 20 ml (20 mmol)
 
-• Ges IV över 4 tim (infusionspump)
+• Ges IV över 2-4 tim med infusionspump
 
+Color/<#A336C9><Notera:>
+• Vid smärta kan infusionstakten sänkas
+• Infusion kan även ges vid behov via två PVC samtidigt i reducerad takt
 
 
 Title/4. Kaleorid PO?

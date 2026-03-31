@@ -1,47 +1,69 @@
-Title/1. Lågt blodtryck - chock?
+Title/1. Blodprov
 Text/
-Color/<#a5715a><Åtgärd:>
-• Ringer-Acetat 500 ml IV bolus Color/<#0014ff><(10 mg/kg)>
+Color/<#5EA35C><Som regel:>
+• Blodgas
+• Vita, CRP
+• Kapillära ketoner
+
+Color/<#a5715a><Vid misstänkt nyupptäckt diabetes:>
+• HbA1C
+• C-peptid
+• Anti-GAD antikroppar
+• IA2-antikroppar
+
 
 
 
 Title/2. Ringer-Acetat
 Text/
 Color/<#a5715a><Åtgärd:>
-• Ringer-Acetat 1000 ml IV över 2 tim Color/<#0014ff><(10 mg/kg över 2 tim)>
+• Ringer-Acetat 1000 ml IV över 1 timme
+• Därefter Ringer-Acetat 1000 ml IV över 2 timmar
+
+Color/<#A336C9><Notera:>
+• Vid avancerad njursvikt: ev mindre volym (risk för lungödem)
+• Patienter med DKA har oftast 4-5 L vätskebrist
 
 
 
 Title/3. Kalium
 Text/
-Color/<#f40b1a><Kontraindikationer:>
-• Kalium > 5,3 mmmol/L
-• Chock, ingen diures
+Color/<#5EA35C><Indikation:>
+• Kalium < 5 mmol/L
+• Kalium < 4 mmol/L hos patient med njursvikt
 
-Color/<#a5715a><Kalium infusion:>
-1. Kaliumklorid 2 mmol/ml 20 ml tilläggs NaCl 1000 ml
+Color/<#a5715a><Kaliuminfusion:>
+1. Kaliumklorid 2 mmol/ml 20 ml tilläggs Ringer-acetat 1000 ml
 2. Markera påsen "Tillägg 40 mmol KCl"
-3. Infusion 1020 ml över 4 tim
+
+Color/<#a5715a><Hastighet:>
+• Vid Kalium 3,5-5 mmol/L: 250 ml/tim
+• Vid Kalium < 3,5 mmol/L: 500 ml/tim
+
+Color/<#A336C9><Notera:>
+• Mål: Kalium 4-5 mmol/L
+• Kaliuminfusion ges parallellt med Ringer-acetat (steg 1) om initialt Kalium < 5 mmol/L
 
 
 
-Title/4. Insulin
+Title/4. Snabbverkande insulin
 Text/
 Color/<#f40b1a><Kontraindikation:>
-• Kalium < 3,3 mmmol/L
+• Kalium < 3,5 mmol/L
 
-Color/<#a5715a><Förbered insulin infusion:>
+Color/<#a5715a><Insulininfusion>
 1. Hämta 50 ml spruta
-2. Dra upp Lispro/Humalog eller Aspart/Novorapid 100 E/ml 0,5 ml (50 E)
-3. Späd med 49,5 ml NaCl
-4. Markera sprutan "Insulin 1 E/ml"
+2. Dra upp 49,5 ml NaCl
+3. Dra upp Lispro/Humalog eller Aspart/Novorapid 100 E/ml 0,5 ml (50 E)
+4. Markera sprutan "Lispro/Aspart 1 E/ml"
+5. Infusion 0,1 E/kg/tim (80 kg: 8 ml/tim)
+6. Programmera in infusionstid på 1 timme (därefter nytt blodgas innan vidare infusion)
 
-Color/<#a5715a><Val 1: påbörja infusion>
-1. Infusion 0,1 E/kg/tim (80 kg: 8 ml/tim)
-2. VSSI motsvarande 2 timmar
+Color/<#a5715a><Alternativ>
+• Lispro eller Aspart 0,1 E/kg SC
 
-Color/<#a5715a><Val 2: bolus som bro till infusion>
-• 0,05 E/kg IV bolus (80 kg: 4 E = 4 ml)
+Color/<#A336C9><Notera:>
+• Subkutant insulin för DKA har studerats vid pH > 7,0 och HCO3 > 10 mmol/L
 
 
 
@@ -51,14 +73,16 @@ Color/<#5EA35C><Indikation:>
 • Glukos < 15 mmol/L
 
 Color/<#a5715a><Åtgärd:>
-• Glukos 50 mg/ml 1000 ml IV över 2 tim
+• Glukos 100 mg/ml (10%) 250 ml/tim IV
+• Minska insulin-infusion till 0,05 E/kg/tim
 
 
 
-Title/6. Utlösande faktor
+Title/6. Utlösande faktor?
 Text/
 Color/<#A336C9><Överväg:>
 • Infektion: antibiotika?
+• Inflammation (t ex pankreatit)?
 • Insulinpump problem / non-compliance?
 
 
@@ -67,21 +91,24 @@ Title/7. Vidare handläggning
 Text/
 • Inläggning på AVA (IVA)
 
-• Ny blodgas varannan timme och justering av:
-- Vätska (som regel Ringer-Acetat 500 ml/tim i 4 timmar sedan 250 ml/tim)
+• Ny blodgas efter 1 timme och justera:
+- Vätska: nytt bolus?
 - Kalium-infusion
 - Insulin-infusion
 - Glukos-infusion
 
-• Effektiv osmolaritet = (2 x Na) + glukos
-- Målet är minskning på < 3 mmol/L/tim
-- Vid för snabb minskning ges/höjs glukos-infusion eller byt till Glukos 100 mg/ml
+• Mål:
+- Vätska: urinproduktion > 150 ml/tim
+- Kalium 4-5 mmol/L
+- Insulin för att normalisera anjongap/ketoner
+- Glukos > 10 mmol/l så länge anjongap inte normalt
+- Sänkning av effektiv osmolaritet (2xNa + glukos) < 5 mmol/tim
 
 
 
 Title/Om diabetesketoacidos
 Text/
-Color/<#5EA35C><Talar för DKA (samtliga):>
+Color/<#A336C9><Talar för DKA:>
 • Känd typ 1 diabetes eller hyperglykemi
 • Kapillära ketoner > 3 mmol/L
 • Ingen annan förklaring för ketoner (alkohol, svält)

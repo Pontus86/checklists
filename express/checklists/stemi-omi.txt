@@ -9,20 +9,27 @@ Color/<#a5715a><Val:>
 
 
 
-Title/2. Aortadissektion?
+Title/2. Blodprov
 Text/
-Color/<#A336C9><Notera:>
-• Överväg aortadissektion vid urakut debut av skarp svår smärta
-• Notera dock att aortadissektion ger nästan aldrig STEMI på EKG (enbart 0,5%)
+Color/<#5EA35C><Som regel:>
+• Blodgas
+• Vita, CRP
+• Troponin
+• Trombocyte, PK
 
 
 
-Title/3. Typ 2 infarkt?
+Title/3. Diffdiagnoser
 Text/
-Color/<#A336C9><Överväg typ 2 infarkt sekundärt till:>
-• Sepsis
-• Anemi
-• Arytmi
+Color/<#A336C9><• Perikardit> kan ge ST-höjningar, oftast generaliserade
+
+Color/<#A336C9><• Hyperkalemi> kan ge ST-höjning, oftast V1-V3 + II, III, aVF
+
+Color/<#A336C9><• Lungemboli> kan ge ST-höjningar V1-V3/III
+
+Color/<#A336C9><• Typ 2 infarkt> sekundärt till sepsis, anemi, takyarytmi kan ge ST-höjningar
+
+Color/<#A336C9><• Aortadissektion> ger nästan aldrig STEMI på EKG (enbart 0,5%)
 
 
 
@@ -36,14 +43,13 @@ Color/<#a5715a><Åtgärd:>
 
 
 
-Title/5. Trombyl?
+Title/5. Trombyl
 Text/
 Color/<#5EA35C><Indikation:>
 • Misstänkt STEMI-OMI
 
 Color/<#f40b1a><Kontraindikationer:>
-• Allergi
-• Misstänkt aortadissektion
+• Allergi mot ASA
 
 Color/<#a5715a><Åtgärd:>
 • Trombyl 75 mg x 4 PO
@@ -51,7 +57,7 @@ Color/<#a5715a><Åtgärd:>
 
 
 
-Title/6. Heparin?
+Title/6. Heparin
 Text/
 Color/<#5EA35C><Indikation:>
 • Misstänkt STEMI-OMI
@@ -61,7 +67,7 @@ Color/<#a5715a><Åtgärd:>
 
 
 
-Title/7. Lipitor?
+Title/7. Atorvastatin
 Text/
 Color/<#5EA35C><Indikation:>
 • Misstänkt STEMI-OMI
@@ -74,8 +80,8 @@ Color/<#a5715a><Åtgärd:>
 Title/8. Nitroglycerin?
 Text/
 Color/<#5EA35C><Indikation:>
-• Smärta
-• Rekommenderas ej rutinmässigt
+• Lungödem
+• Kraftig smärta
 
 Color/<#f40b1a><Relativ kontraindikation:>
 • SBT < 100 mm Hg
@@ -101,14 +107,15 @@ Color/<#a5715a><Åtgärder:>
 
 Title/Om STEMI-OMI
 Text/
+Color/<#A336C9><STEMI:>
 • ST-höjningar > 1 mm i 2 intilliggande avledningar
 • ST-höjningar i V2-V3:
-- ≥ 1,5 mm hos kvinnor
-- ≥ 2 mm hos män > 40 år
-- ≥ 2,5 mm hos män < 40 år
+≥ 1,5 mm hos kvinnor
+≥ 2 mm hos män > 40 år
+≥ 2,5 mm hos män < 40 år
 
-InternalLink/<• Sgarbossa-1><sgarbossa-1>
-InternalLink/<• Sgarbossa-2><sgarbossa-2>
-InternalLink/<• Hyperakut T-våg><hyperakut T-vag>
+Color/<#A336C9><OMI:>
+InternalLink/<• Sgarbossa><Sgarbossa>
+InternalLink/<• Hyperakut T-våg><hyperakut T-våg>
 InternalLink/<• Posterior OMI><posterior omi>
 InternalLink/<• III & aVL><iii & avl>

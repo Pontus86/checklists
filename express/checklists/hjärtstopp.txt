@@ -1,66 +1,70 @@
 Title/1. Akuta konsulter?
 Text/
-
-Color/<#5EA35C><ECMO:>
+Color/<#a5715a><ECMO:>
 • Ung patient
 • Hypotermi
 • Massiv lungemboli
-• THIVA-jour 77971 (KONTROLL)
+• THIVA-jour 77971
 
-Color/<#5EA35C><Gravid över 20v/fundus ovan navel:>
+Color/<#a5715a><Gravid över 20v/fundus ovan navel:>
 InternalLink/<• Förbered perimortem sectio><perimortem sectio>
 • Förlossningsjour 72501
 • Neojour 78580
 
 Color/<#0014ff><Barn:>
-InternalLink/<• HLR barn läkemedel><hlr barn lakemedel>
+InternalLink/<• Barn hjärtstopp><barn hjärtstopp>
 • Barn IVA-jour 78484
 
 
 
 Title/2. Sign-In
 Text/
+Color/<#a5715a><Info till teamet:>
+• Larmrapport
 • Tidigare sjukdomar/läkemedel
-• Ambulansrapport
 
-Color/<#5EA35C><Akutläkare:>
-• Ultraljud hjärta: tamponad, kontraktioner?
-• Blodgas femoralt +/- CVK
-• DVT? Pneumothorax?
-
-Color/<#5EA35C><Akutens sjuksköterska:>
-• PVK, IO nål humerus
-• Läkemedel
-
-Color/<#5EA35C><Teamleader:>
-• Rytmanalys, def
-• Ordinerar läkemedel
-• Läser högt genom checklista reversibla orsaker
+Color/<#a5715a><Förberedelser/roller:>
+• Akutläkare: ultraljud +/- blodgas femoralt
+• Narkos: luftvägsutrustning
+• USK: defibrillator
+• SSK: läkemedel, PVK/IO-nål
+• HIA: HLR-algoritm, ultraljud, PCI? 
 
 
-Title/3. VF/pVT
+
+Title/3. VT/VF
 Text/
 Color/<#a5715a><Läkemedel:>
 • Cordarone 300 mg IV bolus efter 3:e def
 • Adrenalin 1 mg IV bolus efter 3:e def
 • Cordarone 150 mg IV bolus efter 5:e def
 
-Color/<#a5715a><Refraktär VF/VT:>
+Color/<#a5715a><Refraktär VT/VF—dubbel-def:>
 • Seponera LUCAS, manuell kompression
 • Stockvänd, lägg till plattor anteroposteriort
-• Deffa med 0.5 sekundersmellanrum
-• Xylocard 20 mg/ml 5 ml IV bolus
+• Dubbel def med 0,5 sekundersmellanrum
 
 Color/<#0014ff><Barn:>
-• Cordarone IV bolus efter 3:e def
-• Adrenalin IV efter 3:e def
-• Cordarone IV bolus efter 5:e def
-Internal link till "Barn-HLR-Doser"
+InternalLink/<• Barn hjärtstopp><barn hjärtstopp>
+• Cordarone 5 mg/kg IV bolus efter 3:e def
+• Adrenalin 10 µg/kg IV efter 3:e def
+• Cordarone 5 mg/kg IV bolus efter 5:e def
 
 
 
-Title/4. Reversibla orsaker—LÄS HÖGT!
+Title/4. Torsade de pointes
 Text/
+Color/<#a5715a><Magnesium:>
+• Addex-Magnesium 1 mmol/ml 10 ml (10 mmol) IV över 2 min
+
+Color/<#a5715a><Vid ROSC:>
+InternalLink/<• Torsade de pointes><torsade de pointes>
+
+
+
+Title/5. Reversibla orsaker
+Text/
+Color/<#a5715a><Teamleader läser högt:>
 • Är luftvägen öppen? Vad är endtidal CO2?
 • Har vi tryckpneumothorax?
 • Har vi tamponad?
@@ -71,99 +75,120 @@ Text/
 
 
 
-Title/5. Åtgärder—Mekaniska orsaker
+Title/6. Åtgärder—Mekaniska orsaker
 Text/
-InternalLink/<Lungemboli:><lungemboli>
+Color/<#a5715a><Lungemboli:>
 • Actilys 50 mg IV bolus
 • Actilys 50 mg ytterligare efter 15 min
-• Överväg ECMO (THIVA-jour 77971 KONTROLL)
+• Överväg ECMO (THIVA-jour 77971)
 • Överväg HLR i upp till 90 min
 
-Color/<#5EA35C><Tryckpneumothorax/hemothorax:>
+Color/<#a5715a><Tryckpneumo/hemothorax:>
 • Torakostomi safe triangle (scalpel och peang)
 
-Color/<#5EA35C><Tamponad:>
+Color/<#a5715a><Tamponad:>
 • Perikardiocentes
 • Torakotomi
 
 
 
-Title/6. Åtgärder—Metabola orsaker
+Title/7. Åtgärder—Metabola orsaker
 Text/
-InternalLink/<Hyperkalemi:><hyperkalemi>
-• Kalciumglukonat 100 mg/ml 30 ml IV bolus Color/<#0014ff><(0,3 ml/kg)>
+Color/<#a5715a><Hyperkalemi:>
+• Kalciumglukonat 100 mg/ml 30 ml IV bolus 
+• NaBic 50 mg/ml 100 ml IV bolus
+Color/<#0014ff><• Barn:> Kalciumglukonat 100 mg/ml 0,3 ml/kg
+Color/<#0014ff><• Barn:> NaBic 50 mg/ml 3 ml/kg
 
-InternalLink/<Hypokalemi:><hypokalemi>
-• Addex-Magnesium 1 mmol/ml 10 ml späd med 10 ml NaCl IV över 5 min
-• Addex-Kaliumklorid 2 mmol/ml 10 ml späd med 10 ml NaCl IV över 10 min
+Color/<#a5715a><Hypokalemi:>
+• Addex-Kaliumklorid 2 mmol/ml 10 ml (20 mmol) IV över 2 min
+• Addex-Kaliumklorid 2 mmol/ml 5 ml (10 mmol) IV över 2 min
+• Addex-Magnesium 1 mmol/ml 10 ml (10 mmol) IV över 2 min
 
-InternalLink/<Hypokalcemi:><hypokalcemi>
-• Kalciumglukonat 100 mg/ml 30 ml IV bolus Color/<#0014ff><(0,3 ml/kg)>
-
-InternalLink/<Hypotermi:><hypotermi>
-• Avstå från läkemedel om Temp < 30°C
-• Dubblera interval mellan adrenalin om Temp 30-35°C
-• NaCl 20 ml/kg värmd till 42°C intraperitonealt i 20 min, dränera/upprepa
-• NaCl 250 ml värmd till 42°C intrapleuralt i 20 min, dränera/upprepa
-• ECMO: THIVA-jour 77971
+Color/<#a5715a><Hypokalcemi:>
+• Kalciumglukonat 100 mg/ml 30 ml IV bolus
+Color/<#0014ff><• Barn:> Kalciumglukonat 100 mg/ml 0,3 ml/kg
 
 
 
-Title/7. Åtgärder—Toxiska orsaker
+Title/8. Åtgärder—Toxiska orsaker
 Text/
-Color/<#5EA35C><Giftinformation:>
+Color/<#a5715a><Giftinformation:>
 • 010-456 6719
 
-Color/<#5EA35C><Opioid:>
+Color/<#a5715a><Opioid:>
 • Naloxon 2 mg IV
 
-InternalLink/<Natrium-kanalblockad:><natrium-kanalblockad>
-• NaBic 50 mg/ml 200 ml IV Color/<#0014ff><(3 ml/kg)>
+Color/<#a5715a><Natrium-kanalblockad:>
+• NaBic 50 mg/ml 200 ml IV
+Color/<#0014ff><• Barn:> NaBic 50 mg/ml 3 ml/kg
 
-InternalLink/<Kalciumantagonist - betablockerare:><kalciumantagonist - betablockerare>
-• Kalciumglukonat 100 mg/ml 30 ml IV Color/<#0014ff><(0,3 ml/kg)>
+Color/<#a5715a><Kalciumantagonist-betablockerare:>
+• Kalciumglukonat 100 mg/ml 30 ml IV
 • Glukos 300 mg/ml 50 ml IV bolus
 • Lispro eller Aspart 1 E/kg IV bolus
+Color/<#0014ff><• Barn:> Kalciumglukonat 100 mg/ml 0,3 ml/kg
 
-Color/<#A336C9><Överväg:>
-• Intralipid 200 mg/ml 100 ml IV över 1 min Color/<#0014ff><(1,5 ml/kg)>
+Color/<#a5715a><Överväg:>
+• Intralipid 200 mg/ml 100 ml IV över 1 min
 • ECMO: THIVA-jour 77971
+Color/<#0014ff><• Barn:> Intralipid 200 mg/ml 1,5 ml/kg
 
 
 
-Title/8. ROSC
+Title/9. Åtgärder—Hypotermi
 Text/
-InternalLink/<Noradrenalin infusion:><sprutpump doser>
-• Noradrenalin 1 mg/ml 2 ml med 48 ml koksalt = 40 µg/ml
-• Bolus 10 µg
-• Initial infusion 0,1 µg/kg/min
+Color/<#a5715a><Defibrillering:>
+• Max 3 om Temp < 30°C (IVA-kateter)
 
-Color/<#5EA35C><PCI vid:>
-• VF/pVT
-• STEMI
+Color/<#a5715a><Läkemedel:>
+• Inga läkemedel om Temp < 30°C
+• Adrenalin var 8:e min om Temp 30-35°C
 
-Color/<#A336C9><Överväg:>
+Color/<#a5715a><Uppvärmning:>
+• ECMO? THIVA-jour 77971
+
+• Sköljning intraperitonealt? NaCl 20 ml/kg värmd till 42°C intraperitonealt i 20 min, dränera/upprepa
+
+• Sköljning intrapleuralt? NaCl 250 ml värmd till 42°C intrapleuralt i 20 min, dränera/upprepa
+
+Color/<#a5715a><Länk:>
+InternalLink/<• Hypotermi><hypotermi>
+
+
+Title/10. ROSC
+Text/
+Color/<#a5715a><Noradrenalin infusion:>
+InternalLink/<• Noradrenalin><sprutpump doser>
+
+Color/<#a5715a><Ta EKG>
+
+Color/<#a5715a><PCI vid:>
+• VT/VF
+• STEMI-OMI
+
+Color/<#a5715a><Överväg:>
 • DT-hjärna: blödning?
-• DT-thorax: pneumothorax?
+• DT-thorax: pneumothorax?, lungemboli?
 
 
 
-Title/9. Avbryta återupplivning
+Title/11. Avbryta återupplivning
 Text/
-Color/<#f40b1a><Dåliga omständigheter:>
+Color/<#5EA35C><Dåliga omständigheter:>
 • Ej bevittnat
 • Ej bystander HLR
 • Ej defibrillerbar rytm
 
-Color/<#f40b1a><Dåliga svar på HLR:>
+Color/<#5EA35C><Dåligt svar på HLR:>
 • HLR > 40 min
-• Asystole
+• Asystoli
 • Ingen hjärtverksamhet vid ultraljud
 • Endtidalt CO2 < 1,3 kPa
 
-Color/<#a5715a><Rättsmedicinsk obduktion vid:>
-• Misstänkt mord eller självmord
+Color/<#5EA35C><Rättsmedicinsk obduktion vid:>
+• Misstänkt mord, självmord, intox
 • Olycka
 • Misstänkt fel inom sjukvård
 • Helt oväntat dödsfall
-• Inre befäl 010-5615075
+• Inre befäl 010-5616875

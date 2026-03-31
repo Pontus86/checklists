@@ -1,9 +1,10 @@
 Title/1. Blodprov
 Text/
-Color/<#5EA35C><Hos alla:>
+Color/<#5EA35C><Som regel:>
 • Blodgas
 • Blodgruppering & bastest
 • Vita, CRP, Trombocyter, PK, aPTT
+• Fibrinogen
 
 
 
@@ -17,53 +18,54 @@ Color/<#a5715a><Åtgärd:>
 • Vid förväntad massiv transfusion: beställ ATP 72950 blodbank
 
 Color/<#A336C9><Notera:>
-• Blodtrycksmål 90 mm Hg (hypotensiv)
+• Blodtrycksmål 90 mm Hg (hypotensiv resuscitering)
 
 
 
 Title/3. Läkemedel
 Text/
-Color/<#5EA35C><• Hos alla:> Cyklokapron 2 g IV över 10 min
-Color/<#5EA35C><• Hos alla:> Fibrinogen 2 g IV
-Color/<#5EA35C><• Ca < 1,1:> Kalciumglukonat 100 mg/ml 10 ml IV
-Color/<#5EA35C><• Waran:> Ocplex 2000 E IV + Konakion 10 mg IV
-Color/<#5EA35C><• Xarelto/Eliquis:> Ocplex 2000 E IV
-Color/<#5EA35C><• Pradaxa:> Ocplex 2000 E IV eller Praxbind 5 g IV över 5 min
-Color/<#5EA35C><• Heparin/LMWH:> Protamine sulfate 50 mg IV
-Color/<#5EA35C><• Trombyl/NSAID:> Desmopressin 15 µg/ml 1 ml (50 kg) - 2 ml (100 kg) SC
+Color/<#5EA35C><Till alla:>
+• Cyklokapron 2 g IV över 10 min
+
+Color/<#5EA35C><Ca-jon < 1,0:>
+• Kalciumglukonat 100 mg/ml 10 ml IV
 
 
 
-Title/4. DT-buk
+Title/4. Vid antikoagulantia
 Text/
-Color/<#a5715a><DT-buk:>
-• DT-buk med IV kontrast prio 1 (oavsett Krea)
+Color/<#5EA35C><Waran:>
+• Ocplex 2000 E IV + Konakion 10 mg IV
 
-Color/<#A336C9><Notera:>
-• DT-buk behövs för ev EVAR
+Color/<#5EA35C><Xarelto/Eliquis:>
+• Ocplex 2000 E IV
+
+Color/<#5EA35C><Pradaxa:>
+• Ocplex 2000 E IV eller Praxbind 5 g IV över 5 min
+
+Color/<#5EA35C><Heparin/LMWH:>
+• Protamine sulfate 50 mg IV
+
+Color/<#5EA35C><Trombyl/NSAID:>
+• Desmopressin 15 µg/ml 1,5 ml SC (0,3 µg/kg)
 
 
 
-Title/5. Kirurg 
+Title/5. Förebygg hypotermi
 Text/
-Color/<#a5715a><Kontakta:>
-• 38088 Kärlkirurg (Malmö) om ev EVAR 
-• 71157 Kirurg husjour (Lund) om ev akut öppen kirurgi
+Color/<#a5715a><Till alla>
 
 
 
-Title/6. Filtar
+Title/6. DT-aorta & vidare vård
 Text/
-Color/<#a5715a><Åtgärd:>
-• Förebygg hypotermi
+• DT-aorta med IV kontrast prio 1 (oavsett Krea)
 
+• Vid stark misstanke: kontakta samtidigt kärlkirurg (Malmö)
 
+• Planera för ev prio 1 transport till Malmö med 0-neg blod/ATP
 
-Title/7. Planera vård efter DT
-Text/
-Color/<#a5715a><Beredskap för:>
-• Prio 1 transport till Malmö med pågående blodtransfusion
-• Alternativt akut öppen kirurgi
+• Beroende på DT-svar: EVAR Malmö eller öppen kirurgi Lund (kirurg husjour 71157)
 
 
 
@@ -75,4 +77,4 @@ Color/<#A336C9><Symtom:>
 • Hypotension/chock
 
 Color/<#A336C9><Ultraljud:>
-• Bukaorta > 5 cm (oftast delvis trombotiserad)
+• Bukaorta > 5 cm

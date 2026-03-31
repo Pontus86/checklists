@@ -1,55 +1,64 @@
 Title/1. Ringer-Acetat
 Text/
 Color/<#a5715a><Infart:>
-• PVC x 2
+• PVK x 2
 
 Color/<#a5715a><Val om svårstucken:>
 • Ultraljudsledd PVK
 • IO-nål
 
 Color/<#a5715a><Kristalloid:>
-• Ringer-Acetat 500 ml bolus IV/IO Color/<#0014ff><(10 mg/kg)>
+• Ringer-Acetat 500 ml bolus IV/IO
+• Upprepas vid behov beroende på diagnos
+
+Color/<#0014ff><Barn>
+• Ringer-Acetat 10 mg/kg bolus IV/IO
+InternalLink/<• Barn chock><barn chock>
 
 
 
-Title/2. Adrenalin?
-Text/
-Color/<#5EA35C><Indikation:>
-• SBT < 70 mm Hg
-• Ingen radialispuls
-
-Color/<#a5715a><Val 1:>
-1. Adrenalin Color/<#f40b1a><0,1 mg/ml> 1 ml i en 10 ml spruta
-2. Späd med 9 ml NaCl
-3. Ge 2 ml (20 µg) IV/IO
-4. Upprepa var 2:a min vid behov
-
-Color/<#a5715a><Val 2:>
-• Adrenalin Color/<#f40b1a><1 mg/ml> 0,5 ml IM Color/<#0014ff><(10 µg/kg)>
-• Upprepa efter 3 min vid behov
-
-
-
-Title/3. EKG
+Title/2. EKG
 Text/
 Color/<#A336C9><Notera:>
 • Ischemi?
 • Arytmi?
 
 Color/<#A336C9><Länkar ischemi:>
-InternalLink/<• Sgarbossa-1><sgarbossa-1>
-InternalLink/<• Sgarbossa-2><sgarbossa-2>
-InternalLink/<• Hyperakut T-våg><hyperakut T-vag>
+InternalLink/<• Sgarbossa><sgarbossa>
+InternalLink/<• Hyperakut T-våg><hyperakut T-våg>
 InternalLink/<• Posterior OMI><posterior omi>
 InternalLink/<• III & aVL><iii & avl>
-InternalLink/<• STEMI-OMI><stemi omi>
+InternalLink/<• STEMI-OMI><STEMI-OMI>
 
 Color/<#A336C9><Länkar arytmi:>
 InternalLink/<• Bradykardi><bradykardi>
-InternalLink/<• Takykardi regelbunden + smala QRS><takykardi regelbunden + smal qrs>
-InternalLink/<• Takykardi regelbunden + breda QRS><takykardi regelbunden + bred qrs>
-InternalLink/<• Takykardi oregelbunden + smala QRS><takykardi oregelbunden + smal qrs>
-InternalLink/<• Takykardi oregelbunden + breda QRS><takykardi oregelbunden + bred qrs>
+InternalLink/<• Takykardi regelbunden + smala QRS><takykardi reg + smal qrs>
+InternalLink/<• Takykardi regelbunden + breda QRS><takykardi reg + bred qrs>
+InternalLink/<• Takykardi oregelbunden + smala QRS><takykardi oreg + smal qrs>
+InternalLink/<• Takykardi oregelbunden + breda QRS><takykardi oreg + bred qrs>
+
+
+
+Title/3. Adrenalin?
+Text/
+Color/<#5EA35C><Indikation:>
+• SBT < 70 mm Hg
+• Ingen radialispuls
+
+Color/<#a5715a><Val 1:>
+InternalLink/<• Adrenalin push-dose><push-dose pressor>
+
+Color/<#a5715a><Val 2:>
+• Adrenalin Color/<#f40b1a><1 mg/ml> 0,5 ml IM
+• Upprepa efter 3 min vid behov
+
+Color/<#0014ff><Barn:>
+• Adrenalin Color/<#f40b1a><1 mg/ml> i 1 ml-spruta:
+Color/<#5EA35C><0-1 år:> 0,1 ml IM
+Color/<#5EA35C><1-5 år:> 0,15 ml IM
+Color/<#5EA35C><6-12 år:> 0,3 ml IM
+
+
 
 
 
@@ -71,9 +80,10 @@ InternalLink/<• Hypokalemi><hypokalemi>
 Title/5. Ultraljud hjärta + IVC
 Text/
 Color/<#A336C9><Hjärta:>
-• Perikardvätska med högerkammar kollaps?
-• Högerkammare > Vänsterkammare? D-sign?
+• Perikardvätska med HK-kollaps?
 • Dålig kontraktilitet?
+• HK > VK vid A4C?
+• D-sign vid PSAX?
 
 Color/<#A336C9><IVC:>
 • > 20 mm?
@@ -104,15 +114,15 @@ Color/<#A336C9><Lungor:>
 
 Title/7. Övriga prov
 Text/
-Color/<#5EA35C><Allmänna prov:>
+Color/<#a5715a><Allmänna prov:>
 • Vita, CRP
 • Trombocyter, PK, aPTT
 • Troponin
 
-Color/<#5EA35C><Kvinna < 50 år + chock UNS:>
+Color/<#a5715a><Kvinna < 50 år + chock UNS:>
 • Urinsticka gravtest
 
-Color/<#A336C9><Överväg:>
+Color/<#a5715a><Överväg:>
 • KAD för timdiures
 • Kapillärt CRP
 
@@ -121,27 +131,29 @@ Color/<#A336C9><Överväg:>
 Title/8. Förebygg hypotermi
 Text/
 Color/<#a5715a><Åtgärder:>
-• Filt
-• Varma IV vätskor
 • Avlägsna blöta kläder
+• Varma filtar
+• Varma IV vätskor
+
 
 
 
 Title/9. Differentialdiagnos
 Text/
 Color/<#A336C9><Hypovolem:>
-InternalLink/<• Blödning><blodningschock> (InternalLink/<rupturerad AAA><rupturerad aaa>)
+InternalLink/<• Blödningschock><blödningschock> (InternalLink/<rupturerad AAA><rupturerad aaa>)
 • Icke-blödning (diarré, diures, third-spacing)
 
 Color/<#A336C9><Obstruktiv:>
 InternalLink/<• Lungemboli><lungemboli>
-InternalLink/<• Tamponad ><tamponad> (InternalLink/<aortadissektion?><aortadissektion>)
-InternalLink/<• Övertrycks pneumothorax><overtrycks pneumothorax>
+InternalLink/<• Hjärttamponad ><hjärttamponad> (InternalLink/<aortadissektion?><aortadissektion>)
+InternalLink/<• Övertrycks pneumothorax><övertrycks pneumothorax>
 
 Color/<#A336C9><Kardiogen:>
 InternalLink/<• Kardiogen chock><kardiogen chock>
 • Strukturell (papillarmuskelruptur?)
 • Intox (InternalLink/<kalciumantagonist - betablockerare><kalciumantagonist - betablockerare>)
+InternalLink/<• Hyperkalemi><hyperkalemi>
 
 Color/<#A336C9><Distributiv:>
 InternalLink/<• Sepsis><sepsis>

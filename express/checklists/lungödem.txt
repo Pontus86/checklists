@@ -29,11 +29,11 @@ Color/<#f40b1a><Kontraindikationer:>
 
 Color/<#a5715a><Val:>
 • Nitroglycerin 1 spraydos (0,4 mg) var 2:a min
-• Nitroglycerin 1 mg/ml 0,5 mg bolus IV var 3:e min
-• Nitroglycerin 1 mg/ml 10 ml + 40 ml NaCl 1 µg/kg/min titrera snabbt uppåt vb 
+• Nitroglycerin 1 mg/ml 1 mg bolus IV var 3:e min
 
-Color/<#A336C9><Mål:>
-• SBT  130 mm Hg
+Color/<#a5715a><Infusion:>
+InternalLink/<• Nitroglycerin infusion><sprutpump doser>
+• Mål: SBP sänkning med 40% eller SBP < 110 mm Hg
 
 
 
@@ -43,22 +43,21 @@ Color/<#5EA35C><Indikationer:>
 • Hypoxemi
 • Respiratorisk acidos
 
-Color/<#f40b1a><Kontraindikationer:>
+Color/<#f40b1a><Relativa kontraindikationer:>
 • SBP < 85 mm Hg
-• Kräkning
+• Djup medvetandesänkning
+• Stora volymer luftvägssekret
+• Kräkningar
 • Pneumothorax, oklart subkutant emfysem
-• Svår medvetandesänkning
-• Nylig övre luftvägs- eller GI kirurgi
-
-Color/<#a5715a><FlowSafe:>
-• CPAP 4 cm H2O
-• Tillägg IPAP 8 cm H2O vid hyperkapné, utmattning
+• Nyligen övreluftväg- / övre-GI-kirurgi
 
 Color/<#a5715a><Hamilton:>
-• PEEP/CPAP 4 cm H2O
-• Tillägg P-Support 4 cm H2O vid hyperkapné, utmattning
-• P-ramp 150 msec?
-• ETS (Expiratory Trigger Sensitivity) 50%?
+• PEEP/CPAP 5 cm H2O med FiO2 100% initialt
+• P-Support 5 cm H2O vid hyperkapné, utmattning
+
+Color/<#a5715a><FlowSafe:>
+• CPAP 5 cm H2O (flöde 8 L/min syrgas)
+• IPAP 10 cm H2O vid hyperkapné, utmattning (flöde 15 L/min syrgas)
 
 
 
@@ -72,23 +71,24 @@ Color/<#f40b1a><Risk:>
 
 Color/<#a5715a><Åtgärd:>
 • Furix 40 mg IV om patienten inte står på diuretika
-• Furix dygnets dos IV om patienten redan står på diuretika (t ex 80 mg IV om Furix 40 mg x 2)
+• Om patienten redan står på Furix: dygnets dos IV (t ex 80 mg IV om Furix 40 mg x 2)
 
 
 
 Title/6. CPAP/NIV justering
 Text/
 Color/<#5EA35C><SpO2 stiger ej:>
-• Öka FiO2 upp till 100% vid behov
 • Öka PEEP/CPAP 2 cm H2O var 4 min
 
 Color/<#5EA35C><pCO2 sjunker ej:>
 • Öka IPAP/P-support 2 cm H2O var 4 min
-• Max IPAP (PEEP + P-Support) 20 cm H2O
 
-Color/<#5EA35C><Larm Hamilton:>
+Color/<#f40b1a><Max tryck:>
+• IPAP (PEEP + P-Support) 20 cm H2O
+
+Color/<#5EA35C><Justering Larmgräns Hamilton:>
 • Tryck på "Larm" knappen
-• Höj övre gräns för minutvolym "ExpMinVol L/min" vb
+• Höj övre gräns för minutvolym "ExpMinVol L/min"
 
 
 
@@ -99,34 +99,52 @@ Color/<#5EA35C><Indikationer:>
 • Utmattning
 • Nedsatt medvetandegrad, kan ej skydda luftvägen
 
-Color/<#a5715a><Val:>
-• Anestesilarm 77900
-• MIG-bedömning 72784
+Color/<#a5715a><Åtgärd:>
+• Anestesilarm
 
 
-Title/8. Blodprov
+
+Title/8. Basal utredning
 Text/
-Color/<#a5715a><Åtgärder:>
-• Pro-BNP
-• Troponin
+Color/<#a5715a><Utredningar:>
+• EKG
+• PoCUS
+• Blodgas, CRP, Pro-BNP, Troponin
 
 
 
 Title/9. Utlösande orsak?
 Text/
-Color/<#A336C9><Överväg:>
-• Akut hjärtischemi, InternalLink/<STEMI-OMI><stemi-omi>
-• Akut strukturellt problem (t ex papillarmuskelruptur)
+Color/<#A336C9><Orsaker som kräver specifika akuta åtgärder:>
+• Akut hjärtischemi
+
+• Akut strukturellt problem t ex
+- akut klaffinsufficiens
+- tamponad
+- aortadissektion
+
+Color/<#a5715a><Länkar/konsult:>
+• InternalLink/<STEMI-OMI><STEMI-OMI>
+• InternalLink/<Kardiogenchock><Kardiogenchock>
+• HIA-jour 71414
 
 
 
-Title/10. Övrigt
+Title/10. Vidare vård?
 Text/
-Color/<#a5715a><Åtgärd:>
-• Klexane 40 mg SC x 1 om ej på antikoagulantia
+Color/<#a5715a><Klexane:>
+• Klexane 40 mg SC x 1 om ej på antikoagulantia rekommenderas av ESC för patienter med dekompenserad hjärtsvikt som läggs in
 
-Color/<#A336C9><Överväg:>
-• KAD för att följa diures
+Color/<#a5715a><Mäta:>
+• U-Na om 2 timmar
+• Följa timdiures (överväg KAD)
+• Blodgas om risk för hypokalemi
+
+Color/<#a5715a><Mer diuretika:>
+• Dubblera Furix-dosen om:
+- U-Na +2 tim < 70 mEq/l
+- U-produktion +6 tim < 150 ml/tim
+• Furix IV ges var 8-12:e tim
 
 
 

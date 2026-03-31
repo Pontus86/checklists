@@ -57,5 +57,5 @@ Color/<#a5715a><Åtgärd:>
 Color/<#a5715a><Mål:>
 Color/<#5EA35C><• Spontan intrakraniell blödning:> SBP < 140-180 mm Hg
 Color/<#5EA35C><• Subaraknoidalblödning:> SBP < 140-180 mm Hg
-Color/<#5EA35C><• Stroke, kandidat för actilys:> SBP < 185 mm Hg och DBP < 110 mm Hg
-Color/<#5EA35C><• Stroke, ej kandidat för actilys:> BP minskning med 15% över 24 tim
+Color/<#5EA35C><• Ischemisk stroke, kandidat för actilys:> SBP < 185 mm Hg och DBP < 110 mm Hg
+Color/<#5EA35C><• Ischemisk stroke, ej kandidat för actilys:> BP minskning med 15% över 24 tim

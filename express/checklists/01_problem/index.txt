@@ -14,7 +14,8 @@ Hypoxemi
 
 ChapterTitle/<BLODTRYCK>
 Hypotension
-Hypertensiv kris
+Hypertension
+Tourniquet
 
 ChapterTitle/<ARYTMI>
 Bradykardi
@@ -44,7 +45,7 @@ Lokalbedövning (LAST)
 ChapterTitle/<BLODPROV>
 Hyponatremi
 Hypokalemi
-Hypocalcemi
+Hypokalcemi
 Hypoglykemi
 
 Hypernatremi

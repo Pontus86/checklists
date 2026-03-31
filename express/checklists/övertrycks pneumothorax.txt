@@ -1,18 +1,25 @@
 Title/1. Dekompression
 Text/
+Color/<#5EA35C><Indikationer:>
+• Misstanke om pneumothorax
+• Tilltagande hypotension
+• Vanligast vid övertrycksventilation/trauma
+
 Color/<#a5715a><Plats:>
 • Säkra triangeln (mittaxillärlinjen kraniellt om bröstvårtan)
 
 Color/<#a5715a><Val:>
-• PVK
-• Nål från CVK-kit (hjärtstoppsvagn)
-• Skalpel + peang (thoraxgaller)
+• Grov PVK
+• Nål från CVK-kit (röd akutvagn)
+• Skalpell + peang (thoraxgaller)
 
 
 
 Title/2. Drän
 Text/
-• 12F Cook
+Color/<#a5715a><Val:>
+• Drän ≥ 14F vid samtidig hemothorax
+• Pigtail 8-12F
 
 
 
@@ -32,7 +39,10 @@ Color/<#A336C9><Breathing:>
 • Hypoxemi
 • Svårt att ventilera
 • Asymmetriska bröstkorgsrörelser
-• Nedsatta andningsljud
+• Ensidigt nedsatt andningsljud
+
+Color/<#A336C9><Circulation:>
+• Hypotension
 
 Color/<#A336C9><Ultraljud:>
 • Frånvaro lungsliding

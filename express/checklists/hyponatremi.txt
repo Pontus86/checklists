@@ -11,9 +11,17 @@ Color/<#a5715a><Tillverka NaCl 3%:>
 • Tillsätt Addex-Natrium 4 mmol/ml 20 ml
 
 Color/<#a5715a><Administera NaCl 3%:>
-• Ge hela 270 ml IV över 15 min Color/<#0014ff><(4 ml/kg)>
-• Upprepa mätning av Na
-• Ge ytterligare NaCl 3% vb för att höja Na med 5 mmol/L
+• Ge hela 270 ml IV över 20 min
+• Kontrollera Na efter 10 min och 20 min
+• Målet: höja Na med 5 mmol/L
+• Ge ytterligare NaCl 3% vb för att uppnå målet
+
+Color/<#0014ff><Barn:>
+• NaCl 3% 4 ml/kg
+InternalLink/<• Barn vikt><barn vikt>
+
+
+
 
 
 Title/2. Inhämta information

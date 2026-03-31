@@ -1,16 +1,16 @@
 Title/1. Sinustakykardi?
 Text/
-Color/<#5EA35C><Talar för (punkter tillsammans):>
+Color/<#A336C9><Talar för (alla punkter uppfyllda):>
 • HF < 150 slag/min
-• 1 P-våg framför varje QRS
+• P-våg framför varje QRS
 • P-våg positiv i avl II
 
-Color/<#A336C9><Överväg:>
+Color/<#a5715a><Överväg:>
 • Hypovolemi/blödning?
 • Lungemboli?
 • Myokardischemi?
-• Sepsis?
-• Hypokalemi? Hypocalcemi? Hypomagnesiemi?
+• Infektion?
+• Hypokalemi? -calcemi? -magnesiemi?
 • Intoxikation?
 • Abstinens?
 • Tyreotoxikos?
@@ -20,7 +20,7 @@ Color/<#A336C9><Överväg:>
 Title/2. Lewis Lead?
 Text/
 Color/<#5EA35C><Indikation:>
-• Identifiera P-vågor i förhållande till QRS-komplex
+• Bättre identifiera P-vågor
 
 Color/<#a5715a><Åtgärd:>
 InternalLink/<• Lewis Lead><lewis lead>
@@ -30,7 +30,7 @@ InternalLink/<• Lewis Lead><lewis lead>
 Title/3. Esofagus-EKG?
 Text/
 Color/<#5EA35C><Indikation:>
-• Identifiera P-vågor i förhållande till QRS-komplex
+• Kartlägga P-vågor i förhållande till QRS-komplex
 
 Color/<#f40b1a><Nackdelar:>
 • Engångs elektrod kostar SEK 5000
@@ -56,27 +56,26 @@ Color/<#0014ff><Barn:>
 
 Title/5. Adenosin?
 Text/
-Color/<#5EA35C><Talar för (punkter tillsammans):>
-• Bryta AVNRT/AVRT
-• Utebliven effekt av Valsalva
+Color/<#5EA35C><Indikation:>
+• Bryter AVNRT/AVRT
 
 Color/<#f40b1a><Kontraindikationer/risker:>
 • Svår hypotoni
 • Instabil angina
+• Svår astma
 • Allvarliga biverkningar vid tidigare behandling
 • Kan utlösa brady- eller takyarytmier
 
 Color/<#a5715a><Åtgärd:>
-1. Koppla def (3-avl EKG) för att skriva ut rytmremsa
-2. Välj avl där P-vågor syns bäst
-3. Adenosin 5 mg + NaCl 10 ml IV bolus
-4. Adenosin 10 mg + NaCl 10 ml IV bolus
-5. Adenosin 15 mg + NaCl 10 ml IV bolus
+• Telemetri, beredskap för externpacing
+1. Adenosin 5 mg + NaCl 10 ml IV flush
+2. Adenosin 10 mg + NaCl 10 ml IV flush
+3. Adenosin 15 mg + NaCl 10 ml IV flush
 
 Color/<#0014ff><Barn:>
-1. Adenosin 100 µg/kg
-2. Adenosin 200 µg/kg
-3. Adenosin 300 µg/kg
+1. Adenosin 100 µg/kg + NaCl 10 ml IV flush
+2. Adenosin 200 µg/kg + NaCl 10 ml IV flush
+3. Adenosin 300 µg/kg + NaCl 10 ml IV flush
 
 Color/<#A336C9><Tolkning:>
 • Arytmin bryts: AVNRT/AVRT
@@ -87,7 +86,7 @@ Color/<#A336C9><Tolkning:>
 
 Title/6. Elkonvertering?
 Text/
-Color/<#5EA35C><Talar för (punkter tillsammans):>
+Color/<#5EA35C><Indikation (båda punkterna uppfyllda):>
 • Kvarstående SVT (ej sinus)
 • Snar återställning till sinus önskvärt
 
@@ -101,10 +100,10 @@ InternalLink/<• Elkonvertering><elkonvertering>
 
 Title/7. Amiodaron?
 Text/
-Color/<#5EA35C><Talar för (punkter tillsammans):>
+Color/<#5EA35C><Indikation (alla punkter uppfyllda):>
 • Kvarstående SVT (ej sinus)
 • Snar återställning till sinus önskvärt
-• Elkonvertering ej aktuell
+• Elkonvertering ej aktuell/framgångsrik
 
 Color/<#f40b1a><Kontraindikation:>
 • Fladder > 24 tim utan antikoagulantia ≥ 3 veckor
@@ -114,20 +113,9 @@ Color/<#a5715a><Åtgärd:>
 
 
 
-Title/8. TEE?
+Title/8. Seloken?
 Text/
-Color/<#5EA35C><Talar för (punkter tillsammans):>
-• Förmaksfladder > 24 tim utan antikoagulantia ≥ 3 veckor
-• Snar återställning till sinus önskvärt
-
-Color/<#a5715a><Åtgärd:>
-• HIA-jour 71414
-
-
-
-Title/9. Seloken?
-Text/
-Color/<#5EA35C><Talar för (punkter tillsammans):>
+Color/<#5EA35C><Indikation (båda punkterna uppfyllda):>
 • Kvarstående SVT (ej sinus)
 • Frekvenskontroll som initialt mål
 
@@ -141,15 +129,26 @@ Color/<#a5715a><Åtgärd:>
 
 
 
-Title/10. Digoxin?
+Title/9. Digoxin?
 Text/
-Color/<#5EA35C><Indikation (tillsammans):>
+Color/<#5EA35C><Indikation (alla punkter uppfyllda):>
 • Kvarstående SVT (ej sinus)
 • Frekvenskontroll som initialt mål
 • Seloken kontraindicerad eller otillräcklig effekt
 
 Color/<#a5715a><Åtgärd:>
 • Digoxin 0,5 mg IV
+
+
+
+Title/10. TEE?
+Text/
+Color/<#5EA35C><Indikation (båda punkterna uppfyllda):>
+• Förmaksfladder > 24 tim utan antikoagulantia ≥ 3 veckor
+• Snar återställning till sinus önskvärt
+
+Color/<#a5715a><Åtgärd:>
+• HIA-jour 71414
 
 
 

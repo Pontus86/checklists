@@ -22,13 +22,13 @@ Color/<#5EA35C><Thorax:>
 
 Title/2. Blodprov
 Text/
-Color/<#5EA35C><Hos alla:>
+Color/<#5EA35C><Som regel:>
 • Blodgas
 • Trombocyter, PK, aPTT, Fibrinogen
 • Blodgruppering & bastest
 
 
-Title/3. Nöd-blod?
+Title/3. Transfusion?
 Text/
 Color/<#5EA35C><Indikationer:>
 • SBT < 80 mm Hg eller förlust av radialispuls
@@ -38,50 +38,74 @@ Color/<#a5715a><Åtgärd:>
 • 1-2 SAG 0 neg blod IV/IO varmt via Fluido
 • Vid förväntad massiv transfusion: beställ ATP 72950
 
+Color/<#a5715a><Vidare transfusion:>
+Color/<#5EA35C><• Massiv blödning:> 4:4:1 SAG:Plasma:Trombocyter
+
+Color/<#A336C9><Notera:>
+• Trombocyter ges EJ via Fluido
+
 
 
 Title/4. Läkemedel
 Text/
-Color/<#5EA35C><• Hos alla:> Cyklokapron 2 g IV över 10 min Color/<#0014ff><(30 mg/kg)>
-Color/<#5EA35C><• Massiv blödning:> Fibrinogen 2 g IV Color/<#0014ff><(30 mg/kg)>
-Color/<#5EA35C><• Ca < 1,1:> Kalciumglukonat 100 mg/ml 10 ml IV Color/<#0014ff><(0,3 ml/kg)>
-Color/<#5EA35C><• Postpartum blödning:> Oxytocin (Syntocinon) 8,3 µg/ml 1 ml (5 IE) IV över 1 min
+Color/<#5EA35C><Hos alla:>
+• Cyklokapron 2 g IV över 10 min Color/<#0014ff><(30 mg/kg)>
+
+Color/<#5EA35C><Ca < 1,0:>
+• Kalciumglukonat 100 mg/ml 10 ml IV Color/<#0014ff><(0,3 ml/kg)>
+
+Color/<#5EA35C><Postpartum blödning:>
+• Oxytocin (Syntocinon) 8,3 µg/ml 1 ml (5 IE) IV över 1 min
 
 
 
 Title/5. Vid antikoagulantia
 Text/
-Color/<#5EA35C><• Waran:> Ocplex 2000 E IV + Konakion 10 mg IV
-Color/<#5EA35C><• Xarelto/Eliquis:> Ocplex 2000 E IV
-Color/<#5EA35C><• Pradaxa:> Ocplex 2000 E IV eller Praxbind 5 g IV över 5 min
-Color/<#5EA35C><• Heparin/LMWH:> Protamine sulfate 50 mg IV
-Color/<#5EA35C><• Trombyl/NSAID:> Desmopressin 15 µg/ml 1 ml (50 kg) - 2 ml (100 kg) SC
+Color/<#5EA35C><Waran:>
+• Ocplex 2000 E IV + Konakion 10 mg IV
+
+Color/<#5EA35C><Xarelto/Eliquis:>
+• Ocplex 2000 E IV
+
+Color/<#5EA35C><Pradaxa:>
+• Ocplex 2000 E IV eller Praxbind 5 g IV över 5 min
+
+Color/<#5EA35C><Heparin/LMWH:>
+• Protamine sulfate 50 mg IV
+
+Color/<#5EA35C><Trombyl/NSAID:>
+• Desmopressin 15 µg/ml 1 ml (50 kg) - 2 ml (100 kg) SC
 
 
 
-Title/6. Kateter/drän/tub?
+Title/6. Förebygg hypotermi
 Text/
-Color/<#A336C9><Överväg:>
-• KAD för timdiures
-• Toraxdrän vid hemothorax
-• Endotrakeal intubation för att säkra luftväg
-
+Color/<#5EA35C><• Hos alla>
 
 
 Title/7. Övriga åtgärder?
 Text/
-Color/<#5EA35C><• Hos alla:> förebygg hypotermi
-Color/<#5EA35C><• Öppen fraktur:> Ekvacillin 2 g IV Color/<#0014ff><(barn ≤ 20 kg: 50 mg/kg)>
-Color/<#5EA35C><• Penetrerande våld buk:> Pip-Taz 4 g IV
+Color/<#A336C9><Överväg:>
+• Toraxdrän vid hemothorax
+• Endotrakeal intubation för att säkra luftväg
+• KAD för timdiures
+
+Color/<#A336C9><Antibiotika:>
+Color/<#5EA35C><Vid öppen fraktur:>
+• Ekvacillin 2 g IV Color/<#0014ff><(barn ≤ 20 kg: 50 mg/kg)>
+
+Color/<#5EA35C><Vid penetrerande våld buk:>
+• Pip-Taz 4 g IV
 
 
 
 Title/8. Vidare handläggning
 Text/
-Color/<#5EA35C><• Massiv blödning:> 4:4:1 SAG:Plasma:Trombocyter
-Color/<#5EA35C><• Bäckenblödning:> hybridsal, angiografi och embolisering
-Color/<#5EA35C><• Hemothorax över 1 L blodutbyte:> OP
-InternalLink/<• Rupturerad AAA><rupturerad aaa>
+Color/<#5EA35C><Bäckenblödning:>
+• Hybridsal, angiografi och embolisering
 
-Color/<#A336C9><Notera:>
-• Trombocyter ges EJ via Fluido
+Color/<#5EA35C><Hemothorax:>
+• OP om > 1,5 L blod direkt efter > 200 ml/tim 
+• Thoraxjour 71679
+
+InternalLink/<Rupturerad AAA><rupturerad aaa>

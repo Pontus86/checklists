@@ -1,78 +1,76 @@
 Title/1. Akuta konsulter?
 Text/
-Color/<#5EA35C><Torakotomi:>
-• Thorax primärjour 71879
+Color/<#a5715a><Thorakotomi:>
+• Thorax primärjour 71679
 • Thorax Op sternumsåg 71688
 • THIVA-jour 77971
 
-Color/<#5EA35C><Gravid över 20v/fundus ovan navel:>
+Color/<#a5715a><Gravid över 20v/fundus ovan navel:>
 InternalLink/<• Förbered perimortem sectio><perimortem sectio>
 • Förlossningsjour 72501
 • Neojour 78580
 
-Color/<#0014ff><Barn:>
-InternalLink/<• HLR barn läkemedel><hlr barn lakemedel>
-• Barn IVA-jour 78484
-
-Color/<#5EA35C><Blodcentralen:>
+Color/<#a5715a><Blodcentralen:>
 • Beställ transfusionspaket 72950
+
+Color/<#0014ff><Barn:>
+InternalLink/<• Barn chock><barn chock>
+• Barn IVA-jour 78484
 
 
 
 Title/2. Sign-In
 Text/
+Color/<#a5715a><Info till teamet:>
+• Larmrapport
 • Tidigare sjukdomar/läkemedel
-• Ambulansrapport
 
-Color/<#A336C9><Akutläkare:>
+Color/<#a5715a><Teamleader:>
+• Beslut om torakotomi
+• Beslut om toraxdrän
+• Beslut om blodtransfusion
+• Beslut om operation
+
+Color/<#a5715a><Akutläkare:>
 • Bäckengördel på brits?
 • Beredskap för toraxdrän
-• Undersöker bröstkorg, auskultera lungorna
-• Ultraljud: tamponad, lung-sliding, pleuravätska, fri vätska i buken?
-• Undersöker extremiteter, rygg vid stockvändning
+• Förbered ultraljud
+• Undersök BCDE + ultraljud
 
-Color/<#A336C9><Akutens sjuksköterska:>
-• Förbereder Fluido?
+Color/<#a5715a><Akutens sjuksköterska:>
+• Beredskap Fluido
 • Beredskap IO nål humerus
-• Blodprov
 
-Color/<#A336C9><Teamleader:>
-Beslut om
-• Torakotomi
-• Drän
-• Blodtransfusion
+Color/<#a5715a><Akutens undersjuksköterska:>
+• Förbered övervakningsutrustning
+
+Color/<#a5715a><Narkos:>
+• Beredskap intubation / coniotomi
+• Förbered traumasug
 
 
 
-Title/3. Torakotomi?
+Title/3. Traumatiskt hjärtstopp?
 Text/
-Color/<#5EA35C><Indikation (punkter tillsammans):>
-• Livstecken vid skadeplats
-• Pulslös på akuten
-• Pulslöshet < 15 min
-
-Color/<#f40b1a><Kontraindikationer:>
-• Asystole + ingen tamponad
-• Skador ej förenliga med överlevnad
-
+InternalLink/<• Hjärtstopp, traumatiskt><Hjärtstopp, traumatiskt>
 
 
 Title/4. Tourniquet? Drän? Gördel?
 Text/
-Color/<#a5715a><Tourniquet:>
+Color/<#5EA35C><Tourniquet:>
 • Vid svår extremitetsblödning som inte kan hävas med kompression
 
-Color/<#a5715a><Thoraxdrän:>
+Color/<#5EA35C><Thoraxdrän:>
 • Vid pneumo- hemotorax och instabil patient eller övertrycksventilation
 
-Color/<#a5715a><Bäckengördel:>
+Color/<#5EA35C><Bäckengördel:>
 • Vid högenergi våld mot bäckenet
 
 
 
 Title/5. Blodprov?
 Text/
-Color/<#5EA35C><Som regel:>
+Color/<#a5715a><Som regel:>
 • Blodgas
 • Trombocyter
 • PK, aPTT
@@ -85,13 +83,16 @@ Title/6. 0 negativt blod?
 Text/
 Color/<#5EA35C><Indikationer:>
 • SBT < 80 mm Hg eller förlust av radialispuls
-
 • SBT < 110 mm Hg och traumatisk hjärnskada/ryggmärgsskada
 
 Color/<#a5715a><Åtgärd:>
-• 1-2 SAG Color/<#0014ff><(10 ml/kg)> med övertryck, t ex:
+• 1-2 SAG med övertryck, t ex:
 - krama påsen med händerna
 - via Fluido 
+
+Color/<#0014ff><Barn:>
+• Noll neg blod 10 ml/kg
+InternalLink/<• Barn chock><barn chock>
 
 
 
@@ -102,7 +103,7 @@ Color/<#5EA35C><Indikationer:>
 • Kan ej skydda sin luftväg
 
 Color/<#f40b1a><Risk:>
-• Undvik hypotension vid RSI vid traumatisk hjärnskada
+• Undvik hypotension vid hjärnskada
 
 
 Title/8. Ventilation vid hjärnskada?
@@ -120,8 +121,16 @@ Ventilera med målvärde:
 Title/9. Smärtstillning?
 Text/
 Color/<#a5715a><Val:>
-• Fentanyl 50 mcg/ml 1 ml IV över 1 min Color/<#0014ff><(1 mcg/kg)>
-• Ketanest 5 mg/ml 2 ml IV över 1 min Color/<#0014ff><(0,3 mg/kg)>
+• Morfin 2-5 mg IV över 1 min
+• Fentanyl 50 µg/ml 1 ml IV över 1 min
+• Ketanest 5 mg/ml 2 ml IV över 1 min
+
+Color/<#0014ff><Barn:>
+• Se Fakta, Smärta 0-8 år
+InternalLink/<• Smärta barn intranasalt><Smärta barn intranasalt>
+InternalLink/<• Smärta barn intravenöst><Smärta barn intravenöst>
+InternalLink/<• Smärta barn intramuskulärt><Smärta barn intramuskulärt>
+InternalLink/<• Smärta barn per os><Smärta barn per os>
 
 
 
@@ -131,7 +140,11 @@ Color/<#5EA35C><Indikation:>
 • Blödningschock inom 3 tim från trauma
 
 Color/<#a5715a><Åtgärd:>
-• Cyklokapron 2 g IV Color/<#0014ff><(15 mg/kg)>
+• Cyklokapron 2 g IV
+
+Color/<#0014ff><Barn:>
+• Cyklokapron 30 mg/kg
+InternalLink/<• Barn vikt><Barn vikt>
 
 
 
@@ -141,23 +154,33 @@ Color/<#5EA35C><Indikation:>
 • Ca joniserad < 1,1 mmol/L
 
 Color/<#a5715a><Åtgärd:>
-• Kalciumglukonat 100 mg/ml 10 ml IV Color/<#0014ff><(0,3 ml/kg)>
+• Kalciumglukonat 100 mg/ml 10 ml IV
+
+Color/<#0014ff><Barn:>
+• Kalciumglukonat 100 mg/ml 0,3 ml/kg
+InternalLink/<• Barn vikt><Barn vikt>
 
 
 
 Title/12. Antibiotika?
 Text/
-Color/<#5EA35C><Öppen extremitetsfraktur, enkel:>
-• Ekvacillin 2 g IV Color/<#0014ff><(50 mg/kg)>
-• Vid PC-allergi: Clindamycin 600 mg IV Color/<#0014ff><(barn ≥ 12 år)>
+Color/<#a5715a><Öppen extremitetsfraktur, enkel:>
+• Ekvacillin 2 g IV
+• Vid PC-allergi: Clindamycin 600 mg IV
 
-Color/<#5EA35C><Öppen extremitetsfraktur större än 10 cm, med kontamination eller uttalad mjukdelsskada:>
-• Cefotaxim 2 g IV Color/<#0014ff><(50 mg/kg)>
-• Vid PC-allergi: Clindamycin 600 mg IV Color/<#0014ff><(barn ≥ 12 år)> + Nebcina 1,5 mg/kg
+Color/<#a5715a><Öppen extremitetsfraktur större än 10 cm, med kontamination eller uttalad mjukdelsskada:>
+• Cefotaxim 2 g IV
+• Vid PC-allergi: Clindamycin 600 mg IV + Nebcina 1,5 mg/kg IV
 
+Color/<#a5715a><Penetrerande bukskada:>
+• Piperacillin-Tazobactam 4 g IV
 
-Color/<#5EA35C><Penetrerande bukskada:>
-• Piperacillin-Tazobactam 4 g IV Color/<#0014ff><(100 mg/kg)>
+Color/<#0014ff><Barn:>
+• Ekvacillin 50 mg/kg
+• Clindamycin 600 mg IV om ≥ 12 år
+• Cefotaxim 50 mg/kg
+• Piperacillin-Tazobactam 100 mg/kg
+InternalLink/<• Barn vikt><Barn vikt>
 
 
 
@@ -166,4 +189,5 @@ Text/
 Color/<#a5715a><Åtgärder och beslut:>
 • Förebygg hypotermi
 • Rörelsebegränsning?
-• OP eller DT?
+InternalLink/<• Borttagning av tourniquet?><tourniquet>
+• Op eller DT?

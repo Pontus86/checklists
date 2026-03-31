@@ -1,2 +1,66 @@
-Title/
-I/02_ingrepp/ovre luftvagshinder.png
+Title/1. Larma
+Text/
+Color/<#a5715a><Åtgärd:>
+• Luftvägslarm
+
+
+
+Title/2. Främmande kropp?
+Text/
+Color/<#a5715a><Åtgärd:>
+• Se InternalLink/<Främmande kropp luftväg><främmande kropp luftväg>
+
+
+Title/3. Adrenalin?
+Text/
+Color/<#5EA35C><Indikationer:>
+• Anafylaxi
+• Angioödem
+• Luftvägsödem
+
+Color/<#a5715a><Åtgärder:>
+• Adrenalin Color/<#f40b1a><1 mg/ml> 0,5 mg IM
+• Adrenalin Color/<#f40b1a><1 mg/ml> 1 ml + 3 ml NaCl nebuliserad
+• Vid behov av Adrenalin IV: se InternalLink/<Anafylaxi 4.><anafylaxi>
+
+Color/<#0014ff><Barn:>
+• Adrenalin Color/<#f40b1a><1 mg/ml> i 1 ml-spruta:
+Color/<#5EA35C><-- 6-12 år:> 0,3 ml IM
+Color/<#5EA35C><-- 1-5 år:> 0,15 ml IM
+Color/<#5EA35C><-- under 1 år:> 0,1 ml IM
+• Adrenalin Color/<#f40b1a><1 mg/ml> 1 ml + 3 ml NaCl nebuliserad
+
+
+
+Title/4. Öppna luftväg?
+Text/
+Color/<#5EA35C><Indikationer:>
+• Hindret beror varken på främmande kropp eller luftvägsödem
+
+Color/<#a5715a><Val:>
+• Haklyft
+• Sug
+• Näskantarell/svalgtub
+• Larynxmask
+
+
+
+Title/5. Kirurgisk luftväg?
+Text/
+Color/<#5EA35C><Indikation:>
+• Kan ej syresätta + kan ej intubera
+
+Color/<#a5715a><Val:>
+InternalLink/<• Coniotomi><coniotomi>
+InternalLink/<• Jetoxygenering><jetoxygenering>
+
+
+
+
+Title/6. Bekräfta öppen luftväg
+Text/
+Color/<#a5715a><Kontrollera:>
+• Bröstkorgen expanderar vid ventilation
+• Lungauskultation: andningsljud bilateralt
+• Stigande SpO2
+• EtO2

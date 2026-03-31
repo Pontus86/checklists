@@ -1,12 +1,20 @@
 Title/1. Prov
 Text/
-Color/<#5EA35C><Leverencefalopati:>
-• Leverprov + albumin + PK
-• Överväg GI-blödning och spontan bakteriell peritonit
+Color/<#5EA35C><Som regel:>
+• Leverprov
+• Albumin
+• PK
+
+Title/2. Överväg
+Text/
+Color/<#A336C9><Utlösande faktor:>
+InternalLink/<• Gastrointestinal blödning><gastrointestinal blödning>
+InternalLink/<• Bakteriell peritonit><bakteriell peritonit>
+
+Color/<#A336C9><Diffdiagnoser av medvetanderubbning:>
+InternalLink/<• Medvetanderubbning><medvetanderubbning>
 
 
-
-• Överväg InternalLink/<Medvetanderubbning><medvetanderubbning>
 
 Title/Om leverencefalopati
 Text/

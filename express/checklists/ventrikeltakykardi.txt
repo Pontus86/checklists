@@ -1,0 +1,76 @@
+Title/1. Larm?
+Text/
+Color/<#5EA35C><Indikation:>
+• Grav hemodynamisk instabilitet
+
+Color/<#a5715a><Åtgärder:>
+• Hjärtstoppslarm
+
+
+
+Title/2. VT vs SVT?
+Text/
+• Vid tveksamhet om diagnosen, se InternalLink/<takykardi reg + bred qrs><takykardi reg + bred qrs>
+
+
+
+Title/3. Akut elkonvertering?
+Text/
+Color/<#5EA35C><Indikation:>
+• Hemodynamisk instabilitet
+
+Color/<#f40b1a><Risk:>
+• Intox-utlöst VT: elkonvertering bara på vitalindikation, kan leda till terapiresistent asystole
+• Kontakta Giftinformation 010-456 6719
+
+Color/<#a5715a><Överväg:>
+• Kontakt med narkos och HIA-jour 71414
+• Ringer-Acetat bolus IV
+• InternalLink/<Push-dose pressor><push-dose pressor> (Fenylefrin?)
+
+Color/<#a5715a><Åtgärder:>
+• InternalLink/<Procedursedering><PSA vuxen intravenöst> (Ketanest?)
+InternalLink/<• Elkonvertering><elkonvertering> (glöm ej SYNK)
+
+
+
+Title/4. Kalium?
+Text/
+Color/<#5EA35C><Indikation:>
+• Kalium < 4 mmol/L
+
+Color/<#a5715a><Kalium IV:>
+Följande lösning IV över 2-4 tim:
+• NaCl 250 ml +
+• Addex-Kaliumklorid 2 mmol/ml 20 ml +
+• Addex-Magnesium 1 mmol/ml 20 ml
+
+Color/<#a5715a><Kalium PO:>
+• Kaleorid 750 mEq x 2 PO
+
+Color/<#A336C9><Notera:>
+• Normalisering av K och Mg gör att elkonvertering/amiodarone blir mer framgångsrika
+
+
+
+Title/5. Amiodarone?
+Text/
+Color/<#5EA35C><Indikation:>
+• VT med hemodynamisk stabilitet
+• VT där elkonvertering bedöms för riskabel
+
+Color/<#f40b1a><Kontraindikationer:>
+• Grav hyperkalemi/hypokalemi
+• Förgiftning—kontakta Giftinformation 010-456 6719
+
+Color/<#a5715a><Åtgärd:>
+• Amiodarone 50 mg/ml 6 ml i glukos 50 mg/ml 100 ml IV över 10 min
+
+
+
+Title/6. Vidare vård
+Text/
+Color/<#a5715a><Åtgärd:>
+• Inläggning HIA/arytmi
+• Telemetri (HIA-jour 71414)
+• Överväg Amiodarone för att förebygga recidiv

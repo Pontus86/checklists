@@ -1,0 +1,94 @@
+Title/1. 0 negativt blod?
+Text/
+Color/<#5EA35C><Indikation:>
+• Hypovolem chock från blodförlust
+
+Color/<#a5715a><Åtgärd:>
+• 0 negativt blod
+
+
+
+Title/2. Extra tourniquet?
+Text/
+Color/<#5EA35C><Indikation:>
+• Pågående blödning distalt till tourniquet
+
+Color/<#a5715a><Åtgärd:>
+• Lägg till extra tourniquet proximalt om nuvarande
+
+
+
+Title/3. Direkt till op?
+Text/
+Color/<#5EA35C><Indikation:>
+• Behov av akut operation
+
+Color/<#a5715a><Åtgärd:>
+• Avveckling av tourniquet på OP
+
+
+
+Title/4. Hyperkalemi?
+Text/
+Color/<#5EA35C><Indikation:>
+• Måttlig - uttalad hyperkalemi bör åtgärdas innan tourniquet släpps
+
+Color/<#a5715a><Åtgärd:>
+• InternalLink/<Hyperkalemi><hyperkalemi>
+
+Color/<#A336C9><Notera:>
+• Kalium kan stiga när tourniquet släpps
+• Stigning oftast mild och tillfällig
+
+
+
+Title/5. Hjärtmonitorering
+Text/
+Color/<#5EA35C><Indikation:>
+• Alla patienter innan tourniquet släpps
+
+Color/<#a5715a><Åtgärd:>
+• Telemetri
+• Tillgång till defibrillator
+
+Color/<#A336C9><Notera:>
+• Arytmier kan förekomma när tourniquet släpps
+
+
+
+Title/6. Släpp tourniquet
+Text/
+Color/<#a5715a><Åtgärder:>
+• Släpp tourniquet
+• Observera såret för blödning
+
+
+
+Title/7. Packa/tryckförband?
+Text/
+Color/<#5EA35C><Indikation:>
+• Blödning från såret
+
+Color/<#a5715a><Åtgärder:>
+1-Packa djupt i sårhålan
+2-Sätt tryckförband
+
+
+Title/8. Sätt tillbaka tourniquet?
+Text/
+Color/<#5EA35C><Indikation:>
+• Blödning trots sårpackning och tryckförband
+
+Color/<#a5715a><Åtgärd:>
+• Spänn fast tourniquet igen
+• Flytta tourniquet mer distalt om möjligt för att spara vävnad
+
+
+
+Title/ Om "tourniquet"
+Text/
+Checklistan handlar om handläggningen av patient som ankommer med tourniquet på extremitet.
+
+Tourniquet är en effektiv metod att stoppa livshotande blödning från extremitetsskada eller traumatisk amputation. Längre användning ökar risken på ischemi, vävnadsskada, minskad funktion i extremiteten, amputation och systemisk skada efter reperfusion av extremiteten.
+
+Enligt riktlinjer är max användningstid 2 timmar, men skada kan redan ha skett innan dess. Ju tidigare ersättning av tourniquet med hemostatiska tryckförband, desto bättre.

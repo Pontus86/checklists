@@ -4,10 +4,9 @@ Color/<#5EA35C><Tecken på livshot:>
 • Lufthunger
 • Onormal röst (stridor, hes, dämpad)
 
-Color/<#a5715a><Val:>
-• Anestesilarm 77900
-• ÖNH 71061
-• Hjärtstopp larm
+Color/<#a5715a><Åtgärd:>
+• Luftvägslarm
+
 
 
 Title/2. Syrgas?
@@ -17,7 +16,7 @@ Color/<#5EA35C><Indikationer:>
 • Stridor, hes eller dämpad röst
 • SpO2 < 95%
 
-Color/<#a5715a><Val:>
+Color/<#a5715a><Åtgärd:>
 • Mask med reservoar 15 L/min
 • Näsgrimma 15 L/min kan läggas till under masken
 
@@ -46,13 +45,12 @@ Color/<#A336C9><Notera:>
 
 
 
-Title/4. Coniotomi?
+Title/4. Livshot—Coniotomi?
 Text/
 Color/<#5EA35C><Indikation:>
 Hotande hypoxisk hjärtstopp (samtliga):
-• Stridor
-• Lufthunger
-• Sjunkande SpO2
+• Sjunkande SpO2, nu < 80%
+• Tilltagande allmänpåverkan
 • Inget svar på adrenalin
 
 Color/<#a5715a><Åtgärder:>
@@ -76,7 +74,6 @@ Color/<#a5715a><Åtgärder:>
 
 
 
-
 Title/6. Intubation?
 Text/
 Color/<#5EA35C><Indikationer:>
@@ -90,8 +87,25 @@ Color/<#a5715a><Åtgärder:>
 
 
 
+Title/7. Icatibant eller Berinert?
+Text/
+Color/<#5EA35C><Indikation:>
+• Bradykinin-medierad (hereditär, ACE-hämmare, fokal svullnad, ej klåda)
+• Hotande luftväg, för att förebygga intubation
 
-Title/7. Cyklokapron?
+Color/<#a5715a><Val:>
+• Icatibant 30 mg SC
+• Berinert 1000 - 1500 IE (20 IE/kg, avrunda till närmast 500 IE) långsam IV infusion
+
+Color/<#A336C9><Notera:>
+• Berinert förstahandsval vid hereditär angioödem
+• Icatibant i övriga fall
+• Tar 30 min för effekt
+• Vid snabb försämring: endotrakeal intubation
+
+
+
+Title/8. Cyklokapron?
 Text/
 Color/<#5EA35C><Indikation:>
 • Bradykinin-medierad (hereditär, ACE-hämmare, fokal svullnad, ej klåda)
@@ -104,24 +118,27 @@ Color/<#A336C9><Notera:>
 
 
 
-
-Title/8. Berinert eller Fyrazir?
+Title/9. Tavegyl & Betapred?
 Text/
 Color/<#5EA35C><Indikation:>
-• Bradykinin-medierad (hereditär, ACE-hämmare, fokal svullnad, ej klåda)
-• Kontakt med ÖNH 71061 gällande beslut
+• Histamin-medierad angioödem (klåda, utslag)
 
-Color/<#a5715a><Val:>
-• Berinert 1000 - 1500 IE (20 IE/kg, avrunda till närmast 500 IE) långsam IV infusion
-• Fyrazir 30 mg SC
-
-Color/<#A336C9><Notera:>
-• Tar 30 min för effekt
-• Vid snabb försämring: endotrakeal intubation
+Color/<#a5715a><Åtgärder:>
+• Tavegyl 1 mg/ml 2 ml IV
+• Betapred 4 mg/ml 2 ml IV
 
 
 
-Title/9. FFP?
+Title/10. Observation
+Text/
+Color/<#A336C9><Allmänt:>
+• Beror på graden av luftvägspåverkan och förloppet
+
+• Bradykinin-medierad angioödem kan progrediera över loppet av timmar och läkemedel tar > 30 min innan effekt
+
+
+
+Title/FFP?
 Text/
 Color/<#5EA35C><Indikation:>
 • Bradykinin-medierad, Berinert eller Fyrazir indicerade dock ej tillgängliga
@@ -133,25 +150,3 @@ Color/<#a5715a><Åtgärd:>
 
 Color/<#A336C9><Notera:>
 • Beredskap för intubation, då FFP ibland kan förvärra angioödemet 
-
-
-
-
-Title/10. Tavegyl & Betapred?
-Text/
-Color/<#5EA35C><Indikation:>
-• Histamin-medierad angioödem (klåda, utslag)
-
-Color/<#a5715a><Åtgärder:>
-• Tavegyl 1 mg/ml 2 ml IV
-• Betapred 4 mg/ml 2 ml IV
-
-
-
-
-Title/11. Observation
-Text/
-Color/<#A336C9><Allmänt:>
-• Beror på graden av luftvägspåverkan och förloppet
-
-• Bradykinin-medierad angioödem kan progrediera över loppet av timmar och läkemedel tar > 30 min innan effekt

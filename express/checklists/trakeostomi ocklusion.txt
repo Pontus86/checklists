@@ -3,12 +3,12 @@ Text/
 Color/<#5EA35C><Indikation:>
 • Medvetslös + andas ej
 
-Color/<#a5715a><Kalla på hjälp:>
-• 50000
-• ÖNH 71709
+Color/<#a5715a><Larma:>
+• Hjärtstoppslarm
+• ÖNH-jour 71061
 
 Color/<#a5715a><Vidare handläggning:>
-Color/<#A336C9><• 5. Ta bort inre kanyl>
+Color/<#A336C9><• Gå till steg 5. Ta bort inre kanyl>
 
 
  
@@ -19,14 +19,15 @@ Color/<#5EA35C><Indikation:>
 • Trakeostomi och A/B problem
 
 Color/<#a5715a><Åtgärd:>
-• ÖNH 71709
+• Luftvägslarm
+• ÖNH 71061
 
 
 
 Title/3. Lyssna/titta mun + stoma
 Text/
 Color/<#a5715a><Åtgärd:>
-• Bedöm var luften passerar
+• Bedöm om luften passerar genom mun och/eller stoma
 
 
 
@@ -43,9 +44,9 @@ Text/
 Color/<#5EA35C><Indikation:>
 • Alla med inre kanyl och potentiell A/B problem
 
-Color/<#a5715a><Åtgärd:>
-• Spara kanylen
-• Kan behövas för övertrycksventilation
+Color/<#a5715a><Åtgärder:>
+• Ta bort inre kanyl
+• Spara kanylen, kan behövas för övertrycksventilation
 
 
 
@@ -61,12 +62,12 @@ Color/<#a5715a><Om du KAN föra in katetern>
 • Sug max 5-10 sek i taget
 • Ventilera vid behov genom trak-tuben med blåsa
 • Kan INTE ventilera: Color/<#A336C9><7. Ta bort yttre kanyl>
-• Patienten förbättras: Color/<#A336C9><10. Vid förbättring>
+• Patient förbättras: Color/<#A336C9><10. Vid förbättring>
 
 Color/<#a5715a><Om du INTE kan föra in katetern>
-• Kuffa ur trak-tuben om kuffen finns
-• Patienten blir inte bättre: Color/<#A336C9><7. Ta bort yttre kanyl>
-• Patienten förbättras: Color/<#A336C9><10. Vid förbättring>
+• Kuffa ur trak-tuben om kuff finns
+• Patient blir inte bättre: Color/<#A336C9><7. Ta bort yttre kanyl>
+• Patient förbättras: Color/<#A336C9><10. Vid förbättring>
 
 
 
@@ -74,6 +75,10 @@ Title/7. Ta bort yttre kanyl
 Text/
 Color/<#5EA35C><Indikation:>
 • Eftersom kanylen kan hamnat fel och obstruera luftvägen
+
+Color/<#a5715a><Åtgärder:>
+• Kuffa ur trak-tuben om kuff finns
+• Ta bort yttre kanyl
 
 
 
@@ -85,11 +90,11 @@ Color/<#5EA35C><Indikation:>
 Color/<#a5715a><Ventilera via mun:>
 • Ockludera stoma med kompresser eller händer
 • Två-person mask ventilation över munnen
-• Bekräfta ventilation med kapnometer
+• Bekräfta ventilation med EtCO2
 
 Color/<#a5715a><Ventilera via stoma:>
-• Barn mask eller larynxmask omkring stoma
-• Bekräfta ventilation med kapnometer
+• Barnmask eller larynxmask omkring stoma
+• Bekräfta ventilation med EtCO2
 
 
 

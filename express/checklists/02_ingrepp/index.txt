@@ -3,17 +3,24 @@ Perimortem sectio
 
 ChapterTitle/<AIRWAY>
 Coniotomi
+Jetoxygenering
+
+ChapterTitle/<BREATHING>
+NIV Hamilton
+NIV FlowSafe
 
 ChapterTitle/<CIRCULATION>
-Intraosseös nål humerus
 Elkonvertering
 Externpacing
+Intraosseös nål humerus
+Navelvenskateter
 Perikardiocentes
+Sprutpump
 
 ChapterTitle/<DISABILITY>
 Lateral kantotomi
 Ventrikelsköljning
-Intranasalt läkemedel
+Läkemedel intranasalt
 
 ChapterTitle/<EXPOSURE>
 Eskarotomi-fasciotomi

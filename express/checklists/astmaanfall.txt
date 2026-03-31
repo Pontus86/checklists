@@ -3,11 +3,8 @@ Text/
 Color/<#5EA35C><Indikation:>
 • Kan knappt andas + medvetandesänkt
 
-Color/<#a5715a><Val:>
-• Anestesilarm 77900
-• Hjärtstopp larm 50000
-
-
+Color/<#a5715a><Åtgärd:>
+• Anestesilarm
 
 Title/2. Livshot—Adrenalin?
 Text/
@@ -38,7 +35,11 @@ Color/<#a5715a><Åtgärder:>
 2. Intubation Color/<#f40b1a><endast 1 försök> annars InternalLink/<coniotomi><coniotomi>
 3. EtCO2 för att bekräfta tubplacering
 4. Övertrycksventilation med blåsa
-5. Lateral kompression av bröstkorgen för att underlätta expiration
+5. Bilateral kompression av bröstkorgen för att underlätta expiration
+
+Color/<#A336C9><Källa:>
+• AMAX-4
+
 
 
 Title/4. Ketanest?
@@ -47,10 +48,10 @@ Color/<#5EA35C><Indikation:>
 • Svår agitation + livshotande astmaanfall
 
 Color/<#a5715a><Har PVK:>
-• Ketanest 5 mg/ml 6 ml IV över 1 min
+• Ketanest 5 mg/ml 4 ml IV över 1 min
 
 Color/<#a5715a><Har EJ PVK:>
-• Ketanest 25 mg/ml 6 ml IM (3 ml i varje lår)
+• Ketanest 25 mg/ml 4 ml IM (2 ml i varje lår)
 
 
 
@@ -59,8 +60,8 @@ Text/
 Color/<#5EA35C><Indikation:>
 • SpO2% < 95%
 
-Color/<#a5715a><Åtgärder:>
-• Syrgas mask 15 L/min
+Color/<#a5715a><Åtgärd:>
+• Reservoarmask 15 L/min
 • Grimma 15 L/min kan läggas till under masken
 
 
@@ -68,9 +69,6 @@ Color/<#a5715a><Åtgärder:>
 
 Title/6. Ventoline
 Text/
-Color/<#f40b1a><Risk:>
-• Hypokalemi
-
 Color/<#a5715a><Åtgärd:>
 • Ventoline 2 mg/ml 2,5 ml Neb
 • Upprepa var 20 min eller ge oavbrutet vb
@@ -78,9 +76,10 @@ Color/<#a5715a><Åtgärd:>
 Color/<#0014ff><Barn < 5 år:>
 • Ventoline 2 mg/ml 1 ml Neb
 
- 
+Color/<#A336C9><Notera:>
+• Kan ger hypokalemi 
 
-Title/7. Beta-agonist?
+Title/7. Adrenalin IM-Bricanyl SC?
 Text/
 Color/<#5EA35C><Indikation:>
 • Svårt astmaanfall
@@ -88,11 +87,9 @@ Color/<#5EA35C><Indikation:>
 Color/<#a5715a><Val:>
 • Adrenalin Color/<#f40b1a><1 mg/ml> 0,5 ml IM
 • Bricanyl 0,5 mg/ml 0,5 ml SC var 20 min x 3
-• Bricanyl 0,5 mg/ml 1 ml + 9 ml NaCl: 10 ml IV över 5 min
-• Ventoline 2 mg/ml 1 ml + 9 ml NaCl: 1 ml IV över 1 min
 
 Color/<#0014ff><Barn:>
-• Adrenalin Color/<#f40b1a><1 mg/ml> i insulinspruta
+• Adrenalin Color/<#f40b1a><1 mg/ml> i en 1 ml spruta
 • 6-12 år: 0,3 ml IM
 • 1-5 år: 0,2 ml IM
 • < 1 år: 0,1 ml IM
@@ -115,8 +112,8 @@ Text/
 Color/<#5EA35C><Indikation:>
 • Vid svårt astmaanfall för att undvika intubation
 
-Color/<#a5715a><Åtgärd:>
-• EPAP 3 cm H2O
+InternalLink/<Hamilton><niv hamilton>
+• PEEP 3 cm H2O
 • P-support 5 cm H2O
 • P-ramp 100 msec
 • Samtidig nebuliserad behandling
@@ -129,9 +126,6 @@ Color/<#5EA35C><Indikationer:>
 • Livshotande anfall
 • Svåra symtom trots 1 timmes intensiv behandling
 
-Color/<#f40b1a><Kontraindikation:>
-• Njursvikt
-
 Color/<#a5715a><Åtgärd:>
 • Addex-Magnesium 1 mmol/ml 10 ml i 100 ml NaCl IV över 20 min
 
@@ -140,7 +134,7 @@ Color/<#0014ff><Barn:>
 
 
 
-Title/11. Intubation
+Title/11. Intubation?
 Text/
 Color/<#5EA35C><Indikationer:>
 • Kvarstående/förvärrande hypoxemi
@@ -156,32 +150,20 @@ Color/<#a5715a><Åtgärder:>
 
 
 
-Title/12. Kalium, Ringer?
+Title/12. Ringer, Kalium?
 Text/
-Color/<#5EA35C><Indikationer:>
-• Hypovolemi
-• Hypokalemi
+Color/<#5EA35C><Hypovolemi:>
+• Ringer-Acetate 500 ml IV bolus Color/<#0014ff><(barn: 10 ml/kg)>
 
-Color/<#a5715a><Åtgärder:>
-Color/<#5EA35C><• Hypovolemi:> Ringer-Acetate 500 ml IV bolus
-Color/<#5EA35C><• Hypokalemi:> NaCl 1000 ml med 40 mmol KCl IV över 4 tim
-
-Color/<#0014ff><Barn:>
-• Ringer-Acetate 10 ml/kg IV bolus
+Color/<#5EA35C><Hypokalemi:>
+• NaCl 1000 ml med 40 mmol KCl IV över 4 tim
 
 
-Title/13. Kortikosteroid?
+
+Title/13. Kortikosteroid
 Text/
 Color/<#5EA35C><Indikation:>
 • Alla förutom lindriga kortvariga anfall
 
 Color/<#a5715a><Åtgärd:>
 • Betapred 8 mg PO eller IV
-
-
-
-Title/14. Inläggning?
-Text/
-Color/<#5EA35C><Indikationer:>
-• Ingen förbättring efter 5 tim beh
-• PEF < 40% förväntad

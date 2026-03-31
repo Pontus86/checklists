@@ -13,6 +13,7 @@ Pneumoni
 
 ChapterTitle/<ARYTMI>
 Förmaksflimmer
+Ventrikeltakykardi
 Torsade de pointes
 
 ChapterTitle/<BLODTRYCK>
@@ -21,7 +22,6 @@ Anafylaxi
 Blödningschock
 Gastrointestinal blödning
 Hjärttamponad
-Hypertensiv kris
 Kardiogen chock
 Lungemboli
 Neurogen chock
@@ -35,7 +35,7 @@ Krampanfall
 Leverencefalopati
 Myxödemkoma
 Ökat intrakraniellt tryck
-Orbitalt kompartmentsyndrom
+Orbitalt kompartment
 
 ChapterTitle/<GLUKOS>
 DKA
@@ -44,5 +44,5 @@ HHS
 ChapterTitle/<SMÄRTA>
 Aortadissektion
 Rupturerad AAA
-Spontan bakteriell peritonit
+Bakteriell peritonit
 STEMI-OMI

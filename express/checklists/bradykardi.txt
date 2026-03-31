@@ -2,11 +2,14 @@ Title/1. Hjärtstopp?
 Text/
 Color/<#a5715a><Initiala åtgärder:>
 • HLR
-• Adrenalin Color/<#f40b1a><0,1 mg/ml> 10 ml IV bolus Color/<#0014ff><(10 µg/kg)>
+• Adrenalin Color/<#f40b1a><0,1 mg/ml> 10 ml IV bolus
 
-Color/<#a5715a><Val:>
-InternalLink/<• Hjärtstopp><hjartstopp>
-InternalLink/<• Hjärtstopp, traumatiskt><hjartstopp, traumatiskt>
+Color/<#0014ff><Barn:>
+InternalLink/<• Hjärtstopp barn Adrenalin IV bolus><barn hjärtstopp>
+
+Color/<#a5715a><Länkar:>
+InternalLink/<• Hjärtstopp><hjärtstopp>
+InternalLink/<• Hjärtstopp, traumatiskt><hjärtstopp, traumatiskt>
 
 
 
@@ -22,28 +25,30 @@ Color/<#a5715a><Åtgärd:>
 
 Title/3. Adrenalin?
 Text/
-Color/<#5EA35C><Indikation-samtliga:>
+Color/<#5EA35C><Indikation (bägge uppfyllda):>
 • Medvetandesänkt
 • Lågt blodtryck
 
 Color/<#a5715a><Val 1:>
-1. Adrenalin Color/<#f40b1a><0,1 mg/ml> 1 ml i en 10 ml spruta
-2. Späd med 9 ml NaCl
-3. Ge 2 ml (20 µg) IV bolus
-4. Upprepa var 2:a min
+InternalLink/<• Adrenalin push-dose><push-dose pressor>
 
 Color/<#a5715a><Val 2:>
-• Adrenalin Color/<#f40b1a><1 mg/ml> 0,5 ml IM Color/<#0014ff><(10 µg/kg)>
-• Upprepa vid behov
+• Adrenalin Color/<#f40b1a><1 mg/ml> 0,5 ml IM
+• Upprepa efter 3 min vid behov
+
+Color/<#0014ff><Barn:>
+• Adrenalin Color/<#f40b1a><1 mg/ml> i 1 ml-spruta:
+Color/<#5EA35C><0-1 år:> 0,1 ml IM
+Color/<#5EA35C><1-5 år:> 0,15 ml IM
+Color/<#5EA35C><6-12 år:> 0,3 ml IM
 
 
 
 Title/4. Externpacing?
 Text/
-Color/<#5EA35C><Indikation-samtliga:>
+Color/<#5EA35C><Indikation (alla uppfyllda):>
 • Medvetandesänkt
 • Lågt blodtryck
-• Inget svar på adrenalin
 
 Color/<#a5715a><Åtgärd:>
 InternalLink/<• Externpacing><externpacing>
@@ -58,26 +63,34 @@ Color/<#5EA35C><Indikationer:>
 • Övriga bradykardi-utlösta symtom
 
 Color/<#a5715a><Åtgärd:>
-• Atropin 0,5 mg/ml 2 ml IV Color/<#0014ff><(20 µg/kg)>
-• Kan upprepas, sammanlagt 3 mg hos vuxna
+• Atropin 0,5 mg/ml 1-2 ml IV
+• Kan upprepas, sammanlagt 3 mg
+
+Color/<#0014ff><Barn:>
+• Atropin 0,5 mg/ml i 2 ml-spruta:
+Color/<#5EA35C><0-1 år:> 0,3 ml IV
+Color/<#5EA35C><1-5 år:> 0,6 ml IV
+Color/<#5EA35C><6-12 år:> 1,5 ml IV
 
 
 
-Title/6. Isoprenaline?
+
+Title/6. Isoprenalin?
 Text/
-Color/<#5EA35C><Indikation-samtliga:>
+Color/<#5EA35C><Indikation (bägge uppfyllda):>
 • Bradykardi-utlösta symtom
 • Inget svar på Atropin
 
 Color/<#a5715a><Åtgärd:>
-InternalLink/<• Isoprenaline infusion><sprutpump doser>
-• Börja med 0,05 µg/kg/min
+InternalLink/<• Isoprenalin infusion><sprutpump doser>
+• Börja med 0,01 µg/kg/min
+• Titreras upp snabbt till 0,15 µg/kg/min vb
 
 
 
 Title/7. Särskilda orsaker?
 Text/
-Color/<#A336C9><Överväg:>
+Color/<#a5715a><Överväg:>
 • Myokardischemi: HIA-jour 71414
 InternalLink/<• Hyperkalemi><hyperkalemi>
 InternalLink/<• Hypoglykemi><hypoglykemi>
@@ -90,10 +103,9 @@ Color/<#a5715a><Giftinfo:>
 
 
 
-
 Title/8. Transvenöspacing, PCI, ECMO?
 Text/
-Color/<#A336C9><Överväg:>
-• Transvenöspacing: HIA-jour 71414
-• PCI: HIA-jour 71414
-• ECMO: THIVA 77971
+Color/<#a5715a><Överväg:>
+Color/<#A336C9><• Transvenöspacing:> HIA-jour 71414
+Color/<#A336C9><• PCI:> HIA-jour 71414
+Color/<#A336C9><• ECMO:> THIVA-jour 77971

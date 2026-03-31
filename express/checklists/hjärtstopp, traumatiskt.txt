@@ -1,125 +1,161 @@
 Title/1. Akuta konsulter?
 Text/
-Color/<#5EA35C><Torakotomi:>
-• Thorax primärjour 71879
+Color/<#a5715a><Thorakotomi:>
+• Thorax primärjour 71679
 • Thorax Op sternumsåg 71688
 • THIVA-jour 77971
 
-Color/<#5EA35C><Gravid över 20v/fundus ovan navel:>
+Color/<#a5715a><Gravid över 20v/fundus ovan navel:>
 InternalLink/<• Förbered perimortem sectio><perimortem sectio>
 • Förlossningsjour 72501
 • Neojour 78580
 
-Color/<#0014ff><Barn:>
-InternalLink/<• HLR barn läkemedel><hlr barn lakemedel>
-• Barn IVA-jour 78484
-
-Color/<#5EA35C><Blodcentralen:>
+Color/<#a5715a><Blodcentralen:>
 • Beställ transfusionspaket 72950
 
+Color/<#0014ff><Barn:>
+InternalLink/<• Barn chock><barn chock>
+• Barn IVA-jour 78484
 
 
-Title/2. Sign-In
+
+Title/2. Sign-in
 Text/
+Color/<#a5715a><Info till teamet:>
+• Larmrapport
 • Tidigare sjukdomar/läkemedel
-• Ambulansrapport
 
-Color/<#A336C9><Akutläkare:>
+Color/<#a5715a><Teamleader:>
+• Utsiktslöst? Se "Om traumatiskt hjärtstopp"
+• Beslut om thorakotomi
+
+Color/<#a5715a><Akutläkare:>
 • Bäckengördel på brits?
-• Bilateral torakostomi
+• Bilateral thorakostomi
 • Ultraljud hjärta: tamponad, kontraktioner?
-• Blodgas femoralt +/- CVK
 
-Color/<#A336C9><Akutens sjuksköterska:>
-• Förbered Fluido
+Color/<#a5715a><Akutens sjuksköterska:>
+• Förbered Fluido med noll negativt blod
 • IO nål humerus
 
-Color/<#A336C9><Teamleader:>
-• Beslut om massiv transfusion
-• Beslut om torakotomi
+Color/<#a5715a><Narkos:>
+• Beredskap intubation / coniotomi
+• Förbered traumasug
 
 
-
-Title/3. Mekaniska åtgärder mot blödning
+Title/3a. Stoppa blödning
 Text/
-Color/<#5EA35C><Arm/ben:>
+Color/<#a5715a><Arm/ben:>
 • Tourniquet
 
-Color/<#5EA35C><Sårskada:>
+Color/<#a5715a><Sårskada:>
 • Tryckförband
 • Packa såret
 • Införa Foley och blåsa upp ballong
 
-Color/<#5EA35C><Nedre buk/bäcken/ljumske:>
-• Externkompression proximal bukaorta med knytnäve/knä
+Color/<#a5715a><Nedre buk/bäcken/ljumske:>
+• Kompression bukaorta med knytnäve/knä
 • Bäckengördel
 
 
 
-Title/4. Reversibla orsaker—LÄS HÖGT!
+Title/3b. Luftväg
 Text/
-• Är luftvägen öppen? Vad är endtidalt CO2?
-• Har vi tryckpneumothorax?
-• Har vi tamponad?
-• Slår hjärtat?
-• Ska vi påbörja blodtransfusion?
-• Ska vi göra torakotomi?
+Color/<#a5715a><Åtgärd:>
+• Tillgodose ventilation
+• Säkra luftvägen: intubation eller coniotomi
 
 
 
-Title/5. Blodtransfusion
+Title/3c. Thorakostomi
 Text/
-• Noll negativt blod varmt via Fluido (10 ml/kg)
+Color/<#a5715a><Åtgärd:>
+• Bilateral thorakostomi (skalpel + peang)
+
+Color/<#A336C9><Notera:>
+• Börja med skadad sida
+• Drän behövs ej, kan läggas till vid ev ROSC
+
+
+
+Title/3d. Blodtransfusion
+Text/
+Color/<#a5715a><SAG-Trombocyter-FFP:>
+• Noll negativt blod varmt via Fluido
 • Beställ tranfusionspaket blodcentralen 72950
 • Trombocyter ges så tidigt som möjligt (EJ via Fluido)
 • Sikta på 4 SAG:4 FFP:1 trombocyter
 
-
-
-Title/6. Läkemedel
-Text/
-Color/<#A336C9><Allmänt:>
-• Cyklokapron 2 g IV över 10 min
-• Fibrinogen (Riastap) 2 g IV
-• Vid Ca < 1,1: Kalciumglukonat 100 mg/ml 10 ml
-
 Color/<#0014ff><Barn:>
-• Cyklokapron 30 mg/kg
-• Fibrinogen 30 mg/kg
-• Kalciumglukonat 0,3 ml/kg
+• 10 ml/kg för varje dos
+InternalLink/<• Barn vikt><barn vikt>
 
-Color/<#A336C9><Antikoagulantia:>
+
+
+Title/4. Thorakotomi?
+Text/
+Color/<#5EA35C><Indikation (alla uppfyllda):>
+• Livstecken vid skadeplats
+• Pulslös på akuten
+• Pulslöshet < 15 min
+
+Color/<#f40b1a><Kontraindikationer:>
+• Asystole + ingen tamponad
+• Skador ej förenliga med överlevnad
+
+Color/<#A336C9><Från traumamanual:>
+• Color/<#A336C9><Hjärttamponad> åtgärdas genom thorakotomi på akutrummet. Nålpericardiocentes har ingen plats i behandlingen. Diagnos kan ställas med ultraljud, men det är inget krav.
+
+• Thorakotomi kan även användas för att åstadkomma intern hjärtkompression samt aortakompression vid blödningar nedom thorax. Kontraindikationer är otillräcklig kompetens för ingreppet samt att patienten saknar överlevnadschans.
+
+• Vid uppenbar Color/<#A336C9><penetrerande> bröstkorgsskada och cirkulations-stillestånd på mindre än 15 minuter ska omedelbar thorakotomi starkt övervägas.
+
+
+
+Title/5. Läkemedel
+Text/
+Color/<#a5715a><Läkemedel:>
+• Cyklokapron 2 g IV över 10 min
+• Color/<#5EA35C><Vid Ca < 1,1:> Kalciumglukonat 100 mg/ml 10 ml
+
+Color/<#a5715a><Läkemedel:>
 Color/<#5EA35C><• Waran:> Ocplex 2000 E IV + Konakion 10 mg IV
 Color/<#5EA35C><• Xarelto/Eliquis:> Ocplex 2000 E IV
 Color/<#5EA35C><• Pradaxa:> Ocplex 2000 E IV eller Praxbind 5 g IV över 5 min
 Color/<#5EA35C><• Heparin/LMWH:> Protamin sulfate 50 mg IV
 
-Color/<#A336C9><Trombocythämmare:>
-Color/<#5EA35C><• Trombyl/NSAID:> Desmopressin 15 ug/ml
-50 kg: 1 ml SC
-100 kg: 2 ml SC
+Color/<#0014ff><Barn:>
+• Cyklokapron 30 mg/kg
+• Color/<#5EA35C><Vid Ca < 1,1:> Kalciumglukonat 100 mg/ml 0,3 ml/kg
+InternalLink/<• Barn vikt><barn vikt>
 
 
 
-Title/7. Vid ROSC
+Title/6. Vid ROSC
 Text/
 Color/<#a5715a><Val:>
-• OP (vanlig OP-sal, hybridsal vid angiografi/coiling)
-• CT
-• IVA
+• OP (vanlig eller hybridsal för angiografi/coiling)
+• DT först
 
 
 
-Title/8. Avbryta återupplivning
+Title/7. Avbryta återupplivning
 Text/
-Color/<#f40b1a><Kriterium för att avbryta:>
+Color/<#5EA35C><Kriterium för att avbryta:>
 • Skador ej förenliga med överlevnad
 
-Color/<#f40b1a><Dålig prognos:>
+Color/<#5EA35C><Dålig prognos:>
 • Inga livstecken > 15 min
 
-Color/<#5EA35C><Polisen kontaktas för rättsmedicinsk obduktion:>
+Color/<#5EA35C><Rättsmedicinsk obduktion:>
 • Olyckor
 • Våld
 • Misstänkt mord eller självmord
-• Inre befäl 010-5615075
+• Inre befäl 010-5616875
+
+
+
+Title/Om traumatiskt hjärtstopp
+Text/
+Color/<#A336C9><Från traumamanual:>
+Vid skador utan överlevnadschans, till exempel mycket omfattande skador, öppna skallskador eller avsaknad av livstecken under de senaste 15 minuterna, bör man inte sätta in några åtgärder.

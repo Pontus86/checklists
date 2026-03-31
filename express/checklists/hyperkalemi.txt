@@ -7,7 +7,7 @@ K > 6,0 mmol/L + ≥ 1 av:
 • Arytmi
 
 Color/<#a5715a><Åtgärd:>
-• Kalciumglukonat 100 mg/ml 30 ml IV över 5 min Color/<#0014ff><(0,3 ml/kg)>
+• Kalciumglukonat 100 mg/ml (10%) 10 - 30 ml IV över 10 min Color/<#0014ff><(0,3 ml/kg)>
 • Upprepas efter 10 min om EKG-indikation kvarstår
 
 
@@ -19,10 +19,27 @@ Color/<#A336C9><Överväg:>
 
 
 
-Title/3. Beta-2 agonist?
+Title/3. Insulin/Glukos?
 Text/
 Color/<#5EA35C><Indikation:>
-• K > 6,5 mmol/L
+• K > 6,0 mmol/L
+
+Color/<#5EA35C><• Vid glukos över 15 mmol/L:> Aspart (Novorapid) 10 E SC
+
+Color/<#5EA35C><• Vid glukos < 15 mmol/L:> Aspart (Novorapid) 10 E i Glukos 50 mg/ml 500 ml IV över 15 min
+
+Color/<#5EA35C><• Vid risk för lungödem:> Aspart (Novorapid) 5 E i Glukos 300 mg/ml 50 ml IV via sprutpump över 15 min; upprepas en gång
+
+Color/<#5EA35C><• Vid glukos < 7 mmol/L:> ge därefter ytterligare Glukos 50 mg/ml 500 ml IV över 4 tim för att förebygga hypoglykemi
+
+Color/<#0014ff><• Till barn:> Aspart (Novorapid) 0,1 E/kg i Glukos 50 mg/ml 10 ml/kg IV över 15 min
+
+
+
+Title/4. Beta-2 agonist?
+Text/
+Color/<#5EA35C><Indikation:>
+• K > 6,0 mmol/L
 
 Color/<#a5715a><Val:>
 • Ventoline 2 mg/ml 5 ml NEB
@@ -31,21 +48,6 @@ Color/<#a5715a><Val:>
 Color/<#0014ff><Barn:>
 Color/<#5EA35C><• < 25 kg:> Ventoline 2 mg/ml 1 ml NEB
 Color/<#5EA35C><• 25-50 kg:> Ventoline 2 mg/ml 2,5 ml NEB
-
-
-
-Title/4. Insulin/Glukos?
-Text/
-Color/<#5EA35C><Indikation:>
-• K > 6,0 mmol/L
-
-Color/<#a5715a><Åtgärder:>
-• Lispro eller Aspart 10 E i Glukos 50 mg/ml 500 ml IV över 15 min
-Color/<#5EA35C><• Hyperglykemi:> ge enbart insulin IV över 15 min
-Color/<#5EA35C><• Glukos < 7 mmol/L:> ge därefter Glukos 50 mg/ml 500 ml IV över 4 tim för att förebygga hypoglykemi
-
-Color/<#0014ff><Barn:>
-• Lispro/Humalog eller Aspart/Novorapid 0,1 E/kg i Glukos 50 mg/ml 2 ml/kg IV över 15 min
 
 
 
@@ -58,32 +60,40 @@ Color/<#f40b1a><Risk:>
 • Lungödem
 
 Color/<#a5715a><Åtgärder:>
-• Natriumbikarbonat 50 mg/ml 200 ml IV
+• Natriumbikarbonat 50 mg/ml 100 ml IV
 
 
 
-Title/6. Information att inhämta
+Title/6. Kalium bindning?
 Text/
-Color/<#a5715a><Inhämta:>
-• EKG
-• MAPLES
-• Bladderscan
-• Blodgas
-Color/<#5EA35C><• Misstänkt cellsönderfall:> CK-totalt, Myoglobin
+Color/<#5EA35C><Indikation:>
+• K > 6,0 mmol/L
+
+Color/<#a5715a><Åtgärd:>
+• Lokelma 10 g PO
 
 
 
 Title/7. Diuretika?
 Text/
-Color/<#f40b1a><Kontraindikation:>
-• Avancerad njursvikt
-
 Color/<#a5715a><Åtgärd:>
-• Furix 40 mg IV med-utan 0,9% NaCl infusion
+• Furix 40-80 mg IV
+• Överväg 0,9% NaCl infusion
 
 
 
-Title/8. Hemodialys?
+
+Title/8. Övrigt
+Text/
+Color/<#a5715a><Överväg:>
+• Bladderscan
+• KAD
+• Kreatininkinas (CK) och myoglobin vid rhabdomyolys
+
+
+
+
+Title/9. Hemodialys?
 Text/
 Color/<#5EA35C><Indikationer:>
 • Livshotande hyperkalemi
@@ -94,20 +104,14 @@ Color/<#5EA35C><Indikationer:>
 
 
 
-Title/9. Kalium bindning?
-Text/
-Color/<#5EA35C><Indikation:>
-• K > 6,0 mmol/L
-
-Color/<#a5715a><Åtgärd:>
-• Lokelma 10 g x 3/dag PO
-
-
-
 
 Title/10. Vidare handläggning
 Text/
 Color/<#a5715a><Åtgärder:>
+• Lokelma 10 g PO 3 gånger dagligen
+
 • Mäta om Kalium och Glukos om 2 tim
 
-• Åtgärda orsaken till hyperkalemi (t ex seponera läkemedel, KAD)
+• Timdiures?
+
+• Åtgärda orsaken till hyperkalemi (t ex seponera läkemedel)

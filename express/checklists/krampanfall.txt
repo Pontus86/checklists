@@ -1,146 +1,118 @@
-Title/1. Halsrygg?
+Title/1. Airway
 Text/
-Color/<#5EA35C><Indikation:>
-• Trauma mot huvudet
-
-Color/<#a5715a><Åtgärd:>
-• Manuell stabilisering
-
-
-
-Title/2. Luftväg?
-Text/
-Color/<#5EA35C><Indikation:>
-• Ofri luftväg
-
-Color/<#a5715a><Val:>
+Color/<#a5715a><Vid ofri luftväg:>
 • Jaw-thrust
 • Näskantarell
 
+Color/<#a5715a><Vid trauma mot huvudet:>
+• Manuell stabilisering
+
 Color/<#A336C9><Notera:>
-• Svalgtub kan skada tänder
+• Tänder kan skadas av svalgtub vid samtidig kramp
 
 
 
-Title/3. Syrgas
+Title/2. Breathing
 Text/
 Color/<#a5715a><Åtgärd:>
 • 10-15 L/min via mask med reservoar
 
-
-
-Title/4. Ventilation?
-Text/
-Color/<#5EA35C><Indikation:>
-• Låg andningsfrekvens / tidalvolym
-
-Color/<#a5715a><Åtgärd:>
+Color/<#a5715a><Vid låg andningsfrekvens / tidalvolym:>
 • Ventilation med mask och blåsa
 • 2-person teknik
+• Överväg anestesilarm
 
 
-
-Title/5. Bensodiazepin?
+Title/3. Bensodiazepin?
 Text/
 Color/<#5EA35C><Indikation:>
-• Ihållande eller intermittenta ryckningar > 5 min
+• Ihållande/intermittenta ryckningar > 5 min
 
-Color/<#a5715a><IV:>
-• Stesolid 5 mg/ml 2 ml IV Color/<#0014ff><(0,2 mg/kg)>
+Color/<#a5715a><Val:>
+• Stesolid 5 mg/ml 2 ml Color/<#A336C9><IV>
+• Midazolam 5 mg/ml 2 ml Color/<#A336C9><IM>
 
-Color/<#a5715a><IM:>
-• Midazolam 5 mg/ml 2 ml IM Color/<#0014ff><(0,2 mg/kg)>
+Color/<#0014ff><Barn>
+• Stesolid 5 mg/ml 0,2 mg/kg Color/<#A336C9><IV>
+• Midazolam 5 mg/ml 0,2 mg/kg Color/<#A336C9><IM>
+InternalLink/<• Barn kramp><barn kramp>
 
 Color/<#A336C9><Notera:>
-• Bensodiazepin kan upprepas 1 gång
+• Bensodiazepin kan upprepas en gång 5-10 min efter första dosen vid fortsatt kramp
+• Ta hänsyn till om patienten fått benzo prehospitalt
 
 
-Title/6. Kristalloid?
+
+Title/4. Blodprov
+Text/
+Color/<#5EA35C><Som regel:>
+• Blodgas
+• Kapillärt glukos om blodgasen dröjer
+• Vita, CRP
+• Läkemedelskoncentration av antiepileptika
+• Vid misstänkt intox: riktade prov
+
+
+
+
+Title/5. Reversibla orsaker?
+Text/
+Color/<#a5715a><Åtgärder:>
+InternalLink/<• Hypoglykemi><hypoglykemi>
+InternalLink/<• Hyponatremi><hyponatremi>
+InternalLink/<• Hypokalcemi><hypokalcemi>
+InternalLink/<• Intox med Na-kanal blockad><natrium-kanalblockad>
+Color/<#A336C9><• Eklampsi:> Addex-Magnesium 1 mmol/ml 20 ml IV över 5 min
+
+
+
+Title/6. Keppra?
 Text/
 Color/<#5EA35C><Indikation:>
-• SBP < 120 mm Hg
-
-Color/<#a5715a><Åtgärd:>
-• Ringer-Acetat 500 ml IV bolus
-
-
-
-Title/7. Reversibla orsaker 1/2?
-Text/
-InternalLink/<Hypoglykemi:><hypoglykemi>
-• Glukos 300 mg/ml ≥ 20 ml IV
-• Color/<#0014ff><Glukos 50 mg/ml 4 ml/kg>
-
-InternalLink/<Hyponatremi:><hyponatremi>
-1-NaCl 250 ml + Addex-Na 4 mmol/ml 20 ml
-2-Ge hela 270 ml IV över 15 min Color/<#0014ff><(4 ml/kg)>
-
-InternalLink/<Hypokalcemi:><hypokalcemi>
-• Kalciumglukonat 100 mg/ml 10 ml IV över 5 min
-
-Color/<#5EA35C><Eklampsi:>
-• Addex-Magnesium 1 mmol/ml 20 ml IV över 5 min
-
-
-
-Title/8. Reversibla orsaker 2/2?
-Text/
-InternalLink/<Meningit:><bakteriell meningit>
-• Meronem 2 g IV
-
-InternalLink/<Encefalit:><herpesencefalit>
-• Acyclovir 10 mg/kg IV
-
-InternalLink/<Na-kanal blockad:><natrium-kanalblockad>
-• NaHCO3 50 mg/ml 200 ml IV bolus Color/<#0014ff><(3 ml/kg)>
-
-Color/<#5EA35C><Isoniazid intox:>
-• Pyridoxin 5 g IV över 10 min
-
-
-
-Title/9. Keppra?
-Text/
-Color/<#5EA35C><Indikation:>
-• Haft ihållande/intermittenta ryckningar > 5 min
-• Ges även om patienten svarat på Benso
+• Kramper trots Benso dos #1
 
 Color/<#a5715a><Åtgärd:>
 • Keppra (Levetiracetam) 60 mg/kg (max 4,5 g) IV över 10 min
 
+Color/<#A336C9><Notera:>
+• Påbörjas inom 20-30 min från anfallsstart
+• Kan ges (halv eller fulldos) även om patienten redan tar Keppra
 
 
-Title/10. Propofol?
+
+Title/7. Anestesilarm & Propofol?
 Text/
 Color/<#5EA35C><Indikation:>
-• Ihållande ryckningar trots Benso
-
-Color/<#a5715a><Åtgärd:>
-• Propofol 1 mg/kg IV över 30 sek
-
-
-
-Title/11. Djupsedering och intubation?
-Text/
-Color/<#5EA35C><Indikation:>
-• Ihållande ryckningar trots ovan behandling
+• Ihållande kramper > 20-30 minuter trots behandling
 
 Color/<#a5715a><Åtgärder:>
-1. Propofol 2-5 mg/kg IV över 5 min
-2. Endotrakeal intubation
-3. Propofol 0,1 mg/kg/min IV
+• Anestesilarm
+• Propofol tills anfallsfrihet (0,5 - 1 mg/kg)
+• Beredskap att hantera luftvägen
+
+Color/<#A336C9><Notera:>
+• Mindre doser Esketamine 0,5 mg/kg eller Propofol 0,5 mg/kg kan ges som "bro" tills att Keppra fått effekt
 
 
 
-Title/12. Vidare vård
+
+Title/8. Övriga tillstånd att överväga
 Text/
-Color/<#a5715a><Åtgärder:>
-• Nivåer av antiepileptiska läkemedel (Remiss Klinisk kemi och farmakologi, L10 L19)
+Color/<#a5715a><Överväg:>
+Color/<#A336C9><• Alkoholabstinens:> Tiamin 200 mg IV
+InternalLink/<• Meningoencefalit><bakteriell meningit>
+InternalLink/<• Intoxikation><intox allmänt>
 
-• Behandla InternalLink/<hypertermi><hypertermi> om den föreligger
 
-Color/<#5EA35C><• Alkoholabstinens/undernärd:> Tiamin 300 mg IV
+Title/9. Vidare vård
+Text/
+Color/<#a5715a><DT-hjärna vid:>
+• Förstagångs anfall
+• Skalltrauma
 
-Color/<#5EA35C><• Första krampanfall eller skalltrauma:> DT-hjärna
+Color/<#a5715a><Fortsatt kramp:>
+• Överväg tillägg av andra preparat, t ex Ergenyl (Valproat) 40 mg/kg max 3g IV över 10 min
 
-Color/<#5EA35C><• Icke-konvulsivt status eller fått neuromuskulär blockad:> EEG
+Color/<#a5715a><Överväg EEG vid:>
+• Icke-konvulsivt status
+• Fått neuromuskulär blockad

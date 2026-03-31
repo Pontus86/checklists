@@ -1,87 +1,90 @@
 Title/1. Hyper- hypokalemi?
 Text/
+Color/<#a5715a><Handläggning:>
 InternalLink/<• Hyperkalemi><hyperkalemi>
-
 InternalLink/<• Hypokalemi><hypokalemi>
+
+Color/<#A336C9><Notera:>
+• Hyperkalemi + SVT kan ge regelbunden takykardi med breda QRS-komplex
+• OBS: vid svår hyperkalemi kan amiodarone orsaka asystole
+• Hypokalemi kan utlösa VT
+
 
 
 
 Title/2. Intox natrium-kanalblockad?
 Text/
+Color/<#a5715a><Handläggning:>
 InternalLink/<• Intox natrium-kanalblockad><natrium-kanalblockad>
 
-
-
-Title/3. VT?
-Text/
-Color/<#A336C9><VA dissociation bekräftar VT:>
-• P vågor oberoende av QRS-komplex
-• Capture beat, fusion beat
-
-Color/<#A336C9><Talar för VT:>
-• Positiv konkordans: QRS positiva V1-V6
-• Negativ konkordans: QRS negativa V1-V6
-• Extrem axel: QRS negativa in I och aVF
-• QRS > 160 msec
-• RS > 100 msec i ≥ 1 av V1-V6 
-InternalLink/<• VT vs SVT><vt vs svt>
-
-Color/<#A336C9><Talar för SVT med grenblock:>
-• Tidigare EKG: grenblock med samma QRS-mönster
+Color/<#A336C9><Notera:>
+• Intox med natrium-kanalblockad + SVT kan ge regelbunden takykardi med breda QRS-komplex
+• OBS: i detta sammanhang kan amiodarone orsaka asystole
 
 
 
-Title/4. Akut elkonvertering?
+Title/3. Akut elkonvertering?
 Text/
 Color/<#5EA35C><Indikation:>
 Misstänkt VT och ≥ 1 av:
 • Hypoxemi
-• Chock
+• Hypotension
 • Medvetandesänkning
 
 Color/<#a5715a><Åtgärd:>
 InternalLink/<• Elkonvertering><elkonvertering>
 
-Color/<#A336C9><Notera:>
-• Bäst att bekräfta VA-dissociation innan elkonvertering
+
+
+Title/4. VT vs SVT?
+Text/
+Color/<#A336C9><Talar för VT:>
+InternalLink/<• VT vs SVT><VT vs SVT>
+
+Color/<#A336C9><Talar för SVT med grenblock:>
+• Samma QRS-mönster på tidigare EKG med sinus
 
 
 
 Title/5. Lewis Lead?
 Text/
 Color/<#5EA35C><Indikation:>
-• Identifiera VA-dissociation genom att tydliggöra P-vågor
+• Identifiera VA-dissociation
 
 Color/<#a5715a><Åtgärd:>
 InternalLink/<• Lewis lead><lewis lead>
 
+Color/<#A336C9><Notera:>
+• VA-dissociation bekräftar VT
+• Det är önskvärt att säkerställa diagnosen för adekvat vidare handläggning
+ 
 
 
 Title/6. Esofagus-EKG?
 Text/
 Color/<#5EA35C><Indikation:>
-• Identifiera VA-dissociation genom att tydliggöra P-vågor
+• Identifiera VA-dissociation
 
 Color/<#a5715a><Åtgärd:>
 InternalLink/<• Esofagus-EKG><esofagus-EKG>
+
+Color/<#A336C9><Notera:>
+• VA-dissociation bekräftar VT
+• Det är önskvärt att säkerställa diagnosen för adekvat vidare handläggning
 
 
 
 Title/7. Handläggning misstänkt VT
 Text/
-Color/<#a5715a><Val:>
-• Amiodaron 300 mg i Glucose 50 mg/ml 250 ml IV över 30 min
-InternalLink/<• Elkonvertering><elkonvertering>
-
-Color/<#a5715a><Vidare handläggning:>
-• Inläggning HIA/arytmi med telemetri
-• HIA-jour 71414
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Ventrikeltakykardi><ventrikeltakykardi>
 
 
 
 Title/8. Handläggning misstänkt SVT/AVRT
 Text/
-• Se InternalLink/<Takykardi regelbunden + smal QRS><takykardi regelbunden + smal QRS>
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Takykardi reg + smal qrs><takykardi reg + smal qrs>
 
 
 
@@ -97,6 +100,3 @@ Color/<#A336C9><Differentialdiagnos:>
 - Intox natrium-kanalblockad
 
 • AVRT antidrom
-
-Color/<#A336C9><Notera:>
-• Bäst för patient att bekräfta om VA-dissociation föreligger: kan avgöra om patienten får ICD

@@ -1,29 +1,16 @@
-Title/1. Svår agitation?
+Title/1. ABC-rubbning
 Text/
-Color/<#5EA35C><Indikation för akut sedering:>
-• Svårt sjuk + svårt agiterad
-
-Color/<#a5715a><Val IM:>
-• Midazolam 5 mg/ml 1 ml IM
-• Ketanest 25 mg/ml 5 ml IM
-
-Color/<#a5715a><Val IV:>
-• Diazepam 5 mg/ml 1 ml IV över 1 min
-• Ketanest 5 mg/ml 5 ml IV över 1 min
-
-Color/<#A336C9><Notera:>
-• Midazolam IM: 10 min till effekt
-• Ketanest IM: 5 min till effekt
-
-• Diazepam IV: 2 min till effekt
-• Ketanest IV: 1 min till effekt
-
+Color/<#a5715a><Uteslut följande rubbningar:>
+• hypoxi
+• hyperkapné
+• hypotoni
+• bradykardi
 
 
 Title/2. Glukos?
 Text/
+Color/<#a5715a><Åtgärder:>
 InternalLink/<• Hypoglykemi><hypoglykemi>
-
 InternalLink/<• Hyperglykemi><hyperglykemi>
 
 
@@ -47,51 +34,54 @@ Color/<#A336C9><Mål:>
 
 Title/4. Natrium?
 Text/
-Color/<#5EA35C><Indikation:>
-• Na < 120 + medvetslös/somnolent
-
-Color/<#a5715a><Tillverka NaCl 3%:>
-• NaCl 0,9% 250 ml
-• Tillsätt Addex-Natrium 4 mmol/ml 20 ml
-
-Color/<#a5715a><Administera NaCl 3%:>
-• Ge hela 270 ml IV över 15 min Color/<#0014ff><(4 ml/kg)>
-• Upprepa mätning av Na
-• Mål: höja Na med 5 mmol/L
-• Ge ytterligare NaCl 3% 270 ml IV vb
-
-Se även InternalLink/<Hyponatremi><hyponatremi>
+Color/<#a5715a><Åtgärder:>
+InternalLink/<• Hyponatremi><hyponatremi>
+InternalLink/<• Hypernatremi><hypernatremi>
 
 
 
-Title/5. Status epilepticus?
+Title/5. Krampanfall?
 Text/
-Color/<#5EA35C><Misstänkt partiellt eller icke-konvulsivt status:>
-Överväg följande:
-• Diazepam 10 mg IV Color/<#0014ff><(0,2 mg/kg)> 
-• Keppra (Levetiracetam) 60 mg/kg IV över 10 min 
-• Propofol 0,5 mg/kg IV
-• Mät koncentration av anti-epileptiska läkemedel
+Color/<#5EA35C><Indikation:>
+• Misstänkt partiellt eller icke-konvulsivt status
 
-Se även InternalLink/<Krampanfall><krampanfall>
+Color/<#a5715a><Överväg:>
+• Diazepam 5-10 mg IV
+InternalLink/<• Krampanfall><krampanfall>
+
+Color/<#0014ff><Barn:>
+• Diazepam 0,1-0,2 mg/kg
+InternalLink/<• Barn kramp><barn kramp>
 
 
 
 Title/6. Meningoencefalit?
 Text/
+Color/<#a5715a><Åtgärder:>
 InternalLink/<• Bakteriell meningit><bakteriell meningit>
-
 InternalLink/<• Herpesencefalit><herpesencefalit>
 
 
 
 Title/7. Sepsis?
 Text/
+Color/<#a5715a><Åtgärder:>
 InternalLink/<• Sepsis><sepsis>
 
 
 
-Title/8. Wernickes encefalopati?
+Title/8. Stroke?
+Text/
+Color/<#5EA35C><Indikation:>
+• Fokala bortfall
+
+Color/<#a5715a><Överväg:>
+• Rädda hjärna-larm
+• InternalLink/<Ökat intrakraniellt tryck><ökat intrakraniellt tryck>
+
+
+
+Title/9. Wernickes encefalopati?
 Text/
 Color/<#5EA35C><Kan föreligga vid ≥ 2 av:>
 • Näringsbrist (kronisk alkohol, gastric bypass, ätstörning)
@@ -99,66 +89,63 @@ Color/<#5EA35C><Kan föreligga vid ≥ 2 av:>
 • Cerebellär dysfunktion
 • Medvetanderubbning/minnesstörning
 
-Color/<#a5715a><Åtgärder:>
-• Tiamin 300 mg IV
-Color/<#5EA35C><• Uttalad nystagmus, ataxi eller konfusion:> Addex-Magnesium 1 mmol/ml 20 ml i NaCl 0,9% 500 ml IV över 30 min
+Color/<#a5715a><Åtgärd:>
+• Tiamin 500 mg IV
+
+Color/<#a5715a><Vid uttalad nystagmus, ataxi eller konfusion:>
+• Addex-Magnesium 1 mmol/ml 20 ml i NaCl 0,9% 500 ml IV över 30 min
 
 
 
-Title/9. Övriga rubbningar?
+Title/10. Övriga rubbningar?
 Text/
+Color/<#a5715a><Åtgärder:>
+InternalLink/<• Ökat intrakraniellt tryck><ökat intrakraniellt tryck>
 InternalLink/<• Hyperkalcemi><hyperkalcemi>
-
 InternalLink/<• Addisonkris><addisonkris>
-
-InternalLink/<• Myxödemkoma><myxodemkoma>
-
-InternalLink/<• Spontan bakteriell peritonit><spontan bakteriell peritonit>
+InternalLink/<• Myxödemkoma><myxödemkoma>
+InternalLink/<• Leverencefalopati><leverencefalopati>
 
 
 
-Title/10. Endotrakeal intubation?
+Title/11. Endotrakeal intubation?
 Text/
 Color/<#5EA35C><Indikation:>
 • Djup medvetandesänkning utan snabb reversibel orsak
 
 
 
-Title/11. DT-hjärna?
+Title/12. DT-hjärna?
 Text/
 Color/<#5EA35C><Indikationer:>
 • Fokala bortfall
 • Ingen annan uppenbar orsak till medvetanderubbning
 
-Color/<#A336C9><Överväg:>
-• DT-hjärna: blödning, ischemi?
-• DT-angiografi halskärl + intrakraniella kärl: dissektion, ocklusion?
-• DT-perfusion vid potentiell trombolys/trombektomi
-• DT-angiografi venösfas vid misstänkt sinustrombos
+Color/<#a5715a><Överväg:>
+Color/<#A336C9><• DT-hjärna + DT-angiografi halskärl + intrakraniella kärl:> blödning, ischemi, dissektion, ocklusion?
+Color/<#A336C9><• DT-perfusion> vid potentiell trombolys/trombektomi
+Color/<#A336C9><• DT-angiografi venösfas> vid misstänkt sinustrombos
+
+
 
 Title/Om medvetanderubbning
 Text/
 Color/<#A336C9><MEDVETS-Strul:>
 Color/<#5EA35C><Metabol:>
-• Wernickes encefalopati
-• Hepatisk encefalopati
-• Uremisk encefalopati
-• Urinretention
+• Wernickes encefalopati, hepatisk encefalopati
+• Uremisk encefalopati, urinretention
 
 Color/<#5EA35C><Elektrolyter/Endokrin:>
 • Na, Ca
-• Addisonkris
-• Myxödemkoma
+• Addisonkris, myxödemkoma
 
 Color/<#5EA35C><Diabetes:>
 • Hypoglycemi
-• DKA
-• HHS
+• DKA, HHS
 
 Color/<#5EA35C><Viral encefalopati - bakteriell meningit:>
-• Herpesencefalit
+• Herpesencefalit, övriga encefaliter
 • Bakteriell meningit
-• Övrigt encefaliter (t ex NMDAR-encefalit, limbisk encefalit)
 
 Color/<#5EA35C><Epileptiskt anfall:>
 • Icke-konvulsiv status epilepticus

@@ -1,9 +1,37 @@
-Title/1. Vätska?
+Title/1. Överväg annan orsak till chock
 Text/
-Color/<#5EA35C><Indikation:>
-• Om patienten samtidigt är hypovolem
+Color/<#a5715a><Indikation:>
+• Patient kan ha perikardvätska och hypotension utan hjärttamponad
+
+Color/<#a5715a><Åtgärder:>
+• PoCUS: högerkammaren kollaberar under diastole som tecken på tamponad?
+• Överväg övriga orsaker till chock/InternalLink/<hypotension><hypotension>
+
+
+
+Title/2. Larma
+Text/
+• Thorax primärjour 71679
+• HIA-jour 71414
+
+
+
+Title/3. Urakut perikardiocentes?
+Text/
+Color/<#a5715a><Indikation:>
+• Medvetandeförlust (hjärtstopp)
 
 Color/<#a5715a><Åtgärd:>
+• InternalLink/<Perikardiocentes><perikardiocentes> på akutrummet
+
+
+
+Title/4. Vätska
+Text/
+Color/<#a5715a><Indikation:>
+• I väntan på definitiv åtgärd
+
+Color/<#a5715a><Vuxna:>
 • Ringer-Acetate 500 ml IV bolus
 
 Color/<#0014ff><Barn:>
@@ -11,25 +39,36 @@ Color/<#0014ff><Barn:>
 
 
 
-Title/2. Pericardiocentes?
+Title/5. Vasopressor?
 Text/
-Color/<#5EA35C><Indikationer:>
-• Medicinsk tamponad där perikardvätskan har gradvis samlats
-• Kirurgisk tamponad om torakotomi ej aktuellt eller som bro till torakotomi
+Color/<#a5715a><Indikation:>
+• Fortsatt allvarlig hypotension
 
-Color/<#a5715a><Åtgärd:>
-• InternalLink/<Perikardiocentes><perikardiocentes>
+Color/<#0014ff><Vasopressor:>
+• InternalLink/<Push-dose pressor><push-dose pressor>
+• InternalLink/<Sprutpump doser><Sprutpump doser>
 
 
 
-Title/3. Akut torakotomi?
+
+Title/6. Orsak till perikardvätska?
 Text/
-Color/<#5EA35C><Indikation:>
 Kirurgisk tamponad, t ex:
 • Posttraumatisk perikardtamponad
 • Aortadissektion
 • Hjärtmuskelruptur
 
-Color/<#a5715a><Åtgärd:>
-• 71879-Primärjour thorax
-• 71688-Thorax Op sternumsåg
+Medicinsk tamponad, t ex:
+• Perikardit
+• Malignitet
+• Njursvikt
+
+
+
+Title/7. Vidare handläggning
+Text/
+Color/<#5EA35C><Val:>
+• Perikardiocentes på angiolab
+• Thorakotomi på OP
+• DT-aorta om patienten är tillräckligt stabil
+• Echocardiografi

@@ -9,70 +9,70 @@ Color/<#a5715a><Åtgärd:>
 
 Title/2. Blodprov
 Text/
-Color/<#a5715a><Åtgärd:>
+Color/<#5EA35C><Som regel:>
+• Blodgas
 • Vita, Diff, CRP
 • Trombocyter, PK, aPTT
 
 
 
-Title/3. Betapred
-Text/
-Color/<#a5715a><Åtgärd:>
-• Betapred 8 mg IV Color/<#0014ff><(0,12 mg/kg)>
-
-
-
-Title/4. LP?
+Title/3. Akut LP?
 Text/
 Color/<#f40b1a><Kontraindikationer LP generellt:>
-• Trombocyter < 30
-• PK > 1,6
-• Behandling med Waran, DOAC, Plavix, Clopidogrel
+• Känd trombocyter < 30 eller misstanke därom
+• Känd PK > 1,6 eller misstanke därom
+• Behandling med Waran, DOAC, Klopidogrel
 • Känd koagulopati (hemofili, von Willebrand)
 • Infektion på insticksstället
 
 Color/<#f40b1a><Kontraindikationer LP före DT-hjärna:>
-• Medvetslös eller snabb sjunkande medvetandegrad
-• Epileptiskt anfall (generell/fokal) inom 1 tim
+• Medvetslös/snabb sjunkande medvetandegrad
+• Pågående kramper av epileptisk natur
 • Central CNS bortall (hemipares, hemianopsi)
 
 
 
-Title/5. Aciklovir
+Title/4. Aciklovir
 Text/
-Color/<#5EA35C><Indikation:>
-• Ges även om LP inte kan utföras direkt
-• Ges Color/<#A336C9><före> ev DT-hjärna
-
-
-Color/<#a5715a><Ätgärd:>
+Color/<#a5715a><Åtgärd:>
 • Aciklovir 10 mg/kg IV
 
+Color/<#A336C9><Notera:>
+• Vid potentiell herpescenfalit ges aciklovir även om LP inte kan utföras direkt och före DT-hjärna
 
 
-Title/6. Antibiotika?
+
+Title/5. Betapred och antibiotika?
 Text/
 Color/<#5EA35C><Indikation:>
-• Potentiell bakteriell meningit
-• Ges inom 15 min oavsett om LP kan utföras
+• Så länge bakteriell meningit inte utesluten
 
-Color/<#a5715a><Val:>
+Color/<#a5715a><Betapred:>
+• Betapred 8 mg IV Color/<#0014ff><(0,12 mg/kg)>
+
+Color/<#a5715a><Antibiotika-val:>
 • Meronem 2 g IV
 • Cefotaxim 3 g IV + Ampicillin 3 g IV
 
+Color/<#A336C9><Notera:>
+• Ges inom 15 min oavsett om LP kan utföras
 
 
-Title/7. DT-hjärna
+
+Title/6. DT-hjärna
 Text/
 Color/<#5EA35C><Indikation:>
 • På liberala grunder efter påbörjad behandling
 
 
 
-Title/8. Planering för LP?
+Title/7. Vidare vård
 Text/
-Color/<#5EA35C><Indikation:>
-• LP bör helst genomföras inom 1-2 tim av antibiotika
+Color/<#5EA35C><Inläggning:>
+• Inläggning på infektion, AVA eller IVA
+
+Color/<#5EA35C><Fördröjd LP:>
+• Om akut LP inom genomfört: ställningstagande till LP inom 1-2 tim av antibiotika
 
 
 
@@ -88,9 +88,3 @@ Color/<#5EA35C><Följande stödjer diagnos:>
 • Feber inom 72 timmar av symtomdebut
 • Fokalneurologi
 • Krampanfall
-
-
-
-Title/Medvetanderubbning
-Text/
-InternalLink/<• Övriga orsaker till medvetanderubbning><medvetanderubbning>

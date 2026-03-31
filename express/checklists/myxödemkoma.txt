@@ -1,38 +1,38 @@
 Title/1. Blodprov
 Text/
 Color/<#5EA35C><Som regel:>
-• ACTH
-• Kortisol
-• TSH
-• T4
+• Blodgas, Vita, CRP
+• ACTH & kortisol
+• TSH & T4
 
 Title/2. Initial behandling
 Text/
 Color/<#a5715a><Åtgärder:>
 • Solucortef 100 mg IV
-• Piperacillin-Tazobaktam 4 IV
-• Levotyroxin 300 µg IV späd i NaCl 0,9%
+
+• Levotyroxin 200 µg IV späd i NaCl 0,9%
+
+• Överväg antibiotika (myxödemkoma kan vara utlöst av infektion)
 
 Color/<#A336C9><Notera:>
-• Vid utebliven tillgång till Levotyroxin IV ges 1 mg av krossade Levaxin via V-sond
+• Vid avsaknad av Levotyroxin IV ges Levaxin 200 µg krossade via V-sond
 
 
 
 Title/3. Vidare behandling
 Text/
 • Inläggning AMA (IVA)
+
 • Endokrin konsult
 
-Se även InternalLink/<Medvetanderubbning><medvetanderubbning>
+• Överväg övriga orsaker till InternalLink/<medvetanderubbning><medvetanderubbning>
 
 
 
 Title/Om myxödemkoma
 Text/
 Color/<#5EA35C><Sammanhang:>
-• Äldre patient med känd hypotyreoidism som
-• slutat ta Levaxin; eller
-• varit utsatt för infektion, skada, myokardischemi, kirurgi, stroke, kyla, opioider
+• Äldre patient med känd hypotyreoidism som slutat ta Levaxin eller varit utsatt för infektion, skada, myokardischemi, kirurgi, stroke, kyla, opioider
 
 Color/<#5EA35C><Airway:>
 • Ärr från tyreoideakirurgi?

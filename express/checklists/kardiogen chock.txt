@@ -9,22 +9,37 @@ Color/<#a5715a><Val:>
 
 
 
-Title/2. Riktade åtgärder
+Title/2. Larm
+Text/
+• HIA-jour 71414
+
+
+
+Title/3. Riktade åtgärder?
 Text/
 InternalLink/<• STEMI-OMI><stemi-omi>
+
 InternalLink/<• Bradykardi><bradykardi>
+
 InternalLink/<• Hyperkalemi><hyperkalemi>
-InternalLink/<• Intox kalciumantagonist betablockerare><kalciumantagonist - betablockerare>
-Color/<#5EA35C><• Takykardi:> Överväg elkonvertering
-Color/<#5EA35C><• Papillärmuskelruptur> HIA 71414 (akut echo?) Thorax 71879 (akut OP?)
-Color/<#5EA35C><• Kardiotoxiskt läkemedel:> Intralipid 200 mg/ml 100 ml IV över 1 min Color/<#0014ff><(1,5 ml/kg)>
 
-Color/<#A336C9><Notera:>
-• Lipofila läkemedel toxiska för myokardiet inkluderar tricycliska antidepressiva, Verapamil, Cardizem, Propranolol, Atenolol, Metoprolol, Tegretol
+InternalLink/<• Malignt takykardi><elkonvertering>
 
+Color/<#5EA35C><• Mekaniskt hjärtfel (t ex papillarmuskelruptur, hjärttamponad)>
+- HIA 71414 (akut echo?)
+- Thorax 71879 (akut OP?)
 
 
-Title/3. Noradrenalin?
+
+Title/4. Intox?
+Text/
+InternalLink/<• Kalciumantagonist eller betablockerare><kalciumantagonist - betablockerare>
+
+Color/<#5EA35C><• Tricykliska antidepressiva eller Tegretol:> Intralipid 200 mg/ml 100 ml IV över 1 min Color/<#0014ff><(1,5 ml/kg)>
+
+
+
+Title/5. Noradrenalin?
 Text/
 Color/<#5EA35C><Indikation:>
 • SBP < 85 mm Hg
@@ -35,21 +50,21 @@ InternalLink/<• Noradrenalin infusion><sprutpump doser> 0,1 µg/kg/min, titrer
 
 
 
-Title/4. Dobutamin?
+Title/6. Dobutamin?
 Text/
 Color/<#5EA35C><Indikation:>
 • Dålig cardiac output efter korrigering av MAP
 
 Color/<#a5715a><Åtgärd:>
-InternalLink/<• Dobutamin infusion><sprutpump doser> 2.5 - 20 µg/kg/min
+InternalLink/<• Dobutamin infusion><sprutpump doser> 2,5 - 20 µg/kg/min
 
 
 
-Title/5. Mekaniskt stöd?
+Title/7. Mekaniskt stöd?
 Text/
 Color/<#5EA35C><Indikation:>
 • IABP, Impella eller ECMO kan vara en "bro" tills spontan förbättring eller kirurgi
 
 Color/<#a5715a><Åtgärd:>
-• HIA jour 71414
+• HIA 71414
 • THIVA 77971

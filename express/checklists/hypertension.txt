@@ -1,0 +1,92 @@
+Title/1. Myokardischemi?
+Text/
+Color/<#a5715a><Åtgärder:>
+InternalLink/<• Nitroglycerin infusion><sprutpump doser>
+• Tillägg vid behov av beta-blockerare IV:
+- Seloken 1 mg/ml 5 ml IV
+- Trandate (Labetalol) 5 mg/ml 4 ml IV
+
+
+
+Title/2. Hypertensiv lungödem?
+Text/
+Color/<#a5715a><Länk:>
+InternalLink/<• Lungödem><lungödem>
+
+
+
+Title/3. Aortadissektion?
+Text/
+Color/<#a5715a><Länk:>
+InternalLink/<• Aortadissektion><aortadissektion>
+
+
+
+Title/4. Gravid > 20 veckor eller < 4 veckor postpartum?
+Text/
+Color/<#5EA35C><Indikationer:>
+• SBP > 160 mm Hg
+• DBP > 110 mm Hg
+
+Color/<#a5715a><Åtgärder:>
+• Trandate (Labetalol) 5 mg/ml 4 ml IV över 2 min
+• Addex-Magnesium 1 mmol/ml 20 ml IV över 5 min
+• Blodgas, trombocyter, pK, aPTT, leverprov, urinsticka
+• Kontakta gynjour
+
+Color/<#a5715a><Blodtrycksmål:>
+• SBT 130-150 mm Hg
+• DBP 80-110 mm Hg
+• Max MAP minskning 25% över första 2 timmar
+
+Color/<#a5715a><Vid otillräcklig BT-sänkning:>
+• Trandate (Labetalol) 5 mg/ml 4 ml IV till, sedan 8 ml, sedan 16 ml IV var 10 min över 2 min vb
+
+Color/<#A336C9><Notera:>
+• Labetalol för att förebygga stroke, hjärtsvikt mm
+• Magnesium för att förebygga krampanfall
+
+
+
+
+Title/5. Intox sympatomimetika?
+Text/
+Color/<#a5715a><Åtgärder:>
+• Stesolid 5 mg IV, upprepa vid behov
+• Om otillräckligt: InternalLink/<Nitroglycerin infusion><sprutpump doser>
+
+Color/<#a5715a><Om agiterad - aggressiv:>
+• Se InternalLink/<agiterad-aggressiv><agiterad - aggressiv>
+
+Color/<#A336C9><Notera:>
+• Traditionellt rekommenderas att undvika beta-blockerare i detta sammanhang
+
+
+
+Title/6. Neurologiskt tillstånd?
+Text/
+Color/<#5EA35C><Indikation:>
+• Spontan intrakraniell blödning inkl SAH
+• Ischemisk stroke, Actilys-kandidat
+
+Color/<#a5715a><Åtgärd:>
+• Trandate (Labetalol) 5 mg/ml 4 ml IV över 2 min
+
+Color/<#a5715a><Blodtrycksmål:>
+• SBT < 185 mm Hg
+• DBT < 110 mm Hg
+
+Color/<#a5715a><Vid otillräcklig BT-sänkning:>
+• Trandate (Labetalol) 5 mg/ml 4-16 ml IV var 10 min över 2 min vb
+
+Color/<#A336C9><Vidare vård:>
+• Vid intrakraniell blödning är målet SBP < 140 - 180 mm Hg
+• Vid ischemisk stroke, ej Actilys-kandidat: BP minskning med 15% över 24 tim om SBP > 220 eller DBP > 120
+
+
+
+Title/Om hypertension
+Text/
+Color/<#A336C9><• Hypertensiv kris> definieras som kraftigt förhöjt blodtryck i kombination med tecken eller symtom på akut, pågående skada till hjärna, hjärta, lungor, aorta och njurar
+
+Color/<#A336C9><• Asymtomatiskt kraftigt förhöjt blodtryck> definieras som kraftigt förhöjt blodtryck utan tecken eller symtom på akut, pågående organskada

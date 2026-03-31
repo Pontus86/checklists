@@ -1,8 +1,8 @@
 Title/1. Larm?
 Text/
 Color/<#a5715a><Val:>
+• Luftvägslarm
 • ÖNH 71061
-• Anestesilarm 77900
 
 
 
@@ -12,22 +12,29 @@ Color/<#a5715a><Åtgärder:>
 • Låt patienten sitta, "sniffing position"
 • Undvik direkt undersökning av svalget
 • Syrgas mask 10 L/min
-• Beredskap för fiberlaryngoskopi, intubation, InternalLink/<coniotomi><coniotomi> eller jet ventilation
+
+Color/<#a5715a><Beredskap för:>
+• Fiberlaryngoskopi
+• Intubation
+• InternalLink/<Coniotomi><coniotomi>
+• Jet ventilation
 
 
 
 Title/3. Fiberlaryngoskopi
 Text/
 Color/<#a5715a><Åtgärder:>
-1. Bedöv nasofarynx med Lidokain/Nafazolin (luftvägsvagn, övre lådan)
-2. Applicera Clear-Vue linsmedel (luftvägsvagn, övre lådan)
+1. Bedöva nasofarynx med Lidokain/Nafazolin
+2. Applicera Clear-Vue linsmedel
 
+Color/<#A336C9><Notera:>
+Preparat finns i luftvägsvagn, övre lådan
 
 
 Title/4. Endotrakeal intubation?
 Text/
 Color/<#5EA35C><Faktorer vid beslut:>
-• Graden av inflammation av epiglottis
+• Graden av epiglottis-inflammation
 • Kliniskt förlopp under senaste 5 timmar
 • Immunbrist, diabetes
 
@@ -46,16 +53,18 @@ Title/6. Inläggning
 Text/
 Color/<#a5715a><Val:>
 • IVA
-• AVA med tätt övervakning/intubationsberedskap
+• IMA
+
+• Tät övervakning, intubationsberedskap
 
 
 
 Title/Om epiglottit
 Text/
-Color/<#A336C9><Symtom:>
+Symtom som förekommer vid epiglottit:
 • Dyspné
 • Dysfoni (dämpad röst)
-• Dregel (talar för hotande förlust av luftväg)
+• Dregling (hotande luftväg)
 • Dysfagi + ont i halsen
 • Stridor
 • Feber (saknas hos 50% av vuxna)

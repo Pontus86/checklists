@@ -19,25 +19,25 @@ Color/<#a5715a><Åtgärder:>
 
 Title/3. Blodprov
 Text/
-Color/<#a5715a><Att ta:>
+Color/<#5EA35C><Som regel:>
+• Blodgas, Vita, CRP
 • Kortisol
 • ACTH
 • TSH
 • T4
 
+Color/<#A336C9><Notera:>
+• Om blodprov inte kan dras ges kortikosteroider utan dröjsmål
 
 
-Title/4. Kortikosteroider
+
+Title/4. Solu-Cortef
 Text/
-Color/<#a5715a><Val:>
+Color/<#a5715a><Vuxna:>
 • Solu-Cortef 100 mg IV
-• Betapred 4 mg/ml 2 ml IV
 
 Color/<#0014ff><Barn:>
 • Solu-Cortef 2 mg/kg IV
-
-Color/<#A336C9><Notera:>
-• Betapred påverkar inte plasma-kortisolnivå och tolkning av Synacthen vid odiagnostiserad Addisons sjukdom
 
 
 
@@ -49,7 +49,7 @@ Color/<#5EA35C><Indikation:>
 Color/<#a5715a><Åtgärder:>
 • Blododlingar x 2
 • Urinodling
-• Bredspektrum A-Bx t ex Pip-Taz 4 g IV
+• Bredspektrum t ex Pip-Taz 4 g IV
 • Source control (se InternalLink/<Sepsis><sepsis>)
 
 
@@ -57,12 +57,10 @@ Color/<#a5715a><Åtgärder:>
 Title/6. Vasopressor?
 Text/
 Color/<#5EA35C><Indikation:>
-• Kvarstående lågt blodtryck - chock trots Ringer-Acetat
+• Kvarstående lågt blodtryck - chock
 
-Color/<#a5715a><Åtgärd:>
-• Noradrenalin 1 mg/ml 2 ml + 48 ml NaCl
-• Start 0,1 µg/kg/min
-• Bolus 10 µg
+Color/<#a5715a><Noradrenalin:>
+• InternalLink/<Sprutpump doser><sprutpump doser>
 
 
 
@@ -71,14 +69,14 @@ Title/7. Vidare handläggning
 Text/
 Color/<#a5715a><Åtgärder:>
 • Inläggning på AVA (IVA)
-• Solu-Cortef 100 mg IV var 6:e tim eller Betapred 8 mg varje dygn
+• Solu-Cortef 50 mg IV var 6:e tim
 
 
 
 Title/Om Addisonkris
 Text/
 Color/<#A336C9><Sammanhang:>
-• Addison avslöjs ofta vid infektion
+• Addisonkris utlöses ofta av infektion
 
 Color/<#A336C9><Symtom:>
 • buksmärta

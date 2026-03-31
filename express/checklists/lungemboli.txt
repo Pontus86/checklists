@@ -1,18 +1,30 @@
 Title/1. Hjärtstopp?
 Text/
 Color/<#a5715a><Åtgärder:>
-• 50000 + HLR
+• Hjärtstoppslarm
 • Adrenalin 0,1 mg/ml 10 ml IV bolus
 • Actilys 50 mg IV bolus
-• ECMO? THIVA 77971
-• Actilys 50 mg upprepas efter 15 min
+• ECMO? THIVA-jour 77971
+• Actilys 50 mg IV bolus kan upprepas efter 15 min
 
 Color/<#A336C9><Notera:>
 • Fallrapport återställda patienter efter 90 min HLR
 
 
 
-Title/2. Syrgas?
+Title/2. Larm?
+Text/
+Color/<#5EA35C><Indikationer:>
+• Hotande hjärtstopp
+• SBP < 80 mm Hg
+• Bradykardi
+
+Color/<#a5715a><Åtgärd:>
+• Anestesilarm
+
+
+
+Title/3. Syrgas?
 Text/
 Color/<#5EA35C><Indikation:>
 • SpO2 < 95%
@@ -25,26 +37,37 @@ Color/<#A336C9><Notera:>
 
 
 
-Title/3. Adrenalin/Noradrenalin?
+Title/4. Adrenalin push-dose?
 Text/
 Color/<#5EA35C><Indikationer:>
-• SBP < 85 mm Hg
-• Bradykardi
 • Hotande hjärtstopp
+• SBP < 80 mm Hg
+• Bradykardi
 
-Color/<#a5715a><Som push-dose pressor:>
+Color/<#a5715a><Adrenalin push-dose pressor:>
 InternalLink/<• Push-dose pressor><push-dose pressor>
 
-Color/<#a5715a><Som infusion:>
-InternalLink/<• Sprutpump doser><sprutpump doser>
 
 
-
-Title/4. Actilys?
+Title/5. Noradrenalin infusion?
 Text/
 Color/<#5EA35C><Indikationer:>
-• SBP < 85 mm Hg
-• Bradykardi, hotande hjärtstopp
+• SBP < 90 mm Hg
+• Fall i SBP > 40 mm Hg
+
+Color/<#a5715a><Som infusion:>
+InternalLink/<• Noradrenalin infusion><sprutpump doser>
+
+Color/<#A336C9><Notera:>
+• Ringer-acetat kan försämra hemodynamik
+
+
+
+Title/6. Actilys före DT?
+Text/
+Color/<#5EA35C><Indikationer:>
+• Manifest chock
+• Grav hypoxemi
 
 Color/<#f40b1a><"Absoluta" kontraindikationer:>
 • Hemorragisk stroke
@@ -54,14 +77,14 @@ Color/<#f40b1a><"Absoluta" kontraindikationer:>
 • Aktiv allvarlig blödning
 
 Color/<#a5715a><Åtgärd:>
-• Actilys 10-20 mg IV bolus
+• Actilys 10 mg IV bolus; bolus kan upprepas
 
 Color/<#A336C9><Notera:>
 • Därefter infusion Actilys 50-90 mg över 90 min beroende på vikt och blödningsrisk
 
 
 
-Title/5. Endotrakeal intubation?
+Title/7. Endotrakeal intubation?
 Text/
 Color/<#5EA35C><Indikationer:>
 • Hjärtstopp
@@ -85,10 +108,10 @@ Color/<#A336C9><Notera:>
 
 
 
-Title/6. Heparin?
+Title/8. Heparin?
 Text/
 Color/<#5EA35C><Indikation:>
-• Misstänkt submassiv lungemboli, innan DT thorax
+• Misstänkt högrisk lungemboli, innan DT thorax
 
 Color/<#f40b1a><Kontraindikation:>
 • Fått Actilys
@@ -98,49 +121,76 @@ Color/<#a5715a><Åtgärd:>
 
 
 
-Title/7. DT Thorax?
+Title/9. PERT-team?
+Text/
+Color/<#5EA35C><Indikation:>
+• Lungemboli med hemodynamisk instabilitet
+
+Color/<#a5715a><Åtgärd:>
+• HIA-jour 71414
+
+Color/<#A336C9><Notera:>
+• PERT = Pulmonary Embolism Response Team
+
+
+
+Title/10. DT Thorax
 Text/
 Color/<#5EA35C><Indikation:>
 • Bekräfta lungemboli
 
-Color/<#f40b1a><Risk:>
-• Akut försämring/hjärtstopp under transport eller på röntgen
-
 Color/<#a5715a><Åtgärd:>
-• Plan vid ev hemodynamisk försämring
+• Beredskap för Actilys-behandling
 
 
 
-Title/8. Embolektomi?
+Title/11. Vidare vård
 Text/
-Color/<#5EA35C><Indikationer:>
-• Massiv lungemboli med absolut kontraindikation till Actilys
-• Intermediär risk med kontraindikation till Actilys och derangerad fysiologi, t ex behov av high-flow
+Color/<#A336C9><Överväg i samråd med PERT-team:>
+• Actilys
+• Embolektomi
+• ECMO
+
+Color/<#5EA35C><Indikationer för Actilys:>
+• SBP < 90 mm Hg eller vasopressorbehov
+• SBP fall ≥ 40 mm Hg
+• Synkopé kan indicera högrisk lungemboli även om blodtycket stabiliseras
+
+Color/<#5EA35C><Indikationer för embolektomi:>
+• Absolut kontraindikation till Actilys
+• Intermediärrisk med kontraindikation till Actilys och derangerad fysiologi, t ex behov av high-flow
 • Clot in transit
 • Svikt till Actilys-behandling
 
-Color/<#a5715a><Åtgärd:>
-• HIA 71414
-
-
-
-Title/9. ECMO?
-Text/
-Color/<#5EA35C><Indikationer:>
+Color/<#5EA35C><Indikationer för ECMO:>
 • Absolut kontraindikation till Actilys
 • Svikt till Actilys-behandling
 
-Color/<#a5715a><Åtgärd:>
-• THIVA 77971
 
 
-
-Title/Om massiv lungemboli
+Title/Ringer-acetat?
 Text/
-Color/<#A336C9><Ultraljud:>
+Color/<#A336C9><Rekommenderas ej rutinmässigt:>
+• Kan leda till HK-överbelastning vilket minskar VK-preload
+• Överväg istället Noradrenalin-infusion +/- Actilys
+
+
+
+Title/Om högrisk lungemboli
+Text/
+Color/<#5EA35C><Definition:>
+• HLR-situation
+• SBP < 90 mm Hg eller vasopressorbehov
+• SBP fall ≥ 40 mm Hg
+• Synkopé kan indicera högrisk lungemboli även om blodtycket stabiliseras
+
+Color/<#a5715a><Behandling:>
+• Reperfusion (Actilys eller trombektomi)
+
+Color/<#A336C9><Ultraljud vid lungemboli:>
 InternalLink/<• Hjärta & IVC><ultraljud lungemboli>
 • Proximal DVT
 
-Color/<#A336C9><EKG:>
+Color/<#A336C9><EKG vid lungemboli:>
 • Negativa T-vågor V1-V4 + III
-• Högergren block
+• Högergrenblock

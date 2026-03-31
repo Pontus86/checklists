@@ -1,9 +1,11 @@
-Title/1. Larm
+Title/1. Larm?
 Text/
-Color/<#a5715a><Val:>
-• Anestesilarm 77900
-• ÖNH 71061
-• Hjärtstopp larm 50000
+Color/<#5EA35C><Indikation:>
+• Stridor
+• Allmänpåverkan
+
+Color/<#a5715a><Åtgärd:>
+• Luftvägslarm
 
 
 
@@ -12,9 +14,9 @@ Text/
 Color/<#a5715a><Åtgärder:>
 1. HLR
 2. Laryngoskopi
-3. Dra ut kroppen med MaGill tång; annars
-4. Intubera, putta kroppen in i hö bronk, ventilera vä lunga
-5. InternalLink/<Coniotomi><coniotomi> om kroppen sitter fast i larynx
+3. Dra ut föremålet med MaGill tång; annars
+4. Intubera, putta ner föremålet med tuben in i hö bronk, baka tuben, ventilera
+5. InternalLink/<Coniotomi><coniotomi> om föremålet sitter fast i larynx
 
 
 
@@ -35,6 +37,7 @@ Text/
 Color/<#a5715a><Åtgärder:>
 • Syrgas mask 15 L/min
 • Förbered i fall tillståndet försämras
+• ÖNH-konsult 71061
 
 
 
@@ -42,4 +45,4 @@ Title/5. Fortsatt vård
 Text/
 Color/<#a5715a><Åtgärder:>
 Color/<#5EA35C><• Röntgentätt föremål:> lungröntgen (bedside?)
-Color/<#5EA35C><• Misstänkt kropp kvar i luftvägen:> bronkoskopi
+Color/<#5EA35C><• Misstänkt föremål kvar i luftvägen:> bronkoskopi

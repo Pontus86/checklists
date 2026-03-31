@@ -1,85 +1,126 @@
 Title/1. Utlösande faktor?
 Text/
 Color/<#A336C9><Överväg:>
-• Hypovolemi/blödning
-• Lungemboli
 • Myokardischemi
-• Sepsis
+• Infektion
+• Lungemboli
+• Perikardit
+• Hypokalemi, hypocalcemi, hypomagnesiemi
+• Övervätskning
+• Hypovolemi/blödning
 • Intoxikation
 • Abstinens
 • Tyreotoxikos
-• Hypokalemi, hypocalcemi, hypomagnesiemi
 
 Color/<#a5715a><Åtgärd:>
 • Vid snabb flim/fladder sekundärt till tillstånd ovan: behandla tillståndet, ej takykardin 
 
 
 
-Title/2. Elkonvertering?
+Title/2. Urakut elkonvertering?
 Text/
-Color/<#5EA35C><Indikation (punkter tillsammans):>
-• Paroxysmal flim/fladder
-• Duration < 24 tim eller antikoagulantia ≥ 3 veckor
+Color/<#5EA35C><Indikation:>
+• Grav hemodynamisk instabilitet, peri-hjärtstopp
 
-Color/<#f40b1a><Kontraindikationer:>
-• Stroke/TIA inom 6 månader
-• Mekanisk hjärtklaff
+Color/<#a5715a><Åtgärder:>
+• Fenylefrin 100 µg/ml 1 ml IV
+• Ketanest 15 mg IV över 1 min
+• SYNC knappen
+• 200 J
 
-Color/<#a5715a><Åtgärd:>
+Color/<#a5715a><Länk:>
 InternalLink/<• Elkonvertering><elkonvertering>
 
 
 
-Title/3. Brinavess 1/2?
-Text/
-Color/<#5EA35C><Indikation (punkter tillsammans):>
-• Förmaksflimmer (ej förmaksfladder)
-• Duration < 48 tim eller antikoagulantia ≥ 3 veckor
-• Alternativ till elkonvertering
 
-Color/<#f40b1a><Kontraindikationer:>
-• Stroke/TIA inom 6 månader eller mekanisk hjärtklaff
-• Hjärtsvikt medelsvår (andfådd vid lätt fysisk aktivitet) eller svår (andfådd i vila)
-• AKS inom 30 dagar
-• Svår aortastenos
-• SBT < 100 mm Hg
-• QT-tid > 440 ms (QTc-tid > 500 ms)
-• Svår bradykardi, AV-block II eller AV-block III och ingen pacemaker
-• Antiarytmika Klass I eller Klass III (t ex Amiodaron) inom senaste 4 tim
-
-
-
-Title/4. Brinavess 2/2?
-Text/
-Color/<#a5715a><Förbereda infusion:>
-• Brinavess 20 mg/ml 25 ml (1 ampull) + NaCl 100 ml = 125 ml à 4 mg/ml
-• Ges via volympump
-
-Color/<#a5715a><Infusion #1:>
-• Brinavess 3 mg/kg (0,75 ml/kg) IV över 10 min
-
-Color/<#a5715a><Infusion #2:>
-• Om förmaksflimmer fortsätter 15 min efter infusion #1
-• Brinavess 2 mg/kg (0,5 ml/kg) IV över 10 min
-
-
-
-Title/5. TEE?
-Text/
-Color/<#5EA35C><Indikation (punkter tillsammans):>
-• Snar återställning till sinus önskvärt
-• Duration > 24 tim och antikoagulantia < 3 veckor
-
-Color/<#a5715a><Åtgärd:>
-• 71414 (HIA-jour)
-
-
-
-Title/6. Seloken?
+Title/3. Push-dose pressor?
 Text/
 Color/<#5EA35C><Indikation:>
-• Frekvenskontroll som initialt mål
+• SBT < 80 mm Hg
 
+Color/<#a5715a><Åtgärd:>
+• Fenylefrin 100 µg/ml 1 ml IV
+• Upprepas vid behov
+
+Color/<#A336C9><Notera:>
+• Fenylefrin är ren alpha agonist
+
+
+
+Title/4. Diuretika/vätska?
+Text/
+Color/<#5EA35C><Indikation:>
+• Övervätskning kan trigga förmaksflimmer
+• Volymbrist kan trigga förmaksflimmer
+
+Color/<#a5715a><Val:>
+• Furix 40 mg IV
+• Ringer-Acetat 250 ml bolus IV
+
+
+
+Title/5. Elektrolyter?
+Text/
+Color/<#5EA35C><Indikation:>
+• Kalium < 4 mmol/L
+
+Color/<#a5715a><Åtgärder:>
+Följande lösning IV över 2-4 tim:
+• NaCl 250 ml +
+• Addex-Kaliumklorid 2 mmol/ml 20 ml +
+• Addex-Magnesium 1 mmol/ml 20 ml
+
+• Kaleorid 750 mEq x 2 PO
+
+Color/<#A336C9><Notera:>
+• Normalisering av K och Mg gör att elkonvertering/amiodarone blir mer framgångsrika
+
+
+
+Title/6. Amiodarone?
+Text/
+Color/<#5EA35C><Indikation:>
+Hemodynamiskt påverkad där
+• akut konvertering ej möjligt/för riskabel
+• frekvenskontroll med beta-blockerare ogynnsam (försämrar kontraktilitet)
+• frekvenskontroll med digoxin tar för lång tid
+
+Color/<#f40b1a><Risk:>
+• Stroke om duration > 24 tim och ingen NOAC
+
+Color/<#a5715a><Åtgärd:>
+• Amiodarone 50 mg/ml 6 ml i glukos 50 mg/ml 100 ml IV över 10 min
+
+
+
+Title/7. Frekvens- vs rytmkontroll?
+Text/
+Color/<#5EA35C><Beslut om frekvens- vs rytmkontroll baseras på:>
+• Vitalparametrar
+• Patientens symtom och önskemål
+• Duration och NOAC
+
+Color/<#a5715a><Val vid frekvenskontroll:>
+• Seloken
+• Digoxin
+• Amiodarone
+
+Color/<#a5715a><Val vid rymtkontroll:>
+InternalLink/<• Elkonvertering><elkonvertering>
+• Brinavess
+• Amiodarone
+
+Color/<#A336C9><Notera>
+• Strokerisk vid konvertering om > 24 tim + ingen NOAC > 3 veckor
+• Val vid önskad rytmkontroll i detta sammanhang:
+- TEE (kontakta HIA-jour 71414)
+- NOAC i 4 veckor följt av elkonvertering	
+
+
+
+Title/Seloken?
+Text/
 Color/<#f40b1a><Kontraindikationer:>
 • Systoliskt BT < 100
 • Känd LVEF < 40%
@@ -90,22 +131,57 @@ Color/<#a5715a><Åtgärd:>
 
 
 
-Title/7. Digoxin?
+Title/Digoxin?
 Text/
-Color/<#5EA35C><Indikation (punkter tillsammans):>
-• Frekvenskontroll som initialt mål
-• Seloken kontraindicerad eller otillräcklig effekt
+Color/<#5EA35C><Indikation:>
+• Seloken kontraindicerad
+• Seloken otillräcklig effekt
 
 Color/<#a5715a><Åtgärd:>
 • Digoxin 0,5 mg IV
+• Digoxin 0,25 mg IV ges vid behov 3 timmar senare
 
 
 
-Title/8. Amiodaron?
+Title/Brinavess?
 Text/
-Color/<#5EA35C><Indikationer:>
-• Utebliven frekvenskontroll med Seloken och/eller Digoxin
-• Istället för Seloken hos patienter med EF < 40%
+Color/<#5EA35C><Indikation:>
+• Rytmkontroll av förmaksflimmer (ej förmaksfladder)
+
+Color/<#f40b1a><Kontraindikationer:>
+• Hjärtsvikt medelsvår (andfådd vid lätt fysisk aktivitet) eller svår (andfådd i vila)
+• AKS inom 30 dagar
+• Svår aortastenos
+• SBT < 100 mm Hg
+• QT-tid > 440 ms (QTc-tid > 500 ms)
+• Svår bradykardi, AV-block II eller AV-block III och ingen pacemaker
+• Antiarytmika Klass I eller Klass III (t ex Amiodaron) inom senaste 4 tim
+
+
+
+Title/Brinavess doser
+Text/
+Color/<#a5715a><Förbereda infusion:>
+• Brinavess 20 mg/ml 25 ml (1 ampull) + NaCl 100 ml = 125 ml à 4 mg/ml
+• Ges via volympump
+
+Color/<#a5715a><Infusion #1:>
+• Brinavess 3 mg/kg (0,75 ml/kg) IV över 10 min
+• Om pat väger 80 kg: 60 ml IV över 10 min
+
+Color/<#a5715a><Infusion #2:>
+• Om FF fortsätter 15 min efter infusion #1
+• Brinavess 2 mg/kg (0,5 ml/kg) IV över 10 min
+• Om pat väger 80 kg: 40 ml IV över 10 min
+
+
+
+Title/Amiodarone?
+Text/
+Color/<#5EA35C><Indikation:>
+• Frekvenskontroll vid utebliven effekt av beta-blockerare och digoxin
+• Frekvenskontroll när beta-blockerare kontraindicerad (t ex EF < 40%)
+• Rytmkontroll istället för elkonvertering / Brinavess
 
 Color/<#a5715a><Åtgärd:>
-• Amiodaron 50 mg/ml 6 ml i Glukos 50 mg/ml 250 ml IV över 30 min
+• Amiodarone 50 mg/ml 6 ml i glukos 50 mg/ml 100 ml IV över 10 min

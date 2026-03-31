@@ -1,11 +1,15 @@
 Title/1. Initiala åtgärder
 Text/
+Color/<#a5715a><Larma:>
+• Förlossningsjour 72501
+• Neojour 78580
+
 Color/<#a5715a><Åtgärd:>
 • Torka barnet i 30 sekunder
 
 Color/<#a5715a><Om effektiv egen andning + HF över 100/min:>
 • Bebis på moderns mage (förebygg hypotermi)
-• Avnavling efter 1 min (klippa navelsträng 5 cm från bebisen)
+• Avnavling efter 1 min (två peang 5 cm från bebisen, klipp med steril sax mellan)
 
 
 
@@ -30,6 +34,7 @@ Color/<#a5715a><Åtgärder:>
 • Bekräfta effektiv ventilation (bröstkorgsexpansion)
 
 Color/<#a5715a><Vid ineffektiv ventilation:>
+• Justera huvudläge
 • Haklyft
 • Byt maskstorlek
 • Näskantarell/svalgtub/larynxmask
@@ -45,7 +50,7 @@ Color/<#5EA35C><Indikation:>
 Color/<#a5715a><Åtgärder:>
 • 3:1 kompression:ventilation (90:30/min)
 • Ventilera med 100% syrgas
-• Kontrollera hjärtfrekvens var 30:e sek
+• Kontrollera hjärtfrekvens med 3-avl EKG
 • Avbryt kompressioner om HF > 60/min
 
 
@@ -55,11 +60,16 @@ Text/
 Color/<#5EA35C><Indikation:>
 • Kvarstående hjärtfrekvens < 60/min
 
-Color/<#a5715a><Åtgärder:>
-• Color/<#A336C9><Adrenalin> Color/<#f40b1a><0,1 mg/ml> 0,3 ml via navelven eller IO
-• Color/<#A336C9><Ringer-Acetat> eller 0 neg blod 30 ml bolus via navelven eller IO
+Color/<#a5715a><Val av infart:>
+InternalLink/<• Navelvenskateter><navelvenskateter>
+• Intraosseös nål i proximala tibia
+
+Color/<#a5715a><Överväg:>
+• Color/<#A336C9><Adrenalin> Color/<#f40b1a><0,1 mg/ml> 0,3 ml IV/IO
+• Color/<#A336C9><Ringer-Acetat> 30 ml bolus IV/IO
+• Color/<#A336C9><Glukos> 50 mg/ml 10 ml IV/IO
+• Color/<#A336C9><Noll neg blod> 30 ml bolus IV/IO vid misstänkt blödning
 • Color/<#A336C9><Naloxon> 0,4 mg/ml 0,5 ml IM vid misstänkt opioidpåverkan
-• Color/<#A336C9><Glukos> 50 mg/ml 10 ml via navelven eller IO
 
 
 
@@ -67,10 +77,10 @@ Title/6. End
 Text/
 Color/<#5EA35C><Indikation:>
 • Effektiv egen andning + HF > 100/min
-Color/<#a5715a><Åtgärd>
+Color/<#a5715a><Åtgärd:>
 • Avbryt ventilation
 
 Color/<#5EA35C><Indikation:>
 • Över 20 min återupplivning + inga livstecken
-Color/<#a5715a><Åtgärd>
+Color/<#a5715a><Åtgärd:>
 • Avbryt HLR

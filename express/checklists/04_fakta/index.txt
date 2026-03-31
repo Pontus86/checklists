@@ -1,7 +1,10 @@
 ChapterTitle/<BARN>
+Barn vikt
+Barn hjärtstopp
+Barn chock
+Barn kramp
+Barn vitalparametrar
 WETBAG
-HLR barn läkemedel
-Vitalparametrar barn
 
 ChapterTitle/<SMÄRTA 0-8 ÅR>
 Smärta barn intranasalt
@@ -11,8 +14,10 @@ Smärta barn intramuskulärt
 
 ChapterTitle/<PROCEDURSEDERING 0-8 ÅR>
 PSA barn intranasalt
-PSA barn intramuskulärt
+PSA barn inhalerat
+PSA barn per os
 PSA barn intravenöst
+PSA barn intramuskulärt
 
 ChapterTitle/<SMÄRTA ≥ 8 ÅR>
 Smärta vuxen inhalerat
@@ -40,11 +45,9 @@ RLS
 GCS
 
 ChapterTitle/<EKG>
-VT vs SVT-1
-VT vs SVT-2
-Sgarbossa-1
-Sgarbossa-2
-Hyperakut T-vag
+VT vs SVT
+Sgarbossa
+Hyperakut T-våg
 Posterior omi
 III & aVL
 
@@ -55,3 +58,5 @@ ChapterTitle/<ÖVRIGT>
 Vård utan samtycke
 NEWS2
 RSI
+Rule of Nines
+Gradering brännskada

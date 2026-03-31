@@ -33,7 +33,24 @@ Color/<#a5715a><Åtgärd:>
 
 
 
-Title/4. Prov
+Title/4. Paracetamol?
+Text/
+Color/<#5EA35C><Indikation:>
+• Ökad temp från hypothalamus (infektion)
+
+Color/<#a5715a><Åtgärd:>
+• Paracetamol 10 mg/ml 100 ml IV
+
+Color/<#0014ff><Barn:>
+• Paracetamol 15 mg/kg IV
+InternalLink/<• Barn vikt><barn vikt>
+
+Color/<#A336C9><Notera:>
+• Paracetamol ineffektiv vid värmeslag eller intox
+
+
+
+Title/5. Prov
 Text/
 Color/<#5EA35C><Som regel:>
 • Blodgas
@@ -49,7 +66,7 @@ Color/<#A336C9><Överväg:>
 
 
 
-Title/5. Måltemperatur
+Title/6. Måltemperatur
 Text/
 • Minska snabbt kärntemperatur till 38-39°C
 • Därefter monitorera temperatur med IVA-kateter
