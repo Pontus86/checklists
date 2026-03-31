@@ -6,8 +6,6 @@ Color/<#a5715a><ECMO:>
 • Massiv lungemboli
 • THIVA-jour 77971
 
-TEST
-
 Color/<#a5715a><Gravid över 20v/fundus ovan navel:>
 InternalLink/<• Förbered perimortem sectio><perimortem sectio>
 • Förlossningsjour 72501
