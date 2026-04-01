@@ -1,19 +1,26 @@
 Title/Naloxon Vuxen
 Text/
-• Color/<#A336C9><Naloxon 0,4 mg/ml> 1 ml i en 10 ml spruta
+Color/<#A336C9><IV eller IM>
+• Naloxon 0,4 mg/ml 1 ml i en 10 ml spruta
 • Späd med 9 ml NaCl
 • Lösning = 40 µg/ml
-• Ge 2 ml IV eller IM
+• Ge 2 ml (0,08 mg) IV eller IM
+• Vänta 2 min på effekt, upprepa vid behov
+
+Color/<#A336C9><Intranasalt>
+• Naloxon 0,4 mg/ml 0,5-1 ml i varje näsborre via MAD
 
 Color/<#A336C9><Notera:>
 • Målet är att förbättra andning, ej normalisera medvetande
 
 Title/Naloxon Barn
 Text/
-• Color/<#A336C9><Naloxon 0,4 mg/ml> 1 ml i en 10 ml spruta
+Color/<#A336C9><IV eller IM>
+• Naloxon 0,4 mg/ml 1 ml i en 10 ml spruta
 • Späd med 9 ml NaCl
 • Lösning = 40 µg/ml
 • Ges IV eller IM
+• Vänta 2 min på effekt, upprepa vid behov
 
 Color/<#A336C9><Dos: 2 µg/kg>
 • 1 år (10 kg)   0,5 ml
@@ -22,6 +29,11 @@ Color/<#A336C9><Dos: 2 µg/kg>
 • 8 år (30 kg)   1,5 ml
 • 10 år (40 kg)  2 ml
 • 13 år (50 kg)  2,5 ml
+
+Color/<#A336C9><Intranasalt>
+• Naloxon 0,4 mg/ml 0,5 ml i varje näsborre via MAD
+
+
 
 Title/Lanexat Vuxen
 Text/

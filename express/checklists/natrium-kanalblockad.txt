@@ -11,8 +11,11 @@ Color/<#5EA35C><Indikation:>
 • SBT < 110
 
 Color/<#a5715a><Åtgärd:>
-• Ringer-Acetat 500 ml IV bolus Color/<#0014ff><(10 ml/kg)>
+• Ringer-Acetat 500 ml IV bolus
 
+Color/<#0014ff><Barn:>
+• Ringer-Acetat 10 ml/kg
+InternalLink/<• Barn vikt><barn vikt>
 
 
 Title/2. NaHCO3?
@@ -23,8 +26,12 @@ Color/<#5EA35C><Indikationer:>
 • Ventrikulär arytmi
 
 Color/<#a5715a><Åtgärd:>
-• NaHCO3 50 mg/ml 200 ml IV bolus Color/<#0014ff><(3 ml/kg)>
+• NaHCO3 50 mg/ml 200 ml IV bolus
 • Kan upprepas efter 5 min
+
+Color/<#0014ff><Barn:>
+• NaHCO3 50 mg/ml 3 ml/kg
+InternalLink/<• Barn vikt><barn vikt>
 
 
 
@@ -49,37 +56,38 @@ InternalLink/<• Noradrenalin som infusion><sprutpump doser>
 
 
 
-Title/5. Hyperventilation?
-Text/
-Color/<#5EA35C><Indikation:>
-• Allvarlig intox + pH < 7,50 trots NaHCO3 behandling
-
-Color/<#a5715a><Åtgärd:>
-• Hyperventilera med mål pH 7,50 - 7,55
-
-
-
-Title/6. NaCl 3%?
+Title/5. NaCl 3%?
 Text/
 Color/<#5EA35C><Indikation:>
 • Lågt blodtryck trots behandlingar ovan
 
 Color/<#a5715a><Åtgärd:>
-1-Hämta NaCl 100 ml
-2-Lägg till Addex-Natriumklorid 4 mmol/L 10 ml
-3-Ge hela lösningen (110 ml) IV över 5 min
-4-Upprepa efter 10 min vid behov
+• NaCl 0,9% 250 ml
+• Tillsätt Addex-Natrium 4 mmol/ml 20 ml
+• Ge hela 270 ml IV över 20 min
 
 
 
-Title/7. Krampanfall?
+Title/6. Krampanfall?
 Text/
-Color/<#a5715a><1:a linjens behandling (val):>
-• Diazepam 10 mg IV
-• Midazolam 10 mg IM
+Color/<#a5715a><Åtgärder:>
+• Diazepam 10 mg IV eller Midazolam 10 mg IM
+• Endotrakeal intubation
 
-Color/<#a5715a><2:a linjens behandling:>
-• Propofol 0,5 mg/kg IV
+Color/<#A336C9><Notera:>
+• Låg tröskel för intubation om kramp uppkommer
+
+
+
+
+Title/7. Hyperventilation?
+Text/
+Color/<#5EA35C><Indikation:>
+• Utebliven förbättring + pH < 7,50 trots NaHCO3 behandling
+
+Color/<#a5715a><Åtgärd:>
+• Endotrakeal intubation
+• Hyperventilera med mål pH 7,50 - 7,55
 
 
 
@@ -87,15 +95,19 @@ Title/8. Sistalinjen
 Text/
 Color/<#a5715a><Val:>
 • InternalLink/<Externpacing><externpacing>
-• Intralipid 200 mg/ml 100 ml IV över 1 min Color/<#0014ff><(1,5 ml/kg)>. Kan upprepas x 2
+• Intralipid 200 mg/ml 100 ml IV över 1 min, kan upprepas x 2
 • ECMO: THIVA 77971
-• Lidokain 1,5 mg/kg IV
+• Lidokain 1 mg/kg IV bolus följd av infusion 2-4 mg/min
 
+Color/<#0014ff><Barn:>
+• Intralipid 200 mg/ml 1,5 ml/kg
+InternalLink/<• Barn vikt><barn vikt>
 
 
 Title/9. Övrigt
 Text/
-• Se även InternalLink/<Allmänt om intoxikation><allmant>
+Color/<#a5715a><Åtgärd:>
+• Se även InternalLink/<Allmänt om intoxikation><intox allmänt>
 
 
 
@@ -106,3 +118,16 @@ Color/<#A336C9><Överväg:>
 
 Color/<#a5715a><Inläggning:>
 • Telemetri och QRS-bredd monitorering
+
+
+
+Title/ Om natrium-kanalblockad
+Text/
+Vissa intoxikationer påverkar de snabba natriumkanalerna i myocyterna, vilket leder till breda QRS-komplex, hypotension och chock.
+
+Exempel:
+• Antidepressiva (t ex Amitriptylin)
+• Antiarytmika (t ex Propranolol)
+• Antipsykotika
+• Antihistaminer
+• Övrigt (t ex Carbamazepin, Cocaine, Citalopram, Lidocaine)

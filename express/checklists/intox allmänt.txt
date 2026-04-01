@@ -4,7 +4,20 @@ InternalLink/<• Agiterad eller aggressiv patient><agiterad - aggressiv>
 
 
 
-Title/2. Svår hypotension?
+Title/2. Naloxon?
+Text/
+Color/<#5EA35C><Indikation:>
+• Potentiell opioidintox och hypoventilation
+
+Color/<#a5715a><Åtgärd:>
+InternalLink/<• Naloxon><naloxon och lanexat>
+
+Color/<#A336C9><Mål:>
+• Normalisera andning, ej väcka helt
+
+
+
+Title/3. Svår hypotension?
 Text/
 Color/<#a5715a><Val:>
 • Ringer-Acetat bolus IV/IO
@@ -13,21 +26,6 @@ Color/<#a5715a><Val:>
 • Intralipid 200 mg/ml 100 ml IV
 • ECMO: THIVA 77971
 
-
-
-Title/3. Naloxon?
-Text/
-Color/<#5EA35C><Indikation:>
-• Potentiell opioidintox och hypoventilation
-
-Color/<#a5715a><Åtgärd:>
-1-Naloxon 0,4 mg/ml 1 ml i en 10 ml spruta
-2-Späd med 9 ml NaCl (lösningen blir 0,04 mg/ml)
-3-Ge 2 ml (0,08 mg) IV
-4-Vänta 2 min på effekt, upprepa vid behov
-
-Color/<#A336C9><Mål:>
-• Normalisera andning, ej väcka helt
 
 
 
@@ -47,6 +45,9 @@ Color/<#a5715a><Anamnes:>
 Color/<#a5715a><ABCDE:>
 • Övriga tillstånd än intox?
 • Temp > 40°C? InternalLink/<Hypertermi><hypertermi>
+
+Color/<#A336C9><Notera>
+• Hypertermi > 40°C är allvarligt tecken vid intox
 
 
 
@@ -79,11 +80,11 @@ Color/<#a5715a><Överväg:>
 • CK/myoglobin (rhabdomyolys)
 • Leverprov, PK, aPTT (levertoxin)
 • Salicylat, etylenglykol, metanol (medvetslös + ökat anjongap)
-• Läkemedel patienten står på (t ex litium, antiepileptika)
+• Läkemedel patienten har tillgång till (t ex litium, antiepileptika)
 
 Color/<#a5715a><Urinprov:>
-• Bladderscan, överväg KAD (antikolinerg effekt)
-• Gravtest hos kvinnor i fertilålder
+• Bladderscan, överväg KAD
+• Gravtest hos kvinnor i fertil ålder
 • Urintox screen (vägleder dock sällan akut omhändertagande)
 
 
@@ -94,20 +95,32 @@ Color/<#a5715a><Val:>
 • https://giftinformation.se/lakare/
 • 010-456 6719
 
+Color/<#a5715a><Diskutera:>
+• Akuta åtgärder (Kol, ventrikelsköljning, motgifter?)
+• Övervakningsnivå (telemetri?)
+• Övervakningstid
+
 
 
 Title/8. Kol?
 Text/
 Color/<#5EA35C><Indikation:>
-• Inom 1 tim av intag
+• Inom 2 tim av intag
 • Liberalt vid farlig intox utan motgift
 
 Color/<#f40b1a><Kontraindikation:>
 • Aspirationsrisk
 
 Color/<#a5715a><Val:>
-• Kol 50 g PO Color/<#0014ff><(1 g/kg)>
-• Kol 50 g via V-Sond efter endotrakeal intubation Color/<#0014ff><(1 g/kg)>
+• Kol 50 g PO
+• Kol 50 g via V-Sond efter endotrakeal intubation
+
+Color/<#0014ff><Barn:>
+• Kol 1 g/kg
+InternalLink/<• Barn vikt><barn vikt>
+
+Color/<#A336C9><Notera:>
+• För vissa intoxer kan kol ges upprepade gånger
 
 
 
@@ -133,9 +146,8 @@ Color/<#5EA35C><Indikation-samtliga:>
 Color/<#a5715a><Åtgärder:>
 1-Leg läkare får enligt Lag (1991:1128):
 - hindra patienten från att lämna vårdinrättningen
-- tvångssedera
-- tvångsmedicinera för akuta tillstånd
-2-Googla "Vårdintyg blankett", fyll i online
+- ge nödvändig behandling vid överhängande fara för patientens liv eller hälsa
+2-Fyll i vårdintygs blankett
 3-Om inget akut somatiskt tillstånd: överför till psykiatri med ambulans
 4-Polis medföljer om patienten är våldsam - handräcknings blankett hos DASK
 
@@ -160,4 +172,4 @@ Color/<#a5715a><Plan:>
 • Somatisk behandling?
 • Duration av observation?
 • Monitoreringsbehov?
-• Om vårdintyg: plan om patienten försöker avvika
+• Plan om patienten försöker avvika

@@ -33,8 +33,9 @@ PSA vuxen intramuskulärt
 ChapterTitle/<VUXEN>
 Agiterad - Aggressiv
 
-ChapterTitle/<MOTGIFTER>
+ChapterTitle/<INTOX>
 Naloxon och Lanexat
+QT Nomogram
 
 ChapterTitle/<CHOCK>
 Push-dose pressor

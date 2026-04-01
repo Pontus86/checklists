@@ -55,11 +55,7 @@ Color/<#a5715a><Ventilation:>
 • Mask och blåsa 2-person teknik
 
 Color/<#a5715a><Naloxon:>
-1-Ta en 10 ml spruta
-2-Dra upp 9 ml NaCl
-3-Dra upp Naloxon 0,4 mg/ml 1 ml
-4-Ge 2 ml (0,08 mg) IV
-5-Upprepa vb varannan min
+InternalLink/<• Naloxon><naloxon och lanexat>
 
 Color/<#A336C9><Mål med Naloxon:>
 • Normalisera andning
