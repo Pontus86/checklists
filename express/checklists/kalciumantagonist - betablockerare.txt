@@ -5,112 +5,109 @@ Text/
 
 
 
-Title/Åtgärder 1-7: sekventiellt vs samtliga
+Title/1. Ringer-Acetat?
 Text/
-Color/<#5EA35C><Vid mild hypotension:>
-• Åtgärder 1-7 görs sekventiellt vid utebliven effekt
+Color/<#5EA35C><Indikation:>
+• Hypotension
 
-Color/<#5EA35C><Vid svår hypotension/bradykardi:>
-• Åtgärder 1-7 görs samtliga utan att invänta effekt
-
-
-
-Title/1. Ringer-Acetat
-Text/
 Color/<#a5715a><Åtgärd:>
 • Ringer-Acetat upp till 2000 ml IV bolus
 
 
 
-Title/2. Atropin
+Title/2. Adrenalin?
 Text/
 Color/<#5EA35C><Indikation:>
-• Bradykardi
+• Svår hypotension
+• Svår bradykardi
 
-Color/<#a5715a><Åtgärd:>
-• Atropin 0,5 mg/ml 2 ml IV Color/<#0014ff><(0,02 mg/kg, minst 0,1 mg)>
-• Kan upprepas var 3:e min upp till 3 mg Color/<#0014ff><(0,04 mg/kg)>
+Color/<#a5715a><Åtgärd>
+InternalLink/<• Adrenalin push-dose><push-dose pressor>
 
 
 
-Title/3. Kalciumglukonat
+Title/3. Kalciumglukonat?
 Text/
+Color/<#5EA35C><Indikation:>
+• Kvarstående påtaglig cirkulationspåverkan trots Ringer-Acetat
+
 Color/<#a5715a><Åtgärd:>
-• Kalciumglukonat 100 mg/ml 30 ml IV över 5 min Color/<#0014ff><(0,5 ml/kg)>
+• Kalciumglukonat 100 mg/ml 30 ml IV över 5 min
 • Kan upprepas var 15:e min x 2
+
+Color/<#0014ff><Barn:>
+• Kalciumglukonat 100 mg/ml 0,5 ml/kg
+InternalLink/<• Barn vikt><barn vikt>
+
+Color/<#A336C9><Mål:>
+• Ca2+ 1,5 mmol/L
 
 
 
 Title/4. Noradrenalin?
 Text/
-InternalLink/<Noradrenalin infusion><sprutpump doser>
-
-
-
-Title/5. Insulin-Glucose
-Text/
-Color/<#a5715a><Åtgärd:>
-1-Glukos 300 mg/ml 50 ml IV bolus
-2-Lispro/Humalog eller Aspart/Novorapid 100 E/ml 1 E/kg IV bolus (vuxen 70 kg = 70 E)
-3-Glukos 100 mg/ml infusion 200 ml/tim
-4-Insulin infusion 1 E/kg/tim (vuxen 70 kg = 70 E/tim)
-5-Glukos mätts var 15 min och glukosinfusion justeras
-6-Kalium mätts var 15 min; tillägg av Kaliuminfusion om K < 3,5 mmol/L
-7-Titrera insulin infusion upp till 10 E/kg/tim baserad på hjärtkontraktilitet enligt ultraljud
-
-
-
-Title/6. Glukagon
-Text/
-Color/<#f40b1a><Risk:>
-• Kräkning
+Color/<#5EA35C><Indikation:>
+• Kvarstående påtaglig cirkulationspåverkan trots åtgärder ovan
 
 Color/<#a5715a><Åtgärd:>
-1-Hämta Glukagon 1 mg/ml
-2-Spruta vätskan in i flaskan för att lösa upp pulvern
-3-Dra upp lösningen Color/<#A336C9><i en vanlig 2 ml spruta>
-4-Injicera vätskan (1 ml) IV över 1 min 
-5-Ge upp till 5 mg IV Color/<#0014ff><(50 µg/kg)>
-6-Glukagon 5 mg kan upprepas efter 10 min
+InternalLink/<• Noradrenalin infusion><sprutpump doser>
 
 
 
-Title/7. Intralipid
+Title/5. PoCUS hjärta
 Text/
 Color/<#a5715a><Åtgärd:>
-1-Intralipid 200 mg/ml 100 ml IV över 1 min Color/<#0014ff><(1 ml/kg)>
-2-Infusion 0,5 ml/kg/min i 30 min
+• Bedöm hjärtats kontraktilitet
+
+Color/<#A336C9><Notera:>
+• Insulin-glukos dropp indicerat vid nedsatt kontraktilitet
+• Vid bevarad kontraktilitet och hypotension pga vasodilatation är åtgärden Noradrenalin-infusion + Adrenalin push-dose
 
 
 
-Title/8. Rescue Therapy
+Title/6. Insulin-Glukos?
 Text/
 Color/<#5EA35C><Indikation:>
-• Lågt blodtryck/bradykardi trots åtgärder 1-7
+• Ring Giftinfo 010-456 6719
 
-Color/<#a5715a><Val:>
-• Transvenöspacing (för bradykardi)
-• Intraoarta ballongpump
-• ECMO: THIVA 77971
+Color/<#a5715a><Initial bolus:>
+• Glukos 300 mg/ml 50 ml IV bolus om glukos < 10 mmol/L
+• Lispro/Humalog eller Aspart/Novorapid 100 E/ml 1 E/kg IV bolus (70 kg = 70 E)
+
+Color/<#a5715a><Infusioner:>
+• Glukos 100 mg/ml infusion 200 ml/tim
+InternalLink/<• Insulin-infusion><sprutpump doser> 1 E/kg/tim (70 kg = 70 E/tim)
+• Vid Kalium < 3,5 mmol/L: Ringer-Acetat 1000 ml med 40 mmol KCl infusion 250 ml/Tim
+
+Color/<#a5715a><Justering:>
+• Mätt glukos och kalium var 15:e min
+• Mål glukos 6-10 mmol/L
+• Mål kalium 3-3,5 mmol/L
+• Titrera insulin-infusion upp till 10 E/kg/tim baserad på hjärtkontraktilitet enligt ultraljud
 
 
 
-Title/9. Överväg 
+Title/7. ECMO/pacemaker?
 Text/
-Color/<#A336C9><Överväg:>
+Color/<#5EA35C><Indikation:>
+• Ring Giftinfo 010-456 6719
+
+Color/<#a5715a><Åtgärd:>
+• För ECMO: THIVA-jour 77971
+• För pacemaker: HIA-jour 71414
+
+
+
+Title/8. Allmänt
+Text/
+Color/<#a5715a><Överväg:>
 • Ventrikelsköljning inom 1-2 timmar av tablettintag om farlig dos
 • Kol 50 g PO Color/<#0014ff><(1 g/kg)>
 • Tarmsköljning vid depotpreparat
+• InternalLink/<Allmänt om intoxikation><allmant>
 
-
-
-Title/10. Övrigt
-Text/
-• Se även InternalLink/<Allmänt om intoxikation><allmant>
-
-
-
-Title/11. Inläggning
-Text/
+Color/<#a5715a><Inläggning:>
 • Kontinuerlig kardiovaskulär monitorering
 • Observation i minst 24 timmar vid depotpreparat
+
+

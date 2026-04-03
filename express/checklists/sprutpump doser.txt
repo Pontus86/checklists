@@ -71,3 +71,13 @@ Color/<#a5715a><Åtgärder:>
 • Lösning = 200 µg/ml
 • Ischemi: 0,25 µg/kg/min
 • Hypertensiv lungödem: 100 µg/min, upptrappning till 400 µg/min
+
+
+
+Title/Insulin
+Text/
+Color/<#a5715a><Åtgärder:>
+• Hämta 50 ml spruta
+• Dra upp 49,5 ml NaCl
+• Dra upp Lispro/Humalog eller Aspart/Novorapid 100 E/ml 0,5 ml (50 E)
+• Markera sprutan "Lispro/Aspart 1 E/ml"

@@ -51,13 +51,10 @@ Text/
 Color/<#f40b1a><Kontraindikation:>
 • Kalium < 3,5 mmol/L
 
-Color/<#a5715a><Insulininfusion>
-1. Hämta 50 ml spruta
-2. Dra upp 49,5 ml NaCl
-3. Dra upp Lispro/Humalog eller Aspart/Novorapid 100 E/ml 0,5 ml (50 E)
-4. Markera sprutan "Lispro/Aspart 1 E/ml"
-5. Infusion 0,1 E/kg/tim (80 kg: 8 ml/tim)
-6. Programmera in infusionstid på 1 timme (därefter nytt blodgas innan vidare infusion)
+Color/<#a5715a><Insulin-infusion>
+InternalLink/<• Insulin-infusion><sprutpump doser>
+• Infusion 0,1 E/kg/tim (80 kg: 8 ml/tim)
+• Programmera in infusionstid på 1 timme (därefter nytt blodgas innan vidare infusion)
 
 Color/<#a5715a><Alternativ>
 • Lispro eller Aspart 0,1 E/kg SC
