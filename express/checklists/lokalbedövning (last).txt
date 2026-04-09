@@ -1,12 +1,23 @@
+Title/Giftinformation
+Text/
+• 010-456 6719
+• https://giftinformation.se/lakare/
+
+
+
 Title/1. Hjärtstopp?
 Text/
-Color/<#a5715a><Åtgärder:>
-• HLR
-• Adrenalin 0,1 mg/ml enbart 1 ml (0,1 mg) åt gången
-• Amiodaron 50 mg/ml 6 ml (300 mg) IV bolus vid VT
-• Intralipid 200 mg/ml 100 ml IV över 1 min Color/<#0014ff><(1,5 mg/kg)>
-• Intralipid kan upprepas x 2 med 5 min interval
-• ECMO? THIVA 77971
+Color/<#a5715a><A-HLR med ändringar nedan:>
+• Adrenalin 0,1 mg/ml 1 µg/kg IV åt gång
+• T ex: 70 kg = Adrenalin 0,1 mg/ml 0,7 ml
+• Intralipid enligt punkt 5
+• Överväg ECMO: THIVA-jour 77971
+
+Color/<#0014ff><Barn:>
+• Adrenalin 0,1 mg/ml 0,01 ml/kg IV
+InternalLink/<• Barn vikt><barn vikt>
+• T ex: 5 år = 20 kg = Adrenalin 0,1 mg/ml 0,2 ml
+
 
 
 
@@ -20,74 +31,84 @@ Color/<#a5715a><Åtgärd:>
 
 
 
-Title/3. Ventilation?
+
+
+Title/3. Hypotension, bradykardi?
 Text/
-Color/<#5EA35C><Indikation:>
-• Hypoventilation (acidemi potentierar toxicitet)
+Color/<#a5715a><Åtgärder att överväga:>
+• Ringer-acetat 500 ml bolus
+• Atropin 1 mg IV bolus
+• NaBic 50 mg/ml 200 ml IV bolus vid breda QRS
 
-Color/<#a5715a><Åtgärd:>
-• Två-person ventilation med mask och blåsa
+Color/<#0014ff><Barn:>
+InternalLink/<• Barn vikt><barn vikt>
+• Ringer-acetat 10 ml/kg
+• NaBic 50 mg/ml 1,7 ml/kg
+• Atropin 0,5 mg/ml 0,04 ml/kg
 
 
 
-Title/4. Intralipid?
+Title/4. Krampanfall?
 Text/
-Color/<#5EA35C><Indikationer:>
-• Kardiovaskulär: hypertoni, hypotoni, arytmi
-• Neurologisk: krampanfall, medvetanderubbning
+Color/<#a5715a><Åtgärder:>
+1. Diazepam 10 mg IV
+2. Diazepam 10 mg IV (upprepad)
+3. Propofol 0,5 - 1 mg/kg IV
+4. Intralipid enligt punkt 5
 
-Color/<#a5715a><Åtgärd:>
-• Intralipid 200 mg/ml 100 ml IV över 1 min Color/<#0014ff><(1,5 mg/kg)>
-• Upprepa vid behov x 2 med 5 min interval
-• Infusion 15 ml/kg/tim, kan höjas till 30 ml/kg/tim vid kvarstående hemodynamisk instabilitet
-• Max kumulativ dos: 12 ml/kg (800 ml för 70 kg vuxen)
-
-
-
-Title/5. Krampanfall?
-Text/
-Color/<#a5715a><Första linje:>
-• Diazepam 10 mg IV Color/<#0014ff><(0,2 mg/kg)>
-
-Color/<#a5715a><Andra linje:>
-• Keppra (Levetiracetam) 60 mg/kg (max 4,5 g) IV över 10 min
+Color/<#0014ff><Barn:>
+InternalLink/<• Barn kramp><barn kramp>
 
 Color/<#f40b1a><Undvik:>
 • Proepanutin (blockerar Na kanaler)
-• Propofol (risk för hypotension)
 
 
 
-Title/6. Natriumbikarbonat?
+Title/5. Intralipid?
 Text/
-Color/<#5EA35C><Indikation:>
-• Breda QRS komplex
+Color/<#5EA35C><Indikationer:>
+• Hjärtstopp
+• Fortsatt allvarlig cirkulationssvikt
+• Fortsatt krampanfall
 
 Color/<#a5715a><Åtgärd:>
-• Natriumbikarbonat 50 mg/ml 200 ml IV bolus Color/<#0014ff><(3 mg/kg)>
+• Intralipid 200 mg/ml 100 ml IV över 2 min
+• Upprepa bolus vb efter 5:e min
+• Infusion 250 ml över 7-15 min
+• Max kumulativ dos: 12 ml/kg (850 ml för 70 kg vuxen)
+
+Color/<#0014ff><Barn:>
+InternalLink/<• Barn vikt><barn vikt>
+• Intralipid 200 mg/ml 1,5 ml/kg över 2 min
+• Infusion 15 ml/kg/tim
+• Max kumulativ dos: 12 ml/kg
 
 
 
-Title/7. Methylenblått?
+Title/6. ECMO?
 Text/
-Color/<#5EA35C><Indikation:>
-• Methemoglobinemi
-
 Color/<#a5715a><Åtgärd:>
-• Methylenblått 1-2 mg/kg IV
+• THIVA-jour 77971
+
 
 
 Title/Om LAST
 Text/
 Color/<#5EA35C><Symtom:>
-• Parestesi kring munnen, av tungan, metallsmak
-• Syn- och hörselrubbning
+• Parestesi kring munnen
+• Abdomnad tunga
+• Metallsmak
+• Tinnitus
+• Synstörning
+• Oro
 
 Color/<#5EA35C><Kardiovaskulär:>
-• Hypertoni, hypotoni
+• Hypotoni
+• Bradykardi, AV-block, asystole
 • Takykardi, VT
-• Bradykardi, asystole
+• Breda QRS-komplex
 
 Color/<#5EA35C><Neurologisk:>
-• Medvetandesänkning, agitation
+• Agitation
+• Medvetandesänkning
 • Krampanfall

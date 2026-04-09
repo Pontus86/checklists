@@ -67,11 +67,11 @@ Color/<#a5715a><Åtgärd:>
 • Kan upprepas, sammanlagt 3 mg
 
 Color/<#0014ff><Barn:>
-• Atropin 0,5 mg/ml i 2 ml-spruta:
-Color/<#5EA35C><0-1 år:> 0,3 ml IV
-Color/<#5EA35C><1-5 år:> 0,6 ml IV
-Color/<#5EA35C><6-12 år:> 1,5 ml IV
-
+InternalLink/<• Barn vikt><barn vikt>
+• Atropin 0,5 mg/ml 0,04 ml/kg
+1 år = 10 kg = 0,4 ml
+5 år = 20 kg = 0,8 ml
+10 år = 40 kg = 1,6 ml
 
 
 
