@@ -14,13 +14,15 @@ Color/<#a5715a><Övriga åtgärder:>
 
 Title/2. Svåra symtom-barn?
 Text/
+InternalLink/<Barn vikt><barn vikt>
+
 Color/<#a5715a><Glukos IV:>
-Color/<#0014ff><• Glukos 50 mg/ml (5%) 4 ml/kg IV>
-Color/<#0014ff><• Sedan Glukos 50 mg/ml (5%) 8 ml/kg/tim IV>
+• Glukos 50 mg/ml (5%) 4 ml/kg IV
+• Sedan Glukos 50 mg/ml (5%) 8 ml/kg/tim IV
 
 Color/<#a5715a><Glukagon IM:>
-Color/<#0014ff><• Glukagon 1 mg IM om över 6 år>
-Color/<#0014ff><• Glukagon 0,5 mg IM om under 6 år>
+• > 6 år: Glukagon 1 mg IM
+• < 6 år: Glukagon 0,5 mg IM
 
 
 
@@ -38,6 +40,7 @@ Color/<#A336C9><För mycket insulin:>
 • Överdos med sulfonylurea eller repaglinid
 
 Color/<#A336C9><Övriga orsaker:>
+• Missad måltid
 • Sepsis
 • Addison
 • Undernäring (anorexi)

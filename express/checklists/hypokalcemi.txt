@@ -1,40 +1,52 @@
-Title/1. Information att inhämta
+Title/1. Kalciumglukonat IV?
 Text/
-Color/<#a5715a><Blodprov:>
-• Total kalcium
-• Albumin
+Color/<#5EA35C><Indikationer:>
+• Ca-jon < 0,8 mmol/L
+• Muskelkramp i händer och fötter
+• Bronkospasm, laryngospasm
+• Epileptiskt anfall (fokalt eller generaliserat)
+• Torsade de pointes, förlängd QTc
+
+Color/<#a5715a><Åtgärd:>
+• Kalciumglukonat 100 mg/ml (10%) 10 ml IV över 5 min
+• Upprepa vid fortsatt symtom eller fortsatt Ca < 0,8
+
+Color/<#A336C9><Notera:>
+• Vid hypokalcemi, kronisk njursvikt och inga eller milda symtom: ingen IV behandling
+
+
+
+Title/2. Addex-Magnesium IV?
+Text/
+Color/<#5EA35C><Indikationer:>
+• Svåra symtom som inte svarar på Kalciumglukonat
+
+Color/<#a5715a><Åtgärd:>
+• Addex-Magnesium 1 mmol/ml 10 ml IV över 20 min
+
+
+
+Title/3. Prov
+Text/
+Color/<#a5715a><Åtgärder:>
+• Blogas, Vita, CRP
+• Total kalcium, Albumin
 • PTH
 • 25-OH-Vitamin D
 • Magnesium
 • Fosfat
-
-Color/<#a5715a><EKG:>
-• AV-block?
-• Förlängd QTc?
-• T-vågs invertering?
+• Amylas
 
 
 
-Title/2. Svår hypokalcemi?
-Text/
-Color/<#5EA35C><Indikationer:>
-• Muskelkramp i händer och fötter, laryngospasm
-• Epileptiskt anfall (fokalt eller generaliserat)
-• Torsade de pointes, förlängd QTc
-• Ca-jon < 0,8
-
-Color/<#f40b1a><Kontraindikation:>
-• Känd hyperfosfatemi
-
-Color/<#a5715a><Åtgärder:>
-• Kalciumglukonat 100 mg/ml (10%) 20 ml IV över 10 min
-• Addex-Magnesium 1 mmol/ml 10 ml IV över 10 min
-
-
-
-Title/3. Vidare vård
+Title/4. Vidare vård
 Text/
 Color/<#a5715a><Åtgärder:>
 • EKG-övervakning tills Ca-jon > 0,8 och normal QTc
-• Calcitugg 500 mg 2x2 PO
+• Calcitugg 500 mg 2 styck PO
 • Omkontroll av Ca
+
+
+Title/Differentialdiagnos
+Text/
+InternalLink/<• Hypokalcemi DDx><hypokalcemi DDx>

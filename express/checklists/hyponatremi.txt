@@ -27,16 +27,25 @@ InternalLink/<• Barn vikt><barn vikt>
 Title/2. Inhämta information
 Text/
 Color/<#a5715a><Inhämta:>
-• Tidigare Na-värden?
+• ABCDE
 • MAPLES
 • Anamnes: vätskebalans (intag och förlust)
-• ABCDE
-• Plasma osmolaritet (Rutin/Akut1 grönremiss)
-• Urin Na + Urin osmolaritet (Special 3 remiss)
+• Tidigare Na-värden?
 
 
 
-Title/3. Kristalloidbehandling?
+
+Title/3. Prov
+Text/
+Color/<#a5715a><Åtgärd:>
+• Blodgas, Vita, CRP
+• Plasma osmolaritet
+• Urin Na + Urin osmolaritet
+• Överväg TSH, T4, Cortison, ACTH
+
+
+
+Title/4. Kristalloidbehandling?
 Text/
 Color/<#5EA35C><Indikation:>
 • Intravaskulär volymbrist
@@ -46,7 +55,7 @@ Color/<#a5715a><Åtgärd:>
 
 
 
-Title/4. Vätskekarens?
+Title/5. Vätskekarens?
 Text/
 Color/<#5EA35C><Indikation:>
 • Varken encefalopati eller volymbrist
@@ -56,17 +65,19 @@ Color/<#a5715a><Åtgärd:>
 
 
 
-Title/5. Vidare vård
+Title/6. Vidare vård
 Text/
 Color/<#a5715a><Åtgärder:>
 • Riktade utredningar/behandlingar mot misstänkt orsak
 
 • Inläggning vid
-- Na < 120 mmol/L
+- Na < 125 mmol/L
 - Symtomgivande hyponatremi
 - Risk för snabb Na-ändring
 
-• Vid inläggning: kontroll av Na var 2-6:e tim + överväg timdiures
+• Vid inläggning
+- Kontroll av Na var 2-6:e tim
+- Överväg timdiures
 
 • Sikta på Na ändring ≤ 8 mmol/L/dygn
 
@@ -74,6 +85,8 @@ Color/<#a5715a><Åtgärder:>
 
 Title/Differentialdiagnos
 Text/
+InternalLink/<Hyponatremi utredningsschema><hyponatremi utredningsschema>
+
 Color/<#A336C9><För mycket vatten in:>
 • Polydyspsi
 

@@ -61,3 +61,5 @@ NEWS2
 RSI
 Rule of Nines
 Gradering brännskada
+Hyponatremi utredningsschema
+Hypokalcemi Ddx
