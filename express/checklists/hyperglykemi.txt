@@ -12,7 +12,7 @@ InternalLink/<Diabetesketoacidos><dka>
 Title/2. HHS?
 Text/
 Color/<#5EA35C><Talar för HHS:>
-• (Na x 2) + glukos ≥ 310 mmol/L
+• (Na x 2) + glukos ≥ 300 mmol/L
 
 InternalLink/<Hyperglykemiskt hyperosmolart syndrom><hhs>
 
@@ -20,16 +20,16 @@ InternalLink/<Hyperglykemiskt hyperosmolart syndrom><hhs>
 
 Title/3. Varken DKA eller HHS
 Text/
-Color/<#a5715a><Åtgärd:>
-• Inga urakuta åtgärder mot hyperglykemin är motiverade
-
-Color/<#A336C9><Överväg:>
+Color/<#a5715a><Överväg:>
 • Infektion: antibiotika?
 • Infarkt (t ex hjärtinfarkt, stroke)
 • Inflammation (t ex pankreatit)
 • Non-compliance/insulinpump dysfunktion
+• Nyupptäckt diabetes
 
-Color/<#5EA35C><Nyupptäckt diabetes:>
-• Prov: C-peptid, HbA1C, GAD-antikroppar
-• Kontakt diabetes konsult
-• Jourtid: Lispro/Humalog eller Aspart/Novorapid 4 E SC om Kalium > 3,3 mmol/L
+Color/<#a5715a><Åtgärder:>
+• Ringer-acetat?
+• Korrektionsdoser +/- långverkande insulin?
+• Glukoskontroller?
+• HbA1C, C-Peptid, anti-GAD?
+• Diabeteskonsult?

@@ -1,38 +1,47 @@
 Title/1. Kalcium?
 Text/
 Color/<#5EA35C><Indikation:>
-K > 6,0 mmol/L + ≥ 1 av:
+K > 6,0 mmol/L + ≥ 1 av nytillkomna EKG förändringar:
 • Breda QRS-komplex
 • Bradykardi
 • Arytmi
 
 Color/<#a5715a><Åtgärd:>
-• Kalciumglukonat 100 mg/ml (10%) 10 - 30 ml IV över 10 min Color/<#0014ff><(0,3 ml/kg)>
+• Kalciumglukonat 100 mg/ml (10%) 10 - 30 ml IV över 10 min
 • Upprepas efter 10 min om EKG-indikation kvarstår
+
+Color/<#0014ff><Barn:>
+• InternalLink/<Barn vikt><barn vikt>
+• Kalciumglukonat 100 mg/ml 0,3 ml/kg
 
 
 Title/2. Hemolys?
 Text/
-Color/<#A336C9><Överväg:>
-• Falskt förhöjt K-värde (t ex vid normala EKG + Krea)?
+Color/<#a5715a><Åtgärd:>
 • Ny blodgas
 
+Color/<#A336C9><Notera:>
+• Notera risken för falskt förhöjt värde pga hemolys
 
 
-Title/3. Insulin/Glukos?
+
+Title/3. Insulin + Glukos?
 Text/
 Color/<#5EA35C><Indikation:>
 • K > 6,0 mmol/L
 
-Color/<#5EA35C><• Vid glukos över 15 mmol/L:> Aspart (Novorapid) 10 E SC
+Color/<#a5715a><Åtgärder:>
+• Aspart (Novorapid) 10 E i glukos 100 mg/ml (10%) 250 ml IV över 5-15 min
+• Därefter glukos 100 mg/ml (10%) 250 ml IV över 5 tim för att förebygga hypoglykemi
 
-Color/<#5EA35C><• Vid glukos < 15 mmol/L:> Aspart (Novorapid) 10 E i Glukos 50 mg/ml 500 ml IV över 15 min
+Color/<#A336C9><Notera:>
+• Vid initialt glukos > 15 mmol/L kan man bara ge Aspart (Novorapid) 10 E IV bolus
+• Vid initialt glukos > 7 mmol/L behövs inte Glukos 100 mg/ml infusion
 
-Color/<#5EA35C><• Vid risk för lungödem:> Aspart (Novorapid) 5 E i Glukos 300 mg/ml 50 ml IV via sprutpump över 15 min; upprepas en gång
-
-Color/<#5EA35C><• Vid glukos < 7 mmol/L:> ge därefter ytterligare Glukos 50 mg/ml 500 ml IV över 4 tim för att förebygga hypoglykemi
-
-Color/<#0014ff><• Till barn:> Aspart (Novorapid) 0,1 E/kg i Glukos 50 mg/ml 10 ml/kg IV över 15 min
+Color/<#0014ff><Barn:>
+InternalLink/<• Barn vikt><barn vikt>
+• Aspart (Novorapid) 0,1 E/kg (max 10 E) i Glukos 100 mg/ml (10%) 5 ml/kg IV över 15 min
+• Därefter infusion
 
 
 
@@ -42,8 +51,7 @@ Color/<#5EA35C><Indikation:>
 • K > 6,0 mmol/L
 
 Color/<#a5715a><Val:>
-• Ventoline 2 mg/ml 5 ml NEB
-• Bricanyl 0,5 mg/ml 1 ml SC
+• Ventoline 2 mg/ml 5-10 ml NEB
 
 Color/<#0014ff><Barn:>
 Color/<#5EA35C><• < 25 kg:> Ventoline 2 mg/ml 1 ml NEB
@@ -51,20 +59,7 @@ Color/<#5EA35C><• 25-50 kg:> Ventoline 2 mg/ml 2,5 ml NEB
 
 
 
-Title/5. Natriumbikarbonat?
-Text/
-Color/<#5EA35C><Indikation:>
-• K > 6,0 mmol/L och pH < 7,2
-
-Color/<#f40b1a><Risk:>
-• Lungödem
-
-Color/<#a5715a><Åtgärder:>
-• Natriumbikarbonat 50 mg/ml 100 ml IV
-
-
-
-Title/6. Kalium bindning?
+Title/5. Lokelma?
 Text/
 Color/<#5EA35C><Indikation:>
 • K > 6,0 mmol/L
@@ -74,16 +69,18 @@ Color/<#a5715a><Åtgärd:>
 
 
 
-Title/7. Diuretika?
+Title/6. Diuretika?
 Text/
+Color/<#5EA35C><Indikation:>
+• Risk för övervätskning
+
 Color/<#a5715a><Åtgärd:>
 • Furix 40-80 mg IV
-• Överväg 0,9% NaCl infusion
 
 
 
 
-Title/8. Övrigt
+Title/7. Övrigt
 Text/
 Color/<#a5715a><Överväg:>
 • Bladderscan
@@ -93,7 +90,7 @@ Color/<#a5715a><Överväg:>
 
 
 
-Title/9. Hemodialys?
+Title/8. Hemodialys?
 Text/
 Color/<#5EA35C><Indikationer:>
 • Livshotande hyperkalemi
@@ -105,13 +102,11 @@ Color/<#5EA35C><Indikationer:>
 
 
 
-Title/10. Vidare handläggning
+Title/9. Vidare handläggning
 Text/
 Color/<#a5715a><Åtgärder:>
+• Telemetri
 • Lokelma 10 g PO 3 gånger dagligen
-
-• Mäta om Kalium och Glukos om 2 tim
-
+• Omkontroll Kalium och Glukos om 1 tim
 • Timdiures?
-
 • Åtgärda orsaken till hyperkalemi (t ex seponera läkemedel)

@@ -15,7 +15,7 @@ Följande kan förekomma:
 
 
 
-Title/2. Hjärtövervakning
+Title/2. Telemetri?
 Text/
 Color/<#5EA35C><Indikation:>
 • Joniserat Ca > 1,7 mmol/L
@@ -34,28 +34,7 @@ Color/<#a5715a><Åtgärd:>
 
 
 
-Title/4. Kalcitonin?
-Text/
-Color/<#5EA35C><Indikation:>
-• Joniserat Ca > 1,7 mmol/L
-
-Color/<#a5715a><Åtgärd:>
-• Kalcitonin (Miacalcic) 100 E/ml 0,3 ml IM (4 E/kg)
-
-
-
-Title/5. Zoledronsyra?
-Text/
-Color/<#5EA35C><Indikation:>
-• Joniserat Ca > 1,7 mmol/L
-
-Color/<#a5715a><Åtgärd:>
-• Zoledronsyra 4 mg IV över 15 min
-• Dosen reduceras vid Kreatininclearance < 60 ml/min
-
-
-
-Title/6. Seponera läkemedel
+Title/4. Seponera läkemedel
 Text/
 Color/<#a5715a><Seponera:>
 • Tiazider
@@ -64,12 +43,18 @@ Color/<#a5715a><Seponera:>
 
 
 
-Title/7. Vidare vård
+Title/5. Vidare vård
 Text/
 Color/<#5EA35C><Joniserat Ca över 1,7 mmol/L eller medvetandepåverkan:>
 • Inläggning med hjärtövervakning
 • Hemodialys vid svår refraktär hyperkalcemi
+• Kalcitonin (Miacalcic) 100 E/ml 0,3 ml IM (4 E/kg)
+• Zoledronsyra 4 mg IV över 15 min. Dosen reduceras vid Kreatininclearance < 60 ml/min
 
 Color/<#5EA35C><Joniserat Ca under 1,5 mmol/L och inga symptom:>
 • Dricka 8 glas vatten per dygn
 • Uppföljning i primärvården
+
+Title/Differentialdiagnos
+Text/
+InternalLink/<Hyperkalcemi DDx><hyperkalcemi DDx>

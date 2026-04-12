@@ -12,6 +12,8 @@ Color/<#a5715a><Aktuellt:>
 • S: värst smärta någonsin?
 • T: tidigare liknande episoder?
 
+
+
 Title/2. Utredningar
 Text/
 Color/<#a5715a><Ultraljud:>
@@ -25,6 +27,7 @@ Color/<#a5715a><Blodprov:>
 • Blodgas
 • Vita, CRP, trombocyter, PK, aPTT
 • Leverprov, amylas
+
 
 
 Title/3. Diagnoser att överväga
@@ -41,6 +44,11 @@ InternalLink/<• Aortadissektion><aortadissektion>
 • Perforation
 • Ovarial/testistorsion
 • Pankreatit (subakut)
+
+Color/<#A336C9><Övre buksmärta:>
+• Inferior STEMI
+• Lungemboli
+
 
 
 Title/4. Åtgärder att överväga
