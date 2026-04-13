@@ -184,8 +184,13 @@ Color/<#5EA35C><Definition:>
 • SBP fall ≥ 40 mm Hg
 • Synkopé kan indicera högrisk lungemboli även om blodtycket stabiliseras
 
-Color/<#a5715a><Behandling:>
-• Reperfusion (Actilys eller trombektomi)
+Color/<#A336C9><Riskfaktorer:>
+• Tidigare lungemboli/DVT
+• Cancer
+• Nyligen opererad
+
+Color/<#A336C9><Skyddsfaktorer:>
+• Waran/DOAK
 
 Color/<#A336C9><Ultraljud vid lungemboli:>
 InternalLink/<• Hjärta & IVC><ultraljud lungemboli>

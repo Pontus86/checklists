@@ -107,6 +107,14 @@ Color/<#a5715a><Åtgärder:>
 
 Title/Om STEMI-OMI
 Text/
+Color/<#A336C9><Riskfaktor:>
+• Tidigare hjärtinfarkt
+
+Color/<#A336C9><Anamnes:>
+• P: utstrålning till käkarna och/eller armarna
+• Q: tryckande/krammande
+• R: ej pleuritisk
+
 Color/<#A336C9><STEMI:>
 • ST-höjningar > 1 mm i 2 intilliggande avledningar
 • ST-höjningar i V2-V3:
@@ -115,7 +123,8 @@ Color/<#A336C9><STEMI:>
 ≥ 2,5 mm hos män < 40 år
 
 Color/<#A336C9><OMI:>
-InternalLink/<• Sgarbossa><Sgarbossa>
+InternalLink/<• Sgarbossa-1><sgarbossa-1>
+InternalLink/<• Sgarbossa-2><sgarbossa-2>
 InternalLink/<• Hyperakut T-våg><hyperakut T-våg>
 InternalLink/<• Posterior OMI><posterior omi>
 InternalLink/<• III & aVL><iii & avl>

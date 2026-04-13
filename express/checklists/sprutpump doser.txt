@@ -54,7 +54,7 @@ Title/Isoprenalin
 Text/
 Color/<#a5715a><Åtgärder:>
 • Hämta 50 ml spruta
-• Dra upp 49 ml NaCl
+• Dra upp 49 ml Glukos 50 mg/ml
 • Lägg till Color/<#A336C9><Isoprenalin 0,2 mg/ml> 1 ml
 • Lösning = 4 µg/ml
 • Initial takt 0,01 µg/kg/min

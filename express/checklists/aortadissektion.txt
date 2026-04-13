@@ -3,10 +3,6 @@ Text/
 Color/<#5EA35C><Indikation:>
 • Smärta
 
-Color/<#f40b1a><Risk:>
-• Hypotension
-• Kräkning
-
 Color/<#a5715a><Val:>
 • Morfin 1 mg/ml 4 ml IV över 2 min
 • Fentanyl 50 μg/ml 1 ml IV över 2 min
@@ -57,18 +53,30 @@ Text/
 
 Title/Om aortadissektion
 Text/
-Color/<#5EA35C><Anamnes:>
-• Rivande/skärande retrosternal bröstsmärta
+Color/<#A336C9><Riskfaktorer:>
+• Tidigare dissektion
+• Marfans/Ehlers-Danlos
+• Nyligen klaff-op  
 
-• Maximal smärtintensitet inom sekunder
+Color/<#A336C9><Anamnes:>
+• O: max smärta direkt
+• P: retrosternal, utstrålning mot ryggen, migrerande
+• Q: rivande, skärande
+• S: svår smärta
 
 • Övriga symtom:
 - buksmärta/ryggsmärta
 - neurobortfall
 - synkope/kollaps 
 
-Color/<#5EA35C><Status:>
+Color/<#A336C9><Status:>
+• Lågt blodtryck
+• Pulsdeficit
 • Blodtrycksskillnad i armarna > 20 mm Hg
+• Neurobortfall
 
-Color/<#5EA35C><Ultraljud:>
-• Perikardvätska, aortainsufficiens, synlig dissektionsmembran
+Color/<#A336C9><Ultraljud:>
+• SX: perikardvätska
+• PLAX: dilaterad aortarot (> 4 cm), aortainsufficiens
+• A5C: aortainsufficiens
+• Bukaorta, suprasternal: intimal flap
