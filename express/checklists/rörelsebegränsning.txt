@@ -1,4 +1,4 @@
-Title/1. På traumatransfer?
+Title/1. Traumatransfer?
 Text/
 Color/<#5EA35C><Indikationer:>
 • Medvetandesänkning
@@ -13,7 +13,7 @@ Color/<#A336C9><Halsrygg:>
 
 
 
-Title/2. På vanlig säng?
+Title/2. Vanlig säng?
 Text/
 Color/<#5EA35C><Indikationer:>
 • Potentiell halsryggskada enligt InternalLink/<Canadian C-spine rule><Canadian C-spine rule>

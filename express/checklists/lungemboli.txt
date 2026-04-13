@@ -91,20 +91,13 @@ Color/<#5EA35C><Indikationer:>
 • Allvarlig hypoxemi som inte kan hävas
 
 Color/<#f40b1a><Risker:>
-• Sederingsutlöst vasodilatation
-• Nedsatt preload från övertrycksventilation
-
-Color/<#a5715a><Sedering:>
-• Ketanest 5 mg/ml 0,25 mg/kg IV
-
-Color/<#a5715a><Tidalvolym:>
-• 6 mL/kg
-
-Color/<#a5715a><Tryck vid inandning:>
-• < 30 cm H2O
+• Cirkulatorisk kollaps pga minskad preload till följd av vasodilatation och övertrycksventilation
 
 Color/<#A336C9><Notera:>
-• Intubation bör helst undvikas!
+• Intubation är hög risk då patienten har sviktande högerkammare
+• Induktion med reducerad dos Ketanest (0,25-0,5 mg/kg)
+• IPAP bör minimeras (< 30 cm H2O)
+• Rekommenderad tidalvolym 6 mL/kg
 
 
 
