@@ -1,17 +1,10 @@
-Title/1. Info att inhämta
+Title/1. Anamnes, EKG, Blodgas, TnI
 Text/
-Color/<#a5715a><Inhämta:>
-• ABCDE
-• EKG
-• Blodgas, Vita, CRP, TnI
-• Bakgrund, aktuellt
-• +/- Ultraljud
-
-Color/<#A336C9><Bakgrund:>
+Color/<#a5715a><Bakgrund:>
 • Tidigare sjukdomar
 • Läkemedel
 
-Color/<#A336C9><Aktuellt:>
+Color/<#a5715a><Aktuellt:>
 • O: tid till max intensitet (sek/min/tim)?
 • P: var är smärtan? storlek? utstrålning?
 • Q: tryckande? rivande/skarp? brännande?
@@ -24,6 +17,8 @@ Color/<#A336C9><Aktuellt:>
 
 Title/2. Aortadissektion?
 Text/
+InternalLink/<Handläggning><aortadissektion>
+
 Color/<#A336C9><Riskfaktorer:>
 • Tidigare dissektion
 • Marfans/Ehlers-Danlos
@@ -46,12 +41,12 @@ Color/<#A336C9><Ultraljud:>
 • A5C: aortainsufficiens
 • Bukaorta, suprasternal: intimal flap
 
-InternalLink/<Aortadissektion><aortadissektion>
-
 
 
 Title/3. Lungemboli?
 Text/
+InternalLink/<Handläggning><lungemboli>
+
 Color/<#A336C9><Riskfaktorer:>
 • Tidigare lungemboli/DVT
 • Cancer
@@ -68,11 +63,12 @@ Color/<#A336C9><Ultraljud:>
 InternalLink/<• Hjärta & IVC><ultraljud lungemboli>
 • Proximal DVT
 
-InternalLink/<Lungemboli><lungemboli>
 
 
 Title/4. STEMI-OMI?
 Text/
+InternalLink/<Handläggning><stemi-omi>
+
 Color/<#A336C9><Riskfaktor:>
 • Tidigare hjärtinfarkt
 
@@ -94,5 +90,3 @@ InternalLink/<• Sgarbossa-2><sgarbossa-2>
 InternalLink/<• Hyperakut T-våg><hyperakut T-vag>
 InternalLink/<• Posterior OMI><posterior omi>
 InternalLink/<• III & aVL><iii & avl>
-
-InternalLink/<STEMI-OMI><stemi-omi>

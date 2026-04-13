@@ -1,17 +1,10 @@
-Title/1. Info att inhämta
+Title/1. Anamnes
 Text/
-Color/<#a5715a><Inhämta:>
-• ABCDE
-• EKG
-• Blodgas, Vita, CRP, Trombocyter, PK, aPTT, leverprov, amylas
-• Bakgrund, aktuellt
-• Ultraljud
-
-Color/<#A336C9><Bakgrund:>
+Color/<#a5715a><Bakgrund:>
 • Tidigare sjukdomar
 • Läkemedel
 
-Color/<#A336C9><Aktuellt:>
+Color/<#a5715a><Aktuellt:>
 • O: hur snabbt (sek/min/tim) till max intensitet?
 • P: var sitter smärtan? storlek? utstrålning?
 • Q: tryckande? rivande/skarp? brännande?
@@ -19,39 +12,48 @@ Color/<#A336C9><Aktuellt:>
 • S: värst smärta någonsin?
 • T: tidigare liknande episoder?
 
-Color/<#A336C9><Ultraljud:>
+
+
+Title/2. Utredningar
+Text/
+Color/<#a5715a><Ultraljud:>
 • RUQ: fri vätska? hydronefros? gallsten? kolecystit?
-• LUQ: fri vätska? hydronefros? Ventrikelretention?
-• Suprapubiskt: fri vätska? urinretention?
+• LUQ: fri vätska? hydronefros?
 • Bukaorta: aneurysm?
+• Suprapubiskt: fri vätska? urinretention?
 • Buk: tunntarmsileus?
 
+Color/<#a5715a><Blodprov:>
+• Blodgas
+• Vita, CRP, trombocyter, PK, aPTT
+• Leverprov, amylas
 
 
-Title/2. Diagnoser att överväga
+
+Title/3. Diagnoser att överväga
 Text/
-Color/<#a5715a><Buksmärta + chock:>
+Color/<#A336C9><Buksmärta + chock:>
 InternalLink/<• Rupturerad bukaortaaneurysm><rupturerad aaa>
 • Rupturerad ektopisk graviditet
 • Perforation (t ex ulcus) och sepsis
 • Kolangit, svår pankreatit
 
-Color/<#a5715a><Svår buksmärta med plötslig debut:>
+Color/<#A336C9><Svår buksmärta med plötslig debut:>
 InternalLink/<• Aortadissektion><aortadissektion>
 • Mesenterisk ischemi
 • Perforation
 • Ovarial/testistorsion
 • Pankreatit (subakut)
 
-Color/<#a5715a><Övre buksmärta:>
+Color/<#A336C9><Övre buksmärta:>
 • Inferior STEMI
 • Lungemboli
 
 
 
-Title/3. Åtgärder att överväga
+Title/4. Åtgärder att överväga
 Text/
-Color/<#a5715a><Överväg:>
+Color/<#A336C9><Överväg:>
 • Blodgruppering + bastest
 • Piperacillin-Tazobaktam 4 g IV
 • DT buk prio 1 med IV kontrast (oavsett Krea)
