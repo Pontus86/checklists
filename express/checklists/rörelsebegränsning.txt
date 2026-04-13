@@ -1,0 +1,23 @@
+Title/1. På traumatransfer?
+Text/
+Color/<#5EA35C><Indikationer:>
+• Medvetandesänkning
+• Fokalt neurologiskt bortfall (parestesi, svaghet)
+
+Color/<#a5715a><Åtgärd:>
+• Spinal rörelsebegränsning på traumatransfer (halvfast madrass)
+
+Color/<#A336C9><Halsrygg:>
+• Cervikal rörelsebegränsning uppnås manuellt, med huvudblock eller motsvarande
+• Tvådelad behandlingshalskrage efter röntgen
+
+
+
+Title/2. På vanlig säng?
+Text/
+Color/<#5EA35C><Indikationer:>
+• Potentiell halsryggskada enligt InternalLink/<Canadian C-spine rule><Canadian C-spine rule>
+• Misstänkt thoracolumbal skada
+
+Color/<#a5715a><Åtgärd:>
+• Spinal rörelsebegränsning på vanlig säng (i självvalt bekvämt läge)

@@ -31,7 +31,7 @@ Color/<#5EA35C><Indikation:>
 • K > 6,0 mmol/L
 
 Color/<#a5715a><Åtgärder:>
-• Aspart (Novorapid) 10 E i glukos 100 mg/ml (10%) 250 ml IV över 5-15 min
+• Aspart (Novorapid) 10 E i glukos 50 mg/ml (5%) 500 ml IV över 5-15 min
 • Därefter glukos 100 mg/ml (10%) 250 ml IV över 5 tim för att förebygga hypoglykemi
 
 Color/<#A336C9><Notera:>

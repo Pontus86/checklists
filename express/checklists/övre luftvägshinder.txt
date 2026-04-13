@@ -64,3 +64,9 @@ Color/<#a5715a><Kontrollera:>
 • Lungauskultation: andningsljud bilateralt
 • Stigande SpO2
 • EtO2
+
+
+
+Title/Algoritm Oväntat svår luftväg
+Text/
+InternalLink/<Oväntat svår luftväg><Oväntat svår luftväg>

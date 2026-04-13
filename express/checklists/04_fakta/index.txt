@@ -30,20 +30,29 @@ PSA vuxen intravenöst
 PSA vuxen inhalerat
 PSA vuxen intramuskulärt
 
-ChapterTitle/<VUXEN>
-Agiterad - Aggressiv
+ChapterTitle/<TRAUMA>
+Nivå 1 traumalarm
+Nivå 2 traumalarm
+Rörelsebegränsning
+Canadian C-Spine Rule
 
-ChapterTitle/<INTOX>
-Naloxon och Lanexat
-QT Nomogram
+ChapterTitle/<AIRWAY>
+Oväntat svår luftväg
+RSI
 
-ChapterTitle/<CHOCK>
+ChapterTitle/<CIRCULATION>
 Push-dose pressor
 Sprutpump doser
 
 ChapterTitle/<DISABILITY>
 RLS
 GCS
+Naloxon och Lanexat
+QT Nomogram
+
+ChapterTitle/<EXPOSURE>
+Rule of Nines
+Gradering brännskada
 
 ChapterTitle/<EKG>
 VT vs SVT
@@ -55,11 +64,12 @@ III & aVL
 ChapterTitle/<ULTRALJUD>
 Ultraljud lungemboli
 
+ChapterTitle/<BLODPROV>
+Hyponatremi DDx
+Hypokalcemi DDx
+Hyperkalcemi DDx
+
 ChapterTitle/<ÖVRIGT>
+Agiterad - Aggressiv
 Vård utan samtycke
 NEWS2
-RSI
-Rule of Nines
-Gradering brännskada
-Hyponatremi utredningsschema
-Hypokalcemi Ddx

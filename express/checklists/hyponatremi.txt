@@ -85,7 +85,7 @@ Color/<#a5715a><Åtgärder:>
 
 Title/Differentialdiagnos
 Text/
-InternalLink/<Hyponatremi utredningsschema><hyponatremi utredningsschema>
+InternalLink/<Hyponatremi DDx><hyponatremi DDx>
 
 Color/<#A336C9><För mycket vatten in:>
 • Polydyspsi
