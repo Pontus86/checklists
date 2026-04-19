@@ -1,9 +1,9 @@
 Title/1. Info att inhämta
 Text/
 Color/<#a5715a><Inhämta:>
-• ABCDE
-• EKG
-• Blodgas, Vita, CRP, Trombocyter, PK, aPTT, leverprov, amylas
+• ABCDE, blodgas, EKG
+• Vita, CRP, Trombocyter, PK, aPTT
+• Leverprov, amylas
 • Bakgrund, aktuellt
 • Ultraljud
 
@@ -44,7 +44,7 @@ InternalLink/<• Aortadissektion><aortadissektion>
 • Pankreatit (subakut)
 
 Color/<#a5715a><Övre buksmärta:>
-• Inferior STEMI
+• Inferior InternalLink/<STEMI-OMI><STEMI-OMI>
 • Lungemboli
 
 

@@ -2,7 +2,7 @@ Title/1. Adrenalin intramuskulärt
 Text/
 Color/<#a5715a><Åtgärd:>
 • Adrenalin Color/<#f40b1a><1 mg/ml> 0,5 ml IM
-• Upprepning var 5:e min vb
+• Upprepa var 5:e min vb
 
 Color/<#0014ff><Barn:>
 Adrenalin Color/<#f40b1a><1 mg/ml> i en 1 ml spruta:
@@ -46,7 +46,7 @@ Color/<#a5715a><Åtgärd:>
 Color/<#0014ff><Barn:>
 1. Adrenalin Color/<#f40b1a><0,1 mg/ml> 1 ml i en 10 ml spruta
 2. Späd med 9 ml NaCl
-Color/<#f40b1a><Då får man Adrenalin 10 ug/ml>
+Color/<#f40b1a><Då får man Adrenalin 10 µg/ml>
 
 • 6-12 år: 4 ml IV/IO
 • 1-5 år: 2 ml IV/IO
@@ -106,7 +106,13 @@ Color/<#5EA35C><Talar för:>
 
 Color/<#a5715a><Åtgärder:>
 • Adrenalin Color/<#f40b1a><1 mg/ml> 1 ml + 3 ml NaCl nebuliserad
-• Beredskap för intubation, InternalLink/<coniotomi><coniotomi> eller InternalLink/<jetoxygenering><jetoxygenering>
+• Beredskap för
+- intubation
+- InternalLink/<coniotomi><coniotomi>
+- InternalLink/<jetoxygenering><jetoxygenering>
+
+Color/<#A336C9><Notera:>
+InternalLink/<• Oväntat svår luftväg><Oväntat svår luftväg>
 
 
 
@@ -137,6 +143,7 @@ Color/<#a5715a><Åtgärd:>
 
 Color/<#0014ff><Barn:>
 • Ringer-Acetat 10 ml/kg IV bolus
+InternalLink/<• Barn vikt><barn vikt>
 
 
 
@@ -163,7 +170,7 @@ Color/<#0014ff><Barn:>
 Title/12. Glukagon intravenöst?
 Text/
 Color/<#5EA35C><Indikation:>
-• Svåra symtom + svarar ej på adrenalin (t ex pga beta-blockerare)
+• Fortsatt svåra symtom trots adrenalin
 
 Color/<#f40b1a><Risk:>
 • Kräkning
@@ -173,6 +180,9 @@ Color/<#a5715a><Åtgärd:>
 2. Dra upp lösningen Color/<#f40b1a><i en vanlig 2 ml spruta>
 3. Injicera vätskan IV över 1 min
 4. Upprepa vid behov. Hos vuxna kan man ge upp till 5 mg
+
+Color/<#A336C9><Notera:>
+• Bruk av beta-blockerare kan hindra svar till adrenalin
 
 
 

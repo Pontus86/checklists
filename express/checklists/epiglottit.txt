@@ -47,6 +47,7 @@ Color/<#a5715a><Åtgärd:>
 
 Color/<#0014ff><Barn:>
 • Cefotaxim 50 mg/kg upp till 2 g IV
+InternalLink/<• Barn vikt><barn vikt>
 
 
 Title/6. Inläggning
@@ -55,7 +56,9 @@ Color/<#a5715a><Val:>
 • IVA
 • IMA
 
-• Tät övervakning, intubationsberedskap
+Color/<#a5715a><Åtgärder:>
+• Tät övervakning
+• Intubationsberedskap
 
 
 

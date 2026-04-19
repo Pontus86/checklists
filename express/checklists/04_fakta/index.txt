@@ -58,7 +58,7 @@ ChapterTitle/<EKG>
 VT vs SVT
 Sgarbossa
 Hyperakut T-våg
-Posterior omi
+Posterior OMI
 III & aVL
 
 ChapterTitle/<ULTRALJUD>

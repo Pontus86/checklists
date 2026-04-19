@@ -59,7 +59,9 @@ Color/<#a5715a><Åtgärder:>
 3. InternalLink/<Coniotomi><coniotomi> under spontan andning
 
 Color/<#0014ff><Barn:>
-• Ketanest 5 mg/ml 1 ml för varje 10 kg; ges IV över 1 min
+• InternalLink/<Barn vikt><barn vikt>
+• Ketanest 5 mg/ml 0,1 ml/kg
+• Ges IV över 1 min
 
 
 
