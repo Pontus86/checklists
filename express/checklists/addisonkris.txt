@@ -37,6 +37,7 @@ Color/<#a5715a><Vuxna:>
 • Solu-Cortef 100 mg IV
 
 Color/<#0014ff><Barn:>
+InternalLink/<• Barn vikt><barn vikt>
 • Solu-Cortef 2 mg/kg IV
 
 

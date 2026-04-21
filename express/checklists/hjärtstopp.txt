@@ -97,8 +97,6 @@ Text/
 Color/<#a5715a><Hyperkalemi:>
 • Kalciumglukonat 100 mg/ml 30 ml IV bolus 
 • NaBic 50 mg/ml 100 ml IV bolus
-Color/<#0014ff><• Barn:> Kalciumglukonat 100 mg/ml 0,3 ml/kg
-Color/<#0014ff><• Barn:> NaBic 50 mg/ml 3 ml/kg
 
 Color/<#a5715a><Hypokalemi:>
 • Addex-Kaliumklorid 2 mmol/ml 10 ml (20 mmol) IV över 2 min
@@ -107,8 +105,11 @@ Color/<#a5715a><Hypokalemi:>
 
 Color/<#a5715a><Hypokalcemi:>
 • Kalciumglukonat 100 mg/ml 30 ml IV bolus
-Color/<#0014ff><• Barn:> Kalciumglukonat 100 mg/ml 0,3 ml/kg
 
+Color/<#0014ff><Barn>
+InternalLink/<• Barn vikt><barn vikt>
+• Kalciumglukonat 100 mg/ml 0,3 ml/kg
+• NaBic 50 mg/ml 3 ml/kg
 
 
 Title/8. Åtgärder—Toxiska orsaker

@@ -38,7 +38,7 @@ Myxödemkoma
 Orbitalt kompartment
 
 ChapterTitle/<GLUKOS>
-DKA
+Diabetesketoacidos
 HHS
 
 ChapterTitle/<SMÄRTA>
