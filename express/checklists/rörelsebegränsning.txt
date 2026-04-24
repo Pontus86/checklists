@@ -4,20 +4,34 @@ Color/<#5EA35C><Indikationer:>
 • Medvetandesänkning
 • Fokalt neurologiskt bortfall (parestesi, svaghet)
 
-Color/<#a5715a><Åtgärd:>
-• Spinal rörelsebegränsning på traumatransfer (halvfast madrass)
+Color/<#a5715a><Åtgärder:>
+• Bålen fixeras först på traumatransfer
+• Sedan fixeras halsryggen med huvudblock
+• Ange vid röntgenremiss att patienten ligger på TT
+• Tvådelad behandlingshalskrage appliceras vid behov efter röntgen
 
-Color/<#A336C9><Halsrygg:>
-• Cervikal rörelsebegränsning uppnås manuellt, med huvudblock eller motsvarande
-• Tvådelad behandlingshalskrage efter röntgen
+Color/<#A336C9><Notera:>
+• Ovan kallas för "Spinal rörelsebegränsning med hjälpmedel" dvs halvfast madrass (t ex TT)
+• Max tid på traumatransfer: 4 tim
 
 
 
-Title/2. Vanlig säng?
+Title/2. Vanlig brits eller säng?
 Text/
 Color/<#5EA35C><Indikationer:>
-• Potentiell halsryggskada enligt InternalLink/<Canadian C-spine rule><Canadian C-spine rule>
+• Potentiell halsryggskada InternalLink/<(Canadian C-spine rule)><Canadian C-spine rule>
 • Misstänkt thoracolumbal skada
 
 Color/<#a5715a><Åtgärd:>
-• Spinal rörelsebegränsning på vanlig säng (i självvalt bekvämt läge)
+• Spinal rörelsebegränsning på vanlig säng i självvalt bekvämt läge
+• Man kan stötta kroppen med t.ex. hoprullade handdukar 
+
+Color/<#a5715a><Scoopbår:>
+• Scoopbår (SB) kan användas vid hög klinisk misstanke om kotpelarskada:
+1-Förflyttning till SB på akuten inför rtg
+2-Förflyttning till röntgenbordet
+3-Patienten ligger kvar på SB under hela röntgenundersökningen
+4-SB tas bort när patienten är tillbaka på akuten
+
+Color/<#A336C9><Notera:>
+• Ovan kallas för "Spinal rörelsebegränsning i självvalt bekvämt läge"
