@@ -27,9 +27,8 @@ Color/<#f40b1a><Kontraindikationer:>
 • Svår mitralis- eller aortastenos
 • Viagra-bruk inom 12 tim
 
-Color/<#a5715a><Val:>
+Color/<#a5715a><Åtgärd:>
 • Nitroglycerin 1 spraydos (0,4 mg) var 2:a min
-• Nitroglycerin 1 mg/ml 1 mg bolus IV var 3:e min
 
 Color/<#a5715a><Infusion:>
 InternalLink/<• Nitroglycerin infusion><sprutpump doser>
